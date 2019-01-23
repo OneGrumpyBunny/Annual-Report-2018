@@ -1,5 +1,5 @@
-<html>
-    <body>
-        <? echo "PHP is working!"; ?>
-    </body>
-</html>
+<?php
+
+	echo "<p id='dolly'>Hello!</p>";
+?>
+
