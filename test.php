@@ -1,5 +1,5 @@
 <?php
 
-	echo "<p id='dolly'>Hello!</p>";
+	echo "<p id='dolly'>Testing PHP!</p>";
 ?>
 
