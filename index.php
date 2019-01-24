@@ -10,7 +10,7 @@ ini_set('display_errors', 1);
 include 'config.php';
 
 include $globals["INCL_DIR"].'header.php';
-include 'content.php';
+include '/content.php';
 include $globals["INCL_DIR"].'footer.php';
 	
 ?>

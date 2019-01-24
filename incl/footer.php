@@ -1,3 +1,3 @@
-<?php $conn->close();?>
+<?php session_destroy();?>
 </body>
 </html>
