@@ -29,6 +29,7 @@
 
     <link rel='stylesheet' href='<?php $globals["CSS_DIR"]?>'/normalize.css' type='text/css' media='all' />
     <link rel='stylesheet' href='<?php $globals["CSS_DIR"]?>'/grid.css' type='text/css' media='all' />
+    <link rel='stylesheet' href='<?php $globals["CSS_DIR"]?>'/styles.css' type='text/css' media='all' />
     <script type='text/javascript' src='<?php $globals["JS_DIR"]?>'/jquery.min.js'></script>
 
 </head>

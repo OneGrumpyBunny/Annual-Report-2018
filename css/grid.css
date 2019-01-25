@@ -23,27 +23,14 @@
 
 /* Small screens and above (default) */
 
-html {
-    font-size: 90%;
-}
-
-body {
-    background-color: #ddd;
-    color: #454546;
-    /*font-family: 'Open Sans', sans-serif;*/
-    /*font-family: 'Roboto', sans-serif;*/
-}
-
-
 .container {
-    margin: 106px auto 0 auto;
-    /*max-width: 74rem;
-    width: 90%;*/
+    
 }
 
 .column {
     padding: 0;
-    max-width: 1500px;
+    /*max-width: 1500px;
+    height: 100vh;*/
 }
 
 .column.four {
@@ -63,9 +50,9 @@ body {
 /* Medium screens and above */
 
 @media (min-width: 40rem) {
-    /*.column {
+    .column {
         float: left;
-    } */
+    } 
     .column.twelve {
         width: 100%;
     }
@@ -73,7 +60,8 @@ body {
         width: 91.66%;
     }
     .column.ten {
-        width: 83.33%;
+        /*width: 83.33%;*/
+        flex: 1 1 80%;
     }
     .column.nine {
         width: 75%;
@@ -98,7 +86,8 @@ body {
         width: 25%;
     }
     .column.two {
-        width: 16.66%;
+        /*width: 16.66%;*/
+        flex: 1 1 20%;
     }
     .column.one {
         width: 8.33%;

@@ -1,0 +1,189 @@
+/* CUSTOM CSS FOR MSCFE.ORG */
+
+/* default is mobile view - 375px */
+
+/* colors:
+    
+*/
+
+/*  font is Myriad Pro
+    light = font-style: normal;
+            font-weight: 300;
+
+    regular = font-style: normal;
+              font-weight: 400;
+
+    semibold = font-style: normal;
+               font-weight: 600;
+    
+    bold = font-style: normal;
+           font-weight: 700;
+*/
+
+/* font sizes:
+    base font = 24px
+    XS Conversions:
+        24pt = 1.3rem;
+        30pt = 1.6rem;
+        40pt = 4.2rem;
+        300pt = 16.6rem;
+        165pt = 9.1rem;
+        100pt = 5.5rem;
+
+/* XD letter spacing: 
+    100 = letter-spacing: 10.0;
+*/
+
+/* XD font size pt to px conversion tool:
+    https://websemantics.uk/tools/convert-pixel-point-em-rem-percent/
+*/
+
+body {
+    margin: 0;
+    background-color:#111D2B;
+    font-size: 24px;
+  }
+
+a { 
+    text-decoration:none;
+    color: #FFC629;
+    opacity:.8;
+}
+a.active {
+	opacity:1;
+}
+
+a:hover{
+    opacity:1;
+}
+
+
+section {
+    position:absolute;
+    height:100vh;
+    width:100vw;
+}
+
+h1, h2, h3, h4, p, a {
+    font-style:normal;
+    
+}
+.container {
+    max-width: 1440px;
+    display: flex;
+    width:100vw;
+    margin: 0 auto;
+}
+
+.flex {
+    display: flex;
+    align-items: center;
+}
+
+.stretch_it{
+    white-space: nowrap;
+}
+.justify{
+    text-align:justify;
+}
+
+/* smallest viewport */
+
+/* landing page */
+.landingPage {
+    text-align: center;
+    width: 100%;
+}
+
+.logo {
+    position: absolute;
+    top: 2%;
+    left: 2%;
+}
+
+.landingPage {
+    width: 90%;
+    margin: 0 auto;
+}
+
+.landingPage > h1 {
+    color: #226AA0;
+    font-size: calc(24px + (500 - 24) * ((100vw - 300px) / (1600 - 300)));
+    font-weight: 300;
+    white-space: nowrap;
+    margin: 0;
+}
+
+.landingPage > h2 {
+    color: #FFFFFF;
+    font-size: calc(24px + (165 - 24) * ((100vw - 300px) / (1600 - 300)));
+    font-weight: 300;
+    margin: -1rem 0 0 0;
+    white-space: nowrap;
+}
+
+.landingPage > h3 {  
+    color: #FFFFFF;
+    font-size: calc(24px + (60 - 24) * ((100vw - 300px) / (1600 - 300)));
+    font-weight: 300;
+    margin: 0rem 0 0 0;
+    white-space: nowrap;
+}
+
+/* nav */
+
+.navContainer {
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+
+
+.navBox {
+    font-size: 1.6rem;
+    min-width: 292px;
+    display:flex;
+}
+
+.insideBox3 p {
+    width:90%;
+}
+.navBox {
+    flex: 1 0 18%;
+    border: 1px solid #707070;
+    color: #ffffff;
+    font-weight: 400;
+    font-size: 1.6rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    background-size: cover;
+    min-width: 292px;
+    background-color:#111D2B;
+    white-space:nowrap;
+    
+    margin: 5px 0;
+}
+.navBox:nth-child(1) {
+    background-image:url('../img/nav_about.png');
+    opacity:1; /*0.2;*/
+}
+.navBox:nth-child(2) {
+    background-image:url('../img/nav_health.png');
+    opacity:1; /*0.2;*/
+}
+.navBox:nth-child(3) {
+    background-image:url('../img/nav_safe.png');
+    opacity:1; /*0.2;*/
+}
+.navBox:nth-child(4) {
+    background-image:url('../img/nav_thrive.png');
+    opacity:1; /*0.2;*/
+}
+.navBox:nth-child(5) {
+    background-image:url('../img/nav_planet.png');
+    opacity:1; /*0.2;*/
+}
+
+

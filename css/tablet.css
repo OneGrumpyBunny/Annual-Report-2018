@@ -1,0 +1,120 @@
+@media all and (min-width:350px) {
+/* landing page */
+
+.landingPage {
+    width: 70%;
+}
+
+.landingPage > h1 {
+    font-size: calc(24px + (200 - 24) * ((100vw - 200px) / (1600 - 200)));
+    /*letter-spacing: 9px;*/
+    
+}
+
+.landingPage > h2 {
+    /*letter-spacing: 19px;*/
+    font-size: calc(24px + (120 - 24) * ((100vw - 120px) / (1600 - 120)));
+    margin: -3rem 0 0 0;
+}
+
+
+.landingPage > h3 {  
+    margin: 0 0 0 1rem;
+    /*letter-spacing: 16px;*/
+    font-size: calc(24px + (50 - 24) * ((100vw - 50px) / (1600 - 50)));
+}
+
+
+.insideBox1, .insideBox2 {
+    display:flex;
+    height: 99%;
+    flex-direction: column;
+  }
+
+  .insideBox1 {
+    flex: 0 0 15px;
+  }
+  .insideBox2 {
+    border-left: 2px solid #111D2B;
+    flex: 0 0 5px;
+    border-right: 4px solid #111D2B;
+  }
+  .insideBox3 {
+    flex:1;
+    color:#fff;
+    height:100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .about:hover, .health:hover, .safe:hover, .thrive:hover, .planet:hover {
+		cursor:pointer;
+	}
+
+  /* borders inside the "about" nav box - tablet and up */
+  .about .insideBox1{ 
+    border-left: 13px solid #323B45;
+    width: 15px;
+     
+  }
+  .about .insideBox2{
+    background: rgba(48, 96, 149, .8);
+  }
+  .about .insideBox3 {
+      background:rgba(50, 59, 69, .6);
+  }
+  
+  /* borders inside the "health" nav box - tablet and up */
+  .health .insideBox1{ 
+		border-left:13px solid #2A3139;
+		width: 15px;
+  }
+  .health .insideBox2{
+      background: rgba(34, 106, 160, .8);
+  }
+  .health .insideBox3 {
+      background:rgba(42, 49, 57, .6);
+      
+	}
+  
+  /* borders inside the "safe" nav box - tablet and up */
+  .safe .insideBox1{ 
+      border-left:13px solid #3F4038;
+      width: 15px;
+  }
+  .safe .insideBox2{
+      background: rgba(120, 124, 60, .8);
+  }
+  .safe .insideBox3 {
+      background:rgba(63, 64, 56, .6);
+  }
+  
+  
+  /* borders inside the "thrive" nav box - tablet and up */
+  .thrive .insideBox1{ 
+      border-left:13px solid #3C442E;
+      width: 15px;
+  }
+  .thrive  .insideBox2{
+      background: rgba(99, 140, 28, .8);
+  }
+  .thrive .insideBox3 {
+      background:rgba(60, 68, 46, .6);
+  }
+  
+  /* borders inside the "planet" nav box - tablet and up */
+  .planet .insideBox1{ 
+      border-left:13px solid #584D31;
+      width: 15px;
+  }
+  .planet .insideBox2{
+      background: rgba(255, 198, 41, .8);
+  }
+  .planet .insideBox3 {
+      background:rgba(88, 77, 49, .6);
+  }
+  .navBoxOverlay {
+      
+  }
+}

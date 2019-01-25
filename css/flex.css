@@ -1,0 +1,51 @@
+*,
+*:before,
+*:after {
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+.clearfix:before,
+.clearfix:after {
+    content: " ";
+    display: table;
+}
+
+.clearfix:after {
+    clear: both;
+}
+
+.clearfix {
+    *zoom: 1;
+}
+
+
+/* Small screens and above (default) */
+
+.container {
+    
+}
+
+.column {
+    padding: 0;
+    /*max-width: 1500px;
+    height: 100vh;*/
+}
+
+/* Medium screens and above */
+
+@media (min-width: 40rem) {
+    .column {
+        /*float: left;*/
+    } 
+   
+    .column.ten {
+        /*width: 83.33%;*/
+        flex: 1 1 80%;
+    }    
+    .column.two {
+        /*width: 16.66%;*/
+        flex: 1 1 20%;
+    }
+}
