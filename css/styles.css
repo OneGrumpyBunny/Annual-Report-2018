@@ -147,6 +147,7 @@ h1, h2, h3, h4, p, a {
 
 .insideBox3 p {
     width:90%;
+    opacity:0.9;
 }
 .navBox {
     flex: 1 0 18%;
