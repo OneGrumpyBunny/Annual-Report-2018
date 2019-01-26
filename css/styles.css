@@ -42,6 +42,7 @@ body {
     margin: 0;
     background-color:#111D2B;
     font-size: 24px;
+    background:url("../img/background.png");
   }
 
 a { 
@@ -168,23 +169,23 @@ h1, h2, h3, h4, p, a {
 }
 .navBox:nth-child(1) {
     background-image:url('../img/nav_about.png');
-    opacity:1; /*0.2;*/
+    opacity:0.9;
 }
 .navBox:nth-child(2) {
     background-image:url('../img/nav_health.png');
-    opacity:1; /*0.2;*/
+    opacity:0.9;
 }
 .navBox:nth-child(3) {
     background-image:url('../img/nav_safe.png');
-    opacity:1; /*0.2;*/
+    opacity:0.9;
 }
 .navBox:nth-child(4) {
     background-image:url('../img/nav_thrive.png');
-    opacity:1; /*0.2;*/
+    opacity:0.9;
 }
 .navBox:nth-child(5) {
     background-image:url('../img/nav_planet.png');
-    opacity:1; /*0.2;*/
+    opacity:0.9;
 }
 
 

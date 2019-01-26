@@ -62,7 +62,7 @@
     background: rgba(48, 96, 149, .8);
   }
   .about .insideBox3 {
-      background:rgba(50, 59, 69, .6);
+      background:rgba(50, 59, 69, .8);
   }
   
   /* borders inside the "health" nav box - tablet and up */
@@ -74,7 +74,7 @@
       background: rgba(34, 106, 160, .8);
   }
   .health .insideBox3 {
-      background:rgba(42, 49, 57, .6);
+      background:rgba(42, 49, 57, .8);
       
 	}
   
@@ -87,7 +87,7 @@
       background: rgba(120, 124, 60, .8);
   }
   .safe .insideBox3 {
-      background:rgba(63, 64, 56, .6);
+      background:rgba(63, 64, 56, .8);
   }
   
   
@@ -100,7 +100,7 @@
       background: rgba(99, 140, 28, .8);
   }
   .thrive .insideBox3 {
-      background:rgba(60, 68, 46, .6);
+      background:rgba(60, 68, 46, .8);
   }
   
   /* borders inside the "planet" nav box - tablet and up */
@@ -112,7 +112,7 @@
       background: rgba(255, 198, 41, .8);
   }
   .planet .insideBox3 {
-      background:rgba(88, 77, 49, .6);
+      background:rgba(88, 77, 49, .8);
   }
   .navBoxOverlay {
       
