@@ -8,13 +8,13 @@
     <meta description="Annual Report 2018">
     
     <link rel="stylesheet" href="https://use.typekit.net/vxh7raq.css">
-    <link rel='stylesheet' href='<?php $globals["CSS_DIR"]?>'/normalize.css' />
-    <link rel='stylesheet' href='<?php $globals["CSS_DIR"]?>'/flex.css' />
-    <link rel='stylesheet' href='<?php $globals["CSS_DIR"]?>'/styles.css' />
-	<link rel='stylesheet' href='<?php $globals["CSS_DIR"]?>'/tablet.css' />
-	<script type='text/javascript' src='<?php $globals["JS_DIR"]?>'/jquery.min.js'></script>
-	<script type='text/javascript' src='<?php $globals["JS_DIR"]?>'/stretchtext.js'></script>
-	<script type='text/javascript' src='<?php $globals["JS_DIR"]?>'/ar.js'></script>
+    <link rel='stylesheet' href='<?php $globals["CSS_DIR"]?>/normalize.css' />
+    <link rel='stylesheet' href='<?php $globals["CSS_DIR"]?>/flex.css' />
+    <link rel='stylesheet' href='<?php $globals["CSS_DIR"]?>/styles.css' />
+	<link rel='stylesheet' href='<?php $globals["CSS_DIR"]?>/tablet.css' />
+	<script type='text/javascript' src='<?php $globals["JS_DIR"]?>/jquery.min.js'></script>
+	<script type='text/javascript' src='<?php $globals["JS_DIR"]?>/stretchtext.js'></script>
+	<script type='text/javascript' src='<?php $globals["JS_DIR"]?>/ar.js'></script>
 
 </head>
 <body>
