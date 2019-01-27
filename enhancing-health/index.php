@@ -1,7 +1,6 @@
-<?php session_start();
+<?php 
 
-
-include 'config.php';
+include $globals["BASE_URL"].'config.php';
 
 include $globals["INCL_DIR"].'header.php';
 include 'content.php';
