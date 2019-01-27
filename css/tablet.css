@@ -19,7 +19,7 @@
 
 
 .landingPage > h3 {  
-    margin: 0 0 0 1rem;
+    margin: 0 0 0 0.6rem;
     /*letter-spacing: 16px;*/
     font-size: calc(24px + (50 - 24) * ((100vw - 50px) / (1600 - 50)));
 }

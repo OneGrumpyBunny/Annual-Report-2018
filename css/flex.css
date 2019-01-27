@@ -29,8 +29,6 @@
 
 .column {
     padding: 0;
-    /*max-width: 1500px;
-    height: 100vh;*/
 }
 
 /* Medium screens and above */
@@ -43,6 +41,10 @@
     .column.ten {
         /*width: 83.33%;*/
         flex: 1 1 80%;
+        
+		background: url(../img/RTI_w_1in.png);
+		background-repeat: no-repeat;
+		background-position-y: 2.5rem;
     }    
     .column.two {
         /*width: 16.66%;*/
