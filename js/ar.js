@@ -1,5 +1,5 @@
 $(window).on("load",function() {
-
+var backOn = 0;
 	if ($(".living-our-mission").is(":visible")) {
 		$("body").css("background","url('../img/living-our-mission-back.png')");
 		backOn = 1;
