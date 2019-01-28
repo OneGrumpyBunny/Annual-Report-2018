@@ -27,11 +27,25 @@ var backOn = 0;
 });
 
 $(document).ready(function() {
+		$(".about").click(function() {
+			window.location.href="living-our-mission/";
+		});
+		$(".health").click(function() {
+			window.location.href="enhancing-health/";
+		});
+		$(".safe").click(function() {
+			window.location.href="keeping-people-safe/";
+		});
+		$(".thrive").click(function() {
+			window.location.href="helping-regions-thrive-and-prosper/";
+		});
+		$(".planet").click(function() {
+			window.location.href="protecting-the-planet/";
+		});
 
     /* mouseenter actions - these will be consolidated into one function */
-    
 	
-	$(".about").mouseenter(function() {
+		$(".about").mouseenter(function() {
         $(".about .insideBox2").css("background","rgba(15, 57, 160, 1)");
         $(".about .insideBox3").css("background","rgba(15, 57, 160, .5)");
     });
