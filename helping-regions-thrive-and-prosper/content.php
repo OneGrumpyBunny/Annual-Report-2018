@@ -1,8 +1,7 @@
-<div class="container">
+
 	<div class="column ten flex">
-		<div class="thriveandprosper">
+		<div class="thrive-and-prosper">
 		</div>
 	</div>
-</div>
 	
 

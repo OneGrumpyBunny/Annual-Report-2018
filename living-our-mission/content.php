@@ -1,8 +1,8 @@
-<div class="container">
+
 	<div class="column ten flex">
-		<div class="livingourmission">
+		<div class="living-our-mission">
 		</div>
 	</div>
-</div>
+
 	
 

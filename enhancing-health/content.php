@@ -1,8 +1,7 @@
-<div class="container">
+
 	<div class="column ten flex">
-		<div class="enhancinghealth">
+		<div class="enhancing-health">
 		</div>
 	</div>
-</div>
 	
 

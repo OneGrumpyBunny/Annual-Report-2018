@@ -1,3 +1,7 @@
+$(window).on("load",function() {
+
+});
+
 $(document).ready(function() {
     /* mouseenter actions - these will be consolidated into one function */
     $(".about").mouseenter(function() {
