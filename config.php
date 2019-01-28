@@ -23,9 +23,9 @@ $globals["IMG_DIR"] = "img/";
 $globals["JS_DIR"] = "js/";
 $globals["CSS_DIR"] = "css/";*/
 
-$INCL_DIR = "/dev/incl/";
-$IMG_DIR = "/dev/img/";
-$JS_DIR = "/dev/js/";
-$CSS_DIR = "/dev/css/";
+$INCL_DIR = $BASE_URL.'incl/';
+$IMG_DIR = $BASE_URL.'img/';
+$JS_DIR = $BASE_URL.'js/';
+$CSS_DIR = $BASE_URL.'css/';
 
 ?>

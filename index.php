@@ -1,6 +1,6 @@
 <?php 
 
-include '../config.php';
+include 'config.php';
 
 include $INCL_DIR.'header.php';
 include 'content.php';
