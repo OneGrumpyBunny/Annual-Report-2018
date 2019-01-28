@@ -1,10 +1,10 @@
 <?php 
 
-include '../config.php';
+//include '../config.php';
 
-include '../incl/header.php';
+include 'http://18.207.215.79/dev/incl/header.php';
 include 'content.php';
-include '../incl/nav.php';
-include '../incl/footer.php';
+include 'http://18.207.215.79/dev/incl/nav.php';
+include 'http://18.207.215.79/dev/incl/footer.php';
 	
 ?>
