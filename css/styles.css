@@ -98,27 +98,35 @@ h1, h2, h3, h4, p, a {
 
 .home-back {
     background:url('../img/background.png');
-    background-size:cover;
+    background-position: right;
+    background-color: #111D2B;
 }
+
+
 .living-back {
     background: url('../img/living-our-mission-back.png');
-    background-size:cover;
+    background-position: right;
+    background-color: #111D2B;
 }
 .enhancing-back {
     background: url('../img/enhancing-health-back.png');
-    background-size:cover;
+    background-position: right;
+    background-color: #111D2B;
 }
 .safe-back {
     background:url('../img/keeping-people-safe-back.png');
-    background-size:cover;
+    background-position: right;
+    background-color: #111D2B;
 }
 .thrive-back {
     background: url('../img/thrive-and-prosper-back.png');
-    background-size:cover;
+    background-position: right;
+    background-color: #111D2B;
 }
 .planet-back {
     background:url('../img/protecting-the-planet-back.png');
-    background-size:cover;
+    background-position: right;
+    background-color: #111D2B;
 }
 /* smallest viewport */
 
