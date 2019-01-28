@@ -80,7 +80,7 @@
   
   /* borders inside the "safe" nav box - tablet and up */
   .safe .insideBox1{ 
-		border-left:13px solid rgba(120, 124, 60 .3);
+		border-left:13px solid rgba(120, 124, 60, .3);
   }
   .safe .insideBox2{
 		background: rgba(120, 124, 60, .9);
