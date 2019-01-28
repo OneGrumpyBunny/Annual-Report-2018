@@ -46,7 +46,8 @@ body {
     margin: 0;
     background-color:#111D2B;
     font-size: 24px;
-    background:url("../img/background.png");
+    /*background:url("../img/background.png");*/
+    background-size:cover;
   }
 
 a { 
@@ -78,6 +79,7 @@ h1, h2, h3, h4, p, a {
     display: flex;
     width:100vw;
     margin: 0 auto;
+    
 }
 
 .flex {

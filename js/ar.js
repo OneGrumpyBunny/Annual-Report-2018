@@ -1,18 +1,27 @@
 $(window).on("load",function() {
+
 	if ($(".living-our-mission").is(":visible")) {
-		$("body").css("background","url('../living-our-mission-back.png')");
+		$("body").css("background","url('../img/living-our-mission-back.png')");
+		backOn = 1;
 	}
 	if ($(".enhancing-health").is(":visible")) {
-		$("body").css("background","url('../enhancing-health-back.png')");
+		$("body").css("background","url('../img/enhancing-health-back.png')");
+		backOn = 1;
 	}
 	if ($(".keeping-people-safe").is(":visible")) {
-		$("body").css("background","url('../keeping-people-safe-back.png')");
+		$("body").css("background","url('../img/keeping-people-safe-back.png')");
+		backOn = 1;
 	}
 	if ($(".thrive-and-prosper").is(":visible")) {
-		$("body").css("background","url('../thrive-and-prosper-back.png')");
+		$("body").css("background","url('../img/thrive-and-prosper-back.png')");
+		backOn = 1;
 	}
 	if ($(".protecting-the-planet").is(":visible")) {
-		$("body").css("background","url('../protecting-the-planet-back.png')");
+		$("body").css("background","url('../img/protecting-the-planet-back.png')");
+		backOn = 1;
+	}
+	if (backOn == 0) {
+		$("body").css("background","url('../img/background.png')");
 	}
 	
 });
