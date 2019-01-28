@@ -2,10 +2,11 @@
 session_start();
 
 /*  PROD  */
-//$globals["BASE_URL"] = "http://18.207.215.79/";
+/*$globals["BASE_URL"] = "http://18.207.215.79/";*/
 
 /*  DEV  */
-$globals["BASE_URL"] = "http://18.207.215.79/dev/";
+/*$globals["BASE_URL"] = "http://18.207.215.79/dev/";*/
+$BASE_URL = "http://18.207.215.79/dev/";
 
 /* turn on error reporting */
 
@@ -17,10 +18,14 @@ ini_set('display_errors', 1);
 
 /* included directory paths */
 
-$globals["INCL_DIR"] = "incl/";
+/*$globals["INCL_DIR"] = "incl/";
 $globals["IMG_DIR"] = "img/";
 $globals["JS_DIR"] = "js/";
-$globals["CSS_DIR"] = "css/";
+$globals["CSS_DIR"] = "css/";*/
 
+$INCL_DIR = "/dev/incl/";
+$IMG_DIR = "/dev/img/";
+$JS_DIR = "/dev/js/";
+$CSS_DIR = "/dev/css/";
 
 ?>
