@@ -2,9 +2,9 @@
 
 include '../config.php';
 
-include $INCL_DIR.'header.php';
+include '../incl/header.php';
 include 'content.php';
-include $INCL_DIR.'nav.php';
-include $INCL_DIR.'footer.php';
+include '../incl/nav.php';
+include '../incl/footer.php';
 	
 ?>
