@@ -21,7 +21,7 @@ var backOn = 0;
 		backOn = 1;
 	}
 	if (backOn == 0) {
-		$("body").css("background","url('../img/background.png')");
+		$("body").css("background","url('img/background.png')");
 	}
 	
 });
