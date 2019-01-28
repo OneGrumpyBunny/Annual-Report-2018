@@ -269,8 +269,8 @@ h1, h2, h3, h4, p, a {
     opacity: 1;
 }
 
-/* enhancing health*/
-.enhancing-health {
+/* landing pages*/
+.enhancing-health, .keeping-people-safe, .thrive-and-prosper, .protecting-the-planet {
     display: flex;
     flex-direction: column;
     justify-content: space-between;
@@ -286,19 +286,54 @@ h1, h2, h3, h4, p, a {
     font-weight: 400;
     white-space:nowrap;
 }
+.keeping-people-safe h1 {
+    color: #787C3C;
+    font-size: calc(24px + (40 - 24) * ((100vw - 40px) / (1600 - 300)));
+    margin: 0;
+    font-weight: 400;
+    white-space:nowrap;
+}
+.thrive-and-prosper h1 {
+    color: #638C1C;
+    font-size: calc(24px + (40 - 24) * ((100vw - 40px) / (1600 - 300)));
+    margin: 0;
+    font-weight: 400;
+    white-space:nowrap;
+}
 
-.enhancing-health .light {
+.protecting-the-planet h1 {
+    color: #FFC629;
+    font-size: calc(24px + (40 - 24) * ((100vw - 40px) / (1600 - 300)));
+    margin: 0;
+    font-weight: 400;
+    white-space:nowrap;
+}
+
+.light {
     font-size:1.3rem;
     color: #ffffff;
 
 }
-.enhancing-health .regular {
+.regular {
     font-size:1.4rem;
     color: #ffffff;
 }
 .enhancing-health ul {
     list-style-type: none;
     border-left: 11px solid #316094;
+}
+
+.keeping-people-safe ul {
+    list-style-type: none;
+    border-left: 11px solid #787C3C;
+}
+.thrive-and-prosper ul {
+    list-style-type: none;
+    border-left: 11px solid #638C1C;
+}
+.protecting-the-planet ul {
+    list-style-type: none;
+    border-left: 11px solid #FFC629;
 }
 ul li a {
     opacity:.9;
@@ -307,7 +342,7 @@ ul li a {
 ul li a:hover {
     opacity:1;
 }
-.enhancing-health ul li {
+.enhancing-health ul li, .keeping-people-safe ul li, .thrive-and-prosper ul li, .protecting-the-planet ul li {
     font-size:1.4rem;
     font-weight:300;
     white-space:nowrap;
