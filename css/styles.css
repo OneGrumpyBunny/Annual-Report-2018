@@ -3,11 +3,11 @@
 /* default is mobile view - 375px */
 
 /* colors:
-    About: #0f39a0 - rgb(15, 57, 160)
-    Health: #316094 - rgb(49, 96, 148)
-    Safe: #787C3C - rgb(120, 124, 60)
-    Thrive: #638C1C - rgb(99, 140, 28)
-    Planet: #FFC629 - rgb(255, 198, 41)
+    About: #0f39a0 - rgba(15, 57, 160, 1)
+    Health: #316094 - rgba(49, 96, 148, 1)
+    Safe: #787C3C - rgba(120, 124, 60, 1)
+    Thrive: #638C1C - rgba(99, 140, 28, 1)
+    Planet: #FFC629 - rgba(255, 198, 41, 1)
 */
 
 /*  font is Myriad Pro
