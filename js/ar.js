@@ -29,7 +29,9 @@ var backOn = 0;
 $(document).ready(function() {
 
     /* mouseenter actions - these will be consolidated into one function */
-    $(".about").mouseenter(function() {
+    
+	
+	$(".about").mouseenter(function() {
         $(".about .insideBox2").css("background","rgba(15, 57, 160, 1)");
         $(".about .insideBox3").css("background","rgba(15, 57, 160, .5)");
     });
