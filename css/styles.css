@@ -94,6 +94,32 @@ h1, h2, h3, h4, p, a {
     text-align:justify;
 }
 
+/* page backgrounds */
+
+.home-back {
+    background:url('../img/background.png');
+    background-size:cover;
+}
+.living-back {
+    background: url('../img/living-our-mission-back.png');
+    background-size:cover;
+}
+.enhancing-back {
+    background: url('../img/enhancing-health-back.png');
+    background-size:cover;
+}
+.safe-back {
+    background:url('../img/keeping-people-safe-back.png');
+    background-size:cover;
+}
+.thrive-back {
+    background: url('../img/thrive-and-prosper-back.png');
+    background-size:cover;
+}
+.planet-back {
+    background:url('../img/protecting-the-planet-back.png');
+    background-size:cover;
+}
 /* smallest viewport */
 
 /* landing page */

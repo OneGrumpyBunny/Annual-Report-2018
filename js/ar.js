@@ -1,27 +1,27 @@
 $(window).on("load",function() {
 var backOn = 0;
 	if ($(".living-our-mission").is(":visible")) {
-		$("body").css("background","url('../img/living-our-mission-back.png')");
+		$("body").addClass("living-back");
 		backOn = 1;
 	}
 	if ($(".enhancing-health").is(":visible")) {
-		$("body").css("background","url('../img/enhancing-health-back.png')");
+		$("body").addClass("enhancing-back");
 		backOn = 1;
 	}
 	if ($(".keeping-people-safe").is(":visible")) {
-		$("body").css("background","url('../img/keeping-people-safe-back.png')");
+		$("body").addClass("safe-back");
 		backOn = 1;
 	}
 	if ($(".thrive-and-prosper").is(":visible")) {
-		$("body").css("background","url('../img/thrive-and-prosper-back.png')");
+		$("body").addClass("thrive-back");
 		backOn = 1;
 	}
 	if ($(".protecting-the-planet").is(":visible")) {
-		$("body").css("background","url('../img/protecting-the-planet-back.png')");
+		$("body").addClass("planet-back");
 		backOn = 1;
 	}
 	if (backOn == 0) {
-		$("body").css("background","url('img/background.png')");
+		$("body").addClass("home-back");
 	}
 	
 });
