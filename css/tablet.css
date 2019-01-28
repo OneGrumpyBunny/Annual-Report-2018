@@ -56,60 +56,60 @@
 
   /* borders inside the "about" nav box - tablet and up */
   .about .insideBox1{ 
-    border-left: 13px solid rgb(15, 57, 160, .2);
+    border-left: 13px solid rgb(15, 57, 160, .3);
      
   }
   .about .insideBox2{
     background: rgb(15, 57, 160, .9);
   }
   .about .insideBox3 {
-		background:rgb(15, 57, 160, .2);
+		background:rgb(15, 57, 160, .3);
   }
   
   /* borders inside the "health" nav box - tablet and up */
   .health .insideBox1{ 
-    border-left:13px solid rgba(49, 96, 148, .2);
+    border-left:13px solid rgba(49, 96, 148, .3);
   }
   .health .insideBox2{
 		background: rgba(49, 96, 148, .9);
   }
   .health .insideBox3 {
-		background:rgba(49, 96, 148, .2);
+		background:rgba(49, 96, 148, .3);
       
 	}
   
   /* borders inside the "safe" nav box - tablet and up */
   .safe .insideBox1{ 
-		border-left:13px solid rgba(120, 124, 60 .2);
+		border-left:13px solid rgba(120, 124, 60 .3);
   }
   .safe .insideBox2{
 		background: rgba(120, 124, 60, .9);
   }
   .safe .insideBox3 {
-		background:rgba(120, 124, 60, .2);
+		background:rgba(120, 124, 60, .3);
   }
   
   
   /* borders inside the "thrive" nav box - tablet and up */
   .thrive .insideBox1{ 
-		border-left:13px solid rgba(99, 140, 28, .2);
+		border-left:13px solid rgba(99, 140, 28, .3);
   }
   .thrive  .insideBox2{
 		background: rgba(99, 140, 28, .9);
   }
   .thrive .insideBox3 {
-		background:rgba(99, 140, 28, .2);
+		background:rgba(99, 140, 28, .3);
   }
   
   /* borders inside the "planet" nav box - tablet and up */
   .planet .insideBox1{ 
-		border-left:13px solid rgba(255, 198, 41, .2);
+		border-left:13px solid rgba(255, 198, 41, .3);
   }
   .planet .insideBox2{
 		background: rgba(255, 198, 41, .9);
   }
   .planet .insideBox3 {
-		background:rgba(255, 198, 41, .2);
+		background:rgba(255, 198, 41, .3);
   }
   .navBoxOverlay {
       

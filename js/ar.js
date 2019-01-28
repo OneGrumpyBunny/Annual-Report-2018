@@ -53,23 +53,23 @@ $(document).ready(function() {
     /* mouseleave actions - these will be consolidated into one function */
     $(".about").mouseleave(function() {
         $(".about .insideBox2").css("background","rgba(15, 57, 160, .9)");
-        $(".about .insideBox3").css("background","rgba(15, 57, 160, .2)");
+        $(".about .insideBox3").css("background","rgba(15, 57, 160, .3)");
     });
     $(".health").mouseleave(function() {
         $(".health .insideBox2").css("background","rgba(49, 96, 148, .9)");
-        $(".health .insideBox3").css("background","rgba(49, 96, 148, .2)");
+        $(".health .insideBox3").css("background","rgba(49, 96, 148, .3)");
     });
     $(".safe").mouseleave(function() {
         $(".safe .insideBox2").css("background","rgba(120, 124, 60, .9)");
-        $(".safe .insideBox3").css("background","rgba(120, 124, 60, .2)");
+        $(".safe .insideBox3").css("background","rgba(120, 124, 60, .3)");
     });
     $(".thrive").mouseleave(function() {
         $(".thrive .insideBox2").css("background","rgba(99, 140, 28, .9)");
-        $(".thrive .insideBox3").css("background","rgba(99, 140, 28, .2)");
+        $(".thrive .insideBox3").css("background","rgba(99, 140, 28, .3)");
     });
     $(".planet").mouseleave(function() {
         $(".planet .insideBox2").css("background","rgba(255, 198, 41, .9)");
-        $(".planet .insideBox3").css("background","rgba(255, 198, 41, .2)");
+        $(".planet .insideBox3").css("background","rgba(255, 198, 41, .3)");
     });
 
 });
