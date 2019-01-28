@@ -1,10 +1,10 @@
 <?php 
+$REL_DIR = "../";
+include $REL_DIR."config.php";
 
-//include '../config.php';
-
-include 'http://18.207.215.79/dev/incl/header.php';
-include 'content.php';
-include 'http://18.207.215.79/dev/incl/nav.php';
-include 'http://18.207.215.79/dev/incl/footer.php';
+include $REL_DIR.$INCL_DIR."header.php";
+include "content.php";
+include $REL_DIR.$INCL_DIR."nav.php";
+include $REL_DIR.$INCL_DIR."footer.php";
 	
 ?>
