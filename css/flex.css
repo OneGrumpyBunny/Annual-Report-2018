@@ -44,7 +44,11 @@
         
 		background: url(../img/RTI_w_1in.png);
 		background-repeat: no-repeat;
-		background-position-y: 2.5rem;
+        background-position-y: 2.5rem;
+        background-position-x: 3rem;
+    }
+    
+    
     }    
     .column.two {
         /*width: 16.66%;*/
