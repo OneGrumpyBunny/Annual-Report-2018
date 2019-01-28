@@ -1,5 +1,7 @@
 <?php 
 
+echo $globals["BASE_URL"].'config.php';
+echo $globals["INCL_DIR"].'header.php';
 
 include $globals["BASE_URL"].'config.php';
 
