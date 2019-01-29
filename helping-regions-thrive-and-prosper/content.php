@@ -8,7 +8,7 @@
 			<div>
 				<p class="regular">Learn more about how we are helping regions thrive and prosper:</p>
 				<ul>
-					<li><a href="">Understanding Consequences of Student Debt </a></li>
+					<li><a href="page-template.php">Understanding Consequences of Student Debt </a></li>
 					<li><a href="">Training Rwanda's NexGen Entrepreneurs</a></li>
 					<li><a href="">Improving Vocational Training in Indonesia</a></li>
 					<li><a href="">Powering Africa's Journey to Self-Reliance</a></li>

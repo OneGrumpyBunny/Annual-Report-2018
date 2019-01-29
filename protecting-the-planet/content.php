@@ -8,7 +8,7 @@
 		<div>
 			<p class="regular">Explore how we are protecting the planet through our work:</p>
 			<ul>
-				<li><a href="">Enlisting Citizen Scientists to Help Improve Air Quality</a></li>
+				<li><a href="page-template.php">Enlisting Citizen Scientists to Help Improve Air Quality</a></li>
 				<li><a href="">Reducing Greenhouse Gas Emissions in Guatemala </a></li>
 				<li><a href="">Working to Provide Clean Water in Nigeria</a></li>
 				<li><a href="">Harnessing Hydropower: A New Wave of Renewable Energy</a></li>

@@ -8,7 +8,7 @@
 			<div>
 				<p class="regular">Explore how we safeguard people and communities through our work:</p>
 				<ul>
-					<li><a href="">Training Targets Sexual Assault Investigation Improvements</a></li>
+					<li><a href="page-template.php">Training Targets Sexual Assault Investigation Improvements</a></li>
 					<li><a href="">Securing Schools</a></li>
 					<li><a href="">Studying How Radicalism Develops</a></li>
 					<li><a href="">Tackling Domestic Violence with Technology</a></li>
