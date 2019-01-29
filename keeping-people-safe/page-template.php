@@ -1,5 +1,9 @@
-<!--Envisioning a World Without Tropical Diseases-->
+<?php 
+$REL_DIR = "../";
+include $REL_DIR."config.php";
 
+include $REL_DIR.$INCL_DIR."header.php";
+?>
 <div class="column ten flex">
     <div class="keeping-people-safe-page">
         <div>
@@ -22,3 +26,8 @@
         </div>
     </div>
 </div>
+<?php
+include $REL_DIR.$INCL_DIR."nav.php";
+include $REL_DIR.$INCL_DIR."footer.php";
+	
+?>
