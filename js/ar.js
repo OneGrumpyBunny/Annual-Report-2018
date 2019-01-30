@@ -28,19 +28,19 @@ var backOn = 0;
 
 $(document).ready(function() {
 		$(".about").click(function() {
-			window.location.href="../living-our-mission/";
+			window.location.href="/dev/living-our-mission/";
 		});
 		$(".health").click(function() {
-			window.location.href="../enhancing-health/";
+			window.location.href="/dev/enhancing-health/";
 		});
 		$(".safe").click(function() {
-			window.location.href="../keeping-people-safe/";
+			window.location.href="/dev/keeping-people-safe/";
 		});
 		$(".thrive").click(function() {
-			window.location.href="../helping-regions-thrive-and-prosper/";
+			window.location.href="/dev/helping-regions-thrive-and-prosper/";
 		});
 		$(".planet").click(function() {
-			window.location.href="../protecting-the-planet/";
+			window.location.href="/dev/protecting-the-planet/";
 		});
 
     /* mouseenter actions - these will be consolidated into one function */
