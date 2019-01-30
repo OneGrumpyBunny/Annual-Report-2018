@@ -78,7 +78,7 @@ h1, h2, h3, h4, p, a {
     
 }
 .container {
-    max-width: 1600px;
+    /*max-width: 1600px;*/
     display: flex;
     width:100vw;
     margin: 0 auto;
@@ -199,6 +199,7 @@ h1, h2, h3, h4, p, a {
     display: flex;
     flex-direction: column;
     margin-right: 3rem;
+    align-items: flex-end;
 }
 
 
