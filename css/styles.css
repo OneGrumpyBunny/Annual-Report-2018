@@ -149,6 +149,11 @@ h1, h2, h3, h4, p, a {
 .landingPage {
     text-align: center;
     width: 100%;
+    transform: scale(0);
+    transition: transform 1.3s ease-in;
+}
+.landingPageAnim {
+    transform: scale(1);
 }
 
 .logo {
