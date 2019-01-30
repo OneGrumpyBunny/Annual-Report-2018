@@ -26,21 +26,22 @@ var backOn = 0;
 	
 });
 
+var relPath = "/dev"
 $(document).ready(function() {
 		$(".about").click(function() {
-			window.location.href="/dev/living-our-mission/";
+			window.location.href=relPath + "/living-our-mission/";
 		});
 		$(".health").click(function() {
-			window.location.href="/dev/enhancing-health/";
+			window.location.href=relPath + "/enhancing-health/";
 		});
 		$(".safe").click(function() {
-			window.location.href="/dev/keeping-people-safe/";
+			window.location.href=relPath + "/keeping-people-safe/";
 		});
 		$(".thrive").click(function() {
-			window.location.href="/dev/helping-regions-thrive-and-prosper/";
+			window.location.href=relPath + "/helping-regions-thrive-and-prosper/";
 		});
 		$(".planet").click(function() {
-			window.location.href="/dev/protecting-the-planet/";
+			window.location.href=relPath + "/protecting-the-planet/";
 		});
 
     /* mouseenter actions - these will be consolidated into one function */
