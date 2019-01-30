@@ -23,9 +23,8 @@ var backOn = 0;
 	if (backOn == 0) {
 		$("body").addClass("home-back");
     }
-    $(".landingPage").addClass('landingPageAnim');
-    
-    $(".navBox").addClass("navBoxAnim");
+$(".landingPage").addClass('landingPageAnim');
+	
 });
 
 var relPath = "/dev"
