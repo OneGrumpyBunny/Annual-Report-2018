@@ -10,7 +10,7 @@
 				<p class="regular">Learn more about how we are enhancing individual and family health through our work:</p>
 				<ul>
 					
-					<li><a href="page-template.php">Protecting Against HIV and Pregnancy with One Device</a></li>
+					<li><a href="protecting-against-hiv-and-pregnancy-with-one-device.php">Protecting Against HIV and Pregnancy with One Device</a></li>
 					<li><a href="">Envisioning a World Without Tropical Diseases</a></li>
 					<li><a href="">Stemming Chronic Diseases with Product Taxes?</a></li>
 					<li><a href="">Speeding Treatment Times for Heart Attacks</a></li>
