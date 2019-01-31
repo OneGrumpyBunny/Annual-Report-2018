@@ -6,6 +6,9 @@ include $REL_DIR.$INCL_DIR."header.php";
 ?>
 <div class="column ten flex">
     <div class="enhancing-health-page">
+
+        <!--- update content below this line --->
+        
         <div>
             <h1>New Multipurpose Device to Help Prevent HIV and Pregnancy </h1>
             <h2>RTI International awarded project to develop a device to help women in Africa</h2>
@@ -25,6 +28,9 @@ include $REL_DIR.$INCL_DIR."header.php";
                 <li><a href="">Holding Addiction Providers Accountable</a></li>
             </ul>
         </div>
+
+        <!--- end variable content --->
+
     </div>
 </div>
 <?php

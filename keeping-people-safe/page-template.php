@@ -6,6 +6,11 @@ include $REL_DIR.$INCL_DIR."header.php";
 ?>
 <div class="column ten flex">
     <div class="keeping-people-safe-page">
+
+    
+        <!--- update content below this line --->
+
+
         <div>
             <h1>Sexual Assault Kit Initiative<br>Training and Technical Assistance </h1>
             <h2>Preventing delays in the handling and investigation of sexual assault cases</h2>
@@ -24,6 +29,9 @@ include $REL_DIR.$INCL_DIR."header.php";
                     <li><a href="">Exploring a New Weapon in Opioid Crisis: Communication</a></li>
             </ul>
         </div>
+
+        <!--- end variable content --->
+
     </div>
 </div>
 <?php
