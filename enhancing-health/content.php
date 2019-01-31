@@ -3,10 +3,11 @@
 		<div class="enhancing-health">
 			<div>
 				<h1>Enhancing Health</h1>
-				<p class="light">Improving human health is at the core of RTI’s mission to improve the human condition. Time is of the essence for the scientists and researchers tackling these issues, and we specialize in taking real-time results and applying those to our work to combat HIV, cancer, heart disease, and opioid misuse. We imagine a world free of disease and dedicate ourselves to the intervention, prevention, and treatment necessary to save lives.</p>
+				<p class="light">Improving human health is at the core of RTI’s mission to improve the human condition. With the power of science and the expertise of practice, we are eradicating neglected tropical diseases and unleashing innovation around the prevention and treatment of epidemics like HIV and opioid abuse.</p>
+				<p class="light">Time is of the essence for the scientists and researchers tackling these issues, and we specialize in taking real-time results and applying those to our work to combat cancer, heart disease, and stroke. We imagine a world free of disease and dedicate ourselves to the intervention, prevention, and treatment necessary to save lives.</p>
 			</div>
 			<div>
-				<p class="regular">Learn more about how we are enhancing individual and family health:</p>
+				<p class="regular">Learn more about how we are enhancing individual and family health through our work:</p>
 				<ul>
 					
 					<li><a href="page-template.php">Protecting Against HIV and Pregnancy with One Device</a></li>
