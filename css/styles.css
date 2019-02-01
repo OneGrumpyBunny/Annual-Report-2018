@@ -319,21 +319,28 @@ h1, h2, h3, h4, p, a {
     font-size: calc(26px + (40 - 26) * ((100vw - 350px) / (1600 - 350)));
     margin: 0;
     font-weight: 400;
-    white-space:nowrap;
+    margin: 0 0 0.5rem 0;
+    line-height: 41px;
+    /*white-space:nowrap;*/
 }
+
 .keeping-people-safe h1 {
     color: #787C3C;
     font-size: calc(26px + (40 - 26) * ((100vw - 350px) / (1600 - 350)));
     margin: 0;
     font-weight: 400;
-    white-space:nowrap;
+    margin: 0 0 0.5rem 0;
+    line-height: 41px;
+    /*white-space:nowrap;*/
 }
 .thrive-and-prosper h1 {
     color: #638C1C;
     font-size: calc(26px + (40 - 26) * ((100vw - 350px) / (1600 - 350)));
     margin: 0;
     font-weight: 400;
-    white-space:nowrap;
+    margin: 0 0 0.5rem 0;
+    line-height: 41px;
+    /*white-space:nowrap;*/
 }
 
 .protecting-the-planet h1 {
@@ -341,7 +348,16 @@ h1, h2, h3, h4, p, a {
     font-size: calc(26px + (40 - 26) * ((100vw - 350px) / (1600 - 350)));
     margin: 0;
     font-weight: 400;
-    white-space:nowrap;
+    margin: 0 0 0.5rem 0;
+    line-height: 41px;
+    /*white-space:nowrap;*/
+}
+
+.enhancing-health h2, .keeping-people-safe h2, .thrive-and-prosper h2, .protecting-the-planet h2 {
+    color: #EFDCB0;
+    font-size: calc(18px + (20 - 18) * ((100vw - 350px) / (1600 - 350)));
+    margin: 0;
+    font-weight: 400;
 }
 
 .light {
