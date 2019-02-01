@@ -5,5 +5,5 @@
 </head>
 <body>
 <div class="container">
-<img src="../img/living-our-mission-back.png" class="sectionBack">
+<img src="test-1_HalfImages.gif" class="sectionBack">
 <div class="innerContainer" style="width:100%;">
