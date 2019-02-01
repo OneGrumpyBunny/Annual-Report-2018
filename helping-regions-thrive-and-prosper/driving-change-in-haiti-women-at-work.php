@@ -5,12 +5,8 @@ include $REL_DIR."config.php";
 include $REL_DIR.$INCL_DIR."header.php";
 ?>
 <div class="column ten flex">
-    <div class="thrive-and-prosper-page">
-
-    
+    <div class="thrive-and-prosper-page">  
         <!--- update content below this line --->
-
-
         <div>
             <h1>New Report Details Experiences of Graduates with<br>Student Loan Debt during the Great Recession</h1>
             <h2>Decisions delayed; employment choices made based on the cost of education</h2>
