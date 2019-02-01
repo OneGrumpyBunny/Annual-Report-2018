@@ -9,6 +9,7 @@ include $REL_DIR.$INCL_DIR."meta-thrive.php";
     <div class="thrive-and-prosper-page">  
         <!--- update content below this line --->
         <div>
+            <img src="../img/RTI_w_1in.png" class="logo">
             <h1>Women at Work: Meet some of the inspiring women business owners who are driving change in Haiti</h1>
             <h2>test test test</h2>
             <p class="light">In the eight years since the devastating 2010 earthquake, women in Haiti have played a critical role in rebuilding the country’s economy. They’ve done it largely on their own, by saving money and starting new businesses. Among these businesses are several “lead entities” identified by the USAID Local Enterprise and Value Chain Enhancement (LEVE) Project, an RTI-led economic development program designed to stimulate job creation in key sectors of the Haitian economy.</p>

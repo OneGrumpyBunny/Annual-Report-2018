@@ -13,6 +13,7 @@ include $REL_DIR.$INCL_DIR."meta-thrive.php";
 
 
         <div>
+            <img src="../img/RTI_w_1in.png" class="logo">
             <h1>Strategies to Promote Early Childhood Development: An Expert Interview with Katherine Merseth</h1>
             <h2>test test test</h2>
             <p class="light">Early childhood is getting a lot of attention lately, especially with the recent Lancet series reemphasizing the importance of early childhood development. The Sustainable Development Goals have endorsed the importance of early childhood development; to this end, the Lancet Early Childhood Development series looks at new scientific evidence for interventions.</p>

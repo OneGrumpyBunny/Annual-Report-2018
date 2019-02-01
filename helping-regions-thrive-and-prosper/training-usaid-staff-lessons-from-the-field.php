@@ -13,6 +13,7 @@ include $REL_DIR.$INCL_DIR."meta-thrive.php";
 
 
         <div>
+            <img src="../img/RTI_w_1in.png" class="logo">
             <h1>USAID Learning and Knowledge Management (LEARN)</h1>
             <h2>Integrating learning and adaptive management into the development community</h2>
             <p class="light">Practitioners working in international development must constantly adapt to change at all levels—from responding to unanticipated outcomes in project monitoring and evaluation data to navigating unstable political situations or natural disasters in the field. The U.S. Agency for International Development (USAID) recognizes the importance of strategic collaboration, continuous learning, and adaptive management to address ongoing change. As a result, the agency developed the Collaborating, Learning and Adapting (CLA) Framework to guide field practitioners towards the best possible development outcomes and ultimately support countries on their development journey towards self-reliance. Through the USAID Learning and Knowledge Management (LEARN) project, RTI—in close collaboration with prime contractor Dexis Consulting Group—supports USAID’s Bureau for Policy, Planning and Learning (PPL) in providing learning, knowledge management, web design, and event planning expertise to develop CLA tools and approaches and provide demand-driven technical assistance to over 60 missions worldwide and 12 operating units based in Washington, D.C.</p>
