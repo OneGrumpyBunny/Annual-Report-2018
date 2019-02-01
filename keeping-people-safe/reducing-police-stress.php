@@ -13,10 +13,11 @@ include $REL_DIR.$INCL_DIR."meta-safe.php";
 
 
         <div>
-            <h1>Sexual Assault Kit Initiative<br>Training and Technical Assistance </h1>
-            <h2>Preventing delays in the handling and investigation of sexual assault cases</h2>
-            <p class="light">In a nationally representative survey of state and local law enforcement agencies conducted by RTI for the National Institute of Justice, 18 percent of unsolved sexual assault cases from 2003 through 2007 had forensic evidence that was not submitted to a crime laboratory for analysis. Unsubmitted sexual assault kits create delays in the justice system and, in some instances, deny justice to sexual assault survivors. </p>
-            <p class="readmore"><a href="" target="_blank">READ MORE</a></p>
+            <h1>Stress Reduction Programs for Police Officers: What Needs to Change</h1>
+            <h2>Help for officers dealing with on-the-job stress could ultimately improve relationships between law enforcement agencies and their communities</h2>
+            <p class="light">It’s no surprise that law enforcement is a high-risk, high-stress occupation. Exposure to violence and human suffering, as well aspects of the job itself, such as physical work demands and nonstandard schedules, are just a few of the stressors officers face every day. While these demands do not inevitably lead to negative outcomes, they can lead to stress, anxiety, and resulting health problems if officers lack sufficient support and resources.</p>
+            <p class="light">Police work can have negative effects on officers’ physical health, mental health, and work/life issues, such as work/family conflict and problems in relationships. For law enforcement agencies, officer stress manifests as increased absenteeism, turnover, and declines in performance, including slower reaction time, poorer decision-making ability, and increases in complaints, policy violations, and misconduct allegations. Over time, stress can impact officers’ ability to protect the communities they serve, and can lead to increased tension between officers and community members.</p>
+            <p class="readmore"><a href="https://www.rti.org/insights/stress-reduction-programs-police-officers-what-needs-change" target="_blank">READ MORE</a></p>
         </div>
         <div>
 				<p class="regular">Explore how we safeguard people and communities through our work:</p>

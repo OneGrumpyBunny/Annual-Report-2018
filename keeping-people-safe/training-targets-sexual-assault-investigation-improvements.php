@@ -13,10 +13,11 @@ include $REL_DIR.$INCL_DIR."meta-safe.php";
 
 
         <div>
-            <h1>Sexual Assault Kit Initiative<br>Training and Technical Assistance </h1>
+            <h1>Sexual Assault Kit Initiative (SAKI) Training and Technical Assistance (TTA)</h1>
             <h2>Preventing delays in the handling and investigation of sexual assault cases</h2>
-            <p class="light">In a nationally representative survey of state and local law enforcement agencies conducted by RTI for the National Institute of Justice, 18 percent of unsolved sexual assault cases from 2003 through 2007 had forensic evidence that was not submitted to a crime laboratory for analysis. Unsubmitted sexual assault kits create delays in the justice system and, in some instances, deny justice to sexual assault survivors. </p>
-            <p class="readmore"><a href="" target="_blank">READ MORE</a></p>
+            <p class="light">In a nationally representative survey of state and local law enforcement agencies conducted by RTI International for the National Institute of Justice, 18 percent of unsolved sexual assault cases from 2003 through 2007 had forensic evidence that was not submitted to a crime laboratory for analysis. Unsubmitted sexual assault kits (SAKs) create delays in the justice system and, in some instances, deny justice to sexual assault survivors.</p>
+			<p class="light">Research has shown that communities with large numbers of unsubmitted SAKs struggle to address systemic challenges. These challenges include having a limited understanding of the value of forensic evidence, lacking policies for evidence submission and analysis, and having weak interorganizational collaborations for victim-centered post-assault services. To address these challenges, solutions must not only promote cross-agency collaboration and training but also build information systems that help optimize forensic science resources and ensure accountability.</p>
+            <p class="readmore"><a href="https://www.rti.org/impact/sexual-assault-kit-initiative-saki-training-and-technical-assistance-tta" target="_blank">READ MORE</a></p>
         </div>
 		<div>
 			<p class="regular">Explore how we safeguard people and communities through our work:</p>

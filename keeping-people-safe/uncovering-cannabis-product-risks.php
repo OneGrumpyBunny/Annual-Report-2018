@@ -13,10 +13,11 @@ include $REL_DIR.$INCL_DIR."meta-safe.php";
 
 
         <div>
-            <h1>Sexual Assault Kit Initiative<br>Training and Technical Assistance </h1>
-            <h2>Preventing delays in the handling and investigation of sexual assault cases</h2>
-            <p class="light">In a nationally representative survey of state and local law enforcement agencies conducted by RTI for the National Institute of Justice, 18 percent of unsolved sexual assault cases from 2003 through 2007 had forensic evidence that was not submitted to a crime laboratory for analysis. Unsubmitted sexual assault kits create delays in the justice system and, in some instances, deny justice to sexual assault survivors. </p>
-            <p class="readmore"><a href="" target="_blank">READ MORE</a></p>
+            <h1>New study points to risks from mislabeled unregulated cannabidiol products</h1>
+            <h2>Study findings highlight need for manufacturing and testing standards and federal government oversight</h2>
+            <p class="light">Growing consumer demand for cannabis-related products purported to have medicinal benefits has created an environment where people are using mislabeled cannabidiol (CBD) products sold online. While medicinal marijuana is legal in several states and the District of Columbia, it remains illegal under federal law. Therefore, it and related products such as CBD do not receive quality assurance oversight from the U.S. Food and Drug Administration. As a result, the oils, tinctures, and vaporization liquids offered online have varying levels of CBD, and listings of ingredients on the labels are unreliable.</p>
+			<p class="light">A new study from the University of Pennsylvania Perelman School of Medicine authored by Marcel Bonn-Miller, PhD and co-authored by RTI International’s Brian F. Thomas, Ph.D., and others, published this week in JAMA, found labeling inaccuracies in nearly 70 percent of CBD products obtained online. The study notes a continued need for federal and state regulatory agencies to take steps to ensure label accuracy.</p>
+            <p class="readmore"><a href="https://www.rti.org/news/new-study-points-risks-mislabeled-unregulated-cannabidiol-products" target="_blank">READ MORE</a></p>
         </div>
 		<div>
 				<p class="regular">Explore how we safeguard people and communities through our work:</p>
