@@ -13,6 +13,7 @@ include $REL_DIR.$INCL_DIR."meta-safe.php";
 
 
         <div>
+		<img src="../img/RTI_w_1in.png" class="logo">
             <h1>School Safety Studies</h1>
             <h2>Helping schools prevent and respond to incidents of violence</h2>
             <p class="light">Since the 1999 tragedy at Columbine High School, hundreds of American children have been killed or injured in school shootings. More than 150,000 students from 170 schools have experienced an on-campus shooting during primary or secondary school. And millions of Americans now share feelings of worry and fear as they come to view schools as vulnerable targets instead of safe havens for children and teachers.</p>

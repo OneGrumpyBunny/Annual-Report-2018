@@ -13,6 +13,7 @@ include $REL_DIR.$INCL_DIR."meta-safe.php";
 
 
         <div>
+		<img src="../img/RTI_w_1in.png" class="logo">
             <h1>Stress Reduction Programs for Police Officers: What Needs to Change</h1>
             <h2>Help for officers dealing with on-the-job stress could ultimately improve relationships between law enforcement agencies and their communities</h2>
             <p class="light">It’s no surprise that law enforcement is a high-risk, high-stress occupation. Exposure to violence and human suffering, as well aspects of the job itself, such as physical work demands and nonstandard schedules, are just a few of the stressors officers face every day. While these demands do not inevitably lead to negative outcomes, they can lead to stress, anxiety, and resulting health problems if officers lack sufficient support and resources.</p>

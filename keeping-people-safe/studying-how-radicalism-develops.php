@@ -13,6 +13,7 @@ include $REL_DIR.$INCL_DIR."meta-safe.php";
 
 
         <div>
+		<img src="../img/RTI_w_1in.png" class="logo">
             <h1>Addicted to Hate: Understanding the Motives of Former White Supremacists</h1>
             <h2>Making the transition from disengagement to deradicalization</h2>
             <p class="light">Since the election of President Barack Obama, white supremacy groups have been increasingly active and visible in the United States. The most notorious example of this trend may be the “Unite the Right” rally in Charlottesville in August of 2017, in which neo-Nazis, neo-Confederates, and members of various militia groups marched with provocative signs and banners and chanted racist and anti-Semitic slogans. The Charlottesville rally (and the concurrent reaction by anti-fascist activists, or “AntiFa”) brought white supremacy back into the national conversation, and served as an unfortunate advertisement for a vile cause.</p>
