@@ -24,6 +24,8 @@
            font-weight: 700;
 */
 
+/* variable font size calculation */
+/* calc([minimum size] + ([maximum size] - [minimum size]) * ((100vw - [minimum viewport width]) / ([maximum viewport width] - [minimum viewport width]))); */
 /* font sizes:
     base font = 24px
     XS Conversions:
@@ -44,9 +46,9 @@
 
 body {
     margin: 0;
-    background-color:#111D2B;
+    background-color:#0c111c;
     font-size: 24px;
-    /*background:url("../img/background.png");*/
+    /*background:url('../img/background.png');*/
     background-size:cover;
   }
 
@@ -78,16 +80,39 @@ h1, h2, h3, h4, p, a {
     
 }
 .container {
-    /*max-width: 1600px;*/
-    display: flex;
-    width:100vw;
+    /*display: flex;
+    width:100vw;   
+    background-position: bottom right;
+    background-repeat: no-repeat;
+    background-size: cover;*/
+    max-width:1600px;
     margin: 0 auto;
     
 }
 
-.flex {
+.sectionBack {
+    margin: 0 auto; 
+    max-width: 1600px;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+}
+
+.innerContainer {
     display: flex;
+    position: absolute;
+    max-width: 1600px;
+}
+
+.flex {
+    /*display: flex;
     align-items: center;
+    width: 83.33%;
+    
+    background: url(../img/RTI_w_1in.png);
+    background-repeat: no-repeat;
+    background-position-y: 2.5rem;
+    background-position-x: 3rem; */
 }
 
 .stretch_it{
@@ -114,35 +139,35 @@ h1, h2, h3, h4, p, a {
 .home-back {
     background:url('../img/background.png');
     background-position: right;
-    background-color: #111D2B;
 }
 
 
 .living-back {
     background: url('../img/living-our-mission-back.png');
-    background-position: center;
-    background-color: #111D2B;
+    background-position: bottom right;
+    background-repeat: no-repeat;
 }
 .enhancing-back {
-    background: url('../img/enhancing-health-back.png');
-    background-position: right;
-    background-color: #111D2B;
+   /* background: url('../img/enhancing-health-back.png');
+    background-position: bottom right;
+    background-repeat: no-repeat;*/
 }
 .safe-back {
     background:url('../img/keeping-people-safe-back.png');
-    background-position: right;
-    background-color: #111D2B;
+    background-position: bottom right;
+    background-repeat: no-repeat;
 }
 .thrive-back {
     background: url('../img/thrive-and-prosper-back.png');
-    background-position: right;
-    background-color: #111D2B;
+    background-position: bottom right;
+    background-repeat: no-repeat;
 }
 .planet-back {
     background:url('../img/protecting-the-planet-back.png');
-    background-position: right;
-    background-color: #111D2B;
+    background-position: bottom right;
+    background-repeat: no-repeat;
 }
+
 /* smallest viewport */
 
 /* landing page */
@@ -158,9 +183,9 @@ h1, h2, h3, h4, p, a {
 
 .logo {
     position: absolute;
-    top: 2%;
-    left: 2%;
-    max-width:200px;
+    max-width: 200px;
+    top: 30px;
+    width: 12%;
 }
 
 .landingPage {
@@ -198,7 +223,7 @@ h1, h2, h3, h4, p, a {
     height: 100vh;
     display: flex;
     flex-direction: column;
-    margin-right: 3rem;
+    /*margin-right: 3rem;*/
     align-items: flex-end;
 }
 
@@ -290,21 +315,21 @@ h1, h2, h3, h4, p, a {
 }
 .enhancing-health h1  {
     color: #316094;
-    font-size: calc(24px + (40 - 24) * ((100vw - 40px) / (1600 - 300)));
+    font-size: calc(26px + (40 - 26) * ((100vw - 350px) / (1600 - 350)));
     margin: 0;
     font-weight: 400;
     white-space:nowrap;
 }
 .keeping-people-safe h1 {
     color: #787C3C;
-    font-size: calc(24px + (40 - 24) * ((100vw - 40px) / (1600 - 300)));
+    font-size: calc(26px + (40 - 26) * ((100vw - 350px) / (1600 - 350)));
     margin: 0;
     font-weight: 400;
     white-space:nowrap;
 }
 .thrive-and-prosper h1 {
     color: #638C1C;
-    font-size: calc(24px + (40 - 24) * ((100vw - 40px) / (1600 - 300)));
+    font-size: calc(26px + (40 - 26) * ((100vw - 350px) / (1600 - 350)));
     margin: 0;
     font-weight: 400;
     white-space:nowrap;
@@ -312,19 +337,20 @@ h1, h2, h3, h4, p, a {
 
 .protecting-the-planet h1 {
     color: #FFC629;
-    font-size: calc(24px + (40 - 24) * ((100vw - 40px) / (1600 - 300)));
+    font-size: calc(26px + (40 - 26) * ((100vw - 350px) / (1600 - 350)));
     margin: 0;
     font-weight: 400;
     white-space:nowrap;
 }
 
 .light {
-    font-size:1.3rem;
+    /*font-size:1.3rem;*/
+    font-size:calc(14px + (20 - 14) * ((100vw - 350px) / (1600 - 350)));
     color: #ffffff;
 
 }
 .regular {
-    font-size:1.4rem;
+    font-size:calc(14px + (20 - 14) * ((100vw - 350px) / (1600 - 350)));
     color: #ffffff;
 }
 .enhancing-health ul, .enhancing-health-page ul {
@@ -352,12 +378,14 @@ ul li a:hover {
     opacity:1;
 }
 .enhancing-health ul li, .keeping-people-safe ul li, .thrive-and-prosper ul li, .protecting-the-planet ul li {
-    font-size:1.4rem;
+    /*font-size:1.4rem;*/
+    font-size: calc(14px + (20 - 14) * ((100vw - 350px) / (1600 - 350)));
     font-weight:300;
     white-space:nowrap;
 }
 .enhancing-health-page ul li, .keeping-people-safe-page ul li, .thrive-and-prosper-page ul li, .protecting-the-planet-page ul li {
-    font-size:1.4rem;
+    /*font-size:1.4rem;*/
+    font-size: calc(14px + (20 - 14) * ((100vw - 350px) / (1600 - 350)));
     font-weight:300;
     white-space:nowrap;
 }
@@ -368,13 +396,13 @@ ul li a:hover {
     margin: 0;
     font-weight: 400;
     white-space:nowrap;
-    font-size: calc(24px + (35 - 24) * ((100vw - 35px) / (1600 - 300)));
+    font-size: calc(26px + (35 - 26) * ((100vw - 350px) / (1600 - 350)));
 }
 .enhancing-health-page h2, .keeping-people-safe-page h2, .thrive-and-prosper-page h2, .protecting-the-planet-page h2 {
     color:#EFDCB0;
     margin:0;
     font-weight: 400;
-    font-size: calc(24px + (25 - 24) * ((100vw - 25px) / (1600 - 300)));
+    font-size: calc(26px + (25 - 26) * ((100vw - 350px) / (1600 - 350)));
 }
 
 .enhancing-health-page p, .keeping-people-safe-page p, .thrive-and-prosper-page p, .protecting-the-planet-page p {
