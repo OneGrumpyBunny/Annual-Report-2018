@@ -7,10 +7,12 @@ include $REL_DIR.$INCL_DIR."meta-health.php";
 ?>
 <div class="column ten flex">
     <div class="enhancing-health-page">
+        
 
         <!--- update content below this line --->
         
         <div>
+            <img src="../img/RTI_w_1in.png" class="logo">
             <h1>LuzonHealth – Integrated Maternal, Neonatal, Child Health and Nutrition/Family Planning in the Philippines</h1>
             <h2>Strengthening local health policies and systems to increase service utilization and improve health outcomes for Filipino families</h2>
             <p class="light">In Luzon, the largest and most populous island in the Philippines, trends in family planning stagnated or, for some methods, even declined over a five-year period beginning in 2008. The island also faced increasing numbers of teenage pregnancies and low rates of exclusive breastfeeding. Across Luzon’s regions and provinces, the rate of births attended by a skilled health provider varied, as did the rate of births taking place in health facilities.</p>

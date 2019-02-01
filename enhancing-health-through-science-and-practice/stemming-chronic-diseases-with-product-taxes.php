@@ -5,12 +5,15 @@ include $REL_DIR."config.php";
 include $REL_DIR.$INCL_DIR."header.php";
 include $REL_DIR.$INCL_DIR."meta-health.php";
 ?>
+
 <div class="column ten flex">
     <div class="enhancing-health-page">
+        
 
         <!--- update content below this line --->
         
         <div>
+            <img src="../img/RTI_w_1in.png" class="logo">
             <h1>New multipurpose device to help prevent HIV and pregnancy</h1>
             <h2>Test Test Test</h2>
             <p class="light">Taxes on soft drinks, alcohol and tobacco are a powerful response to rising rates of non-communicable diseases (NCDs) worldwide, according to the most comprehensive analysis to date of evidence on expenditure, behaviour and socio-economic status, published in The Lancet.</p>

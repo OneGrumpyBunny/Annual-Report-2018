@@ -7,10 +7,12 @@ include $REL_DIR.$INCL_DIR."meta-health.php";
 ?>
 <div class="column ten flex">
     <div class="enhancing-health-page">
+        
 
         <!--- update content below this line --->
         
         <div>
+            <img src="../img/RTI_w_1in.png" class="logo">
             <h1>Reaching National Goals on HIV Incidence</h1>
             <h2>Cupcake ipsum dolor.</h2>
             <p class="light">Sit amet caramels I love gingerbread I love gingerbread tiramisu. Cake jelly topping brownie gingerbread. Dessert jelly-o marzipan gummies caramels bear claw fruitcake. Halvah I love cake chupa chups wafer soufflé bonbon fruitcake ice cream. Topping sweet roll carrot cake pudding sweet dragée. Cake fruitcake I love. I love croissant liquorice marshmallow jelly-o I love. Lollipop pastry jelly sesame snaps. I love carrot cake jelly biscuit tiramisu chocolate bar. Cotton candy ice cream pudding. Topping tootsie roll powder soufflé oat cake marshmallow marshmallow gummies. Cookie I love apple pie cupcake sweet roll cookie. Cupcake bonbon soufflé I love gingerbread sesame snaps jelly beans marshmallow.</p>

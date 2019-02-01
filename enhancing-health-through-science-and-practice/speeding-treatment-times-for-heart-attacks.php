@@ -5,12 +5,15 @@ include $REL_DIR."config.php";
 include $REL_DIR.$INCL_DIR."header.php";
 include $REL_DIR.$INCL_DIR."meta-health.php";
 ?>
+
 <div class="column ten flex">
     <div class="enhancing-health-page">
+        
 
         <!--- update content below this line --->
         
         <div>
+            <img src="../img/RTI_w_1in.png" class="logo">
             <h1>The HeartRescue Global Project</h1>
             <h2>Speeding the time to treatment for severe heart attacks</h2>
             <p class="light">In the wake of a severe heart attack, also known as an ST-elevation myocardial infarction (STEMI), receiving effective treatment within several hours is crucial to reduce muscular damage and the risk of death. Effective treatment requires reperfusion (opening the blocked artery) using either thrombolytic medications or a more expensive (and more effective) percutaneous coronary intervention (PCI) performed in a cardiac catheterization laboratory. <!-- Given the need for rapid treatment, a few factors can mean the difference between life, death, and long-term disability:

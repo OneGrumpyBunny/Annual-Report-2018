@@ -5,12 +5,15 @@ include $REL_DIR."config.php";
 include $REL_DIR.$INCL_DIR."header.php";
 include $REL_DIR.$INCL_DIR."meta-health.php";
 ?>
+
 <div class="column ten flex">
     <div class="enhancing-health-page">
+        
 
         <!--- update content below this line --->
         
         <div>
+            <img src="../img/RTI_w_1in.png" class="logo">
             <h1>Integrating HIV Services within Opioid Treatment in Tanzania</h1>
             <h2>Improving access to HIV treatment for people who use opioids</h2>
             <p class="light">The HIV prevalence among people who inject drugs (PWID) in Dar es Salaam, Tanzania, is 42 percent, compared to 7 percent in the general population. In 2011, an opioid treatment program using methadone was established to reduce HIV transmission among this community. Enrollment of PWID into the program surged, but linking and sustaining HIV-positive, eligible patients in antiretroviral therapy faced many obstacles. Since 2014, we have been leading an implementation science initiative to design an innovative strategy for the National Institutes of Health to improve access to HIV treatment among opioid treatment patients in Tanzania.</p>

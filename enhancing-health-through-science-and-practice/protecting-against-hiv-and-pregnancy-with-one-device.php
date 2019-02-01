@@ -5,12 +5,15 @@ include $REL_DIR."config.php";
 include $REL_DIR.$INCL_DIR."header.php";
 include $REL_DIR.$INCL_DIR."meta-health.php";
 ?>
+
 <div class="column ten flex">
     <div class="enhancing-health-page">
+        
 
         <!--- update content below this line --->
         
         <div>
+            <img src="../img/RTI_w_1in.png" class="logo">
             <h1>New multipurpose device to help prevent HIV and pregnancy</h1>
             <h2>RTI International awarded project to develop a device to help women in Africa</h2>
             <p class="light">In sub-Saharan Africa, women have among the highest fertility rates in the world. Unfortunately, they are also disproportionately at risk for HIV, a leading cause of illness and death among women of reproductive age.</p>
