@@ -3,6 +3,7 @@ $REL_DIR = "../";
 include $REL_DIR."config.php";
 
 include $REL_DIR.$INCL_DIR."header.php";
+include $REL_DIR.$INCL_DIR."meta-safe.php";
 ?>
 <div class="column ten flex">
     <div class="keeping-people-safe-page">

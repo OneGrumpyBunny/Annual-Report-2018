@@ -3,6 +3,7 @@ $REL_DIR = "../";
 include $REL_DIR."config.php";
 
 include $REL_DIR.$INCL_DIR."header.php";
+include $REL_DIR.$INCL_DIR."meta-thrive.php";
 ?>
 <div class="column ten flex">
     <div class="thrive-and-prosper-page">
