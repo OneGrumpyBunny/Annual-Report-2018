@@ -10,10 +10,10 @@ include $REL_DIR.$INCL_DIR."header.php";
         <!--- update content below this line --->
         
         <div>
-            <h1>New Multipurpose Device to Help Prevent HIV and Pregnancy </h1>
-            <h2>RTI International awarded project to develop a device to help women in Africa</h2>
-            <p class="light">To help empower women in low- and middle-income countries and improve their health, the U.S. Agency for International Development, through the U.S. President’s Emergency Plan for AIDS Relief (PEPFAR), awarded RTI a $4.8 million cooperative agreement to develop a dual-purpose drug delivery device for both HIV and pregnancy prevention that can be successfully used in these settings.</p>
-            <p class="readmore"><a href="" target="_blank">READ MORE</a></p>
+            <h1>Integrating HIV Services within Opioid Treatment in Tanzania</h1>
+            <h2>Improving access to HIV treatment for people who use opioids</h2>
+            <p class="light">The HIV prevalence among people who inject drugs (PWID) in Dar es Salaam, Tanzania, is 42 percent, compared to 7 percent in the general population. In 2011, an opioid treatment program using methadone was established to reduce HIV transmission among this community. Enrollment of PWID into the program surged, but linking and sustaining HIV-positive, eligible patients in antiretroviral therapy faced many obstacles. Since 2014, we have been leading an implementation science initiative to design an innovative strategy for the National Institutes of Health to improve access to HIV treatment among opioid treatment patients in Tanzania.</p>
+            <p class="readmore"><a href="https://www.rti.org/impact/integrating-hiv-services-within-opioid-treatment-tanzania" target="_blank">READ MORE</a></p>
         </div>
         <div>
             <p class="regular">Learn more about how we are enhancing individual and family health:</p>

@@ -10,10 +10,10 @@ include $REL_DIR.$INCL_DIR."header.php";
         <!--- update content below this line --->
         
         <div>
-            <h1>New Multipurpose Device to Help Prevent HIV and Pregnancy </h1>
-            <h2>RTI International awarded project to develop a device to help women in Africa</h2>
-            <p class="light">To help empower women in low- and middle-income countries and improve their health, the U.S. Agency for International Development, through the U.S. President’s Emergency Plan for AIDS Relief (PEPFAR), awarded RTI a $4.8 million cooperative agreement to develop a dual-purpose drug delivery device for both HIV and pregnancy prevention that can be successfully used in these settings.</p>
-            <p class="readmore"><a href="" target="_blank">READ MORE</a></p>
+            <h1>Improving Addiction Treatment With Consumer Report Cards </h1>
+            <h2>Test Test Test</h2>
+            <p class="light">The nation is responding to the opioid epidemic by pouring money and resources into increasing access to addiction treatment. But these critical expansion efforts must be accompanied by initiatives to improve accountability of addiction providers to deliver quality care. There are more than 14,000 specialty addiction treatment programs in the US. Although addiction can be treated with the same effectiveness as other chronic diseases, there is significant variability in the nature and quality of treatment services offered by these addiction providers. The major therapeutic component in virtually all these programs is group counseling, instead of a comprehensive set of treatment modalities that are consonant with evidence-based best practices. In fact, less than 20 percent of programs prescribe any of the four medications approved by the Food and Drug Administration (FDA) to treat opioid or alcohol use disorders. As a result, patients do not find available services helpful: On average, a third of patients discontinue treatment within two weeks of treatment initiation—far less than is recommended.</p>
+            <p class="readmore"><a href="https://www.rti.org/insights/improving-addiction-treatment-consumer-report-cards" target="_blank">READ MORE</a></p>
         </div>
         <div>
             <p class="regular">Learn more about how we are enhancing individual and family health:</p>

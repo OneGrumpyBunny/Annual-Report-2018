@@ -13,6 +13,7 @@ include $REL_DIR.$INCL_DIR."header.php";
             <h1>ENVISION: A World Free of Neglected Tropical Diseases</h1>
             <h2>Controlling and eliminating seven neglected tropical diseases in low-income countries around the world</h2>
             <p class="light">One-sixth of the worldwide population–more than 1 billion people—suffers from one or more neglected tropical diseases (NTDs). These diseases devastate the world’s most vulnerable populations, striking the almost exclusively poor and powerless people in rural areas and urban slums in low-income countries.</p>
+            <p class="light">Many NTDs cause severe disfigurement and disability, including blindness. NTDs come hand-in-hand with poverty because they thrive where access to clean water and sanitation is limited. These diseases, in turn, contribute to poverty because they can impair intellectual development in children, reduce school enrollment, and stymie economic productivity.</p>
             <p class="readmore"><a href="https://www.rti.org/impact/envision-world-free-neglected-tropical-diseases" target="_blank">READ MORE</a></p>
         </div>
         <div>

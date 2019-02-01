@@ -10,10 +10,10 @@ include $REL_DIR.$INCL_DIR."header.php";
         <!--- update content below this line --->
         
         <div>
-            <h1>New Multipurpose Device to Help Prevent HIV and Pregnancy </h1>
-            <h2>RTI International awarded project to develop a device to help women in Africa</h2>
-            <p class="light">To help empower women in low- and middle-income countries and improve their health, the U.S. Agency for International Development, through the U.S. President’s Emergency Plan for AIDS Relief (PEPFAR), awarded RTI a $4.8 million cooperative agreement to develop a dual-purpose drug delivery device for both HIV and pregnancy prevention that can be successfully used in these settings.</p>
-            <p class="readmore"><a href="" target="_blank">READ MORE</a></p>
+            <h1>Reaching National Goals on HIV Incidence</h1>
+            <h2>Cupcake ipsum dolor.</h2>
+            <p class="light">Sit amet caramels I love gingerbread I love gingerbread tiramisu. Cake jelly topping brownie gingerbread. Dessert jelly-o marzipan gummies caramels bear claw fruitcake. Halvah I love cake chupa chups wafer soufflé bonbon fruitcake ice cream. Topping sweet roll carrot cake pudding sweet dragée. Cake fruitcake I love. I love croissant liquorice marshmallow jelly-o I love. Lollipop pastry jelly sesame snaps. I love carrot cake jelly biscuit tiramisu chocolate bar. Cotton candy ice cream pudding. Topping tootsie roll powder soufflé oat cake marshmallow marshmallow gummies. Cookie I love apple pie cupcake sweet roll cookie. Cupcake bonbon soufflé I love gingerbread sesame snaps jelly beans marshmallow.</p>
+            <p class="readmore"><a href="https://www.rtihs.org/news-and-events/reaching-national-goals-hiv-incidence" target="_blank">READ MORE</a></p>
         </div>
         <div>
             <p class="regular">Learn more about how we are enhancing individual and family health:</p>

@@ -10,10 +10,11 @@ include $REL_DIR.$INCL_DIR."header.php";
         <!--- update content below this line --->
         
         <div>
-            <h1>New Multipurpose Device to Help Prevent HIV and Pregnancy </h1>
-            <h2>RTI International awarded project to develop a device to help women in Africa</h2>
-            <p class="light">To help empower women in low- and middle-income countries and improve their health, the U.S. Agency for International Development, through the U.S. President’s Emergency Plan for AIDS Relief (PEPFAR), awarded RTI a $4.8 million cooperative agreement to develop a dual-purpose drug delivery device for both HIV and pregnancy prevention that can be successfully used in these settings.</p>
-            <p class="readmore"><a href="" target="_blank">READ MORE</a></p>
+            <h1>LuzonHealth – Integrated Maternal, Neonatal, Child Health and Nutrition/Family Planning in the Philippines</h1>
+            <h2>Strengthening local health policies and systems to increase service utilization and improve health outcomes for Filipino families</h2>
+            <p class="light">In Luzon, the largest and most populous island in the Philippines, trends in family planning stagnated or, for some methods, even declined over a five-year period beginning in 2008. The island also faced increasing numbers of teenage pregnancies and low rates of exclusive breastfeeding. Across Luzon’s regions and provinces, the rate of births attended by a skilled health provider varied, as did the rate of births taking place in health facilities.</p>
+            <p class="light">To help address these challenges, in 2013 the U.S. Agency for International Development (USAID) launched LuzonHealth, a project that aims to improve the health of families in 14 provinces and seven cities in the Philippines by expanding their access to high-quality, integrated family planning and maternal, neonatal, child health and nutrition services (FP/MNCHN).</p>
+            <p class="readmore"><a href="https://www.rti.org/impact/luzonhealth-maternal-neonatal-child-health-nutrition-family-planning" target="_blank">READ MORE</a></p>
         </div>
         <div>
             <p class="regular">Learn more about how we are enhancing individual and family health:</p>
