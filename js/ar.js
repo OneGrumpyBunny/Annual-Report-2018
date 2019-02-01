@@ -1,5 +1,5 @@
 $(window).on("load",function() {
-var backOn = 0;
+/*var backOn = 0;
 	if ($(".living-our-mission").is(":visible")) {
 		$(".container").addClass("living-back");
 		backOn = 1;
@@ -22,10 +22,10 @@ var backOn = 0;
 	}
 	if (backOn == 0) {
 		$(".container").addClass("home-back");
-    }
-    $(".landingPage").addClass('landingPageAnim');
+    }*/
+    /*$(".landingPage").addClass('landingPageAnim');*/
     
-    $(".navBox").addClass("navBoxAnim");
+    /*$(".navBox").addClass("navBoxAnim");*/
 });
 
 var relPath = "/dev"

@@ -137,8 +137,8 @@ h1, h2, h3, h4, p, a {
 /* page backgrounds */
 
 .home-back {
-    background:url('../img/background.png');
-    background-position: right;
+   /* background:url('../img/background.png');
+    background-position: right;*/
 }
 
 
@@ -172,14 +172,14 @@ h1, h2, h3, h4, p, a {
 
 /* landing page */
 .landingPage {
-    text-align: center;
+    /*text-align: center;*/
     width: 100%;
-    transform: scale(0);
-    transition: transform 1.3s ease-in;
+    /*transform: scale(0);
+    trnsition: transform 1.3s ease-in;*/
 }
-.landingPageAnim {
+/*.landingPageAnim {
     transform: scale(1);
-}
+}*/
 
 .logo {
     position: relative;
@@ -194,25 +194,25 @@ h1, h2, h3, h4, p, a {
     margin: 0 auto;
 }
 
-.landingPage > h1 {
+.landingPage h1 {
     color: #226AA0;
-    font-size: calc(24px + (500 - 24) * ((100vw - 300px) / (1600 - 300)));
+    font-size: calc(24px + (300 - 24) * ((100vw - 300px) / (1600 - 350)));
     font-weight: 300;
     white-space: nowrap;
     margin: 0;
 }
 
-.landingPage > h2 {
+.landingPage h2 {
     color: #FFFFFF;
-    font-size: calc(24px + (165 - 24) * ((100vw - 300px) / (1600 - 300)));
+    font-size: calc(24px + (165 - 24) * ((100vw - 300px) / (1600 - 350)));
     font-weight: 300;
     margin: -1rem 0 0 0;
     white-space: nowrap;
 }
 
-.landingPage > h3 {  
+.landingPage h3 {  
     color: #FFFFFF;
-    font-size: calc(24px + (60 - 24) * ((100vw - 300px) / (1600 - 300)));
+    font-size: calc(24px + (60 - 24) * ((100vw - 300px) / (1600 - 350)));
     font-weight: 300;
     margin: 0rem 0 0 0;
     white-space: nowrap;
