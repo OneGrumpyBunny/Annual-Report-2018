@@ -14,7 +14,7 @@ include $REL_DIR.$INCL_DIR."meta-health.php";
             <h1>New multipurpose device to help prevent HIV and pregnancy</h1>
             <h2>RTI International awarded project to develop a device to help women in Africa</h2>
             <p class="light">In sub-Saharan Africa, women have among the highest fertility rates in the world. Unfortunately, they are also disproportionately at risk for HIV, a leading cause of illness and death among women of reproductive age.</p>
-            <!-- <p class="light">To help empower women in low- and middle-income countries and improve their health, the U.S. Agency for International Development through the U.S. President’s Emergency Plan for AIDS Relief (PEPFAR) awarded RTI International a $4.8 million cooperative agreement to develop a dual-purpose drug delivery device for both HIV and pregnancy prevention that can be successfully used in these settings.  </p> -->
+            <p class="light">To help empower women in low- and middle-income countries and improve their health, the U.S. Agency for International Development through the U.S. President’s Emergency Plan for AIDS Relief (PEPFAR) awarded RTI International a $4.8 million cooperative agreement to develop a dual-purpose drug delivery device for both HIV and pregnancy prevention that can be successfully used in these settings.  </p>
             <p class="readmore"><a href="https://www.rti.org/news/new-multipurpose-device-help-prevent-hiv-and-pregnancy" target="_blank">READ MORE</a></p>
         </div>
         <div>

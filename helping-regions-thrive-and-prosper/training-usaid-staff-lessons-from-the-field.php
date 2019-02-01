@@ -13,10 +13,10 @@ include $REL_DIR.$INCL_DIR."meta-thrive.php";
 
 
         <div>
-            <h1>New Report Details Experiences of Graduates with<br>Student Loan Debt during the Great Recession</h1>
-            <h2>Decisions delayed; employment choices made based on the cost of education</h2>
-            <p class="light">A new report prepared by RTI for the National Center for Education Statistics provides important insights about rising student debt and its consequences for students who graduated from college during the Great Recession. </p>
-            <p class="readmore"><a href="" target="_blank">READ MORE</a></p>
+            <h1>USAID Learning and Knowledge Management (LEARN)</h1>
+            <h2>Integrating learning and adaptive management into the development community</h2>
+            <p class="light">Practitioners working in international development must constantly adapt to change at all levels—from responding to unanticipated outcomes in project monitoring and evaluation data to navigating unstable political situations or natural disasters in the field. The U.S. Agency for International Development (USAID) recognizes the importance of strategic collaboration, continuous learning, and adaptive management to address ongoing change. As a result, the agency developed the Collaborating, Learning and Adapting (CLA) Framework to guide field practitioners towards the best possible development outcomes and ultimately support countries on their development journey towards self-reliance. Through the USAID Learning and Knowledge Management (LEARN) project, RTI—in close collaboration with prime contractor Dexis Consulting Group—supports USAID’s Bureau for Policy, Planning and Learning (PPL) in providing learning, knowledge management, web design, and event planning expertise to develop CLA tools and approaches and provide demand-driven technical assistance to over 60 missions worldwide and 12 operating units based in Washington, D.C.</p>
+            <p class="readmore"><a href="https://www.rti.org/impact/usaid-learning-and-knowledge-management-learn" target="_blank">READ MORE</a></p>
         </div>
         <div>
             <p class="regular">Learn more about how we are helping regions thrive and prosper:</p>
@@ -29,7 +29,7 @@ include $REL_DIR.$INCL_DIR."meta-thrive.php";
                 <li><a href="teaching-kenya-to-read.php">Teaching Kenya to Read</a></li>
                 <li><a href="spurring-somalian-growth-with-electric-sector-work.php">Spurring Somalian Growth with Electric Sector Work</a></li>
                 <li><a href="driving-change-in-haiti-women-at-work.php">Driving Change in Haiti: Women at Work</a></li>
-                <li class="active"><a href="training-usaid-staff-lessons-from-the-field.php">Training USAID Staff: Lessons from the Field</a></li>
+                <li class="active"><!--<a href="training-usaid-staff-lessons-from-the-field.php">-->Training USAID Staff: Lessons from the Field<!--</a>--></li>
             </ul>
         </div>
 
