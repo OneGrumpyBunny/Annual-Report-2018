@@ -28,7 +28,7 @@ include $REL_DIR.$INCL_DIR."header.php";
                 <li><a href="teaching-kenya-to-read.php">Teaching Kenya to Read</a></li>
                 <li><a href="spurring-somalian-growth-with-electric-sector-work.php">Spurring Somalian Growth with Electric Sector Work</a></li>
                 <li><a href="driving-change-in-haiti-women-at-work.php">Driving Change in Haiti: Women at Work</a></li>
-                <li><a href="training-usaid-staff-lessons-from-the-field.php">Training USAID Staff: Lessons from the Field</a></li>
+                <li class="active"><a href="training-usaid-staff-lessons-from-the-field.php">Training USAID Staff: Lessons from the Field</a></li>
             </ul>
         </div>
 

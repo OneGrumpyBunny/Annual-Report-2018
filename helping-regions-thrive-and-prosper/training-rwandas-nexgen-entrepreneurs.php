@@ -21,7 +21,7 @@ include $REL_DIR.$INCL_DIR."header.php";
             <p class="regular">Learn more about how we are helping regions thrive and prosper:</p>
             <ul>
                 <li><a href="understanding-consequences-of-student-debt.php">Understanding Consequences of Student Debt </a></li>
-                <li><a href="training-rwandas-nexgen-entrepreneurs.php">Training Rwanda's NexGen Entrepreneurs</a></li>
+                <li class="active"><a href="training-rwandas-nexgen-entrepreneurs.php">Training Rwanda's NexGen Entrepreneurs</a></li>
                 <li><a href="improving-vocational-training-in-indonesia.php">Improving Vocational Training in Indonesia</a></li>
                 <li><a href="powering-africas-journey-to-self-reliance.php">Powering Africa's Journey to Self-Reliance</a></li>
                 <li><a href="promoting-childhood-development-worldwide.php">Promoting Childhood Development Worldwide</a></li>

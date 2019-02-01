@@ -22,7 +22,7 @@ include $REL_DIR.$INCL_DIR."header.php";
             <ul>
                 <li><a href="understanding-consequences-of-student-debt.php">Understanding Consequences of Student Debt </a></li>
                 <li><a href="training-rwandas-nexgen-entrepreneurs.php">Training Rwanda's NexGen Entrepreneurs</a></li>
-                <li><a href="improving-vocational-training-in-indonesia.php">Improving Vocational Training in Indonesia</a></li>
+                <li class="active"><a href="improving-vocational-training-in-indonesia.php">Improving Vocational Training in Indonesia</a></li>
                 <li><a href="powering-africas-journey-to-self-reliance.php">Powering Africa's Journey to Self-Reliance</a></li>
                 <li><a href="promoting-childhood-development-worldwide.php">Promoting Childhood Development Worldwide</a></li>
                 <li><a href="teaching-kenya-to-read.php">Teaching Kenya to Read</a></li>

@@ -24,7 +24,7 @@ include $REL_DIR.$INCL_DIR."header.php";
                 <li><a href="training-rwandas-nexgen-entrepreneurs.php">Training Rwanda's NexGen Entrepreneurs</a></li>
                 <li><a href="improving-vocational-training-in-indonesia.php">Improving Vocational Training in Indonesia</a></li>
                 <li><a href="powering-africas-journey-to-self-reliance.php">Powering Africa's Journey to Self-Reliance</a></li>
-                <li><a href="promoting-childhood-development-worldwide.php">Promoting Childhood Development Worldwide</a></li>
+                <li class="active"><a href="promoting-childhood-development-worldwide.php">Promoting Childhood Development Worldwide</a></li>
                 <li><a href="teaching-kenya-to-read.php">Teaching Kenya to Read</a></li>
                 <li><a href="spurring-somalian-growth-with-electric-sector-work.php">Spurring Somalian Growth with Electric Sector Work</a></li>
                 <li><a href="driving-change-in-haiti-women-at-work.php">Driving Change in Haiti: Women at Work</a></li>
