@@ -26,7 +26,7 @@ include $REL_DIR.$INCL_DIR."meta-health.php";
                 <li><a href="speeding-treatment-times-for-heart-attacks.php">Speeding Treatment Times for Heart Attacks</a></li>
                 <li><a href="leveling-the-hiv-treatment-field.php">Leveling the HIV Treatment Field</a></li>
                 <li><a href="treating-hiv-and-opiod-abuse-together-in-tanzania.php">Treating HIV and Opioid Abuse Together in Tanzania</a></li>
-                <li class="active"><a href="focusing-on-filipino-family-health.php">Focusing on Filipino Family Health</a></li>
+                <li class="active"><!---<a href="focusing-on-filipino-family-health.php">--->Focusing on Filipino Family Health<!---</a>---></li>
                 <li><a href="holding-addiction-providers-accountable.php">Holding Addiction Providers Accountable</a></li>
             </ul>
         </div>
