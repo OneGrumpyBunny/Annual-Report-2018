@@ -20,7 +20,7 @@ include $REL_DIR.$INCL_DIR."meta-health.php";
                     <li>Properly trained doctors and well-equipped emergency rooms need to be available.</li>
                 </ul>
             </p>
-            <!-- <p class="light">While STEMI is a serious problem in high-income countries such as the United States, it has been an increasingly visible issue in low- and middle-income countries (LMICs) such as India, China and Brazil. People in these countries are now living long enough, thanks to advances in fighting infectious disease, to fall victim to chronic noncommunicable diseases like cardiovascular disease (CVD) and “first-world” medical crises like STEMI. In many LMICs, the infrastructure to treat STEMIs with thrombolytics or PCI in a timely manner simply doesn’t exist or is woefully inadequate, further increasing mortality rates</p> -->
+            <p class="light">While STEMI is a serious problem in high-income countries such as the United States, it has been an increasingly visible issue in low- and middle-income countries (LMICs) such as India, China and Brazil. People in these countries are now living long enough, thanks to advances in fighting infectious disease, to fall victim to chronic noncommunicable diseases like cardiovascular disease (CVD) and “first-world” medical crises like STEMI. In many LMICs, the infrastructure to treat STEMIs with thrombolytics or PCI in a timely manner simply doesn’t exist or is woefully inadequate, further increasing mortality rates</p>
             <p class="readmore"><a href="https://www.rti.org/impact/heartrescue-global-project" target="_blank">READ MORE</a></p>
         </div>
         <div>

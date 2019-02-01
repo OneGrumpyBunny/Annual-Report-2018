@@ -13,17 +13,17 @@ include $REL_DIR.$INCL_DIR."meta-thrive.php";
 
 
         <div>
-            <h1>New Report Details Experiences of Graduates with<br>Student Loan Debt during the Great Recession</h1>
-            <h2>Decisions delayed; employment choices made based on the cost of education</h2>
-            <p class="light">A new report prepared by RTI for the National Center for Education Statistics provides important insights about rising student debt and its consequences for students who graduated from college during the Great Recession. </p>
-            <p class="readmore"><a href="" target="_blank">READ MORE</a></p>
+            <h1>The Indonesia Ready-to-Work Accelerator Program (RWAP)</h1>
+            <h2>Improving vocational training for underprivileged Indonesian youth</h2>
+            <p class="light">A large percentage of disadvantaged youths in Indonesia either do not complete their secondary education or are unable to continue at a postsecondary level. Having no real marketable skills, they opt instead for one of two vocational training options—a BLK, or state-owned vocational training school, the rough equivalent of an American community college or technical high school; or an LPK, or informal vocational training center, which is independently operated and less regulated by the government. There are more than 20,000 LPKs in Indonesia, covering every conceivable industry, with enrollments ranging from handfuls to hundreds of students.</p>
+            <p class="readmore"><a href="https://www.rti.org/impact/indonesia-ready-work-accelerator-program-rwap" target="_blank">READ MORE</a></p>
         </div>
         <div>
             <p class="regular">Learn more about how we are helping regions thrive and prosper:</p>
             <ul>
                 <li><a href="understanding-consequences-of-student-debt.php">Understanding Consequences of Student Debt </a></li>
                 <li><a href="training-rwandas-nexgen-entrepreneurs.php">Training Rwanda's NexGen Entrepreneurs</a></li>
-                <li class="active"><a href="improving-vocational-training-in-indonesia.php">Improving Vocational Training in Indonesia</a></li>
+                <li class="active"><!--<a href="improving-vocational-training-in-indonesia.php">-->Improving Vocational Training in Indonesia<!--</a>--></li>
                 <li><a href="powering-africas-journey-to-self-reliance.php">Powering Africa's Journey to Self-Reliance</a></li>
                 <li><a href="promoting-childhood-development-worldwide.php">Promoting Childhood Development Worldwide</a></li>
                 <li><a href="teaching-kenya-to-read.php">Teaching Kenya to Read</a></li>

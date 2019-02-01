@@ -13,16 +13,16 @@ include $REL_DIR.$INCL_DIR."meta-thrive.php";
 
 
         <div>
-            <h1>New Report Details Experiences of Graduates with<br>Student Loan Debt during the Great Recession</h1>
-            <h2>Decisions delayed; employment choices made based on the cost of education</h2>
-            <p class="light">A new report prepared by RTI for the National Center for Education Statistics provides important insights about rising student debt and its consequences for students who graduated from college during the Great Recession. </p>
-            <p class="readmore"><a href="" target="_blank">READ MORE</a></p>
+            <h1>Cultivating Youth Entrepreneurs in Rwanda’s Agriculture Sector</h1>
+            <h2>Test Test Test</h2>
+            <p class="light">Twenty-six-year-old Egidie Twizeyeyezu graduated from the University of Rwanda in 2015 with a degree in economics and entrepreneurship. Since then, she has been unable to find a job. Instead, she’s resorted to selling second-hand clothes in the streets of Kigali, working all day to earn approximately 2,000 Rwandan francs (US$2.30). While some work was better than no work, street vending was not a long-term employment solution for Twizeyeyezu. “The business of selling any commodity on the streets was very risky, as the government restricts it,” she says. </p>
+            <p class="readmore"><a href="https://medium.com/@RTI_INTL_DEV/cultivating-youth-entrepreneurs-in-rwandas-agriculture-sector-eeef6a4c0f1" target="_blank">READ MORE</a></p>
         </div>
         <div>
             <p class="regular">Learn more about how we are helping regions thrive and prosper:</p>
             <ul>
                 <li><a href="understanding-consequences-of-student-debt.php">Understanding Consequences of Student Debt </a></li>
-                <li class="active"><a href="training-rwandas-nexgen-entrepreneurs.php">Training Rwanda's NexGen Entrepreneurs</a></li>
+                <li class="active"><!--<a href="training-rwandas-nexgen-entrepreneurs.php">-->Training Rwanda's NexGen Entrepreneurs<!--</a>--></li>
                 <li><a href="improving-vocational-training-in-indonesia.php">Improving Vocational Training in Indonesia</a></li>
                 <li><a href="powering-africas-journey-to-self-reliance.php">Powering Africa's Journey to Self-Reliance</a></li>
                 <li><a href="promoting-childhood-development-worldwide.php">Promoting Childhood Development Worldwide</a></li>
