@@ -5,3 +5,5 @@
 </head>
 <body>
 <div class="container">
+<img src="../img/protecting-the-planet-back.png" class="sectionBack">
+	<div class="innerContainer">

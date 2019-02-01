@@ -419,12 +419,12 @@ ul li a:hover {
     color:#EFDCB0;
     margin:0;
     font-weight: 400;
-    font-size: calc(26px + (25 - 26) * ((100vw - 350px) / (1600 - 350)));
+    font-size: calc(24px + (25 - 24) * ((100vw - 350px) / (1600 - 350)));
 }
 
 .enhancing-health-page p, .keeping-people-safe-page p, .thrive-and-prosper-page p, .protecting-the-planet-page p {
     color: #ffffff;
-    font-size:1.3rem;
+    font-size:calc(14px + (20 - 14) * ((100vw - 350px) / (1600 - 350)));
 }
 
 .enhancing-health-page .active {
