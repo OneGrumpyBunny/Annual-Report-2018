@@ -13,10 +13,11 @@ include $REL_DIR.$INCL_DIR."meta-safe.php";
 
 
         <div>
-            <h1>Sexual Assault Kit Initiative<br>Training and Technical Assistance </h1>
-            <h2>Preventing delays in the handling and investigation of sexual assault cases</h2>
-            <p class="light">In a nationally representative survey of state and local law enforcement agencies conducted by RTI for the National Institute of Justice, 18 percent of unsolved sexual assault cases from 2003 through 2007 had forensic evidence that was not submitted to a crime laboratory for analysis. Unsubmitted sexual assault kits create delays in the justice system and, in some instances, deny justice to sexual assault survivors. </p>
-            <p class="readmore"><a href="" target="_blank">READ MORE</a></p>
+            <h1>School Safety Studies</h1>
+            <h2>Helping schools prevent and respond to incidents of violence</h2>
+            <p class="light">Since the 1999 tragedy at Columbine High School, hundreds of American children have been killed or injured in school shootings. More than 150,000 students from 170 schools have experienced an on-campus shooting during primary or secondary school. And millions of Americans now share feelings of worry and fear as they come to view schools as vulnerable targets instead of safe havens for children and teachers.</p>
+			<p class="light">School shooting incidents vary in location, number of victims, and the intensity of publicity they receive. But one thing is certain. These devastating events, once grim historical milestones, have grown into lurking threats that must be addressed.</p>
+            <p class="readmore"><a href="https://www.rti.org/impact/school-safety-studies" target="_blank">READ MORE</a></p>
         </div>
 		<div>
 			<p class="regular">Explore how we safeguard people and communities through our work:</p>
