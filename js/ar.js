@@ -1,27 +1,27 @@
 $(window).on("load",function() {
 var backOn = 0;
 	if ($(".living-our-mission").is(":visible")) {
-		$("body").addClass("living-back");
+		$(".container").addClass("living-back");
 		backOn = 1;
 	}
 	if ($(".enhancing-health").is(":visible")) {
-		$("body").addClass("enhancing-back");
+        $(".container").addClass("enhancing-back");
 		backOn = 1;
 	}
 	if ($(".keeping-people-safe").is(":visible")) {
-		$("body").addClass("safe-back");
+		$(".container").addClass("safe-back");
 		backOn = 1;
 	}
 	if ($(".thrive-and-prosper").is(":visible")) {
-		$("body").addClass("thrive-back");
+		$(".container").addClass("thrive-back");
 		backOn = 1;
 	}
 	if ($(".protecting-the-planet").is(":visible")) {
-		$("body").addClass("planet-back");
+		$(".container").addClass("planet-back");
 		backOn = 1;
 	}
 	if (backOn == 0) {
-		$("body").addClass("home-back");
+		$(".container").addClass("home-back");
     }
     $(".landingPage").addClass('landingPageAnim');
     
@@ -34,7 +34,7 @@ $(document).ready(function() {
 			window.location.href=relPath + "/living-our-mission/";
 		});
 		$(".health").click(function() {
-			window.location.href=relPath + "/enhancing-health/";
+			window.location.href=relPath + "/enhancing-health-through-science-and-practice/";
 		});
 		$(".safe").click(function() {
 			window.location.href=relPath + "/keeping-people-safe/";
