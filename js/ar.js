@@ -34,7 +34,7 @@ $(document).ready(function() {
 			window.location.href=relPath + "/living-our-mission/";
 		});
 		$(".health").click(function() {
-			window.location.href=relPath + "/enhancing-health/";
+			window.location.href=relPath + "/enhancing-health-through-science-and-practice/";
 		});
 		$(".safe").click(function() {
 			window.location.href=relPath + "/keeping-people-safe/";
