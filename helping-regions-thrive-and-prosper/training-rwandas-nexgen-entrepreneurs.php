@@ -16,7 +16,7 @@ include $REL_DIR.$INCL_DIR."meta-thrive.php";
             <img src="../img/RTI_w_1in.png" class="logo">
             <h1>Cultivating Youth Entrepreneurs in Rwanda’s Agriculture Sector</h1>
             <h2>Test Test Test</h2>
-            <p class="light">Twenty-six-year-old Egidie Twizeyeyezu graduated from the University of Rwanda in 2015 with a degree in economics and entrepreneurship. Since then, she has been unable to find a job. Instead, she’s resorted to selling second-hand clothes in the streets of Kigali, working all day to earn approximately 2,000 Rwandan francs (US$2.30). While some work was better than no work, street vending was not a long-term employment solution for Twizeyeyezu. “The business of selling any commodity on the streets was very risky, as the government restricts it,” she says. </p>
+            <p class="light">Twenty-six-year-old Egidie Twizeyeyezu graduated from the University of Rwanda in 2015 with a degree in economics and entrepreneurship. Since then, she has been unable to find a job. Instead, she’s resorted to selling second-hand clothes in the streets of Kigali, working all day to earn approximately 2,000 Rwandan francs (US$2.30).</p>
             <p class="readmore"><a href="https://medium.com/@RTI_INTL_DEV/cultivating-youth-entrepreneurs-in-rwandas-agriculture-sector-eeef6a4c0f1" target="_blank">READ MORE</a></p>
         </div>
         <div>

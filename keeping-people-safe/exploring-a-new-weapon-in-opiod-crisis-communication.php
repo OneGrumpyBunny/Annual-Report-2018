@@ -16,8 +16,7 @@ include $REL_DIR.$INCL_DIR."meta-safe.php";
 		<img src="../img/RTI_w_1in.png" class="logo">
             <h1>New Weapon to Fight the Opioid Crisis: Talking</h1>
             <h2>test test test </h2>
-            <p class="light">In 2016, 11.5 million people 12 + years old in the U.S. reported having misused prescription pain medications in the past year. According to the National Institute for Drug Abuse, 115 Americans die every day from opioid overdose, which includes prescription pain relievers, heroin and fentanyl. Recently at the Department of Justice’s first National Opioid Summit, a top priority that was repeatedly stated was the cracking down on unscrupulous providers and pharmacies. While this is important, what was missing from this conversation were strategies for improving the communications between reputable prescribers and pharmacists.</p> 
-			<p class="light">The Centers for Disease Control and Prevention recently released guidelines for prescribing opioids for chronic pain that provide recommendations for opioid prescribing. These guidelines provide strategies for prescribers and pharmacists to help assist in the reduction of opioid misuse and diversion, yet they do not specifically describe recommendations for how prescribers and pharmacists better communicate.</p>
+            <p class="light">The Centers for Disease Control and Prevention recently released guidelines for prescribing opioids for chronic pain that provide recommendations for opioid prescribing. These guidelines provide strategies for prescribers and pharmacists to help assist in the reduction of opioid misuse and diversion, yet the guidelines do not specifically describe recommendations for how prescribers and pharmacists better communicate.</p>
             <p class="readmore"><a href="https://www.rti.org/insights/new-weapon-fight-opioid-crisis-talking" target="_blank">READ MORE</a></p>
         </div>
 		<div>

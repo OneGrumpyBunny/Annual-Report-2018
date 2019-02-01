@@ -13,10 +13,9 @@ include $REL_DIR.$INCL_DIR."meta-health.php";
         
         <div>
             <img src="../img/RTI_w_1in.png" class="logo">
-            <h1>LuzonHealth – Integrated Maternal, Neonatal, Child Health and Nutrition/Family Planning in the Philippines</h1>
-            <h2>Strengthening local health policies and systems to increase service utilization and improve health outcomes for Filipino families</h2>
-            <p class="light">In Luzon, the largest and most populous island in the Philippines, trends in family planning stagnated or, for some methods, even declined over a five-year period beginning in 2008. The island also faced increasing numbers of teenage pregnancies and low rates of exclusive breastfeeding. Across Luzon’s regions and provinces, the rate of births attended by a skilled health provider varied, as did the rate of births taking place in health facilities.</p>
-            <p class="light">To help address these challenges, in 2013 the U.S. Agency for International Development (USAID) launched LuzonHealth, a project that aims to improve the health of families in 14 provinces and seven cities in the Philippines by expanding their access to high-quality, integrated family planning and maternal, neonatal, child health and nutrition services (FP/MNCHN).</p>
+            <h1>LuzonHealth—Integrated Maternal, Neonatal, Child Health, and Nutrition/Family Planning in the Philippines</h1>
+            <h2>Strengthening local health policies and systems to improve health outcomes for Filipino families</h2>
+            <p class="light">Aligned with relevant government strategies and policies, LuzonHealth focuses on increasing family planning use and improving maternal and newborn care—with the ultimate goal of improving health outcomes. We support this work by enhancing the role of hospitals in FP/MNCHN training and service delivery, modeling adolescent health interventions, increasing collaboration with the private sector, and replicating and scaling up best practices and innovations.</p>
             <p class="readmore"><a href="https://www.rti.org/impact/luzonhealth-maternal-neonatal-child-health-nutrition-family-planning" target="_blank">READ MORE</a></p>
         </div>
         <div>

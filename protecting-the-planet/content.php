@@ -9,11 +9,11 @@
 		<div>
 			<p class="regular">Explore how we are protecting the planet through our work:</p>
 			<ul>
-				<li><a href="page-template.php">Enlisting Citizen Scientists to Help Improve Air Quality</a></li>
-				<li><a href="">Reducing Greenhouse Gas Emissions in Guatemala </a></li>
-				<li><a href="">Working to Provide Clean Water in Nigeria</a></li>
-				<li><a href="">Harnessing Hydropower: A New Wave of Renewable Energy</a></li>
-				<li><a href="">Driving Energy Success in the Philippines</a></li>
+				<li><a href="enlisting-citizen-scientists-to-help-improve-air-quality.php">Enlisting Citizen Scientists to Help Improve Air Quality</a></li>
+				<li><a href="reducing-greenhouse-gas-emissions-in-guatemala.php">Reducing Greenhouse Gas Emissions in Guatemala </a></li>
+				<li><a href="working-to-provide-clean-water-in-nigeria.php">Working to Provide Clean Water in Nigeria</a></li>
+				<li><a href="harnessing-hydropower-a-new-wave-of-renewable-energy.php">Harnessing Hydropower: A New Wave of Renewable Energy</a></li>
+				<li><a href="driving-energy-success-in-the-phillipines.php">Driving Energy Success in the Philippines</a></li>
 			</ul>
 		</div>
 	</div>

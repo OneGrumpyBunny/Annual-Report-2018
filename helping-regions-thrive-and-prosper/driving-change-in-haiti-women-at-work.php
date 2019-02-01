@@ -10,9 +10,9 @@ include $REL_DIR.$INCL_DIR."meta-thrive.php";
         <!--- update content below this line --->
         <div>
             <img src="../img/RTI_w_1in.png" class="logo">
-            <h1>Women at Work: Meet some of the inspiring women business owners who are driving change in Haiti</h1>
+            <h1>Building a Stronger Haiti</h1>
             <h2>test test test</h2>
-            <p class="light">In the eight years since the devastating 2010 earthquake, women in Haiti have played a critical role in rebuilding the country’s economy. They’ve done it largely on their own, by saving money and starting new businesses. Among these businesses are several “lead entities” identified by the USAID Local Enterprise and Value Chain Enhancement (LEVE) Project, an RTI-led economic development program designed to stimulate job creation in key sectors of the Haitian economy.</p>
+            <p class="light">Achieving economic and social stability in the face of natural disasters and other longstanding difficulties is a crucial challenge for Haiti, the poorest nation in the Western Hemisphere and one in which more than two-thirds of workers do not have formal jobs. In 2013, the U.S. Agency for International Development chose RTI to lead a strategic enterprise and workforce development program for Haiti. This effort, known as Haiti Local Enterprise and Value Chain Enhancement, or Haiti LEVE, is designed to stimulate job creation by building up enterprises in agribusiness, apparel and textiles, and construction.</p>
             <p class="readmore"><a href="https://medium.com/@RTI_INTL_DEV/women-at-work-meet-some-of-the-inspiring-women-business-owners-who-are-driving-change-in-haiti-4c5e4b21624c" target="_blank">READ MORE</a></p>
         </div>
         <div>

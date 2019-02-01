@@ -14,10 +14,9 @@ include $REL_DIR.$INCL_DIR."meta-thrive.php";
 
         <div>
             <img src="../img/RTI_w_1in.png" class="logo">
-            <h1>Strategies to Promote Early Childhood Development: An Expert Interview with Katherine Merseth</h1>
-            <h2>test test test</h2>
-            <p class="light">Early childhood is getting a lot of attention lately, especially with the recent Lancet series reemphasizing the importance of early childhood development. The Sustainable Development Goals have endorsed the importance of early childhood development; to this end, the Lancet Early Childhood Development series looks at new scientific evidence for interventions.</p>
-            <p class="light">Experts from RTI International, one of the leading research organizations on child development in the world, recently authored a chapter on this topic in DCP3. DCP3 is the third of the global series on Disease Control Priorities, going beyond previous efforts by providing a systematic economic evaluation of policy choices affecting the access, uptake, and quality of interventions and delivery platforms for low- and middle-income countries. The chapter discussed here, “Platforms to Reach Children in Early Childhood,” examines the different platforms that help support early childhood development.</p>
+            <h1>Strategies to Promote Early Childhood Development</h1>
+            <h2>An expert interview with Katherine Merseth</h2>
+            <p class="light">Child development begins before a child is born, and much depends on the health and well-being of the mother. For example, maternal diet; maternal alcohol or nicotine use; and maternal stress, depression, and anxiety during pregnancy affect the developing fetus—leading to prematurity; low birth weight; and increased risk for health, developmental, and behavioral challenges throughout life.</p>
             <p class="readmore"><a href="https://www.rti.org/insights/strategies-promote-early-childhood-development-expert-interview-katherine-merseth" target="_blank">READ MORE</a></p>
         </div>
         <div>

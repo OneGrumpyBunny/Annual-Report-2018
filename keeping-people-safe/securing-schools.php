@@ -16,8 +16,7 @@ include $REL_DIR.$INCL_DIR."meta-safe.php";
 		<img src="../img/RTI_w_1in.png" class="logo">
             <h1>School Safety Studies</h1>
             <h2>Helping schools prevent and respond to incidents of violence</h2>
-            <p class="light">Since the 1999 tragedy at Columbine High School, hundreds of American children have been killed or injured in school shootings. More than 150,000 students from 170 schools have experienced an on-campus shooting during primary or secondary school. And millions of Americans now share feelings of worry and fear as they come to view schools as vulnerable targets instead of safe havens for children and teachers.</p>
-			<p class="light">School shooting incidents vary in location, number of victims, and the intensity of publicity they receive. But one thing is certain. These devastating events, once grim historical milestones, have grown into lurking threats that must be addressed.</p>
+            <p class="light">Building on our history of work that improves the effectiveness of schools and the justice system, RTI is engaged in several efforts to improve safety through a better understanding of violence and mental health and the best methods of preparedness, prevention, and response to violent incidents.</p>
             <p class="readmore"><a href="https://www.rti.org/impact/school-safety-studies" target="_blank">READ MORE</a></p>
         </div>
 		<div>

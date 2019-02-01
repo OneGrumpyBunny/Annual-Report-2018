@@ -15,8 +15,8 @@ include $REL_DIR.$INCL_DIR."meta-thrive.php";
         <div>
             <img src="../img/RTI_w_1in.png" class="logo">
             <h1>Electricity Assistance in the Growth, Enterprise, Employment, and Livelihoods (GEEL) Program</h1>
-            <h2>Modernizing the electric utility system to support industry, commerce, and agriculture in Somalia</h2>
-            <p class="light">When Hargeisa, the capital of Somaliland, was destroyed by war in the late 1980s, the electricity infrastructure was reduced to rubble as well. Business owners who needed to power restaurants, cafés, and factories installed on-site diesel generators and then extended distribution lines to their neighbors. In time, these self-starters formed Somaliland’s electric utilities, which now serve the region’s major urban areas. Although this electric utility industry is a story of self-sufficiency, grit, and success, the sector suffers from unreliable electricity, some of the highest energy prices in the world, extremely lax safety standards, and high barriers to entry for women who want to work in energy.</p>
+            <h2>Modernizing the electric utility system in Somalia</h2>
+            <p class="light">When Hargeisa, the capital of Somaliland, was destroyed by war in the late 1980s, the electricity infrastructure was reduced to rubble as well. Business owners who needed to power restaurants, cafés, and factories installed onsite diesel generators and then extended distribution lines to their neighbors.</p>
             <p class="readmore"><a href="https://www.rti.org/impact/electricity-assistance-growth-enterprise-employment-and-livelihoods-geel-program" target="_blank">READ MORE</a></p>
         </div>
         <div>

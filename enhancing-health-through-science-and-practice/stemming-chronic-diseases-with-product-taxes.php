@@ -14,10 +14,9 @@ include $REL_DIR.$INCL_DIR."meta-health.php";
         
         <div>
             <img src="../img/RTI_w_1in.png" class="logo">
-            <h1>New multipurpose device to help prevent HIV and pregnancy</h1>
+            <h1>Taxes on Soft Drinks, Alcohol, and Tobacco Are a Powerful Response to Rising Rates of Chronic Diseases</h1>
             <h2>Test Test Test</h2>
-            <p class="light">Taxes on soft drinks, alcohol and tobacco are a powerful response to rising rates of non-communicable diseases (NCDs) worldwide, according to the most comprehensive analysis to date of evidence on expenditure, behaviour and socio-economic status, published in The Lancet.</p>
-            <p class="light">Bringing together data from across the globe, the five papers present strong evidence that taxes on unhealthy products have the potential to produce major health gains among the poorest in society who are disproportionately affected by NCDs. The evidence helps counter fears that such taxes will necessarily disproportionately harm the poor.</p>
+            <p class="light">Taxes on soft drinks, alcohol, and tobacco are a powerful response to rising rates of non-communicable diseases worldwide, according to the most comprehensive analysis to date of evidence on expenditure, behavior, and socioeconomic status, published in <i>The Lancet</i>.</p>
             <p class="readmore"><a href="https://www.rti.org/news/taxes-soft-drinks-alcohol-and-tobacco-are-powerful-response-rising-rates-chronic-diseases" target="_blank">READ MORE</a></p>
         </div>
         <div>
