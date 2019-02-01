@@ -14,7 +14,7 @@ include $REL_DIR.$INCL_DIR."meta-thrive.php";
 
         <div>
             <h1>Achieving educational improvements at a national level: Lessons from Kenya</h1>
-            <h2>Decisions delayed; employment choices made based on the cost of education</h2>
+            <h2>Test test test</h2>
             <p class="light">If you can dramatically improve educational outcomes in a school, can you do it across the district? How about across an entire country? How about across more than the 22,000 schools in Kenya that serve more than 3.3 million Grade 1-3 students?</p>
             <p class="light">In recent years some educational interventions have dramatically improved learning outcomes on a small scale, and several countries are now attempting to replicate those successes at a national level. However, history is littered with the remains of pilot programs that failed when attempts were made to implement at scale.</p>
             <p class="readmore"><a href="https://www.rti.org/insights/achieving-educational-improvements-national-level-lessons-kenya" target="_blank">READ MORE</a></p>
