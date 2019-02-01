@@ -174,8 +174,8 @@ h1, h2, h3, h4, p, a {
 /* landing page */
 .landingPage {
     /*text-align: center;*/
-    width: 100%;
-    /*transform: scale(0);
+    /*width: 100%;
+    transform: scale(0);
     trnsition: transform 1.3s ease-in;*/
 }
 /*.landingPageAnim {
