@@ -2,6 +2,7 @@
 	<div class="column ten flex">
 	<div class="protecting-the-planet">
 		<div>
+			<img src="../img/RTI_w_1in.png" class="logo">
 			<h1>Protecting the Planet</h1>
 			<p class="light">From reducing carbon emissions to developing renewable energy sources to ensuring clean drinking water, the challenges facing the environment affect us all as citizens of the planet and require science-based solutions that span social science, laboratory research, engineering, and program delivery. Our multidisciplinary approach ensures that the answers we need for all our tomorrows can be uncovered today.</p>
 		</div>
