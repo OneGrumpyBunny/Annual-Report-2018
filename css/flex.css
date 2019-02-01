@@ -40,7 +40,7 @@
    
     .column.ten {
         /*width: 83.33%;*/
-        flex: 0 1 50%;
+        flex: 0 0 50%;
         
 		/*background: url(../img/RTI_w_1in.png);
 		background-repeat: no-repeat;
@@ -50,6 +50,6 @@
     
     .column.two {
         /*width: 16.66%;*/
-        flex: 0 1 50%;
+        flex: 0 0 50%;
     }
 }
