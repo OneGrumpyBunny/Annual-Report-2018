@@ -14,13 +14,12 @@ include $REL_DIR.$INCL_DIR."meta-health.php";
             <h1>The HeartRescue Global Project</h1>
             <h2>Speeding the time to treatment for severe heart attacks</h2>
             <p class="light">In the wake of a severe heart attack, also known as an ST-elevation myocardial infarction (STEMI), receiving effective treatment within several hours is crucial to reduce muscular damage and the risk of death. Effective treatment requires reperfusion (opening the blocked artery) using either thrombolytic medications or a more expensive (and more effective) percutaneous coronary intervention (PCI) performed in a cardiac catheterization laboratory.Given the need for rapid treatment, a few factors can mean the difference between life, death, and long-term disability:
-                <ul>
+                <ul style="color: inherit;">
                     <li>Patients and those around them require the ability to quickly recognize heart attack symptoms and call for emergency services;</li>
                     <li>Ambulance drivers have to easily navigate traffic;</li>
                     <li>Properly trained doctors and well-equipped emergency rooms need to be available.</li>
                 </ul>
             </p>
-            <p class="light">While STEMI is a serious problem in high-income countries such as the United States, it has been an increasingly visible issue in low- and middle-income countries (LMICs) such as India, China and Brazil. People in these countries are now living long enough, thanks to advances in fighting infectious disease, to fall victim to chronic noncommunicable diseases like cardiovascular disease (CVD) and “first-world” medical crises like STEMI. In many LMICs, the infrastructure to treat STEMIs with thrombolytics or PCI in a timely manner simply doesn’t exist or is woefully inadequate, further increasing mortality rates</p>
             <p class="readmore"><a href="https://www.rti.org/impact/heartrescue-global-project" target="_blank">READ MORE</a></p>
         </div>
         <div>
