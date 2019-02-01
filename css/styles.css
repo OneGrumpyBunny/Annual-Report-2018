@@ -182,10 +182,11 @@ h1, h2, h3, h4, p, a {
 }
 
 .logo {
-    position: absolute;
+    position: relative;
     max-width: 200px;
     top: 30px;
-    width: 12%;
+    width: 35%;
+    margin-bottom: 3rem;
 }
 
 .landingPage {
@@ -311,7 +312,7 @@ h1, h2, h3, h4, p, a {
     width: 71%;
     margin-left: 3rem;
     height: 100%;
-    padding-top: 9rem;
+    /*padding-top: 9rem;*/
 }
 .enhancing-health h1  {
     color: #316094;
