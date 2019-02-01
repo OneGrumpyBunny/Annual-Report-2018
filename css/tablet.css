@@ -1,4 +1,7 @@
 @media all and (min-width:350px) {
+
+
+
 /* landing page */
 
 .landingPage {
@@ -114,4 +117,11 @@
   .navBoxOverlay {
       
   }
+}
+
+@media all and (max-width:992px) {
+  
+  /*.logo {
+    width: calc(20vw);
+}*/
 }
