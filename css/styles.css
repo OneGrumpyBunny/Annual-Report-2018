@@ -412,7 +412,7 @@ ul li a:hover {
     color:#226AA0;
     margin: 0;
     font-weight: 400;
-    white-space:nowrap;
+    /*white-space:nowrap;*/
     font-size: calc(26px + (35 - 26) * ((100vw - 350px) / (1600 - 350)));
 }
 .enhancing-health-page h2, .keeping-people-safe-page h2, .thrive-and-prosper-page h2, .protecting-the-planet-page h2 {

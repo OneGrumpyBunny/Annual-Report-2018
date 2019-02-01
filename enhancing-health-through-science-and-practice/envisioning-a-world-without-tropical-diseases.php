@@ -7,7 +7,7 @@ include $REL_DIR.$INCL_DIR."meta-health.php";
 ?>
 
 <div class="column ten flex">
-    <div class="enhancing-health">
+    <div class="enhancing-health-page">
         
 
         <!--- update content below this line --->
