@@ -102,8 +102,8 @@ h1, h2, h3, h4, p, a {
     display: flex;
     position: relative;
     max-width: 1600px;
-    /* width: 100%; */
-    margin: 0 10%;
+    /* width: 100%;
+    margin: 0 10%; */
 }
 
 .flex {
