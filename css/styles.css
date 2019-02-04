@@ -211,7 +211,7 @@ h1, h2, h3, h4, p, a {
 
 .landingPageMobile h1, .landingPage h1 {
     color: #226AA0;
-    /*font-size: calc(24px + (200 - 24) * ((100vw - 200px) / (1600 - 375)));*/
+    font-size: calc(24px + (200 - 24) * ((100vw - 200px) / (1600 - 375)));
     font-weight: 300;
     white-space: nowrap;
     margin: 0;
@@ -222,7 +222,7 @@ h1, h2, h3, h4, p, a {
     bottom: 0;
     position: absolute;
     border-left: 11px solid #0f39a0;
-    font-size: calc(24px + (200 - 24) * ((100vw - 200px) / (1600 - 375)));
+    /*font-size: calc(24px + (200 - 24) * ((100vw - 200px) / (1600 - 375)));*/
     font-weight: 300;
 }
 .enhancing-health h1  {
