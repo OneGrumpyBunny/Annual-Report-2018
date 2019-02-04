@@ -1,6 +1,6 @@
 @media all and (min-width:376px) {
 
-	.landingPage {
+	.landingPage, .navContainer {
 		display:flex
 	}
 	.landingPageMobile {
