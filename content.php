@@ -1,5 +1,5 @@
 
-	<div class="column ten flex">
+	<div class="column seven">
 	<div class="landingPageMobile">
 				<img src="img/RTI_w_1in.png" class="logo">
 				<div>

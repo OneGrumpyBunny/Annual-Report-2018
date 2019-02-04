@@ -6,7 +6,7 @@ include $REL_DIR.$INCL_DIR."header.php";
 include $REL_DIR.$INCL_DIR."meta-health.php";
 ?>
 
-<div class="column ten flex">
+<div class="column left flex">
     <div class="enhancing-health-page">
         
 

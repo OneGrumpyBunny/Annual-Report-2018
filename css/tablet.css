@@ -6,10 +6,11 @@
 	.landingPageMobile {
 		display:none;
 	}
-	.column.ten {
+
+	/*.column.ten {
 		flex: 0 0 50%;
-	}
-	.column.two {
+	}*/
+	.column.left, .column.right, .column.seven, .column.three {
 		flex: 0 0 50%;
 	}
 	.container {

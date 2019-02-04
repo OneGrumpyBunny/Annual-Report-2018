@@ -1,6 +1,6 @@
 
 
-	<div class="column two navContainer">
+	<div class="column right three navContainer">
 		<!-- nav -->
 		
 		<div class="navBox about">

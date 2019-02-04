@@ -1,5 +1,5 @@
 
-	<div class="column ten flex">
+	<div class="column left flex">
 		<div class="keeping-people-safe">
 			<div>
 			<img src="../img/RTI_w_1in.png" class="logo">

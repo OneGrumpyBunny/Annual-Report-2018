@@ -5,7 +5,7 @@ include $REL_DIR."config.php";
 include $REL_DIR.$INCL_DIR."header.php";
 include $REL_DIR.$INCL_DIR."meta-thrive.php";
 ?>
-<div class="column ten flex">
+<div class="column left flex">
     <div class="thrive-and-prosper-page">  
         <!--- update content below this line --->
         <div>

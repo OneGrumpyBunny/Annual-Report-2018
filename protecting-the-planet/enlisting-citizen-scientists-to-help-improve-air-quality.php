@@ -5,7 +5,7 @@ include $REL_DIR."config.php";
 include $REL_DIR.$INCL_DIR."header.php";
 include $REL_DIR.$INCL_DIR."meta-planet.php";
 ?>
-<div class="column ten flex">
+<div class="column left flex">
     <div class="protecting-the-planet-page">
 
     
