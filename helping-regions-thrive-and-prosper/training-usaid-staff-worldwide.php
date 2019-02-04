@@ -14,10 +14,10 @@ include $REL_DIR.$INCL_DIR."meta-thrive.php";
 
         <div>
             <img src="../img/RTI_w_1in.png" class="logo">
-            <h1>USAID Learning and Knowledge Management (LEARN)</h1>
-            <h2>Integrating learning and adaptive management into the development community</h2>
-            <p class="light">Practitioners working in international development must constantly adapt to change at all levels—from responding to unanticipated outcomes in project monitoring and evaluation data to navigating unstable political situations or natural disasters in the field. The U.S. Agency for International Development recognizes the importance of strategic collaboration, continuous learning, and adaptive management to address ongoing change.</p>
-            <p class="readmore"><a href="https://www.rti.org/impact/usaid-learning-and-knowledge-management-learn" target="_blank">READ MORE</a></p>
+            <h1>Supporting USAID’s Mission Through Global Training</h1>
+            <h2>Improving the performance and skills of USAID staff worldwide</h2>
+            <p class="light">As a global workforce, the U.S. Agency for International Development’s staff must continuously learn, grow, and align professional skills amid constant political and social changes. The improvement and growth of skills contribute to the agency’s ability to achieve its mission of saving lives, reducing poverty, strengthening democratic governance, and helping developing nations’ progress beyond assistance.</p>
+            <p class="readmore"><a href="https://www.rti.org/impact/supporting-usaids-mission-through-worldwide-training-wwt" target="_blank">READ MORE</a></p>
         </div>
         <div>
             <p class="regular">Learn more about how we are helping regions thrive and prosper:</p>
@@ -29,8 +29,8 @@ include $REL_DIR.$INCL_DIR."meta-thrive.php";
                 <li><a href="promoting-childhood-development-worldwide.php">Promoting Childhood Development Worldwide</a></li>
                 <li><a href="teaching-kenya-to-read.php">Teaching Kenya to Read</a></li>
                 <li><a href="spurring-somalian-growth-with-electric-sector-work.php">Spurring Somalian Growth with Electric Sector Work</a></li>
-                <li><a href="driving-change-in-haiti-women-at-work.php">Driving Change in Haiti: Women at Work</a></li>
-                <li class="active"><!--<a href="training-usaid-staff-lessons-from-the-field.php">-->Training USAID Staff: Lessons from the Field<!--</a>--></li>
+                <li><a href="building-a-stronger-haiti.php">Building a Stronger Haiti</a></li>
+                <li class="active"><!--<a href="training-usaid-staff-worldwide.php">-->Training USAID Staff Worldwide<!--</a>--></li>
             </ul>
         </div>
 

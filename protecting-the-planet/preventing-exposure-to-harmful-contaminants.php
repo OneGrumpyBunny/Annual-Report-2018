@@ -13,10 +13,10 @@ include $REL_DIR.$INCL_DIR."meta-planet.php";
 
 
         <div>
-            <h1>Improving NASA Satellite Data<br>with Low-Cost Sensors</h1>
-            <h2>How citizen scientists are helping RTI measure particulate matter in the atmosphere</h2>
-            <p class="light">RTI is working with NASA (as well as the Universities Space Research Association, the South Coast Air Quality Management District, the Environmental Protection Agency, and various other institutions) to deploy low-cost air-quality monitors at ground level, the data from which can be used to provide additional information to help improve satellite readings. </p>
-            <p class="readmore"><a href="" target="_blank">READ MORE</a></p>
+            <h1>Preventing Harmful Exposures from a Widespread Class of Chemicals</h1>
+            <h2>A new method to destroy water supply contaminants</h2>
+            <p class="light">The class of chemicals known as PFAS—per- and polyfluoroalkyl substances—poses a unique threat to public health that our chemical and environmental engineers are working to solve. These include PFOA, PFOS, and more than 3,000 related chemicals, including the GenX variant known for polluting the Cape Fear River in southeastern North Carolina. The Department of Defense’s Strategic Environmental Research and Development Program is looking for a solution and began working with RTI in mid-2018 to investigate a method of breaking down PFAS.</p>
+            <p class="readmore"><a href="https://www.rti.org/impact/new-method-destruction-perfluorinated-contaminants-found-water-supplies" target="_blank">READ MORE</a></p>
         </div>
         <div>
             <p class="regular">Explore how we are protecting the planet through our work:</p>
@@ -26,7 +26,7 @@ include $REL_DIR.$INCL_DIR."meta-planet.php";
                 <li><a href="working-to-provide-clean-water-in-nigeria.php">Working to Provide Clean Water in Nigeria</a></li>
 				<li><a href="harnessing-hydropower-a-new-wave-of-renewable-energy.php">Harnessing Hydropower: A New Wave of Renewable Energy</a></li>
 				<li><a href="driving-energy-success-in-the-phillipines.php">Driving Energy Success in the Philippines</a></li>
-                <li><a href="preventing-exposure-to-harmful-contaminants.php">Preventing Exposure to Harmful Contaminants</a></li>
+                <li class="active"><!--<a href="preventing-exposure-to-harmful-contaminants.php">-->Preventing Exposure to Harmful Contaminants<!--</a>--></li>
             </ul>
         </div>
 

@@ -29,8 +29,8 @@ include $REL_DIR.$INCL_DIR."meta-thrive.php";
                 <li class="active"><!--<a href="promoting-childhood-development-worldwide.php">-->Promoting Childhood Development Worldwide<!--</a>--></li>
                 <li><a href="teaching-kenya-to-read.php">Teaching Kenya to Read</a></li>
                 <li><a href="spurring-somalian-growth-with-electric-sector-work.php">Spurring Somalian Growth with Electric Sector Work</a></li>
-                <li><a href="driving-change-in-haiti-women-at-work.php">Driving Change in Haiti: Women at Work</a></li>
-                <li><a href="training-usaid-staff-lessons-from-the-field.php">Training USAID Staff: Lessons from the Field</a></li>
+                <li><a href="building-a-stronger-haiti.php">Building a Stronger Haiti</a></li>
+                <li><a href="training-usaid-staff-worldwide.php">Training USAID Staff Worldwide</a></li>
             </ul>
         </div>
 

@@ -14,6 +14,7 @@
 				<li><a href="working-to-provide-clean-water-in-nigeria.php">Working to Provide Clean Water in Nigeria</a></li>
 				<li><a href="harnessing-hydropower-a-new-wave-of-renewable-energy.php">Harnessing Hydropower: A New Wave of Renewable Energy</a></li>
 				<li><a href="driving-energy-success-in-the-phillipines.php">Driving Energy Success in the Philippines</a></li>
+				<li><a href="preventing-exposure-to-harmful-contaminants.php">Preventing Exposure to Harmful Contaminants</a></li>
 			</ul>
 		</div>
 	</div>
