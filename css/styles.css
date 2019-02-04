@@ -100,9 +100,10 @@ h1, h2, h3, h4, p, a {
 
 .innerContainer {
     display: flex;
-    position: absolute;
+    position: relative;
     max-width: 1600px;
-    /*width:100%;*/
+    /* width: 100%; */
+    margin: 0 10%;
 }
 
 .flex {
@@ -199,15 +200,7 @@ h1, h2, h3, h4, p, a {
     height: 100vh;
     display: flex;
     flex-direction: column;
-    /*margin-right: 3rem;*/
-    align-items: flex-end;
-}
-
-
-.navBox {
-    font-size: 1.6rem;
-    min-width: 292px;
-    display:flex;
+    align-items: center;
 }
 
 .insideBox3 p {
@@ -219,16 +212,18 @@ h1, h2, h3, h4, p, a {
     border: 1px solid #707070;
     color: #ffffff;
     font-weight: 400;
-    font-size: 1.6rem;
     display: flex;
     justify-content: center;
     align-items: center;
     text-align: center;
     background-size: cover;
     width: 292px;
-    max-width:292px;
+    /*min-width: 292px;
+    max-width:292px;*/
     background-color:#111D2B;
     white-space:nowrap;
+    font-size: 1.6rem;
+    display:flex;
     
     margin: 5px 0;
 }
@@ -363,7 +358,12 @@ h1, h2, h3, h4, p, a {
 }
 
 /* landing pages and interior pages*/
-.landingPage, .landingPage-page, .living-our-mission, .living-our-mission-page, .enhancing-health, .enhancing-health-page, .keeping-people-safe, .keeping-people-safe-page, .thrive-and-prosper, .thrive-and-prosper-page, .protecting-the-planet, .protecting-the-planet-page {
+.landingPage {
+    width: 100%;
+  /* max-width: 70%;*/
+}
+
+.landingPage-page, .living-our-mission, .living-our-mission-page, .enhancing-health, .enhancing-health-page, .keeping-people-safe, .keeping-people-safe-page, .thrive-and-prosper, .thrive-and-prosper-page, .protecting-the-planet, .protecting-the-planet-page {
     display: flex;
     flex-direction: column;
     justify-content: space-between;
