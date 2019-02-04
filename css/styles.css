@@ -387,7 +387,6 @@ h1, h2, h3, h4, p, a {
     position: absolute;
     border-left: 11px solid #0f39a0;
     font-size: 2.2rem;
-    padding-left: 3rem;
     margin-left: 3rem;
     font-weight: 300;
 }
