@@ -100,9 +100,11 @@ h1, h2, h3, h4, p, a {
 
 .innerContainer {
     display: flex;
-    position: absolute;
+    position: relative;
     max-width: 1600px;
-    /*width:100%;*/
+    padding: 0 2rem;
+    /* width: 100%;
+    margin: 0 10%; */
 }
 
 .flex {
@@ -199,15 +201,7 @@ h1, h2, h3, h4, p, a {
     height: 100vh;
     display: flex;
     flex-direction: column;
-    /*margin-right: 3rem;*/
     align-items: flex-end;
-}
-
-
-.navBox {
-    font-size: 1.6rem;
-    min-width: 292px;
-    display:flex;
 }
 
 .insideBox3 p {
@@ -219,16 +213,18 @@ h1, h2, h3, h4, p, a {
     border: 1px solid #707070;
     color: #ffffff;
     font-weight: 400;
-    font-size: 1.6rem;
     display: flex;
     justify-content: center;
     align-items: center;
     text-align: center;
     background-size: cover;
     width: 292px;
-    max-width:292px;
+    /*min-width: 292px;
+    max-width:292px;*/
     background-color:#111D2B;
     white-space:nowrap;
+    font-size: 1.6rem;
+    display:flex;
     
     margin: 5px 0;
 }
@@ -363,7 +359,12 @@ h1, h2, h3, h4, p, a {
 }
 
 /* landing pages and interior pages*/
-.landingPage, .landingPage-page, .living-our-mission, .living-our-mission-page, .enhancing-health, .enhancing-health-page, .keeping-people-safe, .keeping-people-safe-page, .thrive-and-prosper, .thrive-and-prosper-page, .protecting-the-planet, .protecting-the-planet-page {
+.landingPage {
+    width: 100%;
+  /* max-width: 70%;*/
+}
+
+.landingPage-page, .living-our-mission, .living-our-mission-page, .enhancing-health, .enhancing-health-page, .keeping-people-safe, .keeping-people-safe-page, .thrive-and-prosper, .thrive-and-prosper-page, .protecting-the-planet, .protecting-the-planet-page {
     display: flex;
     flex-direction: column;
     justify-content: space-between;
@@ -375,7 +376,7 @@ h1, h2, h3, h4, p, a {
 
 .landingPage h1 {
     color: #226AA0;
-    font-size: calc(24px + (300 - 24) * ((100vw - 300px) / (1600 - 350)));
+    font-size: calc(24px + (200 - 24) * ((100vw - 200px) / (1600 - 375)));
     font-weight: 300;
     white-space: nowrap;
     margin: 0;
@@ -387,13 +388,12 @@ h1, h2, h3, h4, p, a {
     position: absolute;
     border-left: 11px solid #0f39a0;
     font-size: 2.2rem;
-    padding-left: 3rem;
     margin-left: 3rem;
     font-weight: 300;
 }
 .enhancing-health h1  {
     color: #316094;
-    font-size: calc(26px + (40 - 26) * ((100vw - 350px) / (1600 - 350)));
+    font-size: calc(26px + (40 - 26) * ((100vw - 350px) / (1600 - 375)));
     margin: 0;
     font-weight: 400;
     margin: 0 0 0.5rem 0;
@@ -403,7 +403,7 @@ h1, h2, h3, h4, p, a {
 
 .keeping-people-safe h1 {
     color: #787C3C;
-    font-size: calc(26px + (40 - 26) * ((100vw - 350px) / (1600 - 350)));
+    font-size: calc(26px + (40 - 26) * ((100vw - 350px) / (1600 - 375)));
     margin: 0;
     font-weight: 400;
     margin: 0 0 0.5rem 0;
@@ -412,7 +412,7 @@ h1, h2, h3, h4, p, a {
 }
 .thrive-and-prosper h1 {
     color: #638C1C;
-    font-size: calc(26px + (40 - 26) * ((100vw - 350px) / (1600 - 350)));
+    font-size: calc(26px + (40 - 26) * ((100vw - 350px) / (1600 - 375)));
     margin: 0;
     font-weight: 400;
     margin: 0 0 0.5rem 0;
@@ -422,7 +422,7 @@ h1, h2, h3, h4, p, a {
 
 .protecting-the-planet h1 {
     color: #FFC629;
-    font-size: calc(26px + (40 - 26) * ((100vw - 350px) / (1600 - 350)));
+    font-size: calc(26px + (40 - 26) * ((100vw - 350px) / (1600 - 375)));
     margin: 0;
     font-weight: 400;
     margin: 0 0 0.5rem 0;
@@ -432,7 +432,7 @@ h1, h2, h3, h4, p, a {
 
 .landingPage h2 {
     color: #FFFFFF;
-    font-size: calc(24px + (165 - 24) * ((100vw - 300px) / (1600 - 350)));
+    font-size: calc(24px + (100 - 24) * ((100vw - 100px) / (1600 - 375)));
     font-weight: 300;
     margin: -1rem 0 0 0;
     white-space: nowrap;
@@ -440,7 +440,7 @@ h1, h2, h3, h4, p, a {
 
 .landingPage h3 {  
     color: #FFFFFF;
-    font-size: calc(24px + (60 - 24) * ((100vw - 300px) / (1600 - 350)));
+    font-size: calc(24px + (45 - 24) * ((100vw - 45px) / (1600 - 375)));
     font-weight: 300;
     margin: 0rem 0 0 0;
     white-space: nowrap;
@@ -448,19 +448,19 @@ h1, h2, h3, h4, p, a {
 
 .living-our-mission h2, .enhancing-health h2, .keeping-people-safe h2, .thrive-and-prosper h2, .protecting-the-planet h2 {
     color: #EFDCB0;
-    font-size: calc(18px + (20 - 18) * ((100vw - 350px) / (1600 - 350)));
+    font-size: calc(18px + (20 - 18) * ((100vw - 350px) / (1600 - 375)));
     margin: 0;
     font-weight: 400;
 }
 
 .light {
     /*font-size:1.3rem;*/
-    font-size:calc(14px + (20 - 14) * ((100vw - 350px) / (1600 - 350)));
+    font-size:calc(14px + (20 - 14) * ((100vw - 350px) / (1600 - 375)));
     color: #ffffff;
 
 }
 .regular {
-    font-size:calc(14px + (20 - 14) * ((100vw - 350px) / (1600 - 350)));
+    font-size:calc(14px + (20 - 14) * ((100vw - 350px) / (1600 - 375)));
     color: #ffffff;
 }
 
@@ -494,13 +494,13 @@ ul li a:hover {
 }
 .living-our-mission ul li, .enhancing-health ul li, .keeping-people-safe ul li, .thrive-and-prosper ul li, .protecting-the-planet ul li {
     /*font-size:1.4rem;*/
-    font-size: calc(14px + (20 - 14) * ((100vw - 350px) / (1600 - 350)));
+    font-size: calc(14px + (20 - 14) * ((100vw - 350px) / (1600 - 375)));
     font-weight:300;
     white-space:nowrap;
 }
 .living-our-mission-page ul li, .enhancing-health-page ul li, .keeping-people-safe-page ul li, .thrive-and-prosper-page ul li, .protecting-the-planet-page ul li {
     /*font-size:1.4rem;*/
-    font-size: calc(14px + (20 - 14) * ((100vw - 350px) / (1600 - 350)));
+    font-size: calc(14px + (20 - 14) * ((100vw - 350px) / (1600 - 375)));
     font-weight:300;
     white-space:nowrap;
 }
@@ -511,18 +511,18 @@ ul li a:hover {
     margin: 0;
     font-weight: 400;
     /*white-space:nowrap;*/
-    font-size: calc(26px + (35 - 26) * ((100vw - 350px) / (1600 - 350)));
+    font-size: calc(26px + (35 - 26) * ((100vw - 350px) / (1600 - 375)));
 }
 .enhancing-health-page h2, .keeping-people-safe-page h2, .thrive-and-prosper-page h2, .protecting-the-planet-page h2 {
     color:#EFDCB0;
     margin:0;
     font-weight: 400;
-    font-size: calc(24px + (25 - 24) * ((100vw - 350px) / (1600 - 350)));
+    font-size: calc(24px + (25 - 24) * ((100vw - 350px) / (1600 - 375)));
 }
 
 .enhancing-health-page p, .keeping-people-safe-page p, .thrive-and-prosper-page p, .protecting-the-planet-page p {
     color: #ffffff;
-    font-size:calc(14px + (20 - 14) * ((100vw - 350px) / (1600 - 350)));
+    font-size:calc(14px + (20 - 14) * ((100vw - 350px) / (1600 - 375)));
 }
 
 .enhancing-health-page .active {
