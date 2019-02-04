@@ -10,8 +10,14 @@
 	/*.column.ten {
 		flex: 0 0 50%;
 	}*/
-	.column.left, .column.right, .column.seven, .column.three {
+	.column.left, .column.right {
 		flex: 0 0 50%;
+	}
+	.column.seven {
+		flex: 0 0 70%;
+	}
+	.column.three {
+		flex: 0 0 30%;
 	}
 	.container {
 			max-width:1600px;

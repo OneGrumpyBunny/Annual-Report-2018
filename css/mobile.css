@@ -35,11 +35,4 @@
 		top:0;
 	}
 	
-	.column.three {
-		flex: 0 0 30%;
-	}
-	
-	.column.seven {
-		flex: 0 0 70%;
-	}
 }
