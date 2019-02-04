@@ -1,0 +1,37 @@
+@media all and (max-width:375px) {
+	body {
+		max-width:375px;
+		margin: 0;
+		width: 100%;
+		background: url(../img/background.png);
+		background-size: contain;
+	}
+	.navContainer {
+			display:none;
+	}
+	.sectionBack {
+		display:none;
+	}
+	.yellowlink {
+		color:#FFC629;
+	}
+	.a {
+		color:#fff;
+	}
+	.landingPage {
+		display:none;
+	}
+	.landingPageMobile{
+		display:flex
+	}
+	.light {
+		font-size: calc(22px + (20 - 22) * ((100vw - 350px) / (1600 - 375)));
+	}
+	.innerContainer {
+		overflow: hidden;
+	}
+	.logo {
+		margin-top: -4rem;
+		top:0;
+	}
+}
