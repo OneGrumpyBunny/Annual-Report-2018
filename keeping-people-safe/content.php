@@ -1,4 +1,5 @@
-
+<img src="img/keeping-people-safe-back.png" class="sectionBack">
+	<div class="innerContainer">
 	<div class="column left flex">
 		<div class="keeping-people-safe">
 			<div>
