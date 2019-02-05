@@ -10,15 +10,13 @@
 	/*.column.ten {
 		flex: 0 0 50%;
 	}*/
-	.column.left, .column.right {
+	.column.left, .column.right, .column.three { /* revisit this */
 		flex: 0 0 50%;
 	}
 	.column.seven {
 		flex: 0 0 70%;
 	}
-	.column.three {
-		flex: 0 0 30%;
-	}
+	
 	.container {
 			max-width:1600px;
 			
