@@ -63,7 +63,7 @@
 		margin: 5px 0;
 	}
 	.navBox:nth-child(1) {
-			background-image:url('..img\envisioning-a-world-without-tropical-diseases.jpg');
+			background-image:url('..\img\envisioning-a-world-without-tropical-diseases.jpg');
 			opacity:0.9;
 	}
 	.navBox:nth-child(2) {
