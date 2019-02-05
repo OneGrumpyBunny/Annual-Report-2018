@@ -3,8 +3,7 @@
 		<div class="message-from-president">
 			<div>
 			<img src="../img/RTI_w_1in.png" class="logo">
-			<h1>2018 Annual Report</h1>
-			<h2>A Letter from the President</h2>
+			<h1>A Letter from the President</h1>
 				<p class="light">
 					This year, RTI International marked a significant milestone as we began celebrating 60 years of living our mission. As I look back over the institute’s trajectory since 1958, I can see clearly how our commitment to improving the human condition has formed a bedrock for immense positive impact around the world. <br/><br/>
 					In 2018, we made great strides in research that improves people’s health and safeguards schools and communities. We supported efforts to advance education and bolster economic stability in developing nations. We explored science-based solutions to enable responsible stewardship of our planet. And because the commitment to living our mission runs deep, we donated significant time and resources in partnership with charitable and community organizations around the world. <br/><br/>
