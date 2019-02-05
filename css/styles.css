@@ -218,7 +218,7 @@ h1, h2, h3, h4, p, a {
     margin: 0;
 }
 
-.living-our-mission h1 {
+.living-our-mission ul {
     color: #ffffff;
     bottom: 0;
     position: absolute;
