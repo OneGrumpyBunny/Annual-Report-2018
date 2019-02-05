@@ -1,4 +1,5 @@
-
+<img src="img/protecting-the-planet-back.png" class="sectionBack">
+	<div class="innerContainer">
 	<div class="column left flex">
 	<div class="protecting-the-planet">
 		<div>
