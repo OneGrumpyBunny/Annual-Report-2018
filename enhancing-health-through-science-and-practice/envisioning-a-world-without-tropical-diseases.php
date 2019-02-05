@@ -5,7 +5,8 @@ include $REL_DIR."config.php";
 include $REL_DIR.$INCL_DIR."header.php";
 include $REL_DIR.$INCL_DIR."meta-health.php";
 ?>
-
+<img src="img/test-sparkle.png" class="sectionBack">
+<div class="innerContainer">
 <div class="column left flex">
     <div class="enhancing-health-page">
         

@@ -1,4 +1,6 @@
-
+<img src="img/enhancing-health-back.png" class="sectionBack">
+	<div class="innerContainer">
+	
 	<div class="column left flex">
 		<div class="enhancing-health">
 			<div>
