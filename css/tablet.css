@@ -280,7 +280,22 @@
 		color: #ffffff;
 		font-size:calc(14px + (20 - 14) * ((100vw - 350px) / (1600 - 375)));
 	}
-	.thrive-and-prosper, .living-our-mission, .enhancing-health, .keeping-people-safe, .protecting-the-planet .regular{
+	.thrive-and-prosper .regular{
+		white-space: nowrap;
+	}
+	.living-our-mission .regular{
+		white-space: nowrap;
+	}
+
+	.enhancing-health .regular{
+		white-space: nowrap;
+	}
+
+	.keeping-people-safe .regular{
+		white-space: nowrap;
+	}
+
+	.protecting-the-planet .regular{
 		white-space: nowrap;
 	}
 }
