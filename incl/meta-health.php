@@ -5,5 +5,5 @@
 </head>
 <body>
 <div class="container">
-    <img src="../img/test.jpg" class="sectionBack">
+    <img src="../img/enhancing-health-back.jpg" class="sectionBack">
 	<div class="innerContainer">
