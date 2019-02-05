@@ -4,6 +4,8 @@ include $REL_DIR."config.php";
 
 include $REL_DIR.$INCL_DIR."header.php";
 ?>
+<img src="../img/thrive-and-prosper-back.png" class="sectionBack">
+	<div class="innerContainer">
 <div class="column left flex">
     <div class="thrive-and-prosper-page">
 
