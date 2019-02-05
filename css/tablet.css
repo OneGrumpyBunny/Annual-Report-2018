@@ -268,13 +268,14 @@
 		font-weight: 400;
 		/*white-space:nowrap;*/
 		font-size: calc(26px + (35 - 26) * ((100vw - 350px) / (1600 - 375)));
-		line-height: 41px;
+		line-height: 40px;
 	}
 	.enhancing-health-page h2, .keeping-people-safe-page h2, .thrive-and-prosper-page h2, .protecting-the-planet-page h2 {
 		color:#EFDCB0;
 		margin:0;
 		font-weight: 400;
 		font-size: calc(24px + (25 - 24) * ((100vw - 350px) / (1600 - 375)));
+		line-height: 30px;
 	}
 
 	.enhancing-health-page p, .keeping-people-safe-page p, .thrive-and-prosper-page p, .protecting-the-planet-page p {
