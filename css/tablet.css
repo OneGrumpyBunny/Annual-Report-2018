@@ -280,7 +280,7 @@
 		color: #ffffff;
 		font-size:calc(14px + (20 - 14) * ((100vw - 350px) / (1600 - 375)));
 	}
-	.thrive-and-prosper .regular{
+	.thrive-and-prosper, .living-our-mission, .enhancing-health, .keeping-people-safe, .protecting-the-planet .regular{
 		white-space: nowrap;
 	}
 }
