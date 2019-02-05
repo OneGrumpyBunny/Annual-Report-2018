@@ -281,7 +281,7 @@
 		font-size:calc(14px + (20 - 14) * ((100vw - 350px) / (1600 - 375)));
 	}
 	.thrive-and-prosper .regular{
-		width: 100%;
+		white-space: nowrap;
 	}
 }
 
