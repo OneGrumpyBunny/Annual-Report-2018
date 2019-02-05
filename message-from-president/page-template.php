@@ -6,7 +6,7 @@ include $REL_DIR.$INCL_DIR."header.php";
 include $REL_DIR.$INCL_DIR."meta-president.php";
 ?>
 <div class="column left flex">
-    <div class="protecting-the-planet-page">
+    <div class="message-from-presdent-page">
 
     
         <!--- update content below this line --->
