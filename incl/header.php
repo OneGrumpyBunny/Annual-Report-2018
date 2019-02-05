@@ -11,6 +11,7 @@
     <link rel='stylesheet' href='<?php echo $REL_DIR.$CSS_DIR ?>normalize.css' />
     <!--<link rel='stylesheet' href='<?php echo $REL_DIR.$CSS_DIR ?>flex.css' />-->
     <link rel='stylesheet' href='<?php echo $REL_DIR.$CSS_DIR ?>styles.css' />
+    
 	<link rel='stylesheet' href='<?php echo $REL_DIR.$CSS_DIR ?>tablet.css' />
 	<link rel='stylesheet' href='<?php echo $REL_DIR.$CSS_DIR ?>mobile.css' />
 	<script type='text/javascript' src='<?php echo $REL_DIR.$JS_DIR ?>jquery.min.js'></script>
