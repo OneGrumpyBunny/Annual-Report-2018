@@ -217,7 +217,7 @@ h1, h2, h3, h4, p, a {
     font-weight: 300;
     white-space: nowrap;
     margin: 0 auto 0 auto;
-    line-height: 90px;
+    line-height: 100px;
     width: calc(50%);
 }
 .living-our-mission ul {
