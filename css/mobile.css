@@ -64,7 +64,10 @@
 	.readmore a {
 		font-size:1rem;
 	}
-	.aboutMob, .healthMob, .safeMob, .thriveMob, .planetMob {
+	.thriveMob {
+		margin-top: 12rem;
+	}
+	.aboutMob, .healthMob, .safeMob,  .planetMob {
 		
     margin-top: 10rem;
 	}
