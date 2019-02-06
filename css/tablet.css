@@ -231,15 +231,14 @@
 	.landingPage h1{
 		width: calc(50%);
 		margin: 0 auto;
-		width: calc(50%);
-		text-align: justify;
+		white-space: nowrap;
+		letter-spacing: 100%;
 	}
 	.landingPage h2 {
 		/* margin: -1rem 0 0 0; */
 		white-space: nowrap;
-		text-align: justify;
-		margin: 0 auto 1rem auto;
 		width: calc(50%);
+		margin: -1rem auto 1rem auto;
 	}
 	.landingPage h3 {  
 		/* margin: 0rem 0 0 0; */
