@@ -304,9 +304,11 @@
 	}
 	.thrive-and-prosper .regular, .living-our-mission .regular, .enhancing-health .regular,.keeping-people-safe .regular, .protecting-the-planet .regular{
 		white-space: nowrap;
+		overflow: overlay;
 	}
 	.thrive-and-prosper-page .regular, .living-our-mission-page .regular, .enhancing-health-page .regular,.keeping-people-safe-page .regular, .protecting-the-planet-page .regular{
 		white-space: nowrap;
+		overflow: overlay;
 	}
 	/* .living-our-mission .regular{
 		white-space: nowrap;
