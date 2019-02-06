@@ -3,6 +3,7 @@ $REL_DIR = "../";
 include $REL_DIR."config.php";
 
 include $REL_DIR.$INCL_DIR."header.php";
+include $REL_DIR.$INCL_DIR."meta-living.php";
 ?>
 <img src="img/living-our-mission-back.png" class="sectionBack">
 	<div class="innerContainer">
