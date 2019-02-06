@@ -57,7 +57,7 @@ a {
     text-decoration:none;
     opacity:.8;
 }
-.readmore a {
+.readmore a, .readmore button {
     color: #FFC629;
     opacity:0.9;
 }

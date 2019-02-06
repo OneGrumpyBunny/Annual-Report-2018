@@ -8,6 +8,9 @@
 	.landingPageMobile {
 		display:none;
 	}
+	.fixed-header {
+		display:none;
+	}
 
 	/*.column.ten {
 		flex: 0 0 50%;
