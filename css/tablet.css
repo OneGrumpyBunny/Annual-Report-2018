@@ -228,16 +228,25 @@
 		margin: 0 0 0.5rem 0;
 		line-height: 41px;
 	}
-	
-	.landingPage h2 {
-		margin: -1rem 0 0 0;
-		white-space: nowrap;
+	.landingPage h1{
+		width: calc(50%);
+		margin: 0 auto;
+		width: calc(50%);
+		text-align: justify;
 	}
-
-	
-	.landingPage h3 {  
-		margin: 0rem 0 0 0;
+	.landingPage h2 {
+		/* margin: -1rem 0 0 0; */
 		white-space: nowrap;
+		text-align: justify;
+		margin: 0 auto 1rem auto;
+		width: calc(50%);
+	}
+	.landingPage h3 {  
+		/* margin: 0rem 0 0 0; */
+		white-space: nowrap;
+		text-align: justify;
+		margin: 0 auto;
+		width: calc(50%);
 	}
 	
 	.living-our-mission ul, .living-our-mission-page ul {

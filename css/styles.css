@@ -216,9 +216,7 @@ h1, h2, h3, h4, p, a {
     font-size: calc(24px + (200 - 24) * ((100vw - 200px) / (1600 - 375)));
     font-weight: 300;
     white-space: nowrap;
-    margin: 0 auto 0 auto;
-    line-height: 100px;
-    width: calc(50%);
+    margin: 0;
 }
 .living-our-mission ul {
     color: #ffffff;
@@ -269,8 +267,7 @@ h1, h2, h3, h4, p, a {
     font-size: calc(24px + (100 - 24) * ((100vw - 100px) / (1600 - 375)));
     font-weight: 300;
     white-space: nowrap;
-    width: calc(50%);
-    margin: 0 auto 0 auto;
+    margin: 0;
 }
 
 .landingPageMobile h2, .landingPageMobile h1 {
