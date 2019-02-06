@@ -191,7 +191,9 @@
 	}
 
 	.landingPage {
-		margin-left: 0;
+		display: flex;
+		justify-content: space-evenly;
+		margin: 0 auto;
 	}
 	
 	.landingPage-page, .living-our-mission, .living-our-mission-page, .enhancing-health, .enhancing-health-page, .keeping-people-safe, .keeping-people-safe-page, .thrive-and-prosper, .thrive-and-prosper-page, .protecting-the-planet, .protecting-the-planet-page {
