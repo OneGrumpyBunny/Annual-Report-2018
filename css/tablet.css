@@ -1,4 +1,4 @@
-@media all and (min-width:376px) {
+@media all and (min-width:415px) {
 	header {
 		display:none;
 	}
@@ -27,12 +27,22 @@
 	.sectionBack {
 			max-width: 1600px;
 	}
+	.section {
+		width:100vw;
+	}
 	
+	.readmore a {
+		font-size:inherit;
+	}
 	.innerContainer {
-			display: flex;
-			position: relative;
-			max-width: 1600px;
-			padding: 0 2rem;
+		display: flex;
+		position: relative;
+		max-width: 1600px;
+		padding: 0 2rem;
+		overflow: hidden;
+	}
+	.innerContainerMob {
+		display:none;
 	}
 	
 

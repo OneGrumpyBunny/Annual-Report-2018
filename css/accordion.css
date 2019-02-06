@@ -1,0 +1,111 @@
+.acc-body {
+    display: none;
+}
+
+.crc-chevron {
+    -ms-flex-item-align: center;
+    -ms-grid-row-align: center;
+    align-self: center;
+    font-size: 1rem;
+    max-width: 10%;
+}
+
+.fa-chevron-down {
+    color: #FFF;
+    font-size: 22px;
+    -webkit-transform: rotate(0deg);
+    -ms-transform: rotate(0deg);
+    transform: rotate(0deg);
+    -webkit-transition: -webkit-transform .5s ease-in;
+    transition: -webkit-transform .5s ease-in;
+    -o-transition: transform .5s ease-in;
+    transition: transform .5s ease-in;
+    transition: transform .5s ease-in, -webkit-transform .5s ease-in;
+    /* float: right; */
+    cursor: pointer;
+    padding: 5px;
+}
+.acc-head {
+    border-bottom: 1px solid #fff;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    justify-content: space-between;
+    -webkit-box-orient: horizontal;
+    -webkit-box-direction: normal;
+    -ms-flex-flow: row;
+    flex-flow: row;
+    -ms-flex-line-pack: center;
+    align-content: center;
+    padding: 1rem 2rem;
+    cursor: pointer;
+}
+.aboutMob .acc-head {
+    background: rgba(15, 57, 160, .8)
+}  
+.healthMob .acc-head {
+    background: rgba(49, 96, 148, .8)
+}  
+
+.safeMob .acc-head {
+    background: rgba(120, 124, 60, .8);
+}
+.thriveMob .acc-head {
+    background: rgba(99, 140, 28, .8);
+}
+
+.planetMob .acc-head {
+    background: rgba(255, 198, 41, .8);
+}
+
+.acc-head {
+    width: 80%;
+   
+    padding: .5rem .5rem .5rem;
+    margin: .8rem 0;
+    border-radius: 10px;
+}
+
+.acc-head p {
+    color: #fff;
+    font-weight: 300;
+    font-size: 1rem;
+    padding: 0;
+    margin: 0;
+}
+.acc-body {
+    padding: 0 15px;
+  color:#fff;
+  /*background:#eee;
+  border:1px solid #ddd;
+  text-align:center;*/
+}
+.acc-body p {
+    font-size: 1rem;
+}
+p {
+  text-align:left;
+}
+.crc-close-anim {
+	-webkit-transform: scale(.7);
+	-ms-transform: scale(.7);
+    transform: scale(.7);
+}
+
+.close {
+    background-color: transparent;
+    border: none;
+ 
+}
+
+button, select {
+    text-transform: none;
+    transform: scale(1);
+}
+
+.fa-times {
+    color: #B34238;
+    font-size: 20px;
+    margin: auto;
+    padding: 10px;
+}

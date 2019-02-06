@@ -97,7 +97,7 @@ a:hover{
 section {
     position:absolute;
     height:100vh;
-    width:100vw;
+    /*width:100vw;*/
 }
 
 h1, h2, h3, h4, p, a {
@@ -200,7 +200,7 @@ h1, h2, h3, h4, p, a {
     
 }
 .landingPageMobile {
-    margin: 0 1rem;
+    /*margin: 0 1rem;*/
     justify-content: space-evenly;
 }
 
@@ -263,6 +263,12 @@ h1, h2, h3, h4, p, a {
     white-space: nowrap;
 }
 
+.landingPageMobile h2, .landingPageMobile h1 {
+    margin:0;
+}
+.landingPageMobile h3 {
+    margin: 0.5rem 0;
+}
 .landingPageMobile h3, .landingPage h3 {  
     color: #FFFFFF;
     font-size: calc(24px + (45 - 24) * ((100vw - 45px) / (1600 - 375)));

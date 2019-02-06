@@ -1,6 +1,6 @@
-@media all and (max-width:375px) {
+@media all and (max-width:414px) {
 	body {
-		max-width:375px;
+		max-width:414px;
 		margin: 0;
 		width: 100%;
 		
@@ -28,11 +28,59 @@
 		font-size: calc(22px + (20 - 22) * ((100vw - 350px) / (1600 - 375)));
 	}
 	.innerContainer {
-		overflow: hidden;
+		display:none;
+	}
+
+	/**/
+	.mobileHead {
+		font-size: 1.5rem;
+    color: #fff;
+    font-weight: 300;
+    border-left: 10px solid #316094;
+    padding: 0px 9px;
+    background: rgba(0, 0, 0, .5);
+    margin-left: 1rem;
+	}
+	.innerContainerMob {
+		margin-left: 1rem;
+		z-index: 100;
+	}
+	.readmore a {
+		font-size:1rem;
+	}
+	.healthMob {
+		
+    margin-top: 10rem;
+	}
+	.headerText {
+		font-size: 1rem;
+    color: #fff;
+    width: 77vw;
+	}
+	.innerContainerMob p {
+		font-weight:300;
+
+	}
+	.landingMob {
+		margin-top: 3rem;
+	}
+	.section {
+		position: absolute;
+    height: 100vh;
+    /* width: 100vw; */
+    z-index: 1;
+
 	}
 	.logo {
-		margin-top: -2.2rem;
-		top:0;
+		margin-left: 1rem;
+    margin-bottom: 3rem;
+	}
+	.fixed-header {
+		position: fixed;
+    top: 0;
+    z-index: 100;
+    background: black;
+    width: 81vw;
 	}
 	header {
 		display:block;
@@ -66,6 +114,7 @@
 	  -webkit-transform: translate3d(0,0,0);
 	  transform: translate3d(0,0,0);
 		display:block;
+		z-index: 101;
   }
   
   body.active header {
@@ -194,11 +243,12 @@
 		width: 20px;
 	
   }
-  
+	
   body.active #pull {
 	 animation: flipit .5s ease-in forwards;
   }
-  
+	
+	
   @keyframes flipit {
 		0% {  transform: scaleX(1);}
 		100% {  transform: scaleX(-1);}
@@ -238,5 +288,16 @@
 		background-position: center;
 		
 	}
-	
+	.enhancing-back {
+		background: url(../enhancing-health-through-science-and-practice/img/enhancing-health-back.png);
+    height: 100vh;
+    background-size: cover;
+    background-position: bottom center;
+	}
+	.landing-back {
+		background: url(../img/background.png);
+    height: 100vh;
+    background-size: cover;
+    background-position: bottom center;
+	}
 }

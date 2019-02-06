@@ -7,9 +7,13 @@ function menu() {
     if($("body.active").is(":visible")){
       $('.side-line').addClass('on');
       $('.side-border').addClass('off');
+     $(".fixed-header").css("opacity","0.5");
+     $(".innerContainerMob").css("opacity","0.5");
     } else{
       $('.side-line').removeClass('on');
       $('.side-border').removeClass('off');
+     $(".fixed-header").css("opacity","1");
+     $(".innerContainerMob").css("opacity","1");
     }  
 });
 }
