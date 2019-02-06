@@ -217,7 +217,12 @@ h1, h2, h3, h4, p, a {
     white-space: nowrap;
     margin: 0;
 }
-
+.living-our-mission h1{
+    color:  #226AA0;
+    font-size: calc(26px + (40 - 26) * ((100vw - 350px) / (1600 - 375)));
+    margin: 0;
+    font-weight: 400;
+}
 .living-our-mission ul {
     color: #ffffff;
     bottom: 0;
