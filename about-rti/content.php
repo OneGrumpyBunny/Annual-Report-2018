@@ -19,7 +19,7 @@
 
 				<p>In 2018, we made great strides in research that improves people’s health and safeguards schools and communities. We supported efforts to advance education and bolster economic stability in developing nations. We explored science-based solutions to enable responsible stewardship of our planet. And because the commitment to living our mission runs deep, we donated significant time and resources in partnership with charitable and community organizations around the world. </p>
 
-				Moreover, this was one of the most successful years in our history. We pursued strategic business collaborations, spun out a new venture company, and set a record for staff contributions to scientific stature. We also opened the doors to Horizon, our new headquarters building in Research Triangle Park, NC, where creative ideas and cross-institute partnerships unfold every day. </p>
+				<p>Moreover, this was one of the most successful years in our history. We pursued strategic business collaborations, spun out a new venture company, and set a record for staff contributions to scientific stature. We also opened the doors to Horizon, our new headquarters building in Research Triangle Park, NC, where creative ideas and cross-institute partnerships unfold every day. </p>
 
 				<p>With a stellar year behind us, it is exciting to look ahead and imagine where our work will take us. I am proud of our 2018 accomplishments and, more important, our people, who live RTI’s mission every day to make the world a better place. </p>
 
