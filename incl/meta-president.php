@@ -5,5 +5,3 @@
 </head>
 <body>
 <div class="container">
-<img src="../img/living-our-mission-back.png" class="sectionBack">
-	<div class="innerContainer">

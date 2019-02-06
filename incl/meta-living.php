@@ -5,5 +5,3 @@
 </head>
 <body>
 <div class="container">
-<img src="../img/test-1_HalfImages.gif" class="sectionBack">
-<div class="innerContainer" style="width:100%;">
