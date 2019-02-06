@@ -238,6 +238,7 @@
 	.landingPage h1{
 		margin: 0;
 		white-space: nowrap;
+		letter-spacing: 20px;
 	}
 	.landingPage h2 {
 		/* margin: -1rem 0 0 0; */
@@ -314,11 +315,11 @@
 	}
 	.thrive-and-prosper .regular, .living-our-mission .regular, .enhancing-health .regular,.keeping-people-safe .regular, .protecting-the-planet .regular{
 		white-space: nowrap;
-		overflow: auto;
+		/* overflow: auto; */
 	}
 	.thrive-and-prosper-page .regular, .living-our-mission-page .regular, .enhancing-health-page .regular,.keeping-people-safe-page .regular, .protecting-the-planet-page .regular{
 		white-space: nowrap;
-		overflow: auto;
+		/* overflow: auto; */
 	}
 	/* .living-our-mission .regular{
 		white-space: nowrap;
