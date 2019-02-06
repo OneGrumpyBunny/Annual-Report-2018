@@ -17,8 +17,6 @@
 	}*/
 	.column.left, .column.right, .column.three { /* revisit this */
 		flex: 0 0 50%;
-		justify-content: space-evenly;
-		align-items: center;
 	}
 	.column.seven {
 		flex: 0 0 70%;
@@ -194,6 +192,10 @@
 
 	.landingPage {
 		margin-left: 0;
+		display: flex;
+		flex-flow: column;
+		justify-content: space-evenly;
+		align-items: center;
 	}
 	
 	.landingPage-page, .living-our-mission, .living-our-mission-page, .enhancing-health, .enhancing-health-page, .keeping-people-safe, .keeping-people-safe-page, .thrive-and-prosper, .thrive-and-prosper-page, .protecting-the-planet, .protecting-the-planet-page {
