@@ -253,7 +253,7 @@
 		0% {  transform: scaleX(1);}
 		100% {  transform: scaleX(-1);}
 		}  
-		
+
 		body.active .nav-link:nth-child(1) {
 			background-image:url('../img/nav_about_mob.png');
 			opacity:1;
@@ -297,6 +297,31 @@
 	}
 	.landing-back {
 		background: url(../img/background.png);
+    height: 100vh;
+    background-size: cover;
+    background-position: bottom center;
+	}
+	
+	.safe-back {
+		background: url(../keeping-people-safe/img/keeping-people-safe-back.png);
+    height: 100vh;
+    background-size: cover;
+    background-position: bottom center;
+	}
+	.thrive-back {
+		background: url(../helping-regions-thrive-and-prosper/img/thrive-and-prosper-back.png);
+    height: 100vh;
+    background-size: cover;
+    background-position: bottom center;
+	}
+	.planet-back {
+		background: url(../protecting-the-planet/img/protecting-the-planet-back.png);
+    height: 100vh;
+    background-size: cover;
+    background-position: bottom center;
+	}
+	.about-back {
+		background: url(../about-rti/img/living-our-mission-back.png);
     height: 100vh;
     background-size: cover;
     background-position: bottom center;
