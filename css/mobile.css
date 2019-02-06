@@ -253,6 +253,7 @@
 		0% {  transform: scaleX(1);}
 		100% {  transform: scaleX(-1);}
 		}  
+		
 		body.active .nav-link:nth-child(1) {
 			background-image:url('../img/nav_about_mob.png');
 			opacity:1;
