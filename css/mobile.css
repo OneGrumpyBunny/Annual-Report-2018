@@ -83,8 +83,7 @@
 	  flex-flow: column;
 	  justify-content: center;
 	  align-items: stretch;
-	  height: 90vh;
-	  max-height: 600px;
+		height: 95vh;
 	}
 	
   .nav-link {
