@@ -1,45 +1,87 @@
 <img src="img/thrive-and-prosper-back.png" class="sectionBack">
-	<!-- mobile navigation -->
-	<header>
-		<a id="pull"><i class="fas fa-arrow-left"></i></a>
-		<nav class="nav-total">
-		<a href="#" class="nav-link">
-			<span class="side-border about"></span>
-			<span class="side-line" id="about"></span>
-			<p id="section-1" class="nav-item">
-				2018<br>Annual Report
-				</p>
-			</a>
-			<a href="#" class="nav-link">
-			<span class="side-border health"></span>
-			<span class="side-line" id="health"></span>
-			<p id="section-2" class="nav-item">
-				Enhancing<br>Healh
-			</p>
-			</a>
-			<a href="#" class="nav-link">
-			<span class="side-border safe"></span>
-			<span class="side-line" id="safe"></span>
-			<p id="section-2" class="nav-item">
-				Keeping<br>People Safe
-			</p>
-			</a>
-			<a href="#" class="nav-link">
-			<span class="side-border thrive"></span>
-			<span class="side-line" id="thrive"></span>
-			<p id="section-4" class="nav-item">
-				Helping Regions<br>Thrive and Prosper
-			</p>
-			</a>
-			<a href="#" class="nav-link">
-			<span class="side-border protect"></span>
-			<span class="side-line" id="protect"></span>
-			<p id="section-5" class="nav-item">
-				Protecting<br>the Planet
-			</p>
-			</a>
-		</nav>
-	</header>
+
+<?php include "../incl/mobile-nav.php"; ?>
+
+	<!-- visible on mobile -->
+	<div class="fixed-header">
+		<img src="../img/RTI_w_1in.png" class="logo">
+		<p class="mobileHead mobileHeadThrive">Helping Regions Thrive and Prosper</p>
+	</div>
+	<div class="innerContainerMob thriveMob">
+		<p class="headerText"></p><p class="readmore"><a href="">READ MORE</a></p>
+		<section>
+			<div class="acc-head" data-section="section1">
+				<p></p><i class="fas fa-chevron-down crc-chevron" data-section="section1"></i>
+			</div>
+			<div id="section1" data-section="section1" class="acc-body">
+				<p></p>
+				<p class="readmore"><a href="">READ MORE </a>
+				<button style="float:right;" class="crc-close1 close" data-section="section1"><!--<i class="fas fa-times"></i>-->Close</button></p>
+			</div>
+
+			<div class="acc-head" data-section="section2">
+				<p></p><i class="fas fa-chevron-down crc-chevron" data-section="section2"></i>
+			</div>
+			<div id="section2" data-section="section2" class="acc-body">
+				<p></p>
+				<p class="readmore"><a href="">READ MORE </a>
+				<button style="float:right;" class="crc-close2 close" data-section="section2"><!--<i class="fas fa-times"></i>-->Close</button></p>
+			</div>
+
+			<div class="acc-head" data-section="section3">
+				<p></p><i class="fas fa-chevron-down crc-chevron" data-section="section3"></i>
+			</div>
+			<div id="section3" data-section="section3" class="acc-body">
+				<p></p>
+				<p class="readmore"><a href="">READ MORE </a>
+				<button style="float:right;" class="crc-close3 close" data-section="section3"><!--<i class="fas fa-times"></i>-->Close</i></button></p>
+			</div>
+
+			<div class="acc-head" data-section="section4">
+					<p></p><i class="fas fa-chevron-down crc-chevron" data-section="section4"></i>
+			</div>
+			<div id="section4" data-section="section4" class="acc-body">
+				<p></p>
+				<p class="readmore"><a href="">READ MORE </a>
+				<button style="float:right;" class="crc-close4 close" data-section="section4"><!--<i class="fas fa-times"></i>-->Close</i></button></p>
+			</div>
+
+			<div class="acc-head" data-section="section5">
+					<p></p><i class="fas fa-chevron-down crc-chevron" data-section="section5"></i>
+			</div>
+			<div id="section5" data-section="section5" class="acc-body">
+				<p></p>
+				<p class="readmore"><a href="">READ MORE </a>
+				<button style="float:right;" class="crc-close5 close" data-section="section5"><!--<i class="fas fa-times"></i>-->Close</i></button></p>
+			</div>
+
+			<div class="acc-head" data-section="section6">
+					<p></p><i class="fas fa-chevron-down crc-chevron" data-section="section6"></i>
+			</div>
+			<div id="section6" data-section="section6" class="acc-body">
+				<p></p>
+				<p class="readmore"><a href="">READ MORE </a>
+				<button style="float:right;" class="crc-close6 close" data-section="section6"><!--<i class="fas fa-times"></i>-->Close</i></button></p>
+			</div>
+			<div class="acc-head" data-section="section7">
+					<p></p><i class="fas fa-chevron-down crc-chevron" data-section="section7"></i>
+			</div>
+			<div id="section7" data-section="section7" class="acc-body">
+				<p></p>
+				<p class="readmore"><a href="">READ MORE </a>
+				<button style="float:right;" class="crc-close6 close" data-section="section7"><!--<i class="fas fa-times"></i>-->Close</i></button></p>
+			</div>
+			<div class="acc-head" data-section="section8">
+					<p></p><i class="fas fa-chevron-down crc-chevron" data-section="section8"></i>
+			</div>
+			<div id="section8" data-section="section8" class="acc-body">
+				<p></p>
+				<p class="readmore"><a href="">READ MORE </a>
+				<button style="float:right;" class="crc-close6 close" data-section="section8"><!--<i class="fas fa-times"></i>-->Close</i></button></p>
+			</div>
+		</section>
+	</div>
+	<!-- hidden on mobile -->
 	<div class="innerContainer">
 	<div class="column left flex">
 		<div class="thrive-and-prosper">

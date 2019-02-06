@@ -5,7 +5,7 @@
 	<!-- visible on mobile -->
 	<div class="fixed-header">
 		<img src="../img/RTI_w_1in.png" class="logo">
-		<p class="mobileHead">Enhancing Health</p>
+		<p class="mobileHead mobileHeadHealth">Enhancing Health</p>
 	</div>
 	<div class="innerContainerMob healthMob">
 		<p class="headerText">Improving human health is at the core of RTI’s mission to improve the human condition. With the power of science and the expertise of practice, we are eradicating neglected tropical diseases and unleashing innovation around the prevention and treatment of epidemics like HIV and opioid abuse.</p><p class="readmore"><a href="">READ MORE</a></p>
@@ -25,7 +25,7 @@
 			<div id="section2" data-section="section2" class="acc-body">
 				<p>One-sixth of the worldwide population—more than 1 billion people—suffers from one or more neglected tropical diseases. These diseases devastate the world’s most vulnerable populations, striking the almost exclusively poor and powerless people in rural areas and urban slums in low-income countries.</p>
 				<p class="readmore"><a href="">READ MORE </a>
-				<button class="crc-close2 close" data-section="section2"><!--<i class="fas fa-times"></i>-->Close</button></p>
+				<button style="float:right;" class="crc-close2 close" data-section="section2"><!--<i class="fas fa-times"></i>-->Close</button></p>
 			</div>
 
 			<div class="acc-head" data-section="section3">
@@ -34,7 +34,7 @@
 			<div id="section3" data-section="section3" class="acc-body">
 				<p>Taxes on soft drinks, alcohol, and tobacco are a powerful response to rising rates of non-communicable diseases worldwide, according to the most comprehensive analysis to date of evidence on expenditure, behavior, and socioeconomic status, published in The Lancet.</p>
 				<p class="readmore"><a href="">READ MORE </a>
-				<button class="crc-close3 close" data-section="section3"><!--<i class="fas fa-times"></i>-->Close</i></button></p>
+				<button style="float:right;" class="crc-close3 close" data-section="section3"><!--<i class="fas fa-times"></i>-->Close</i></button></p>
 			</div>
 
 			<div class="acc-head" data-section="section4">
@@ -43,7 +43,7 @@
 			<div id="section4" data-section="section4" class="acc-body">
 				<p>In the wake of a severe heart attack, also known as an ST-elevation myocardial infarction, receiving effective treatment within several hours is crucial to reduce muscular damage and the risk of death. Effective treatment requires reperfusion (opening the blocked artery) using either thrombolytic medications or a more expensive (and more effective) percutaneous coronary intervention performed in a cardiac catheterization laboratory.</p>
 				<p class="readmore"><a href="">READ MORE </a>
-				<button class="crc-close4 close" data-section="section4"><!--<i class="fas fa-times"></i>-->Close</i></button></p>
+				<button style="float:right;" class="crc-close4 close" data-section="section4"><!--<i class="fas fa-times"></i>-->Close</i></button></p>
 			</div>
 
 			<div class="acc-head" data-section="section5">
@@ -52,7 +52,7 @@
 			<div id="section5" data-section="section5" class="acc-body">
 				<p>In the United States, there are large disparities between racial and ethnic populations in HIV incidence, prevalence, and levels of care. However, it is unclear how improving HIV care in all racial and ethnic groups would impact HIV incidence and measures of disparity.</p>
 				<p class="readmore"><a href="">READ MORE </a>
-				<button class="crc-close5 close" data-section="section5"><!--<i class="fas fa-times"></i>-->Close</i></button></p>
+				<button style="float:right;" class="crc-close5 close" data-section="section5"><!--<i class="fas fa-times"></i>-->Close</i></button></p>
 			</div>
 
 			<div class="acc-head" data-section="section6">
@@ -61,7 +61,7 @@
 			<div id="section6" data-section="section6" class="acc-body">
 				<p>Since 2014, RTI has been leading an implementation science initiative to design an innovative strategy for the National Institutes of Health to improve access to HIV treatment among opioid treatment patients in Tanzania.</p>
 				<p class="readmore"><a href="">READ MORE </a>
-				<button class="crc-close6 close" data-section="section6"><!--<i class="fas fa-times"></i>-->Close</i></button></p>
+				<button style="float:right;" class="crc-close6 close" data-section="section6"><!--<i class="fas fa-times"></i>-->Close</i></button></p>
 			</div>
 			<div class="acc-head" data-section="section7">
 					<p>Focusing on Filipino Family Health</p><i class="fas fa-chevron-down crc-chevron" data-section="section7"></i>
@@ -69,7 +69,7 @@
 			<div id="section7" data-section="section7" class="acc-body">
 				<p>Aligned with relevant government strategies and policies, LuzonHealth focuses on increasing family planning use and improving maternal and newborn care—with the ultimate goal of improving health outcomes. We support this work by enhancing the role of hospitals in FP/MNCHN training and service delivery, modeling adolescent health interventions, increasing collaboration with the private sector, and replicating and scaling up best practices and innovations.</p>
 				<p class="readmore"><a href="">READ MORE </a>
-				<button class="crc-close6 close" data-section="section7"><!--<i class="fas fa-times"></i>-->Close</i></button></p>
+				<button style="float:right;" class="crc-close6 close" data-section="section7"><!--<i class="fas fa-times"></i>-->Close</i></button></p>
 			</div>
 			<div class="acc-head" data-section="section8">
 					<p>Holding Addiction Providers Accountable</p><i class="fas fa-chevron-down crc-chevron" data-section="section8"></i>
@@ -77,7 +77,7 @@
 			<div id="section8" data-section="section8" class="acc-body">
 				<p>There are more than 14,000 specialty addiction treatment programs in the United States. Although addiction can be treated with the same effectiveness as other chronic diseases, there is significant variability in the nature and quality of treatment services offered by these addiction providers. Consumer report cards are a well-established approach to improving the accountability and quality of health care providers.</p>
 				<p class="readmore"><a href="">READ MORE </a>
-				<button class="crc-close6 close" data-section="section8"><!--<i class="fas fa-times"></i>-->Close</i></button></p>
+				<button style="float:right;" class="crc-close6 close" data-section="section8"><!--<i class="fas fa-times"></i>-->Close</i></button></p>
 			</div>
 		</section>
 	</div>
