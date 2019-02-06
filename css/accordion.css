@@ -75,13 +75,15 @@
 }
 .acc-body {
     padding: 0 15px;
-  color:#fff;
+    color:#fff;
+    width: 79vw;
   /*background:#eee;
   border:1px solid #ddd;
   text-align:center;*/
 }
 .acc-body p {
     font-size: 1rem;
+    margin-top: 0;
 }
 p {
   text-align:left;
