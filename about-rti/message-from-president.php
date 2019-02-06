@@ -14,7 +14,7 @@ include $REL_DIR.$INCL_DIR."header.php";
 
 
         <div>
-            <h1>Message from President</h1>
+            <h1>A Message from our President</h1>
             <!-- <h2>Decisions delayed; employment choices made based on the cost of education</h2> -->
             <p class="light">
 					This year, RTI International marked a significant milestone as we began celebrating 60 years of living our mission. As I look back over the institute’s trajectory since 1958, I can see clearly how our commitment to improving the human condition has formed a bedrock for immense positive impact around the world. <br/><br/>
@@ -27,17 +27,12 @@ include $REL_DIR.$INCL_DIR."header.php";
             <!-- <p class="readmore"><a href="" target="_blank">READ MORE</a></p> -->
         </div>
         <div>
-            <p class="regular">Learn more about how we are helping regions thrive and prosper:</p>
+            <!-- <p class="regular">Learn more about how we are helping regions thrive and prosper:</p> -->
             <ul>
-                <li><a href="message-from-president.php">Message from President</a></li>
-                <li><a href="training-rwandas-nexgen-entrepreneurs.php">Training Rwanda's NexGen Entrepreneurs</a></li>
-                <li><a href="improving-vocational-training-in-indonesia.php">Improving Vocational Training in Indonesia</a></li>
-                <li><a href="powering-africas-journey-to-self-reliance.php">Powering Africa's Journey to Self-Reliance</a></li>
-                <li><a href="promoting-childhood-development-worldwide.php">Promoting Childhood Development Worldwide</a></li>
-                <li><a href="teaching-kenya-to-read.php">Teaching Kenya to Read</a></li>
-                <li><a href="spurring-somalian-growth-with-electric-sector-work.php">Spurring Somalian Growth with Electric Sector Work</a></li>
-                <li><a href="building-a-stronger-haiti.php">Building a Stronger Haiti</a></li>
-                <li><a href="training-usaid-staff-worldwide.php">Training USAID Staff Worldwide</a></li>
+                <li class="active"><!--<a href="message-from-president.php">-->A Message from our President<!--</a>--></li>
+                <li><a href="at-a-glance.php">RTI at a Glance</a></li>
+                <li><a href="executive-leadership.php">Meet RTI's Executive Leadership</a></li>
+                <li><a href="board-of-governors.php">Meet RTI's Board of Governors</a></li>
             </ul>
         </div>
 
