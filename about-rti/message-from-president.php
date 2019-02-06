@@ -31,7 +31,7 @@ include $REL_DIR.$INCL_DIR."meta-president.php";
         <div>
             <!-- <p class="regular">Learn more about how we are helping regions thrive and prosper:</p> -->
             <ul>
-                <li class="active"><a href="message-from-president.php">A Message from our President</a></li>
+                <li class="active"><!--<a href="message-from-president.php">-->A Message from our President<!--</a>---></li>
                 <li><a href="at-a-glance.php">RTI at a Glance</a></li>
                 <li><a href="executive-leadership.php">Meet RTI's Executive Leadership</a></li>
                 <li><a href="board-of-governors.php">Meet RTI's Board of Governors</a></li>
