@@ -69,9 +69,10 @@
   }
   
   body.active header {
-	  right: 10%;
-	  opacity: .7;
-	  width:calc(50%);
+    right: 0%;
+    /* opacity: .7; */
+    opacity: 1;
+    width: calc(60%);
   }
   
   /*************** NAV ***************/
@@ -107,6 +108,8 @@
   .nav-link p {
 		padding: 10px;
 		white-space:nowrap;
+		font-size:1.2rem;
+		text-align:center;
   }
   body.active .nav-link {
 		display: flex;
@@ -201,37 +204,37 @@
 		0% {  transform: scaleX(1);}
 		100% {  transform: scaleX(-1);}
 		}  
-	.nav-link:nth-child(1) {
-			background-image:url('../img/nav_about.png');
-			opacity:0.9;
+		body.active .nav-link:nth-child(1) {
+			background-image:url('../img/nav_about_mob.png');
+			opacity:1;
 			background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
 	}
-	.nav-link:nth-child(2) {
-			background-image:url('../img/nav_health.png');
-			opacity:0.9;
+	body.active .nav-link:nth-child(2) {
+			background-image:url('../img/nav_health_mob.png');
+			opacity:1;
 			background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
 	}
-	.nav-link:nth-child(3) {
-			background-image:url('../img/nav_safe.png');
-			opacity:0.9;
+	body.active .nav-link:nth-child(3) {
+			background-image:url('../img/nav_safe_mob.png');
+			opacity:1;
 			background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
 	}
-	.nav-link:nth-child(4) {
-			background-image:url('../img/nav_thrive.png');
-			opacity:0.9;background-size: cover;
+	body.active .nav-link:nth-child(4) {
+			background-image:url('../img/nav_thrive_mob.png');
+			opacity:1;background-size: cover;
 			background-repeat: no-repeat;
 			background-position: center;
 
 	}
-	.nav-link:nth-child(5) {
-			background-image:url('../img/nav_planet.png');
-			opacity:0.9;background-size: cover;
+	body.active .nav-link:nth-child(5) {
+			background-image:url('../img/nav_planet_mob.png');
+			opacity:1;background-size: cover;
     background-repeat: no-repeat;
 		background-position: center;
 		
