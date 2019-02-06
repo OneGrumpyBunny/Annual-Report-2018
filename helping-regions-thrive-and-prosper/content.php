@@ -59,15 +59,15 @@
 					<p>Teaching Kenya to Read</p><i class="fas fa-chevron-down crc-chevron" data-section="section6"></i>
 			</div>
 			<div id="section6" data-section="section6" class="acc-body">
-				<p></p>
+				<p>If you can dramatically improve educational outcomes in a school, can you do it across the district? How about across an entire country? How about across more than the 22,000 schools in Kenya that serve more than 3.3 million Grade 1–3 students?</p>
 				<p class="readmore"><a href="">READ MORE </a>
 				<button style="float:right;" class="crc-close6 close" data-section="section6"><!--<i class="fas fa-times"></i>-->Close</i></button></p>
 			</div>
 			<div class="acc-head" data-section="section7">
-					<p>If you can dramatically improve educational outcomes in a school, can you do it across the district? How about across an entire country? How about across more than the 22,000 schools in Kenya that serve more than 3.3 million Grade 1–3 students?</p><i class="fas fa-chevron-down crc-chevron" data-section="section7"></i>
+					<p>Spurring Somalian Growth with Electric Sector Work</p><i class="fas fa-chevron-down crc-chevron" data-section="section7"></i>
 			</div>
 			<div id="section7" data-section="section7" class="acc-body">
-				<p>Spurring Somalian Growth with Electric Sector Work</p>
+				<p>When Hargeisa, the capital of Somaliland, was destroyed by war in the late 1980s, the electricity infrastructure was reduced to rubble as well. Business owners who needed to power restaurants, cafés, and factories installed onsite diesel generators and then extended distribution lines to their neighbors.</p>
 				<p class="readmore"><a href="">READ MORE </a>
 				<button style="float:right;" class="crc-close6 close" data-section="section7"><!--<i class="fas fa-times"></i>-->Close</i></button></p>
 			</div>
