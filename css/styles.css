@@ -109,7 +109,7 @@ h1, h2, h3, h4, p, a {
 .container {
     /*max-width:1600px;*/
     margin: 0 auto;
-    
+    background: url(\img\background.png);
 }
 
 .sectionBack {
