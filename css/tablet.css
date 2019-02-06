@@ -17,6 +17,8 @@
 	}*/
 	.column.left, .column.right, .column.three { /* revisit this */
 		flex: 0 0 50%;
+		justify-content: space-evenly;
+		align-items: center;
 	}
 	.column.seven {
 		flex: 0 0 70%;
