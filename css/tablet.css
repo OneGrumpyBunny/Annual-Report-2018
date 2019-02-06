@@ -201,7 +201,7 @@
 		/*padding-top: 9rem;*/
 	}
 	.living-our-mission h1 {
-    padding-left: 3rem;
+	padding-left: 3rem;
 	}
 	
 	.enhancing-health h1  {
@@ -275,7 +275,7 @@
 	}
 
 	/* interior pages */
-	.enhancing-health-page h1, .keeping-people-safe-page h1, .thrive-and-prosper-page h1, .protecting-the-planet-page h1 {
+	.enhancing-health-page h1, .keeping-people-safe-page h1, .thrive-and-prosper-page h1, .protecting-the-planet-page h1, .living-our-mission-page h1 {
 		color:#226AA0;
 		margin: 0 0 1rem 0;
 		font-weight: 400;
