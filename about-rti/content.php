@@ -46,8 +46,7 @@
 		<div class="living-our-mission">
 			<div>
 				<img src="../img/RTI_w_1in.png" class="logo">
-				<p class="light">At RTI International, our work is driven by scientific rigor, objective research, and technical expertise. But the underlying force that propels us forward is an unwavering commitment to our mission: improving the human condition by turning knowledge into practice. Together, we explore new ideas and seek solutions to critical issues facing people everywhere. In our 2018 annual report, we invite you to learn how we are living our mission as we strive to deliver the promise of science for global good.
-				</p>
+				<p class="light">At RTI International, our work is driven by scientific rigor, objective research, and technical expertise. But the underlying force that propels us forward is an unwavering commitment to our mission: improving the human condition by turning knowledge into practice. Together, we explore new ideas and seek solutions to critical issues facing people everywhere. In our 2018 annual report, we invite you to learn how we are living our mission as we strive to deliver the promise of science for global good.</p>
 				<ul>
 					<li><a href="message-from-president.php">A Message from our President</a></li>
 					<li><a href="at-a-glance.php">RTI at a Glance</a></li>
