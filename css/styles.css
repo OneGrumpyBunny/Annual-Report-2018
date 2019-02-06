@@ -217,12 +217,6 @@ h1, h2, h3, h4, p, a {
     white-space: nowrap;
     margin: 0;
 }
-.living-our-mission h1{
-    color:  #226AA0;
-    font-size: calc(26px + (40 - 26) * ((100vw - 350px) / (1600 - 375)));
-    margin: 0;
-    font-weight: 400;
-}
 .living-our-mission ul {
     color: #ffffff;
     bottom: 0;
@@ -230,6 +224,12 @@ h1, h2, h3, h4, p, a {
     border-left: 11px solid #0f39a0;
     /*font-size: calc(24px + (200 - 24) * ((100vw - 200px) / (1600 - 375)));*/
     font-weight: 300;
+}
+.living-our-mission h1{
+    color: #0f39a0;
+    font-size: calc(26px + (40 - 26) * ((100vw - 350px) / (1600 - 375)));
+    margin: 0;
+    font-weight: 400;
 }
 .enhancing-health h1  {
     color: #316094;
@@ -309,5 +309,7 @@ h1, h2, h3, h4, p, a {
 } 
 .protecting-the-planet-page .active {
     color:#FFC629;
-
+}
+.living-our-mission-page .active{
+    color:#0f39a0
 }
