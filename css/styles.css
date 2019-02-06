@@ -207,8 +207,8 @@ h1, h2, h3, h4, p, a {
 
 .landingPage {
     margin-left: 1rem;
-    
-    justify-content: space-between;
+    display: flex;
+    justify-content: space-evenly;
 }
 
 .landingPageMobile h1, .landingPage h1 {
