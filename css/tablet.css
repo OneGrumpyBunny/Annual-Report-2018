@@ -195,6 +195,11 @@
 		justify-content: space-evenly;
 		margin: 0 auto;
 	}
+
+	.landingPage .footer-text{
+		color: #898989;
+		line-height: 20px;
+	}
 	
 	.landingPage-page, .living-our-mission, .living-our-mission-page, .enhancing-health, .enhancing-health-page, .keeping-people-safe, .keeping-people-safe-page, .thrive-and-prosper, .thrive-and-prosper-page, .protecting-the-planet, .protecting-the-planet-page {
 		display: flex;
@@ -231,24 +236,18 @@
 		line-height: 41px;
 	}
 	.landingPage h1{
-		width: calc(50%);
 		margin: 0;
 		white-space: nowrap;
-		letter-spacing: 5px;
 	}
 	.landingPage h2 {
 		/* margin: -1rem 0 0 0; */
 		white-space: nowrap;
-		width: calc(50%);
-		margin: -2rem 0 2rem 0;
-		letter-spacing: 5px;
+		margin: -2rem 0 3rem 0;
 	}
 	.landingPage h3 {  
 		/* margin: 0rem 0 0 0; */
 		white-space: nowrap;
 		margin: 0;
-		width: calc(50%);
-		letter-spacing: 5px;
 	}
 	
 	.living-our-mission ul, .living-our-mission-page ul {
