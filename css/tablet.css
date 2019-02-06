@@ -232,13 +232,14 @@
 		width: calc(50%);
 		margin: 0 auto;
 		white-space: nowrap;
-		letter-spacing: 100%;
+		letter-spacing: 5px;
 	}
 	.landingPage h2 {
 		/* margin: -1rem 0 0 0; */
 		white-space: nowrap;
 		width: calc(50%);
 		margin: -1rem auto 1rem auto;
+		letter-spacing: 5px;
 	}
 	.landingPage h3 {  
 		/* margin: 0rem 0 0 0; */
@@ -246,6 +247,7 @@
 		text-align: justify;
 		margin: 0 auto;
 		width: calc(50%);
+		letter-spacing: 5px;
 	}
 	
 	.living-our-mission ul, .living-our-mission-page ul {
