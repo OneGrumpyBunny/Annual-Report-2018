@@ -14,8 +14,9 @@
 				<p>Protecting Against HIV and Pregnancy with One Device</p><i class="fas fa-chevron-down crc-chevron" data-section="section1"></i>
 			</div>
 			<div id="section1" data-section="section1" class="acc-body">
-				<p>Section 1 Content</p>
-				<button class="crc-close1 close" data-section="section1"><i class="fas fa-times"></i></button>
+				<p>To help empower women in low- and middle-income countries and improve their health, the U.S. Agency for International Development, through the U.S. President’s Emergency Plan for AIDS Relief (PEPFAR), awarded RTI a $4.8-million cooperative agreement to develop a dual-purpose drug delivery device for both HIV and pregnancy prevention that can be successfully used in these settings.</p>
+				<p class="readmore">READ MORE 
+				<button style="float:right;" class="crc-close1 close" data-section="section1"><!--<i class="fas fa-times"></i>-->Close</button></p>
 			</div>
 
 			<div class="acc-head" data-section="section2">
