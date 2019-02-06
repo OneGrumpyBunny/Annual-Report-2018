@@ -1,5 +1,7 @@
 @media all and (min-width:376px) {
-
+	header {
+		display:none;
+	}
 	.landingPage, .navContainer {
 		display:flex
 	}
