@@ -1,7 +1,7 @@
 
 <img src="../img/test-1_HalfImages.gif" class="sectionBack">
 
-<?php include "../incl/mobile-nav.php";> ?>
+<?php include "../incl/mobile-nav.php"; ?>
 
 <div class="innerContainer" style="width:100%;">
 	<div class="column left flex">

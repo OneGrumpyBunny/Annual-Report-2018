@@ -2,7 +2,7 @@
 
 <img src="img/background.png" class="sectionBack">
 
-<?php include "incl/mobile-nav.php";> ?>
+<?php include "incl/mobile-nav.php"; ?>
 
 	<div class="fixed-header">
 		<img src="img/RTI_w_1in.png" class="logo">
