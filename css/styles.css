@@ -286,8 +286,6 @@ h1, h2, h3, h4, p, a {
     font-size:calc(14px + (20 - 14) * ((100vw - 350px) / (1600 - 375)));
     color: #ffffff;
 }
-
-
 .enhancing-health-page .active {
     color:#226AA0;
 }
