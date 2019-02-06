@@ -8,7 +8,7 @@
 	.landingPageMobile {
 		display:none;
 	}
-	.landing-back, .enhancing-back, .safe-back, .thrive-back, .planet-back, .about-back {
+	.fixed-header {
 		display:none;
 	}
 

@@ -4,7 +4,7 @@
 
 	<!-- visible on mobile -->
 	<div class="fixed-header">
-		<img src="img/RTI_w_1in.png" class="logo">
+		<img src="../img/RTI_w_1in.png" class="logo">
 		<p class="mobileHead">Enhancing Health</p>
 	</div>
 	<div class="innerContainerMob healthMob">

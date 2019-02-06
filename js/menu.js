@@ -7,8 +7,8 @@ function menu() {
     if($("body.active").is(":visible")){
       $('.side-line').addClass('on');
       $('.side-border').addClass('off');
-     $(".fixed-header").css("opacity","0.5");
-     $(".innerContainerMob").css("opacity","0.5");
+     $(".fixed-header").css("opacity","0.2");
+     $(".innerContainerMob").css("opacity","0.2");
     } else{
       $('.side-line').removeClass('on');
       $('.side-border').removeClass('off');
