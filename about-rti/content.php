@@ -49,9 +49,11 @@
 				<p class="light">At RTI International, our work is driven by scientific rigor, objective research, and technical expertise. But the underlying force that propels us forward is an unwavering commitment to our mission: improving the human condition by turning knowledge into practice. Together, we explore new ideas and seek solutions to critical issues facing people everywhere. In our 2018 annual report, we invite you to learn how we are living our mission as we strive to deliver the promise of science for global good.
 				</p>
 				<ul>
-					<li><a href="/dev/message-from-president/">The President's Message</a></li>
-					<li><a href="https://www.rti.org/about-us" target="_blank">About RTI</a></li>
-				</ul>
+					<li><a href="message-from-president.php">A Message from our President</a></li>
+					<li><a href="at-a-glance.php">RTI at a Glance</a></li>
+					<li><a href="executive-leadership.php">Meet RTI's Executive Leadership</a></li>
+					<li><a href="board-of-governors.php">Meet RTI's Board of Governors</a></li>
+            	</ul>
 			</div>
 			<div>
 				
