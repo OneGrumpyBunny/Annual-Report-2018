@@ -274,7 +274,7 @@
 		color:#EFDCB0;
 		margin:0;
 		font-weight: 400;
-		font-size: calc(23px + (25 - 24) * ((100vw - 350px) / (1600 - 375)));
+		font-size: calc(22px + (25 - 24) * ((100vw - 350px) / (1600 - 375)));
 		line-height: 30px;
 	}
 
