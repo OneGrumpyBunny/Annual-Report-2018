@@ -31,7 +31,7 @@ $(window).on("load",function() {
 var relPath = "/dev"
 $(document).ready(function() {
 		$(".about").click(function() {
-			window.location.href=relPath + "/living-our-mission/";
+			window.location.href=relPath + "/about-rti/";
 		});
 		$(".health").click(function() {
 			window.location.href=relPath + "/enhancing-health-through-science-and-practice/";
