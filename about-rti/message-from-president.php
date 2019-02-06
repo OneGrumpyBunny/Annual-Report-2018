@@ -15,6 +15,7 @@ include $REL_DIR.$INCL_DIR."meta-president.php";
 
 
         <div>
+        <img src="../img/RTI_w_1in.png" class="logo">
             <h1>A Message from our President</h1>
             <!-- <h2>Decisions delayed; employment choices made based on the cost of education</h2> -->
             <p class="light">

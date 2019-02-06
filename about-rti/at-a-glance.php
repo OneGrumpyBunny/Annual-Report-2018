@@ -9,12 +9,9 @@ include $REL_DIR.$INCL_DIR."meta-living.php";
 	<div class="innerContainer">
 <div class="column left flex">
     <div class="thrive-and-prosper-page">
-
-    
         <!--- update content below this line --->
-
-
         <div>
+        <img src="../img/RTI_w_1in.png" class="logo">
             <h1>A Message from our President</h1>
             <!-- <h2>Decisions delayed; employment choices made based on the cost of education</h2> -->
             <p class="light">
