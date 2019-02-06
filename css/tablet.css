@@ -230,7 +230,7 @@
 	}
 	.landingPage h1{
 		width: calc(50%);
-		margin: 0 auto;
+		margin: 0;
 		white-space: nowrap;
 		letter-spacing: 5px;
 	}
@@ -238,14 +238,13 @@
 		/* margin: -1rem 0 0 0; */
 		white-space: nowrap;
 		width: calc(50%);
-		margin: -2rem auto 1rem auto;
+		margin: -2rem 0 2rem 0;
 		letter-spacing: 5px;
 	}
 	.landingPage h3 {  
 		/* margin: 0rem 0 0 0; */
 		white-space: nowrap;
-		text-align: justify;
-		margin: 0 auto;
+		margin: 0;
 		width: calc(50%);
 		letter-spacing: 5px;
 	}
