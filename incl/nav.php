@@ -6,7 +6,7 @@
 		<div class="navBox about">
 			<div class="insideBox1">&nbsp;</div>
 			<div class="insideBox2">&nbsp;</div>
-			<div class="insideBox3"><p>2018<br>Annual Report</p></div>
+			<div class="insideBox3"><p>About RTI in 2018</p></div>
 			
 			
 		</div>
