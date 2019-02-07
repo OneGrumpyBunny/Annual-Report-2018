@@ -5,7 +5,7 @@ include $REL_DIR."config.php";
 include $REL_DIR.$INCL_DIR."header.php";
 include $REL_DIR.$INCL_DIR."meta-planet.php";
 ?>
-<img src="img/as-emissions.png" class="sectionBack">
+<img src="img/gas-emissions.png" class="sectionBack">
 	<div class="innerContainer">
 <div class="column left flex">
     <div class="protecting-the-planet-page">
