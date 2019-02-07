@@ -4,7 +4,7 @@
 
 </head>
 <body>
-<div id="animBack" style="position: fixed;    opacity: 0.2;    height: 100vh;"></div>
+<div id="animBack" style="position: fixed;    opacity: 0.2;"></div>
 	
 	
 	<script type='text/javascript' src='js/lottie.js'></script>
