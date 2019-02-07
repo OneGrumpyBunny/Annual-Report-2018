@@ -29,8 +29,8 @@
 				<a href="http://www.rti.org"><img src="./img/RTI_w_1in.png" class="logo"></a>
 				<!-- <h1 class="stretch">LIVING</h1>
 				<h2 class="stretch">our mission</h2> -->
-				<h3 class="stretch">LIVING</h3>
-				<h3 class="stretch">our missiont</h3>
+				<h1 class="stretch">LIVING</h1>
+				<h2 class="stretch">our mission</h2>
 				<h3 class="stretch">2018 annual report</h3>
 			</div>
 		</div>
