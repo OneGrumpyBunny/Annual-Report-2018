@@ -231,9 +231,9 @@
 		align-content: center;
 		justify-content: center; 
 	}
-	.landingPage .logo{
+	/* .landingPage .logo{
 		margin-bottom: 5rem;
-	}
+	} */
 	.footer-text{
 		display: flex;
 		flex-flow: row;
