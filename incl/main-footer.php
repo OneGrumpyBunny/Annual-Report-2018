@@ -1,5 +1,5 @@
 <div class="footer-text">
-    <div style="flex: 0 0 80%">
+    <div style="flex: 0 0 85%">
         <p>RTI International is an independent, nonprofit research institute dedicated to improving the human condition. Clients rely on us to answer questions that demand an objective and multidisciplinary approach—one that integrates expertise across the social and laboratory sciences, engineering, and international development. We believe in the promise of science, and we are inspired every day to deliver on that promise for the good of people, communities, and businesses around the world.</p>
     </div>
     <div class= "icons">
