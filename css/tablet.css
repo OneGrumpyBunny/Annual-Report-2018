@@ -228,6 +228,8 @@
 	
 	.landingPage {
 		margin: 0;
+		display: flex;
+		flex-flow: column;
 	}
 	.landingPage .logo{
 		margin-bottom: 5rem;
@@ -266,21 +268,19 @@
 	}
 
 	.landingPage h1{
-		white-space: nowrap;
 		margin: -3rem 0 -2rem 0;
-		max-width: 80%;
+		align-self: flex-start;
 	}
 	.landingPage h2 {
 		/* margin: -1rem 0 0 0; */
-		white-space: nowrap;
-		max-width: 80%;
 		margin: -6rem 0 2rem 0;
+		align-self: flex-start;
 	}
 	.landingPage h3 {  
 		/* margin: 0rem 0 0 0; */
-		white-space: nowrap;
 		margin: 0 0 0 0;
-		max-width: 80%;
+		align-self:center;
+
 	}
 	.landingPage .stretch{
 		margin: 0 2rem;
