@@ -225,20 +225,7 @@
 		margin: 0 0 0.5rem 0;
 		line-height: 41px;
 	}
-	
-	.landingPage {
-		margin: 0 auto;
-		align-content: center;
-		justify-content: center; 
-		align-self: center;
-	}
-	.landingPage .logo{
-		position: relative;
-		max-width: 200px;
-		top: 30px;
-		width: 25%;
-		margin-bottom: 6rem;
-	}
+
 	.footer-text{
 		display: flex;
 		flex-flow: row;
@@ -272,13 +259,25 @@
 		font-size: 40px;
 		margin: 0;
 	}
-
+	.landingPage {
+		margin: 0 auto;
+		align-content: center;
+		justify-content: center; 
+		align-self: center;
+	}
+	.landingPage .logo{
+		position: relative;
+		max-width: 200px;
+		top: 30px;
+		width: 25%;
+		margin-bottom: 6rem;
+	}
 	.landingPage h1{
 		color: #226AA0;
 		font-size: calc(24px + (200 - 24) * ((100vw - 100px) / (1600 - 375)));
 		font-weight: 300;
 		margin:0;
-		margin-top: -7rem;
+		margin-top: -5rem;
 		white-space: nowrap;
 	}
 	.landingPage h2 {
@@ -286,10 +285,11 @@
 		font-size: calc(24px + (100 - 24) * ((100vw - 100px) / (1600 - 375)));
 		font-weight: 300;
 		margin:0;
-		margin-top: -6rem;
+		margin-top: -5rem;
 		white-space: nowrap;
 	}
 	.landingPage h3 { 
+		margin-top: 1.5rem;
 		margin: 0;
 	}
 	.landingPage .stretch{
