@@ -17,7 +17,7 @@
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.1/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
     
 	<script type='text/javascript' src='<?php echo $REL_DIR.$JS_DIR ?>jquery.min.js'></script>
-	<!--<script type='text/javascript' src='<?php echo $REL_DIR.$JS_DIR ?>stretchtext.js'></script>-->
+	<script type='text/javascript' src='<?php echo $REL_DIR.$JS_DIR ?>stretchtext.js'></script>
     <script type='text/javascript' src='<?php echo $REL_DIR.$JS_DIR ?>ar.js'></script>
     <script type='text/javascript' src='<?php echo $REL_DIR.$JS_DIR ?>menu.js'></script>
     <script type='text/javascript' src='<?php echo $REL_DIR.$JS_DIR ?>accordion.js'></script>
