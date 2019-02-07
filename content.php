@@ -25,10 +25,10 @@
 		<div class="column left">
 			<div class="landingPage">
 				<a href="http://www.rti.org"><img src="./img/RTI_w_1in.png" class="logo"></a>
-				<div style="display: flex; flex-flow: column; flex: 1 0 80%; margin-left: 20%;">
-					<h1 class="stretch">LIVING</h1>
-					<h2 class="stretch">our mission</h2>
-					<h3 class="stretch">2018 annual report</h3>
+				<div class="stretch" style="display: flex; flex-flow: column; flex: 1 0 77%; margin-left: 20%;">
+					<h1>LIVING</h1>
+					<h2>our mission</h2>
+					<h3>2018 annual report</h3>
 				</div>
 			</div>
 		</div>
