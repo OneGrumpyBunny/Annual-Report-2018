@@ -16,10 +16,10 @@
 		flex: 0 0 50%;
 	}*/
 	.column.left, .column.right, .column.three { /* revisit this */
-		flex: 0 0 50%;
+		flex: 0 1 50%;
 	}
 	.column.seven {
-		flex: 0 0 70%;
+		flex: 0 1 70%;
 	}
 	
 	.container {
@@ -228,6 +228,8 @@
 	
 	.landingPage {
 		margin: 0;
+		display: flex;
+		flex-flow: column;
 	}
 	.landingPage .logo{
 		margin-bottom: 5rem;
@@ -248,9 +250,10 @@
 		justify-content: space-between;
 	}
 	.footer-text .text p{
-		line-height: 18px;
-		font-size: 16px;
+		line-height: 15gipx;
+		font-size: 14px;
 		color:#898989;
+		text-align: justify;
 	}
 	.footer-text .icons{
 		flex: 0 0 15%;
@@ -266,25 +269,20 @@
 	}
 
 	.landingPage h1{
-		margin: 0;
-		white-space: nowrap;
-		max-width: 80%;
-		margin: -2rem 0 0 0;
+		margin-top: -3rem;
+		/* max-width: fit-content; */
 	}
 	.landingPage h2 {
-		/* margin: -1rem 0 0 0; */
-		white-space: nowrap;
-		max-width: 80%;
-		margin: -5rem 0 0 0;
+		margin-top: -5rem;
+		/* max-width: fit-content; */
 	}
-	.landingPage h3 {  
-		/* margin: 0rem 0 0 0; */
-		white-space: nowrap;
-		max-width: 80%;
-		margin: -2rem auto 0 auto;
+	.landingPage h3 { 
+		margin-top: 2rem;
+		/* max-width: fit-content; */
 	}
 	.landingPage .stretch{
-		/* max-width: 80%; */
+		max-width: inherit;
+		margin-left: calc(33%);
 	}
 
 	.living-our-mission ul, .living-our-mission-page ul {
