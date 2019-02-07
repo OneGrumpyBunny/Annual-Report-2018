@@ -239,7 +239,7 @@
 		position: fixed;
 		bottom: 0;
 		max-width: 1600px;
-		width: calc(75%);
+		width: calc(60%);
 	}
 	.footer-text p{
 		color: #898989;
