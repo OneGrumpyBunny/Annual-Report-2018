@@ -247,7 +247,7 @@
 		font-size: 16px;
 	}
 	.footer-text .icons{
-		flex: 0 0 10%;
+		flex: 0 0 15%;
 		align-self: center;
 	}
 	.footer-text .icons a{
