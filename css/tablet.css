@@ -253,7 +253,7 @@
 	.footer-text .icons a{
 		color: white;
 		font-size: 40px;
-		margin: 0 auto;
+		margin: 0 .5rem 0 0;
 	}
 
 	.landingPage h1{
