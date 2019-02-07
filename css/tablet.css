@@ -16,10 +16,10 @@
 		flex: 0 0 50%;
 	}*/
 	.column.left, .column.right, .column.three { /* revisit this */
-		flex: 0 0 50%;
+		flex: 0 1 50%;
 	}
 	.column.seven {
-		flex: 0 0 70%;
+		flex: 0 1 70%;
 	}
 	
 	.container {
