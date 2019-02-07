@@ -14,7 +14,7 @@
     <link rel='stylesheet' href='<?php echo $REL_DIR.$CSS_DIR ?>mobile.css' />
     <link rel='stylesheet' href='<?php echo $REL_DIR.$CSS_DIR ?>accordion.css' />
     
-    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.3/css/all.css" integrity="sha384-UHRtZLI+pbxtHCWp1t77Bi1L4ZtiqrqD80Kn4Z8NTSRyMA2Fd33n5dQ8lWUE00s/" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://pro.fontawesome.com/releases/v5.7.1/css/all.css" integrity="sha384-6jHF7Z3XI3fF4XZixAuSu0gGKrXwoX/w3uFPxC56OtjChio7wtTGJWRW53Nhx6Ev" crossorigin="anonymous">
     
 	<script type='text/javascript' src='<?php echo $REL_DIR.$JS_DIR ?>jquery.min.js'></script>
 	<!--<script type='text/javascript' src='<?php echo $REL_DIR.$JS_DIR ?>stretchtext.js'></script>-->
