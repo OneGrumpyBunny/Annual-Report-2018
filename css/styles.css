@@ -142,12 +142,12 @@ h1, h2, h3, h4, p, a {
 .stretch_it{
     white-space: nowrap;
 }
-.justify{
+/* .justify{
     text-align:justify;
 }
 .no-justify{
     text-align: left;
-}
+} */
 
 .light {
     font-style: normal;
