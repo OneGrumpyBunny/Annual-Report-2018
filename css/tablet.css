@@ -227,10 +227,7 @@
 	}
 	
 	.landingPage {
-		display: flex;
-		justify-content: center;
-		align-content: center;
-		margin: 0 auto;
+		margin: 0;
 	}
 	.landingPage .logo{
 		margin-bottom: 5rem;
