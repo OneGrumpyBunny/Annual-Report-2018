@@ -244,8 +244,12 @@
 		max-width: 1600px;
 		width: calc(60%);
 	}
-	.footer-text p{
-		color: #898989;
+	.footer-text .text{
+		flex: 0 0 85%;
+		display: flex;
+		flex-flow: column;
+	}
+	.footer-text .text p{
 		line-height: 18px;
 		font-size: 16px;
 	}
