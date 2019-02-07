@@ -232,9 +232,13 @@
 		justify-content: center; 
 		align-self: center;
 	}
-	/* .landingPage .logo{
-		margin-bottom: 5rem;
-	} */
+	.landingPage .logo{
+		position: relative;
+		max-width: 200px;
+		top: 30px;
+		width: 25%;
+		margin-bottom: 6rem;
+	}
 	.footer-text{
 		display: flex;
 		flex-flow: row;
