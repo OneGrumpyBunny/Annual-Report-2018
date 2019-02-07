@@ -276,11 +276,10 @@
 	}
 	.landingPage h3 { 
 		margin-top: 2rem;
-		
 	}
 	.landingPage .stretch{
 		max-width: inherit;
-		margin-left: calc(25%);
+		margin-left: calc(28%);
 	}
 
 	.living-our-mission ul, .living-our-mission-page ul {
