@@ -228,6 +228,8 @@
 	
 	.landingPage {
 		margin: 0;
+		align-content: center;
+		justify-content: center; 
 	}
 	.landingPage .logo{
 		margin-bottom: 5rem;
@@ -267,7 +269,6 @@
 	}
 
 	.landingPage h1{
-
 		color: #226AA0;
 		font-size: calc(24px + (200 - 24) * ((100vw - 100px) / (1600 - 375)));
 		font-weight: 300;
