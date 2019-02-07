@@ -1,3 +1,5 @@
+
+
 $(window).on("load",function() {
 /*var backOn = 0;
 	if ($(".living-our-mission").is(":visible")) {
@@ -90,5 +92,25 @@ $(document).ready(function() {
         $(".planet .insideBox2").css("background","rgba(255, 198, 41, .9)");
         $(".planet .insideBox3").css("background","rgba(255, 198, 41, .3)");
     });
+    
+    // readmore / readless links on mobile view
+    $(".expand").click(function() {
+        $(".expand").toggleClass("hide");
+        $(".collapse").toggleClass("hide");
+        $(".hideMore").slideToggle( 600, "swing", function() {
+		});
+    });
+    $(".collapse").click(function() {
+        $(".expand").toggleClass("hide");
+        $(".collapse").toggleClass("hide");
+        $(".hideMore").slideToggle( 600, "swing", function() {
+		});
+    });
 
+    // sticky active headers on mobile view 
+    /*$(window).scroll(function(){
+        if ($(".makeSticky").scrollTop() = 170) {
+            $('.makeSticky').css("position","fixed");
+        }
+    });*/
 });

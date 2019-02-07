@@ -57,9 +57,22 @@ a {
     text-decoration:none;
     opacity:.8;
 }
-.readmore a, .readmore button {
+.readmore a, .readmore button, .readmore {
     color: #FFC629;
     opacity:0.9;
+}
+.expand, .collapse {
+    opacity:0.9;
+}
+
+
+.hide {
+    opacity:0;
+    transition: opacity .5s ease-in; 
+}
+.hideMore  {
+    opacity:0.9;
+    display:none;
 }
 a.active {
 	opacity:1;

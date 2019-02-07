@@ -61,7 +61,7 @@
 		margin-left: 1rem;
 		z-index: 100;
 	}
-	.readmore a {
+	.readmore a, .readmore {
 		font-size:1rem;
 	}
 	.thriveMob {
@@ -98,8 +98,9 @@
 		position: fixed;
     top: 0;
     z-index: 100;
-    background: black;
-    width: 81vw;
+    background: rgba(0, 0, 0, .6);
+		width: 85vw;
+		
 	}
 	header {
 		display:block;

@@ -38,6 +38,9 @@ $(document).ready(function() {
     $("#"+expandThisID+" button").removeClass("crc-close-anim");
     
     toggleCRC(chevron,expandThisID,thisHead);   
+    console.log("time to scroll");
+    var divPosition = $("#"+expandThisID).offset().top - 245;
+  	$('html, body').delay(800).animate({scrollTop: divPosition}, "slow");
 	});
 
 	/* X functionality */
@@ -51,3 +54,9 @@ $(document).ready(function() {
   });
   
 });
+
+/*$(window).scroll(function () {
+  if ($(".acc-body").is(":visible")) {
+      $(this).prev("div").addClass("makeSticky");
+  }
+});*/
