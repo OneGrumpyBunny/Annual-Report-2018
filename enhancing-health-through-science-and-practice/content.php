@@ -82,7 +82,7 @@
 		</section>
 	</div>
 	<!-- hidden on mobile -->
-	<div class="innerContainer">
+	<div class="innerContainer" id="health-container">
 	
 	<div class="column left flex">
 		<div class="enhancing-health">
