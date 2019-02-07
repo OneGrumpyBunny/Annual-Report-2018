@@ -261,9 +261,6 @@
 	}
 	.landingPage {
 		margin: 0 auto;
-		align-content: center;
-		justify-content: center; 
-		align-self: center;
 	}
 	.landingPage .logo{
 		position: relative;
