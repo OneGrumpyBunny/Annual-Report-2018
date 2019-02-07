@@ -284,6 +284,7 @@
 	}
 	.landingPage .stretch{
 		margin: 0 auto;
+		max-width: 80%;
 	}
 
 	.living-our-mission ul, .living-our-mission-page ul {
