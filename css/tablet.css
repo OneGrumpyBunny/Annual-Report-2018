@@ -247,11 +247,7 @@
 		font-size: 16px;
 	}
 	.footer-text .icons{
-		display: flex;
-		flex-flow: row;
-		justify-content: space-evenly;
 		color: #898989;
-		font-size: 25px;
 	}
 	.footer-text .icons a{
 		color: #898989;
