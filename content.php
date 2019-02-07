@@ -24,7 +24,7 @@
 	<div class="innerContainer">
 		<div class="column left">
 			<div class="landingPage">
-			<div style="justify-content:center;">
+			<div style="justify-content:space-evenly;">
 				<a href="http://www.rti.org"><img src="./img/RTI_w_1in.png" class="logo"></a>
 					<h1 class="stretch">LIVING</h1>
 					<h2 class="stretch">our mission</h2>
