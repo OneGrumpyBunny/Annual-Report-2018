@@ -248,6 +248,7 @@
 		color: #898989;
 		line-height: 18px;
 		font-size: 16px;
+		width: 100%;
 	}
 	.footer-text .icons{
 		flex: 0 0 15%;
