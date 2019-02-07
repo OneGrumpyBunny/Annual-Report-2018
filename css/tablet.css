@@ -269,17 +269,13 @@
 	}
 
 	.landingPage h1{
-		/* width: fit-content; */
 		margin-top: -3rem;
 	}
 	.landingPage h2 {
-		/* width: fit-content; */
 		margin-top: -5rem;
 	}
 	.landingPage h3 { 
-		/* width: fit-content; */
 		margin-top: 2rem;
-
 	}
 	.landingPage .stretch{
 		margin-left:calc(20%);
