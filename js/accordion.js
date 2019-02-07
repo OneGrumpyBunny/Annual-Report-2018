@@ -16,7 +16,8 @@ $(document).ready(function() {
   /* open accordian */
 	$(".acc-head").click(function() {
     
-		var expandThisID = $(this).data("section");
+    var expandThisID = $(this).data("section");
+       
     var thisHead = $('.acc-head[data-section=' + expandThisID +']');
     var chevron = $('i[data-section=' + expandThisID +']');
     // close open chevrons
@@ -38,9 +39,9 @@ $(document).ready(function() {
     $("#"+expandThisID+" button").removeClass("crc-close-anim");
     
     toggleCRC(chevron,expandThisID,thisHead);   
-    console.log("time to scroll");
     var divPosition = $("#"+expandThisID).offset().top - 235;
-  	$('html, body').delay(800).animate({scrollTop: divPosition}, "slow");
+    $('html, body').delay(800).animate({scrollTop: divPosition}, "slow");
+    
 	});
 
 	/* X functionality */
