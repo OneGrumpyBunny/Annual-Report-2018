@@ -268,21 +268,22 @@
 	.landingPage h1{
 		margin: 0;
 		white-space: nowrap;
+		max-width: 60%;
 	}
 	.landingPage h2 {
 		/* margin: -1rem 0 0 0; */
 		white-space: nowrap;
-		margin: -5rem 0 3rem 0;
+		max-width: 60%;
 	}
 	.landingPage h3 {  
 		/* margin: 0rem 0 0 0; */
 		white-space: nowrap;
-		margin: -3rem 0 0 0;
+		max-width: 60%;
 	}
 	.landingPage .stretch{
 		margin: 0 auto;
 	}
-	
+
 	.living-our-mission ul, .living-our-mission-page ul {
 		list-style-type: none;
 		border-left: 11px solid #0f39a0;
