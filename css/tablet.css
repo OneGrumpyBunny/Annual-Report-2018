@@ -270,11 +270,11 @@
 		margin-bottom: 6rem;
 	}
 	.landingPage h1{
-		color: #226AA0;
+		color: #226AA0;;
 		font-size: calc(24px + (200 - 24) * ((100vw - 100px) / (1600 - 375)));
 		font-weight: 300;
 		margin:0;
-		margin-top: -5rem;
+		margin-top: -6rem;
 		white-space: nowrap;
 	}
 	.landingPage h2 {
