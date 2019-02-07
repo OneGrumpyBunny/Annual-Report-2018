@@ -253,6 +253,7 @@
 	.footer-text .text p{
 		line-height: 18px;
 		font-size: 16px;
+		color:#898989;
 	}
 	.footer-text .icons{
 		flex: 0 0 15%;
