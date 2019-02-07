@@ -145,6 +145,9 @@ h1, h2, h3, h4, p, a {
 .justify{
     text-align:justify;
 }
+.no-justify{
+    text-align: left;
+}
 
 .light {
     font-style: normal;
