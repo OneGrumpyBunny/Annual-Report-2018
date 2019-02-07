@@ -26,11 +26,11 @@
 			<div class="landingPage">
 			<div style="justify-content:space-evenly;">
 				<a href="http://www.rti.org"><img src="./img/RTI_w_1in.png" class="logo"></a>
-					<!-- <h1 class="stretch">LIVING</h1>
-					<h2 class="stretch">our mission</h2> -->
-					<h1 class="stretch">LIVING</h1>
-					<h2 class="stretch">our mission</h2>
-					<h3 class="stretch">2018 annual report</h3>
+				<span class="stretch">
+					<h1>LIVING</h1>
+					<h2>our mission</h2>
+					<h3>2018 annual report</h3>
+				</span>
 			</div>
 		</div>
 	</div>
