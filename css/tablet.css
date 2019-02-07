@@ -268,23 +268,23 @@
 	.landingPage h1{
 		margin: 0;
 		white-space: nowrap;
-		max-width: 100%;
-		margin: -2rem auto 0 auto;
+		max-width: 80%;
+		margin: -2rem 0 0 0;
 	}
 	.landingPage h2 {
 		/* margin: -1rem 0 0 0; */
 		white-space: nowrap;
-		max-width: 100%;
-		margin: -2rem auto 0 auto;
+		max-width: 80%;
+		margin: -5rem 0 0 0;
 	}
 	.landingPage h3 {  
 		/* margin: 0rem 0 0 0; */
 		white-space: nowrap;
-		max-width: 100%;
+		max-width: 80%;
 		margin: -2rem auto 0 auto;
 	}
 	.landingPage .stretch{
-		max-width: 80%;
+		/* max-width: 80%; */
 	}
 
 	.living-our-mission ul, .living-our-mission-page ul {
