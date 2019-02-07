@@ -283,7 +283,7 @@
 		max-width: inherit;
 	}
 	.landingPage .stretch{
-		max-width: inherit;
+		margin: 0 auto;
 	}
 
 	.living-our-mission ul, .living-our-mission-page ul {
