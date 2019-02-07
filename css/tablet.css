@@ -276,21 +276,18 @@
 		margin:0;
 		margin-top: -5rem;
 		white-space: nowrap;
-		width: 100%;
 	}
 	.landingPage h2 {
 		color: #FFFFFF;
 		font-size: calc(24px + (100 - 24) * ((100vw - 100px) / (1600 - 375)));
 		font-weight: 300;
 		margin:0;
-		margin-top: -5rem;
+		margin-top: -6rem;
 		white-space: nowrap;
-		width: 100%;
 	}
 	.landingPage h3 { 
 		margin-top: 3rem;
 		margin: 0;
-		
 	}
 	.landingPage .stretch{
 		text-align: center;
