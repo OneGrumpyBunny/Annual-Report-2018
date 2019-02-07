@@ -25,10 +25,12 @@
 	<div class="column left">
 		<div class="landingPage">
 		<div style="justify-content:center;">
-		<a href="http://www.rti.org"><img src="../img/RTI_w_1in.png" class="logo"></a>
-			<h1>LIVING</h1>
-			<h2>our mission</h2>
-			<h3>2018 annual report</h3>
+			<a href="http://www.rti.org"><img src="img/RTI_w_1in.png" class="logo"></a>
+			<span class="stretch">
+				<h1>LIVING</h1>
+				<h2>our mission</h2>
+				<h3>2018 annual report</h3>
+			</span>
 		</div>
 	</div>
 </div>

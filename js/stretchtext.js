@@ -19,8 +19,7 @@ $.fn.strech_text = function(){
     
     if (txt_width < cont_width){
         var  char_width     = txt_width/nb_char,
-             ltr_spacing    = spacing - char_width + (spacing - char_width)/nb_char ; 
-  
+        ltr_spacing    = spacing - char_width + (spacing - char_width)/nb_char ; 
         one_line.css({'letter-spacing': ltr_spacing});
     } else {
         one_line.contents().unwrap();
