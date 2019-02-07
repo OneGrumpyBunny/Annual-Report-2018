@@ -21,7 +21,7 @@
 			</div>
 		</div>
 		<!-- hidden on mobile -->
-	<!---<div class="innerContainer">--->
+	<div class="innerContainer">
 		<div class="column left">
 			<div class="landingPage">
 			<div style="justify-content:center;">
@@ -33,6 +33,6 @@
 				</span>
 			</div>
 		</div>
-	<!---</div>--->
+	</div>
 	
 
