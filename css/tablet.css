@@ -267,7 +267,9 @@
 		font-size: 40px;
 		margin: 0;
 	}
-
+	.landingPage .stretch{
+		width: calc(60%);
+	}
 	.landingPage h1{
 		margin: 0;
 		white-space: nowrap;
