@@ -236,8 +236,8 @@
 		display: flex;
 		flex-flow: row;
 		justify-content: space-between;
-		position: fixed;
-		bottom: 0;
+		/* position: fixed;
+		bottom: 0; */
 	}
 	.footer-text p{
 		color: #898989;
