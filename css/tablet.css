@@ -243,7 +243,7 @@
 		line-height: 20px;
 		font-size: 16px;
 	}
-	.landingPage .footer-text .icons{
+	.landingPage .footer-text .icons a{
 		display: flex;
 		flex-flow: row;
 		justify-content: space-evenly;
