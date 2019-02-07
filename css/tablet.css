@@ -248,6 +248,8 @@
 		flex-flow: row;
 		justify-content: space-evenly;
 		align-content: center;
+		color: #898989;
+		font-size: 16px;
 	}
 	.landingPage h1{
 		margin: 0;
