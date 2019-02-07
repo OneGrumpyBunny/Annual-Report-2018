@@ -269,20 +269,20 @@
 
 	.landingPage h1{
 		/* margin: -3rem 0; */
-		align-self: flex-start;
+		margin-top: -3rem;
 	}
 	.landingPage h2 {
 		/* margin: -6rem 0 2rem 0; */
-		align-self: flex-start;
+		margin-top: -6rem;
 	}
 	.landingPage h3 { 
 		/* margin: 0 0 0 0; */
-		align-self:center;
+		margin-top: 2rem;
 
 	}
 	.landingPage .stretch{
 		margin: 0 0 0 calc(20%);
-		max-width: inherit;
+		/* max-width: inherit; */
 	}
 
 	.living-our-mission ul, .living-our-mission-page ul {
