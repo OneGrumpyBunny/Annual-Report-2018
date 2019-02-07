@@ -228,8 +228,6 @@
 	
 	.landingPage {
 		margin: 0;
-		display: flex;
-		flex-flow: column;
 	}
 	.landingPage .logo{
 		margin-bottom: 5rem;
@@ -269,10 +267,18 @@
 	}
 
 	.landingPage h1{
+		color: #226AA0;
+		font-size: calc(24px + (200 - 24) * ((100vw - 200px) / (1600 - 375)));
+		font-weight: 300;
+		margin: 0;
 		margin-top: -3rem;
 		/* max-width: fit-content; */
 	}
 	.landingPage h2 {
+		color: #FFFFFF;
+		font-size: calc(24px + (100 - 24) * ((100vw - 100px) / (1600 - 375)));
+		font-weight: 300;
+		margin:0;
 		margin-top: -5rem;
 		/* max-width: fit-content; */
 	}
