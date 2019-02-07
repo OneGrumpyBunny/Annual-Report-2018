@@ -16,20 +16,22 @@ include $REL_DIR.$INCL_DIR."meta-living.php";
 
         <div>
         <a href="http://www.rti.org"><img src="../img/RTI_w_1in.png" class="logo"></a>
-            <h1>A Message from our President</h1>
+        <!-- <img src="../img/RTI_w_1in.png" class="logo"> -->
+            <h1>Executive Leadership</h1>
             <!-- <h2>Decisions delayed; employment choices made based on the cost of education</h2> -->
             <p class="light">
-					This year, RTI International marked a significant milestone as we began celebrating 60 years of living our mission. As I look back over the institute’s trajectory since 1958, I can see clearly how our commitment to improving the human condition has formed a bedrock for immense positive impact around the world.
+					Lorem
 				</p>
             <!-- <p class="readmore"><a href="" target="_blank">READ MORE</a></p> -->
+            <div style="background-color: black; width: 100%; min-height: 100px;"></div>
         </div>
         <div>
             <!-- <p class="regular">Learn more about how we are helping regions thrive and prosper:</p> -->
             <ul>
                 <li><a href="message-from-president.php">A Message from our President</a></li>
                 <li><a href="at-a-glance.php">RTI at a Glance</a></li>
-                <li class="active"><!--<a href="executive-leadership.php">-->Meet RTI's Executive Leadership<!--</a>--></li>
-                <li><a href="board-of-governors.php">Meet RTI's Board of Governors</a></li>
+                <li><a href="executive-leadership.php">Meet RTI's Executive Leadership</a></li>
+                <li class="active"><!--<a href="board-of-governors.php">-->Meet RTI's Board of Governors<!--</a>--></li>
             </ul>
         </div>
 
