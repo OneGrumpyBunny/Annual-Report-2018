@@ -250,13 +250,16 @@
 		font-size: 16px;
 	}
 	.footer-text .icons{
-		flex: 0 0 15%;
+		flex: 1 0 15%;
 		align-self: center;
+		display: flex;
+		flex-flow: row;
+		justify-content: space-evenly;
 	}
 	.footer-text .icons a{
 		color: white;
 		font-size: 40px;
-		margin: 0 .5rem 0 0;
+		margin: 0;
 	}
 
 	.landingPage h1{
