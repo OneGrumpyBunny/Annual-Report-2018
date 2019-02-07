@@ -235,7 +235,7 @@
 	.footer-text{
 		display: flex;
 		flex-flow: row;
-		justify-content: center;
+		justify-content: space-around;
 		position: fixed;
 		bottom: 0;
 		max-width: 1600px;
@@ -251,7 +251,8 @@
 		flex: 0 0 20%;
 	}
 	.footer-text .icons a{
-		color: #898989;
+		color: white;
+		font-size: 32px;
 		margin: 0 auto;
 		align-self: center;
 		justify-self: center;
