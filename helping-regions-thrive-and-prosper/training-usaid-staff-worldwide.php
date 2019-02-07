@@ -15,7 +15,7 @@ include $REL_DIR.$INCL_DIR."meta-thrive.php";
 
 
         <div>
-            <img src="../img/RTI_w_1in.png" class="logo">
+        <a href="http://www.rti.org"><img src="../img/RTI_w_1in.png" class="logo"></a>
             <h1>Supporting USAID’s Mission Through Global Training</h1>
             <h2>Improving the performance and skills of USAID staff worldwide</h2>
             <p class="light">As a global workforce, the U.S. Agency for International Development’s staff must continuously learn, grow, and align professional skills amid constant political and social changes. The improvement and growth of skills contribute to the agency’s ability to achieve its mission of saving lives, reducing poverty, strengthening democratic governance, and helping developing nations’ progress beyond assistance.</p>

@@ -15,7 +15,7 @@ include $REL_DIR.$INCL_DIR."meta-thrive.php";
 
 
         <div>
-            <img src="../img/RTI_w_1in.png" class="logo">
+        <a href="http://www.rti.org"><img src="../img/RTI_w_1in.png" class="logo"></a>
             <h1>Achieving Educational Improvements at a National Level</h1>
             <h2>Lessons from Kenya</h2>
             <p class="light">If you can dramatically improve educational outcomes in a school, can you do it across the district? How about across an entire country? How about across more than the 22,000 schools in Kenya that serve more than 3.3 million Grade 1–3 students?</p>

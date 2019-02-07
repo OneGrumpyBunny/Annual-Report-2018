@@ -14,7 +14,7 @@ include $REL_DIR.$INCL_DIR."meta-health.php";
         <!--- update content below this line --->
         
         <div>
-            <img src="../img/RTI_w_1in.png" class="logo">
+        <a href="http://www.rti.org"><img src="../img/RTI_w_1in.png" class="logo"></a>
             <h1>Improving Addiction Treatment with Consumer Report Cards</h1>
             <h2>Evidence-based practices aim to improve quality of care</h2>
             <p class="light">There are more than 14,000 specialty addiction treatment programs in the United States. Although addiction can be treated with the same effectiveness as other chronic diseases, there is significant variability in the nature and quality of treatment services offered by these addiction providers. Consumer report cards are a well-established approach to improving the accountability and quality of health care providers.</p>

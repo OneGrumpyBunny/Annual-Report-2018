@@ -15,7 +15,7 @@ include $REL_DIR.$INCL_DIR."meta-safe.php";
 
 
         <div>
-		<img src="../img/RTI_w_1in.png" class="logo">
+		<a href="http://www.rti.org"><img src="../img/RTI_w_1in.png" class="logo"></a>
             <h1>New Study Points to Risks from Mislabeled Unregulated Cannabidiol Products</h1>
             <h2>Findings highlight need for manufacturing and testing standards and government oversight</h2>
             <p class="light">Although medicinal marijuana is legal in several states and the District of Columbia, it remains illegal under federal law. Therefore, it and related products such as CBD do not receive quality assurance oversight from the U.S. Food and Drug Administration. As a result, the oils, tinctures, and vaporization liquids offered online have varying levels of CBD, and listings of ingredients on the labels are unreliable.</p>

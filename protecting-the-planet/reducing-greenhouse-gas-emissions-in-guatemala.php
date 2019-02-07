@@ -15,7 +15,7 @@ include $REL_DIR.$INCL_DIR."meta-planet.php";
 
 
         <div>
-            <img src="../img/RTI_w_1in.png" class="logo">
+        <a href="http://www.rti.org"><img src="../img/RTI_w_1in.png" class="logo"></a>
             <h1>Guatemala Low-Emission Development Strategy (G-LEDS)</h1>
             <h2>Spurring economic and social development by reducing greenhouse gas emissions</h2>
             <p class="light">With participation from more than 300 representatives in the public and private sectors, academia, indigenous organizations, cooperatives, and organized groups, RTI is working with the Government of Guatemala to formulate the country’s first low-emission development strategy.</p>

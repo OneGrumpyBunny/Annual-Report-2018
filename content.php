@@ -5,7 +5,7 @@
 <?php include "incl/mobile-nav.php"; ?>
 
 	<div class="fixed-header">
-		<img src="img/RTI_w_1in.png" class="logo">
+	<a href="http://www.rti.org"><img src="../img/RTI_w_1in.png" class="logo"></a>
 		
 	</div>
 	<div class="innerContainerMob landingMob">

@@ -15,7 +15,7 @@ include $REL_DIR.$INCL_DIR."meta-thrive.php";
 
 
         <div>
-            <img src="../img/RTI_w_1in.png" class="logo">
+        <a href="http://www.rti.org"><img src="../img/RTI_w_1in.png" class="logo"></a>
             <h1>Cultivating Youth Entrepreneurs in Rwanda’s Agriculture Sector</h1>
             <h2>Piloting a paid internship program</h2>
             <p class="light">Twenty-six-year-old Egidie Twizeyeyezu graduated from the University of Rwanda in 2015 with a degree in economics and entrepreneurship. Since then, she has been unable to find a job. Instead, she’s resorted to selling second-hand clothes in the streets of Kigali, working all day to earn approximately 2,000 Rwandan francs (US$2.30).</p>

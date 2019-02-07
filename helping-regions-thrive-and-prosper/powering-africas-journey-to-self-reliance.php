@@ -15,7 +15,7 @@ include $REL_DIR.$INCL_DIR."meta-thrive.php";
 
 
         <div>
-            <img src="../img/RTI_w_1in.png" class="logo">
+        <a href="http://www.rti.org"><img src="../img/RTI_w_1in.png" class="logo"></a>
             <h1>RTI Partnering with USAID to Increase Access to Electricity in Sub-Saharan Africa</h1>
             <h2>RTI providing energy and development expertise to Power Africa initiative</h2>
             <p class="light">RTI International has been named a prime contractor on the U.S. Agency for International Development Power Africa contract. Power Africa seeks to increase the number of people with access to power across sub-Saharan Africa.</p>

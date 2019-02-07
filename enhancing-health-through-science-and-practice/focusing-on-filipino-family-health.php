@@ -14,7 +14,7 @@ include $REL_DIR.$INCL_DIR."meta-health.php";
         <!--- update content below this line --->
         
         <div>
-            <img src="../img/RTI_w_1in.png" class="logo">
+        <a href="http://www.rti.org"><img src="../img/RTI_w_1in.png" class="logo"></a>
             <h1>LuzonHealth—Integrated Maternal, Neonatal, Child Health, and Nutrition/Family Planning in the Philippines</h1>
             <h2>Strengthening local health policies and systems to improve health outcomes for Filipino families</h2>
             <p class="light">Aligned with relevant government strategies and policies, LuzonHealth focuses on increasing family planning use and improving maternal and newborn care—with the ultimate goal of improving health outcomes. We support this work by enhancing the role of hospitals in FP/MNCHN training and service delivery, modeling adolescent health interventions, increasing collaboration with the private sector, and replicating and scaling up best practices and innovations.</p>

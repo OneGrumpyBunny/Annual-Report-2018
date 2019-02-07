@@ -15,6 +15,7 @@ include $REL_DIR.$INCL_DIR."meta-planet.php";
 
 
         <div>
+        <a href="http://www.rti.org"><img src="../img/RTI_w_1in.png" class="logo"></a>
             <h1>Preventing Harmful Exposures from a Widespread Class of Chemicals</h1>
             <h2>A new method to destroy water supply contaminants</h2>
             <p class="light">The class of chemicals known as PFAS—per- and polyfluoroalkyl substances—poses a unique threat to public health that our chemical and environmental engineers are working to solve. These include PFOA, PFOS, and more than 3,000 related chemicals, including the GenX variant known for polluting the Cape Fear River in southeastern North Carolina. The Department of Defense’s Strategic Environmental Research and Development Program is looking for a solution and began working with RTI in mid-2018 to investigate a method of breaking down PFAS.</p>

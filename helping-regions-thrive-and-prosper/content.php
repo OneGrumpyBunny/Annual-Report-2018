@@ -4,7 +4,7 @@
 
 	<!-- visible on mobile -->
 	<div class="fixed-header">
-		<img src="../img/RTI_w_1in.png" class="logo">
+	<a href="http://www.rti.org"><img src="../img/RTI_w_1in.png" class="logo"></a>
 		<p class="mobileHead mobileHeadThrive">Helping Regions Thrive and Prosper</p>
 	</div>
 	<div class="innerContainerMob thriveMob">
@@ -94,7 +94,7 @@
 	<div class="column left flex">
 		<div class="thrive-and-prosper">
 			<div>
-			<img src="../img/RTI_w_1in.png" class="logo">
+			<a href="http://www.rti.org"><img src="../img/RTI_w_1in.png" class="logo"></a>
 				<h1>Helping Regions Thrive and Prosper</h1>
 				<p class="light">Children will not thrive if they cannot read. Youth will not flourish without education or skills training. Countries will not prosper without electricity or infrastructure. From improving literacy rates for 7 million Kenyan children, to providing electricity access to 600 million people in sub-Saharan Africa, to offer training for the 20% of unemployed youth in Rwanda, we are living our mission every day to help communities around the world achieve a brighter future.</p>
 			</div>

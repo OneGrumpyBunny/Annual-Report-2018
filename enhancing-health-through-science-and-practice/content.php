@@ -4,7 +4,7 @@
 
 	<!-- visible on mobile -->
 	<div class="fixed-header">
-		<img src="../img/RTI_w_1in.png" class="logo">
+	<a href="http://www.rti.org"><img src="../img/RTI_w_1in.png" class="logo"></a>
 		<p class="mobileHead mobileHeadHealth">Enhancing Health</p>
 	</div>
 	<div class="innerContainerMob healthMob">
@@ -87,7 +87,7 @@
 	<div class="column left flex">
 		<div class="enhancing-health">
 			<div>
-				<img src="../img/RTI_w_1in.png" class="logo">
+			<a href="http://www.rti.org"><img src="../img/RTI_w_1in.png" class="logo"></a>
 				<h1>Enhancing Health</h1>
 				<p class="light">Improving human health is at the core of RTI’s mission to improve the human condition. With the power of science and the expertise of practice, we are eradicating neglected tropical diseases and unleashing innovation around the prevention and treatment of epidemics like HIV and opioid abuse.</p>
 				<p class="light">Time is of the essence for the scientists and researchers tackling these issues, and we specialize in taking real-time results and applying those to our work to combat cancer, heart disease, and stroke. We imagine a world free of disease and dedicate ourselves to the intervention, prevention, and treatment necessary to save lives.</p>
