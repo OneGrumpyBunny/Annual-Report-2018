@@ -238,14 +238,12 @@
 		justify-content: space-between;
 		position: fixed;
 		bottom: 0;
-		max-width: 1600px;
-		width: calc(95%);
+		max-width: 75%;
 	}
 	.footer-text p{
 		color: #898989;
 		line-height: 18px;
 		font-size: 16px;
-		max-width: 75%;
 	}
 	.footer-text .icons{
 		display: flex;
