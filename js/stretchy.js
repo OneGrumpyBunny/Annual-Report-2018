@@ -17,7 +17,7 @@ $.fn.strech_text = function(){
         one_line.css({'letter-spacing': ltr_spacing});
     } else {
         one_line.contents().unwrap();
-        elmt.addClass('justify');
+        // elmt.addClass('justify');
     }
 };
 
