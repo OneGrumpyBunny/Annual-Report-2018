@@ -286,8 +286,8 @@
 		white-space: nowrap;
 	}
 	.landingPage h3 { 
-		margin-top: 4rem;
 		margin: 0;
+		margin-top: 5rem;
 	}
 	.landingPage .stretch{
 		text-align: center;
