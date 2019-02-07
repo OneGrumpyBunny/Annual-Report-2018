@@ -253,6 +253,7 @@
 		line-height: 15gipx;
 		font-size: 14px;
 		color:#898989;
+		text-align: justify;
 	}
 	.footer-text .icons{
 		flex: 0 0 15%;
