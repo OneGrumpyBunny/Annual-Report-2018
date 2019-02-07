@@ -238,7 +238,8 @@
 		justify-content: space-between;
 		position: fixed;
 		bottom: 0;
-		max-width: 75%;
+		max-width: 1600px;
+		width: calc(75%);
 	}
 	.footer-text p{
 		color: #898989;
