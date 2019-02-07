@@ -232,20 +232,19 @@
 		align-content: center;
 		margin: 0 auto;
 	}
-
-	.landingPage .footer-text{
+	.footer-text{
 		display: flex;
 		flex-flow: row;
 		justify-content: space-between;
 		position: fixed;
 		bottom: 0;
 	}
-	.landingPage .footer-text p{
+	.footer-text p{
 		color: #898989;
 		line-height: 18px;
 		font-size: 16px;
 	}
-	.landingPage .footer-text .icons{
+	.footer-text .icons{
 		display: flex;
 		flex-flow: row;
 		justify-content: space-evenly;
@@ -253,7 +252,7 @@
 		color: #898989;
 		font-size: 25px;
 	}
-	.landingPage .footer-text .icons a{
+	.footer-text .icons a{
 		color: #898989;
 		margin: 0 auto;
 		align-items: center;
