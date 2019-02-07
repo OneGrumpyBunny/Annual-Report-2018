@@ -245,6 +245,7 @@
 		color: #898989;
 		line-height: 18px;
 		font-size: 16px;
+		max-width: 75%;
 	}
 	.footer-text .icons{
 		display: flex;
