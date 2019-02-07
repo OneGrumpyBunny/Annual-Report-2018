@@ -235,7 +235,7 @@
 	.footer-text{
 		display: flex;
 		flex-flow: row;
-		justify-content: space-around;
+		justify-content: space-between;
 		position: fixed;
 		bottom: 0;
 		max-width: 1600px;
