@@ -249,6 +249,7 @@
 	.footer-text .icons{
 		color: #898989;
 		flex: 0 0 20%;
+		align-self: center;
 	}
 	.footer-text .icons a{
 		color: white;
