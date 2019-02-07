@@ -235,7 +235,7 @@
 	.footer-text{
 		display: flex;
 		flex-flow: row;
-		justify-content: space-between;
+		justify-content: space-around;
 		position: fixed;
 		bottom: 0;
 		max-width: 1600px;
@@ -247,17 +247,15 @@
 		font-size: 16px;
 	}
 	.footer-text .icons{
-		color: #898989;
 		flex: 0 0 10%;
 		align-self: center;
 	}
 	.footer-text .icons a{
 		color: white;
-		font-size: 32px;
+		font-size: 40px;
 		margin: 0 auto;
-		align-self: center;
-		justify-self: center;
 	}
+
 	.landingPage h1{
 		margin: 0;
 		white-space: nowrap;
