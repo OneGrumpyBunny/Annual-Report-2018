@@ -264,9 +264,7 @@
 		font-size: 40px;
 		margin: 0;
 	}
-	.landingPage .stretch{
-		width: calc(60%);
-	}
+
 	.landingPage h1{
 		margin: 0;
 		white-space: nowrap;
@@ -280,6 +278,9 @@
 		/* margin: 0rem 0 0 0; */
 		white-space: nowrap;
 		margin: -3rem 0 0 0;
+	}
+	.landingPage .stretch{
+		margin: 0 auto;
 	}
 	
 	.living-our-mission ul, .living-our-mission-page ul {
