@@ -234,11 +234,21 @@
 	}
 
 	.landingPage .footer-text{
+		display: flex;
+		flex-flow: row;
+		justify-content: space-between;
+	}
+	.landingPage .footer-text p{
 		color: #898989;
 		line-height: 20px;
 		font-size: 16px;
 	}
-
+	.landingPage .footer-text .icons{
+		display: flex;
+		flex-flow: row;
+		justify-content: space-evenly;
+		align-content: center;
+	}
 	.landingPage h1{
 		margin: 0;
 		white-space: nowrap;
