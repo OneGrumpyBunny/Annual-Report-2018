@@ -250,7 +250,7 @@
 		font-size: 16px;
 	}
 	.footer-text .icons{
-		flex: 1 0 15%;
+		flex: 0 0 15%;
 		align-self: center;
 		display: flex;
 		flex-flow: row;
