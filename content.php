@@ -24,13 +24,13 @@
 	<div class="innerContainer">
 		<div class="column left">
 			<div class="landingPage">
-			<div>
 				<a href="http://www.rti.org"><img src="./img/RTI_w_1in.png" class="logo"></a>
-				<h1 class="stretch">LIVING</h1>
-				<h2 class="stretch">our mission</h2>
-				<h3 class="stretch">2018 annual report</h3>
+				<div style="display: flex; flex-flow: column; flex: 0 0 60%;">
+					<h1 class="stretch">LIVING</h1>
+					<h2 class="stretch">our mission</h2>
+					<h3 class="stretch">2018 annual report</h3>
+				</div>
 			</div>
 		</div>
-	</div>
 	
 
