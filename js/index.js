@@ -1,6 +1,6 @@
 /* animated background */
 var animation = lottie.loadAnimation({
-    container: document.find('#animBack','#health-container'),
+    container: document.getElementById('animBack'),
     renderer: 'svg',
     loop: true,
     autoplay: true,
