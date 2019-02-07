@@ -5,7 +5,7 @@
 <?php include "incl/mobile-nav.php"; ?>
 
 	<div class="fixed-header">
-	<a href="http://www.rti.org"><img src="img/RTI_w_1in.png" class="logo"></a>
+	<a href="http://www.rti.org"><img src="./img/RTI_w_1in.png" class="logo"></a>
 		
 	</div>
 	<div class="innerContainerMob landingMob">
@@ -25,7 +25,7 @@
 		<div class="column left">
 			<div class="landingPage">
 			<div style="justify-content:center;">
-				<a href="http://www.rti.org"><img src="img/RTI_w_1in.png" class="logo"></a>
+				<a href="http://www.rti.org"><img src="./img/RTI_w_1in.png" class="logo"></a>
 				<span class="stretch">
 					<h1>LIVING</h1>
 					<h2>our mission</h2>
