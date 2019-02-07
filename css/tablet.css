@@ -270,15 +270,18 @@
 
 	.landingPage h1{
 		margin-top: -3rem;
+		max-width: fit-content;
 	}
 	.landingPage h2 {
 		margin-top: -5rem;
+		max-width: fit-content;
 	}
 	.landingPage h3 { 
 		margin-top: 2rem;
+		max-width: fit-content;
 	}
 	.landingPage .stretch{
-		max-width: inherit;
+		/* max-width: inherit; */
 		margin-left: calc(33%);
 	}
 
