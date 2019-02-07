@@ -5,7 +5,7 @@
 
 	<!-- visible on mobile -->
 	<div class="fixed-header">
-		<img src="../img/RTI_w_1in.png" class="logo">
+	<a href="www.rti.org"><img src="../img/RTI_w_1in.png" class="logo"></a>
 		<p class="mobileHead mobileHeadAbout">About RTI</p>
 	</div>
 	<div class="innerContainerMob aboutMob">
