@@ -40,7 +40,7 @@ $(document).ready(function() {
     
     toggleCRC(chevron,expandThisID,thisHead);   
     var divPosition = $("#"+expandThisID).offset().top - 235;
-    $('html, body').delay(800).animate({scrollTop: divPosition}, "slow");
+    $('html body').delay(800).animate({scrollTop: divPosition}, "slow");
     
 	});
 

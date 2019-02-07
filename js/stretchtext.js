@@ -3,6 +3,7 @@ $.fn.strech_text = function(){
         cont_width    = elmt.width();
         
     if(jQuery(this).find('.stretch_it').length > 0){
+        console.log($(this).prop('tagName'));
         var txt           = jQuery(this).find('.stretch_it').html();
         jQuery(this).html(txt);
     }else{
