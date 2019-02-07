@@ -251,6 +251,11 @@
 		color: #898989;
 		font-size: 25px;
 	}
+	.landingPage .footer-text .icons a{
+		color: #898989;
+		margin: 0 auto;
+		align-items: center;
+	}
 	.landingPage h1{
 		margin: 0;
 		white-space: nowrap;
