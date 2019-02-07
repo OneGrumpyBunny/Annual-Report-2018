@@ -268,18 +268,18 @@
 	.landingPage h1{
 		margin: 0;
 		white-space: nowrap;
-		margin: -3rem 0 -2rem 0;
+		margin: -3rem auto -2rem auto;
 	}
 	.landingPage h2 {
 		/* margin: -1rem 0 0 0; */
 		white-space: nowrap;
 		max-width: 80%;
-		margin: -5rem 0 2rem 0;
+		margin: -5rem auto 2rem auto;
 	}
 	.landingPage h3 {  
 		/* margin: 0rem 0 0 0; */
 		white-space: nowrap;
-		margin: 0 0 0 0;
+		margin: 0 auto;
 	}
 	.landingPage .stretch{
 		max-width: 100%;
