@@ -4,4 +4,9 @@
 
 </head>
 <body>
+<div id="animBack"></div>
+	
+	
+	<script type='text/javascript' src='js/lottie.js'></script>
+	<script type='text/javascript' src='js/index.js'></script>
 <div class="container landing-back">
