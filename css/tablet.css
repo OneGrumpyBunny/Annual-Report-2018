@@ -269,15 +269,15 @@
 	}
 
 	.landingPage h1{
-		/* margin: -3rem 0; */
+		width: fit-content;
 		margin-top: -3rem;
 	}
 	.landingPage h2 {
-		/* margin: -6rem 0 2rem 0; */
+		width: fit-content;
 		margin-top: -6rem;
 	}
 	.landingPage h3 { 
-		/* margin: 0 0 0 0; */
+		width: fit-content;
 		margin-top: 2rem;
 
 	}
