@@ -96,14 +96,14 @@ $(document).ready(function() {
     // readmore / readless links on mobile view
     $(".expand").click(function() {
         $(".expand").toggleClass("hide");
-        $(".collapse").toggleClass("hide");
-        $(".hideMore").slideToggle( 600, "swing", function() {
+        setTimeout(function() {$(".collapse").toggleClass("hide");},500);
+        $(".hideMore").slideToggle( 900, "swing", function() {
 		});
     });
     $(".collapse").click(function() {
-        $(".expand").toggleClass("hide");
+        setTimeout(function(){$(".expand").toggleClass("hide");},500);
         $(".collapse").toggleClass("hide");
-        $(".hideMore").slideToggle( 600, "swing", function() {
+        $(".hideMore").slideToggle( 900, "swing", function() {
 		});
     });
 

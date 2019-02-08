@@ -39,6 +39,7 @@
     align-content: center;
     padding: 1rem 2rem;
     cursor: pointer;
+    position:relative;
 }
 .aboutMob .acc-head {
     background: rgba(15, 57, 160, .8)
