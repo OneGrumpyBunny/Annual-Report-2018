@@ -4,9 +4,9 @@
 
 </head>
 <body>
-	<div id="animBack" style="position: fixed;    opacity: 0.1;"></div>
+<div class="container landing-back">
+<div id="animBack" style="position: fixed;    opacity: 0.1;"></div>
 	
 	
 	<script type='text/javascript' src='js/lottie.js'></script>
 	<script type='text/javascript' src='js/index.js'></script>
-<div class="container landing-back">
