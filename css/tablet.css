@@ -236,13 +236,13 @@
 		width: calc(60%);
 	}
 	.footer-text .text{
-		flex: 0 0 85%;
+		flex: 0 0 80%;
 		display: flex;
 		flex-flow: column;
 		justify-content: space-between;
 	}
 	.footer-text .text p{
-		line-height: 15gipx;
+		line-height: 15px;
 		font-size: 14px;
 		color:#898989;
 		text-align: justify;
