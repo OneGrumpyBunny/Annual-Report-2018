@@ -1,6 +1,6 @@
 /* animated background */
 $(window).on("load", function() {
-    if ($(window).width() > 414) { // only show on desktop
+    if ($(window).width() > 450) { // only show on desktop
         var animation = lottie.loadAnimation({
         container: document.getElementById('animBack'),
         renderer: 'svg',
