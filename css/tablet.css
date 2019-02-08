@@ -239,13 +239,14 @@
 		flex: 0 0 80%;
 		display: flex;
 		flex-flow: column;
-		justify-content: center;
+		justify-content: space-evenly;
 	}
 	.footer-text .text p{
 		line-height: 15px;
 		font-size: 14px;
 		color:#898989;
 		text-align: justify;
+		align-self: center;
 	}
 	.footer-text .icons{
 		flex: 0 0 15%;
