@@ -5,7 +5,7 @@
 </head>
 <body>
 <div class="container landing-back">
-<div id="animBack" style="position: fixed; opacity: 0.1; max-width: 1600px;"></div>
+<div id="animBack"></div>
 	
 	
 	<script type='text/javascript' src='js/lottie.js'></script>

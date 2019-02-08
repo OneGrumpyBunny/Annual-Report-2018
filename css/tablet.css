@@ -71,10 +71,10 @@
 		align-items: center;
 		text-align: center;
 		background-size: cover;
-		width: 292px;
+		width: calc(100px + (292 - 100) * ((100vw - 292px) / (1600 - 415)));
 		background-color:#111D2B;
 		white-space:nowrap;
-		font-size: 1.6rem;
+		font-size: calc(15px + (20 - 15) * ((100vw - 200px) / (1600 - 375)));
 		display:flex;
 		margin: 5px 0;
 	}
