@@ -15,9 +15,9 @@ include $REL_DIR.$INCL_DIR."meta-health.php";
         
         <div>
         <a href="http://www.rti.org"><img src="../img/RTI_w_1in.png" class="logo"></a>
-            <h1>Reaching National Goals on HIV Incidence</h1>
-            <h2>Exploring disparities in incidence, prevalence, and care</h2>
-            <p class="light">In the United States, there are large disparities between racial and ethnic populations in HIV incidence, prevalence, and levels of care. However, it is unclear how improving HIV care in all racial and ethnic groups would impact HIV incidence and measures of disparity.</p>
+            <h1>Reaching National Goals on HIV&nbsp;Incidence</h1>
+            <h2>Exploring disparities in incidence, prevalence, and&nbsp;care</h2>
+            <p class="light">In the United States, there are large disparities between racial and ethnic populations in HIV incidence, prevalence, and levels of care. However, it is unclear how improving HIV care in all racial and ethnic groups would impact HIV incidence and measures of&nbsp;disparity.</p>
             <p class="readmore"><a href="https://www.rtihs.org/news-and-events/reaching-national-goals-hiv-incidence" target="_blank">READ MORE</a></p>
         </div>
         <div>

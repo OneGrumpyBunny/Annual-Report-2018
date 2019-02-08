@@ -15,9 +15,9 @@ include $REL_DIR.$INCL_DIR."meta-health.php";
         
         <div>
         <a href="http://www.rti.org"><img src="../img/RTI_w_1in.png" class="logo"></a>
-            <h1>Integrating HIV Services within Opioid Treatment in Tanzania</h1>
-            <h2>Improving access to HIV treatment for people who use opioids</h2>
-            <p class="light">Since 2014, RTI has been leading an implementation science initiative to design an innovative strategy for the National Institutes of Health to improve access to HIV treatment among opioid treatment patients in Tanzania.</p>
+            <h1>Integrating HIV Services within Opioid Treatment in&nbsp;Tanzania</h1>
+            <h2>Improving access to HIV treatment for people who use&nbsp;opioids</h2>
+            <p class="light">Since 2014, RTI has been leading an implementation science initiative to design an innovative strategy for the National Institutes of Health to improve access to HIV treatment among opioid treatment patients in&nbsp;Tanzania.</p>
             <p class="readmore"><a href="https://www.rti.org/impact/integrating-hiv-services-within-opioid-treatment-tanzania" target="_blank">READ MORE</a></p>
         </div>
         <div>
