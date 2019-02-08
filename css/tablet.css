@@ -206,8 +206,11 @@
 	 */
 	.message-from-president-page .light {
 		/*font-size:1.3rem;*/
-		font-size:calc(11px + (20 - 14) * ((100vw - 350px) / (1600 - 375)));
+		font-size:calc(10px + (20 - 14) * ((100vw - 350px) / (1600 - 375)));
 		color: #ffffff;
+	}
+	.message-from-president-page .logo{
+		margin-bottom: 6rem;
 	}
 	.message-from-president-page h1{
 		margin: 0 0 0.5rem 0;
