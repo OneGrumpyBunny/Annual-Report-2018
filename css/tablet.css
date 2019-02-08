@@ -247,6 +247,10 @@
 		color:#898989;
 		text-align: justify;
 		align-self: center;
+		margin: 0;
+	}
+	.footer-text .text p:last-of-type{
+		margin-top: -1rem;
 	}
 	.footer-text .icons{
 		flex: 0 0 15%;
