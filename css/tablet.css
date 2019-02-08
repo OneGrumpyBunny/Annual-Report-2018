@@ -191,7 +191,7 @@
 	}
 
 	
-	.landingPage-page, .living-our-mission, .living-our-mission-page, .enhancing-health, .enhancing-health-page, .keeping-people-safe, .keeping-people-safe-page, .thrive-and-prosper, .thrive-and-prosper-page, .protecting-the-planet, .protecting-the-planet-page {
+	.landingPage-page, .living-our-mission, .living-our-mission-page,.message-from-president-page, .enhancing-health, .enhancing-health-page, .keeping-people-safe, .keeping-people-safe-page, .thrive-and-prosper, .thrive-and-prosper-page, .protecting-the-planet, .protecting-the-planet-page {
 		display: flex;
 		flex-direction: column;
 		justify-content: space-between;
@@ -208,6 +208,10 @@
 		/*font-size:1.3rem;*/
 		font-size:calc(12px + (20 - 14) * ((100vw - 350px) / (1600 - 375)));
 		color: #ffffff;
+	}
+	.message-from-president-page h1{
+		margin: 0 0 0.5rem 0;
+		line-height: 41px;
 	}
 	.enhancing-health h1  {
 		margin: 0 0 0.5rem 0;
@@ -299,7 +303,10 @@
 	.landingPage .stretch{
 		text-align: center;
 	}
-
+	.message-from-president-page ul{
+		list-style-type: none;
+		border-left: 11px solid #0f39a0;
+	}
 	.living-our-mission ul, .living-our-mission-page ul {
 		list-style-type: none;
 		border-left: 11px solid #0f39a0;
@@ -334,7 +341,7 @@
 		font-weight:300;
 		white-space:nowrap;
 	}
-	.living-our-mission-page ul li, .enhancing-health-page ul li, .keeping-people-safe-page ul li, .thrive-and-prosper-page ul li, .protecting-the-planet-page ul li {
+	.living-our-mission-page ul li, .enhancing-health-page ul li, .keeping-people-safe-page ul li, .thrive-and-prosper-page ul li, .protecting-the-planet-page ul li, .message-from-president-page ul li {
 		/*font-size:1.4rem;*/
 		font-size: calc(14px + (20 - 14) * ((100vw - 350px) / (1600 - 375)));
 		font-weight:300;
@@ -342,7 +349,7 @@
 	}
 
 	/* interior pages */
-	.enhancing-health-page h1, .keeping-people-safe-page h1, .thrive-and-prosper-page h1, .protecting-the-planet-page h1, .living-our-mission-page h1 {
+	.enhancing-health-page h1, .keeping-people-safe-page h1, .thrive-and-prosper-page h1, .protecting-the-planet-page h1, .living-our-mission-page h1, .message-from-president-page h1 {
 		color:#226AA0;
 		margin: 0 0 1rem 0;
 		font-weight: 400;
@@ -350,7 +357,7 @@
 		font-size: calc(26px + (35 - 26) * ((100vw - 350px) / (1600 - 375)));
 		line-height: 37px;
 	}
-	.enhancing-health-page h2, .keeping-people-safe-page h2, .thrive-and-prosper-page h2, .protecting-the-planet-page h2 {
+	.enhancing-health-page h2, .keeping-people-safe-page h2, .thrive-and-prosper-page h2, .protecting-the-planet-page h2, .message-from-presider-page h2 {
 		color:#EFDCB0;
 		margin:0;
 		font-weight: 400;
@@ -358,7 +365,7 @@
 		line-height: 25px;
 	}
 
-	.enhancing-health-page p, .keeping-people-safe-page p, .thrive-and-prosper-page p, .protecting-the-planet-page p {
+	.enhancing-health-page p, .keeping-people-safe-page p, .thrive-and-prosper-page p, .protecting-the-planet-page p, .message-from-president-page p {
 		color: #ffffff;
 		font-size:calc(14px + (20 - 14) * ((100vw - 350px) / (1600 - 375)));
 	}
