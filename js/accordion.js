@@ -1,5 +1,29 @@
 
-	function toggleCRC (thisChevron,thisID,thisHead) {
+  function slideACC () {
+    var divPosition = 170; /* $("#"+slideThis).offset().top */
+    console.log("sliding to " + divPosition)
+    $('html, body').animate({
+      scrollTop: $(slideThis).offset().top - divPosition
+    }, 1000);
+  }
+  
+  // close open accordions
+
+  function closeACC() {
+    $(".acc-body").each(function() {
+      if ($(this).data("section") != expandThisID && $(this).is(":visible")) {
+         $("#"+$(this).data("section")).slideToggle( 600, "swing", function() {
+         });
+         $("i[data-section=" + $(this).data("section") + ']').removeClass("on");
+         $("i[data-section=" + $(this).data("section") + ']').css("transform","rotate(0deg)");
+       }
+     });
+   
+   $("#"+expandThisID+" button").removeClass("crc-close-anim");
+  }
+
+  // toggle clicked accordion
+	function toggleACC (thisChevron,thisID) {
     if($(thisChevron).hasClass("on")) {
         $(thisChevron).removeClass("on");
         $(thisChevron).css("transform","rotate(0deg)");
@@ -9,39 +33,34 @@
         $(thisChevron).css("transform","rotate(-180deg)");
     }
 		$("#"+thisID).slideToggle( 600, "swing", function() {
+      
+    /* slide active accordion header up to position */
+
+    setTimeout(slideACC(),800);
 		});
-	}
+  }
+
+var expandThisID = "";
+var slideThis = "";
+var chevron = "";
+
 $(document).ready(function() {
   
-  /* open accordian */
 	$(".acc-head").click(function() {
     
-    var expandThisID = $(this).data("section");
-       
-    var divPosition = $("#"+expandThisID).offset().top + 235;
-    $('html, body').delay(800).animate({scrollTop: divPosition}, "slow");
-
-    var thisHead = $('.acc-head[data-section=' + expandThisID +']');
-    var chevron = $('i[data-section=' + expandThisID +']');
-    // close open chevrons
-    $(".crc-chevron").each (function() {
-      if ($(this).hasClass("on")) {
-      }
-    })
+    expandThisID = $(this).data("section");
+    slideThis = "#"+expandThisID+"Head";
+    //var thisHead = $('.acc-head[data-section=' + expandThisID +']');
+    chevron = $('i[data-section=' + expandThisID +']');
+    
     // close open accordions
     
-     $(".acc-body").each(function() {
-       if ($(this).data("section") != expandThisID && $(this).is(":visible")) {
-          $("#"+$(this).data("section")).slideToggle( 600, "swing", function() {
-          });
-          $("i[data-section=" + $(this).data("section") + ']').removeClass("on");
-          $("i[data-section=" + $(this).data("section") + ']').css("transform","rotate(0deg)");
-        }
-      });
-    
-    $("#"+expandThisID+" button").removeClass("crc-close-anim");
-    
-    toggleCRC(chevron,expandThisID,thisHead);   
+    closeACC()
+
+    /* toggle clicked accordian and slide it into position*/
+
+    toggleACC(chevron,expandThisID);   
+
     
 	});
 
@@ -52,7 +71,7 @@ $(document).ready(function() {
     //console.log(collapseThisID);
 		var chevron = $('i[data-section=' + collapseThisID +']');
 		var thisHead = $('.acc-head[data-section=' + collapseThisID +']');
-		toggleCRC(chevron,collapseThisID,thisHead)	
+		toggleACC(chevron,collapseThisID,thisHead)	
   });
   
 });
