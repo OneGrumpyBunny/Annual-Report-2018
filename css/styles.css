@@ -63,6 +63,7 @@ a {
 }
 .expand, .collapse {
     opacity:0.9;
+    transition: opacity .5s ease-in;
 }
 
 
