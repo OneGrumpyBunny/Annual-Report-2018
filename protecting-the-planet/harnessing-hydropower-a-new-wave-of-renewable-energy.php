@@ -19,7 +19,7 @@ include $REL_DIR.$INCL_DIR."meta-planet.php";
             <h1>Hydropower</h1>
             <h2>A wave of renewable energy</h2>
             <p class="light">As climate change continues to pose a threat, curbing the use of fossil fuels has been more important than ever. The world is experiencing the largest energy transformation since the Industrial Revolution, and hydropower has been a forefront in this revolution.</p>
-            <p class="readmore"><a href="" target="_blank">READ MORE</a></p>
+            <p class="readmore"><a href="https://www.rti.org/insights/hydropower-wave-renewable-energy" target="_blank">READ MORE</a></p>
         </div>
         <div>
             <p class="regular">Explore how we are protecting the planet through our work:</p>
