@@ -3,7 +3,7 @@
 /* default is mobile view - 375px */
 
 /* colors:
-    About: #0f39a0 - rgba(15, 57, 160, 1)
+    About: #99B1C5 - rgba(15, 57, 160, 1)
     Health: #316094 - rgba(49, 96, 148, 1)
     Safe: #787C3C - rgba(120, 124, 60, 1)
     Thrive: #638C1C - rgba(99, 140, 28, 1)
@@ -235,7 +235,7 @@ h1, h2, h3, h4, p, a {
 }
 
 .landingPageMobile h1 {
-    color: #226AA0;
+    color: #3A73B0;
     font-size: calc(24px + (200 - 24) * ((100vw - 200px) / (1600 - 375)));
     font-weight: 300;
     white-space: nowrap;
@@ -245,12 +245,12 @@ h1, h2, h3, h4, p, a {
     color: #ffffff;
     bottom: 0;
     position: absolute;
-    border-left: 11px solid #0f39a0;
+    border-left: 11px solid #99B1C5;
     /*font-size: calc(24px + (200 - 24) * ((100vw - 200px) / (1600 - 375)));*/
     font-weight: 300;
 }
 .living-our-mission h1{
-    color: #0f39a0;
+    color: #99B1C5;
     font-size: calc(26px + (40 - 26) * ((100vw - 350px) / (1600 - 375)));
     margin: 0;
     font-weight: 400;
@@ -324,7 +324,7 @@ h1, h2, h3, h4, p, a {
     color: #ffffff;
 }
 .enhancing-health-page .active {
-    color:#226AA0;
+    color:#3A73B0;
 }
 .keeping-people-safe-page .active {
     color:#787C3C;
@@ -337,5 +337,5 @@ h1, h2, h3, h4, p, a {
     color:#FFC629;
 }
 .living-our-mission-page .active, .message-from-president-page .active{
-    color:#0f39a0
+    color:#99B1C5
 }

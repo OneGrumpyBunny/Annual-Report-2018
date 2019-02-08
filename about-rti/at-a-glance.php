@@ -19,11 +19,11 @@ include $REL_DIR.$INCL_DIR."meta-living.php";
         <!-- <img src="../img/RTI_w_1in.png" class="logo"> -->
             <h1>At a Glance</h1>
             <!-- <h2>Decisions delayed; employment choices made based on the cost of education</h2> -->
-            <p class="light">
+            <!---<p class="light">
 					Lorem
-				</p>
+				</p>--->
             <!-- <p class="readmore"><a href="" target="_blank">READ MORE</a></p> -->
-            <div style="background-color: black; width: 100%; min-height: 100px;"></div>
+            <!---<div style="background-color: black; width: 100%; min-height: 100px;"></div>--->
         </div>
         <div>
             <!-- <p class="regular">Learn more about how we are helping regions thrive and prosper:</p> -->
