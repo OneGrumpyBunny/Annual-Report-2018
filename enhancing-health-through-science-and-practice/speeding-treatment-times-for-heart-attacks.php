@@ -15,9 +15,9 @@ include $REL_DIR.$INCL_DIR."meta-health.php";
         
         <div>
         <a href="http://www.rti.org"><img src="../img/RTI_w_1in.png" class="logo"></a>
-            <h1>The HeartRescue Global Project</h1>
-            <h2>Speeding the time to treatment for severe heart attacks</h2>
-            <p class="light">In the wake of a severe heart attack, also known as an ST-elevation myocardial infarction, receiving effective treatment within several hours is crucial to reduce muscular damage and the risk of death. Effective treatment requires reperfusion (opening the blocked artery) using either thrombolytic medications or a more expensive (and more effective) percutaneous coronary intervention performed in a cardiac catheterization laboratory.</p>
+            <h1>The HeartRescue Global&nbsp;Project</h1>
+            <h2>Speeding the time to treatment for severe heart&nbsp;attacks</h2>
+            <p class="light">In the wake of a severe heart attack, also known as an ST-elevation myocardial infarction, receiving effective treatment within several hours is crucial to reduce muscular damage and the risk of death. Effective treatment requires reperfusion (opening the blocked artery) using either thrombolytic medications or a more expensive (and more effective) percutaneous coronary intervention performed in a cardiac catheterization&nbsp;laboratory.</p>
             <p class="readmore"><a href="https://www.rti.org/impact/heartrescue-global-project" target="_blank">READ MORE</a></p>
         </div>
         <div>

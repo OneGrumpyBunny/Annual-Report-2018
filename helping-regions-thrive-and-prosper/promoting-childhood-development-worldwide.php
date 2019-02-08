@@ -18,7 +18,7 @@ include $REL_DIR.$INCL_DIR."meta-thrive.php";
         <a href="http://www.rti.org"><img src="../img/RTI_w_1in.png" class="logo"></a>
             <h1>Strategies to Promote Early Childhood Development</h1>
             <h2>An expert interview with Katherine Merseth</h2>
-            <p class="light">Child development begins before a child is born, and much depends on the health and well-being of the mother. For example, maternal diet; maternal alcohol or nicotine use; and maternal stress, depression, and anxiety during pregnancy affect the developing fetus—leading to prematurity; low birth weight; and increased risk for health, developmental, and behavioral challenges throughout life.</p>
+            <p class="light">Child development begins before a child is born, and much depends on the health and well-being of the mother. For example, maternal diet; maternal alcohol or nicotine use; and maternal stress, depression, and anxiety during pregnancy affect the developing fetus—leading to prematurity; low birth weight; and increased risk for health, developmental, and behavioral challenges throughout&nbsp;life.</p>
             <p class="readmore"><a href="https://www.rti.org/insights/strategies-promote-early-childhood-development-expert-interview-katherine-merseth" target="_blank">READ MORE</a></p>
         </div>
         <div>

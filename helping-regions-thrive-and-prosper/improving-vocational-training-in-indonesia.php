@@ -18,7 +18,7 @@ include $REL_DIR.$INCL_DIR."meta-thrive.php";
         <a href="http://www.rti.org"><img src="../img/RTI_w_1in.png" class="logo"></a>
             <h1>The Indonesia Ready-to-Work Accelerator Program (RWAP)</h1>
             <h2>Improving vocational training for underprivileged Indonesian youth</h2>
-            <p class="light">A large percentage of disadvantaged youths in Indonesia either do not complete their secondary education or are unable to continue at a postsecondary level. Having no real marketable skills, they opt instead for one of two vocational training options: a BLK, or state-owned vocational training school—the rough equivalent of an American community college or technical high school—or an LPK or informal vocational training center, which is independently operated and less regulated by the government.</p>
+            <p class="light">A large percentage of disadvantaged youths in Indonesia either do not complete their secondary education or are unable to continue at a postsecondary level. Having no real marketable skills, they opt instead for one of two vocational training options: a BLK, or state-owned vocational training school—the rough equivalent of an American community college or technical high school—or an LPK or informal vocational training center, which is independently operated and less regulated by the&nbsp;government.</p>
             <p class="readmore"><a href="https://www.rti.org/impact/indonesia-ready-work-accelerator-program-rwap" target="_blank">READ MORE</a></p>
         </div>
         <div>
