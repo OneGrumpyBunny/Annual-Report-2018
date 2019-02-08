@@ -9,7 +9,7 @@
 		<p class="mobileHead mobileHeadAbout">About RTI</p>
 	</div>
 	<div class="innerContainerMob aboutMob">
-		<p class="headerText">At RTI International, our work is driven by scientific rigor, objective research, and technical expertise. But the underlying force that propels us forward is an unwavering commitment to our mission: improving the human condition by turning knowledge into practice. Together, we explore new ideas and seek solutions to critical issues facing people everywhere. In our 2018 annual report, we invite you to learn how we are living our mission as we strive to deliver the promise of science for global good.</p><!--<p class="readmore"><a href="">READ MORE</a></p>-->
+		<p class="headerText">At RTI International, our work is driven by scientific rigor, objective research, and technical expertise. </p><p class="headerText hideMore">But the underlying force that propels us forward is an unwavering commitment to our mission: improving the human condition by turning knowledge into practice. Together, we explore new ideas and seek solutions to critical issues facing people everywhere. In our 2018 annual report, we invite you to learn how we are living our mission as we strive to deliver the promise of science for global good.</p><p><span class="readmore expand">READ MORE</span><br><span class="readmore collapse hide">READ LESS</span></p>
 		<section>
 			<div id="section1Head" class="acc-head" data-section="section1">
 				<p>A Message from our President</p><i class="fas fa-chevron-down crc-chevron" data-section="section1"></i>

@@ -8,7 +8,7 @@
 		<p class="mobileHead mobileHeadSafe">Keeping People Safe</p>
 	</div>
 	<div class="innerContainerMob safeMob">
-		<p class="headerText">At RTI, we tackle some of the toughest challenges facing the world today. Our clients rely on our objective research and evidence-based approach to help combat societal issues, including sexual assault, drug abuse, school violence, and extremism. Informed by data and committed to scientific rigor, we look at these critical issues through an objective lens to devise policies and practices that ensure safety for all.</p><!--<p><span class="readmore expand">READ MORE</span><br><span class="readmore collapse hide">READ LESS</span></p>-->
+		<p class="headerText">At RTI, we tackle some of the toughest challenges facing the world today. Our clients rely on our objective research and evidence-based approach to help combat societal issues, including sexual assault, drug abuse, school violence, and extremism. </p><p class="headerText hideMore">Informed by data and committed to scientific rigor, we look at these critical issues through an objective lens to devise policies and practices that ensure safety for all.</p><p><span class="readmore expand">READ MORE</span><br><span class="readmore collapse hide">READ LESS</span></p>
 		<section>
 			<div id="section1Head" class="acc-head" data-section="section1">
 				<p>Training Targets Sexual Assault Investigation Improvements</p><i class="fas fa-chevron-down crc-chevron" data-section="section1"></i>

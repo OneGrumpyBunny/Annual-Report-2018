@@ -8,7 +8,7 @@
 		<p class="mobileHead mobileHeadPlanet">Protecting the Planet</p>
 	</div>
 	<div class="innerContainerMob planetMob">
-		<p class="headerText">From reducing carbon emissions to developing renewable energy sources to ensuring clean drinking water, the challenges facing the environment affect us all as citizens of the planet and require science-based solutions that span social science, laboratory research, engineering, and program delivery. Our multidisciplinary approach ensures that the answers we need for all our tomorrows can be uncovered today.</p><!--<p><span class="readmore expand">READ MORE</span><br><span class="readmore collapse hide">READ LESS</span></p>-->
+		<p class="headerText">From reducing carbon emissions to developing renewable energy sources to ensuring clean drinking water, the challenges facing the environment affect us all as citizens of the planet and require science-based solutions that span social science, laboratory research, engineering, and program delivery. </p><p class="headerText hideMore">Our multidisciplinary approach ensures that the answers we need for all our tomorrows can be uncovered today.</p><p><span class="readmore expand">READ MORE</span><br><span class="readmore collapse hide">READ LESS</span></p>
 		<section>
 			<div id="section1Head" class="acc-head" data-section="section1">
 				<p>Enlisting Citizen Scientists to Help Improve Air Quality</p><i class="fas fa-chevron-down crc-chevron" data-section="section1"></i>
