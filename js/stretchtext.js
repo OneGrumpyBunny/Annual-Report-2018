@@ -43,29 +43,17 @@ jQuery(window).on("load", function(){
     });
 });
 
-$(window).unload(
-    console.log('unload');
-    jQuery('.stretch').each(function(){
-        jQuery(this).strech_text();
-    });
-);
-window.onhashchange(function(){
-    console.log('hash change');
-    jQuery('.stretch').each(function(){
-        jQuery(this).strech_text();
-    });
-})
-
-jQuery(window).onbeforeload(function(){
-    console.log('on before');
-    jQuery('.stretch').each(function(){
-        jQuery(this).strech_text();
-    });
-});
-
 jQuery(window).resize(function(){
     console.log('resize');
     jQuery('.stretch').each(function(){
         jQuery(this).strech_text();
     });
 });
+
+jQuery(window).on("unload", function(){
+    console.log('unload');
+    jQuery('.stretch').each(function(){
+        jQuery(this).strech_text();
+    });
+});
+
