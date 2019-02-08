@@ -235,7 +235,7 @@ h1, h2, h3, h4, p, a {
 }
 
 .landingPageMobile h1 {
-    color: #226AA0;
+    color: #3A73B0;
     font-size: calc(24px + (200 - 24) * ((100vw - 200px) / (1600 - 375)));
     font-weight: 300;
     white-space: nowrap;
@@ -324,7 +324,7 @@ h1, h2, h3, h4, p, a {
     color: #ffffff;
 }
 .enhancing-health-page .active {
-    color:#226AA0;
+    color:#3A73B0;
 }
 .keeping-people-safe-page .active {
     color:#787C3C;
