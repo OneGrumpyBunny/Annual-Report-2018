@@ -65,7 +65,11 @@ a {
     opacity:0.9;
     transition: opacity .5s ease-in;
 }
-
+#animBack {
+    position: fixed; 
+    opacity: 0.1; 
+    max-width: 1600px;
+}
 
 .hide {
     opacity:0;
