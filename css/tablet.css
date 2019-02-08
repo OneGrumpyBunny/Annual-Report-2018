@@ -242,6 +242,7 @@
 		bottom: 0;
 		max-width: 1600px;
 		width: calc(60%);
+		margin-bottom: .5rem;
 	}
 	.footer-text .text{
 		flex: 0 0 80%;
@@ -259,7 +260,7 @@
 	}
 	.footer-text .icons{
 		flex: 0 0 15%;
-		align-self: center;
+		align-self: baseline;
 		display: flex;
 		flex-flow: row;
 		justify-content: space-evenly;
