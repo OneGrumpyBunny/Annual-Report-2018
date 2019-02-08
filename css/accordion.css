@@ -26,7 +26,6 @@
     padding: 5px;
 }
 .acc-head {
-    border-bottom: 1px solid #fff;
     display: -webkit-box;
     display: -ms-flexbox;
     display: flex;
@@ -42,21 +41,26 @@
     position:relative;
 }
 .aboutMob .acc-head {
-    background: rgba(15, 57, 160, .8)
+    background: rgba(15, 57, 160, .8);
+    border-bottom: 1px solid rgba(15, 57, 160, .8);
 }  
 .healthMob .acc-head {
-    background: rgba(49, 96, 148, .8)
+    background: rgba(49, 96, 148, .8);
+    border-bottom: 1px solid rgba(49, 96, 148, .8);
 }  
 
 .safeMob .acc-head {
     background: rgba(120, 124, 60, .8);
+    border-bottom: 1px solid rgba(120, 124, 60, .8);
 }
 .thriveMob .acc-head {
     background: rgba(99, 140, 28, .8);
+    border-bottom: 1px solid rgba(99, 140, 28, .8);
 }
 
 .planetMob .acc-head {
     background: rgba(255, 198, 41, .8);
+    border-bottom: 1px solid rgba(255, 198, 41, .8);
 }
 
 .acc-head {
