@@ -155,6 +155,8 @@ h1, h2, h3, h4, p, a {
 .light {
     font-style: normal;
     font-weight: 300;
+    widows: 2;
+    orphans: 2;
 }
 .regular {
     font-style: normal;
@@ -308,6 +310,7 @@ h1, h2, h3, h4, p, a {
     font-size: calc(18px + (20 - 18) * ((100vw - 350px) / (1600 - 375)));
     margin: 0;
     font-weight: 400;
+    widows: 2;
 }
 
 .light {
