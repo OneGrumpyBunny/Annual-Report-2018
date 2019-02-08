@@ -47,6 +47,12 @@ jQuery(window).unload(function(){
     });
 });
 
+jQuery(window).onbeforeload(function(){
+    jQuery('.stretch').each(function(){
+        jQuery(this).strech_text();
+    });
+});
+
 jQuery(window).resize(function(){
     jQuery('.stretch').each(function(){
         jQuery(this).strech_text();
