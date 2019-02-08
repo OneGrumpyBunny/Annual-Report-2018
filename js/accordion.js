@@ -1,9 +1,9 @@
 
   function slideACC () {
     if ($("section").parent().attr("class") == "innerContainerMob thriveMob") {
-       divPosition = 200;  // thriveMob header is longer
+       divPosition = 190;  // thriveMob header is longer
     } else {
-        divPosition = 170;
+        divPosition = 175;
     }
     console.log("sliding to " + divPosition)
     $('html, body').animate({
