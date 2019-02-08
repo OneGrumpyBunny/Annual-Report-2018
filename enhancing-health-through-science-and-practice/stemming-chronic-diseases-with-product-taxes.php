@@ -17,7 +17,7 @@ include $REL_DIR.$INCL_DIR."meta-health.php";
         <a href="http://www.rti.org"><img src="../img/RTI_w_1in.png" class="logo"></a>
             <h1>Taxes on Soft Drinks, Alcohol, and Tobacco?</h1>
             <h2>A powerful response to rise of chronic disease</h2>
-            <p class="light">Taxes on soft drinks, alcohol, and tobacco are a powerful response to rising rates of non-communicable diseases worldwide, according to the most comprehensive analysis to date of evidence on expenditure, behavior, and socioeconomic status, published in <i>The Lancet</i>.</p>
+            <p class="light">Taxes on soft drinks, alcohol, and tobacco are a powerful response to rising rates of non-communicable diseases worldwide, according to the most comprehensive analysis to date of evidence on expenditure, behavior, and socioeconomic status, published in <i>The Lancet</i>&nbsp;.</p>
             <p class="readmore"><a href="https://www.rti.org/news/taxes-soft-drinks-alcohol-and-tobacco-are-powerful-response-rising-rates-chronic-diseases" target="_blank">READ MORE</a></p>
         </div>
         <div>
