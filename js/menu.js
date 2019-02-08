@@ -2,7 +2,8 @@
 
 function menu() {
   'use strict';
-   $('#pull').click(function() {
+   //$('#pull').click(function() {
+  $('header').click(function() {
     $('body').toggleClass('active');
     if($("body.active").is(":visible")){
       $('.side-line').addClass('on');
