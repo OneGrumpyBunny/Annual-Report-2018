@@ -93,7 +93,7 @@
 				<p class="light">Time is of the essence for the scientists and researchers tackling these issues, and we specialize in taking real-time results and applying those to our work to combat cancer, heart disease, and stroke. We imagine a world free of disease and dedicate ourselves to the intervention, prevention, and treatment necessary to save&nbsp;lives.</p>
 			</div>
 			<div>
-				<p class="regular">Learn more about how we are enhancing individual and family health through our work:</p>
+				<p class="regular">Learn how we are enhancing individual and family health:</p>
 				<ul>
 					
 					<li><a href="protecting-against-hiv-and-pregnancy-with-one-device.php">Protecting Against HIV and Pregnancy with One Device</a></li>

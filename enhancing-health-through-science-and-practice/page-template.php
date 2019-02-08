@@ -20,7 +20,7 @@ include $REL_DIR.$INCL_DIR."meta-health.php";
             <p class="readmore"><a href="" target="_blank">READ MORE</a></p>
         </div>
         <div>
-            <p class="regular">Learn more about how we are enhancing individual and family health:</p>
+            <p class="regular">Learn how we are enhancing individual and family health:</p>
             <ul>
                 <li class="active">Protecting Against HIV and Pregnancy with One Device</li>
                 <li><a href="">Envisioning a World Without Tropical Diseases</a></li>
