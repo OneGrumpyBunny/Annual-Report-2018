@@ -249,9 +249,6 @@
 		align-self: center;
 		margin: 0;
 	}
-	.footer-text .text p:last-of-type{
-		margin-top: -1rem;
-	}
 	.footer-text .icons{
 		flex: 0 0 15%;
 		align-self: center;
