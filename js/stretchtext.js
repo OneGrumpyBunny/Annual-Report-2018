@@ -40,6 +40,13 @@ jQuery(window).on("load", function(){
         jQuery(this).strech_text();
     });
 });
+
+jQuery(window).on("unload", function(){
+    jQuery('.stretch').each(function(){
+        jQuery(this).strech_text();
+    });
+});
+
 jQuery(window).resize(function(){
     jQuery('.stretch').each(function(){
         jQuery(this).strech_text();
