@@ -43,7 +43,7 @@ jQuery(window).on("load", function(){
     });
 });
 
-jQuery(window).unload(function(){
+jQuery(window).addEventListener("unload", function(event) {
     console.log('unload');
     jQuery('.stretch').each(function(){
         jQuery(this).strech_text();
