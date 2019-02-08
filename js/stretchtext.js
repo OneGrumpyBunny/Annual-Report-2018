@@ -41,7 +41,7 @@ jQuery(window).on("load", function(){
     });
 });
 
-jQuery(window).on("unload", function(){
+jQuery(window).unload(function(){
     jQuery('.stretch').each(function(){
         jQuery(this).strech_text();
     });
