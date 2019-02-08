@@ -333,6 +333,6 @@ h1, h2, h3, h4, p, a {
 .protecting-the-planet-page .active {
     color:#FFC629;
 }
-.living-our-mission-page .active{
+.living-our-mission-page .active, .message-from-president-page .active{
     color:#0f39a0
 }
