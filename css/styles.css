@@ -206,7 +206,7 @@ h1, h2, h3, h4, p, a {
     max-width: 200px;
     top: 30px;
     width: 25%;
-    margin-bottom: 7rem;
+    margin-bottom: 6rem;
 }
 
 
@@ -315,7 +315,7 @@ h1, h2, h3, h4, p, a {
 
 .light {
     /*font-size:1.3rem;*/
-    font-size:calc(14px + (20 - 14) * ((100vw - 350px) / (1600 - 375)));
+    font-size:calc(10px + (20 - 14) * ((100vw - 350px) / (1600 - 375)));
     color: #ffffff;
 
 }

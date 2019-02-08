@@ -21,7 +21,7 @@ include $REL_DIR.$INCL_DIR."meta-health.php";
             <p class="readmore"><a href="https://www.rti.org/news/taxes-soft-drinks-alcohol-and-tobacco-are-powerful-response-rising-rates-chronic-diseases" target="_blank">READ MORE</a></p>
         </div>
         <div>
-            <p class="regular">Learn more about how we are enhancing individual and family health:</p>
+            <p class="regular">Learn how we are enhancing individual and family health:</p>
             <ul>
             <li><a href="protecting-against-hiv-and-pregnancy-with-one-device.php">Protecting Against HIV and Pregnancy with One Device</a></li>
                 <li><a href="envisioning-a-world-without-tropical-diseases.php">Envisioning a World Without Tropical Diseases</a></li>
