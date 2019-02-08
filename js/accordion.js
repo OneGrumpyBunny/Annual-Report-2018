@@ -1,6 +1,10 @@
 
   function slideACC () {
-    var divPosition = 170; /* $("#"+slideThis).offset().top */
+    if ($("section").parent().attr("class") == "innerContainerMob thriveMob") {
+       divPosition = 200;  // thriveMob header is longer
+    } else {
+        divPosition = 170;
+    }
     console.log("sliding to " + divPosition)
     $('html, body').animate({
       scrollTop: $(slideThis).offset().top - divPosition
@@ -43,6 +47,7 @@
 var expandThisID = "";
 var slideThis = "";
 var chevron = "";
+var divPosition = 0;
 
 $(document).ready(function() {
   
