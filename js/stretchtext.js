@@ -30,30 +30,35 @@ $.fn.strech_text = function(){
 
 
 $(document).ready(function () {
+    console.log('ready');
     $('.stretch').each(function(){
         $(this).strech_text();
     });
 });
 
 jQuery(window).on("load", function(){
+    console.log('load');
     jQuery('.stretch').each(function(){
         jQuery(this).strech_text();
     });
 });
 
 jQuery(window).unload(function(){
+    console.log('unload');
     jQuery('.stretch').each(function(){
         jQuery(this).strech_text();
     });
 });
 
 jQuery(window).onbeforeload(function(){
+    console.log('on before');
     jQuery('.stretch').each(function(){
         jQuery(this).strech_text();
     });
 });
 
 jQuery(window).resize(function(){
+    console.log('resize');
     jQuery('.stretch').each(function(){
         jQuery(this).strech_text();
     });
