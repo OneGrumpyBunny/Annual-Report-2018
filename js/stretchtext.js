@@ -43,12 +43,12 @@ jQuery(window).on("load", function(){
     });
 });
 
-$(window).unload(function() {
+$(window).unload(
     console.log('unload');
     jQuery('.stretch').each(function(){
         jQuery(this).strech_text();
     });
-});
+);
 window.onhashchange(function(){
     console.log('hash change');
     jQuery('.stretch').each(function(){
