@@ -54,7 +54,7 @@
     color: #fff;
     font-weight: 300;
     padding: 0px 9px;
-    background: rgba(0, 0, 0, .5);
+    /*background: rgba(0, 0, 0, .5);*/
     margin-left: 1rem;
 	}
 	.innerContainerMob {
@@ -69,7 +69,7 @@
 	}
 	.aboutMob, .healthMob, .safeMob,  .planetMob {
 		
-    margin-top: 10rem;
+    margin-top: 11rem;
 	}
 	.headerText {
 		font-size: 1rem;
@@ -99,7 +99,8 @@
     top: 0;
     z-index: 100;
     background: rgba(0, 0, 0, .6);
-		width: 85vw;
+		width: 100vw;
+		/* width: 85vw */
 		
 	}
 	header {
