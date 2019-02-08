@@ -10,7 +10,7 @@
 	<div class="innerContainerMob planetMob">
 		<p class="headerText">From reducing carbon emissions to developing renewable energy sources to ensuring clean drinking water, the challenges facing the environment affect us all as citizens of the planet and require science-based solutions that span social science, laboratory research, engineering, and program delivery. Our multidisciplinary approach ensures that the answers we need for all our tomorrows can be uncovered today.</p><!--<p><span class="readmore expand">READ MORE</span><br><span class="readmore collapse hide">READ LESS</span></p>-->
 		<section>
-			<div class="acc-head" data-section="section1">
+			<div id="section1Head" class="acc-head" data-section="section1">
 				<p>Enlisting Citizen Scientists to Help Improve Air Quality</p><i class="fas fa-chevron-down crc-chevron" data-section="section1"></i>
 			</div>
 			<div id="section1" data-section="section1" class="acc-body">
@@ -19,7 +19,7 @@
 				<button style="float:right;" class="crc-close1 close" data-section="section1"><!--<i class="fas fa-times"></i>-->Close</button></p>
 			</div>
 
-			<div class="acc-head" data-section="section2">
+			<div id="section2Head" class="acc-head" data-section="section2">
 				<p>Reducing Greenhouse Gas Emissions in Guatemala</p><i class="fas fa-chevron-down crc-chevron" data-section="section2"></i>
 			</div>
 			<div id="section2" data-section="section2" class="acc-body">
@@ -28,7 +28,7 @@
 				<button style="float:right;" class="crc-close2 close" data-section="section2"><!--<i class="fas fa-times"></i>-->Close</button></p>
 			</div>
 
-			<div class="acc-head" data-section="section3">
+			<div id="section3Head" class="acc-head" data-section="section3">
 				<p>Working to Provide Clean Water in Nigeria</p><i class="fas fa-chevron-down crc-chevron" data-section="section3"></i>
 			</div>
 			<div id="section3" data-section="section3" class="acc-body">
@@ -37,7 +37,7 @@
 				<button style="float:right;" class="crc-close3 close" data-section="section3"><!--<i class="fas fa-times"></i>-->Close</i></button></p>
 			</div>
 
-			<div class="acc-head" data-section="section4">
+			<div id="section4Head" class="acc-head" data-section="section4">
 					<p>Harnessing Hydropower: A New Wave of Renewable Energy</p><i class="fas fa-chevron-down crc-chevron" data-section="section4"></i>
 			</div>
 			<div id="section4" data-section="section4" class="acc-body">
@@ -46,7 +46,7 @@
 				<button style="float:right;" class="crc-close4 close" data-section="section4"><!--<i class="fas fa-times"></i>-->Close</i></button></p>
 			</div>
 
-			<div class="acc-head" data-section="section5">
+			<div id="section5Head" class="acc-head" data-section="section5">
 					<p>Driving Energy Success in the Philippines</p><i class="fas fa-chevron-down crc-chevron" data-section="section5"></i>
 			</div>
 			<div id="section5" data-section="section5" class="acc-body">
@@ -55,7 +55,7 @@
 				<button style="float:right;" class="crc-close5 close" data-section="section5"><!--<i class="fas fa-times"></i>-->Close</i></button></p>
 			</div>
 
-			<div class="acc-head" data-section="section6">
+			<div id="section6Head" class="acc-head" data-section="section6">
 					<p>Preventing Exposure to Harmful Contaminants</p><i class="fas fa-chevron-down crc-chevron" data-section="section6"></i>
 			</div>
 			<div id="section6" data-section="section6" class="acc-body">

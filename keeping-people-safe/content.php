@@ -10,7 +10,7 @@
 	<div class="innerContainerMob safeMob">
 		<p class="headerText">At RTI, we tackle some of the toughest challenges facing the world today. Our clients rely on our objective research and evidence-based approach to help combat societal issues, including sexual assault, drug abuse, school violence, and extremism. Informed by data and committed to scientific rigor, we look at these critical issues through an objective lens to devise policies and practices that ensure safety for all.</p><!--<p><span class="readmore expand">READ MORE</span><br><span class="readmore collapse hide">READ LESS</span></p>-->
 		<section>
-			<div class="acc-head" data-section="section1">
+			<div id="section1Head" class="acc-head" data-section="section1">
 				<p>Training Targets Sexual Assault Investigation Improvements</p><i class="fas fa-chevron-down crc-chevron" data-section="section1"></i>
 			</div>
 			<div id="section1" data-section="section1" class="acc-body">
@@ -19,7 +19,7 @@
 				<button style="float:right;" class="crc-close1 close" data-section="section1"><!--<i class="fas fa-times"></i>-->Close</button></p>
 			</div>
 
-			<div class="acc-head" data-section="section2">
+			<div id="section2Head" class="acc-head" data-section="section2">
 				<p>Securing Schools</p><i class="fas fa-chevron-down crc-chevron" data-section="section2"></i>
 			</div>
 			<div id="section2" data-section="section2" class="acc-body">
@@ -28,7 +28,7 @@
 				<button style="float:right;" class="crc-close2 close" data-section="section2"><!--<i class="fas fa-times"></i>-->Close</button></p>
 			</div>
 
-			<div class="acc-head" data-section="section3">
+			<div id="section3Head" class="acc-head" data-section="section3">
 				<p>Studying How Radicalism Develops</p><i class="fas fa-chevron-down crc-chevron" data-section="section3"></i>
 			</div>
 			<div id="section3" data-section="section3" class="acc-body">
@@ -37,7 +37,7 @@
 				<button style="float:right;" class="crc-close3 close" data-section="section3"><!--<i class="fas fa-times"></i>-->Close</i></button></p>
 			</div>
 
-			<div class="acc-head" data-section="section4">
+			<div id="section4Head" class="acc-head" data-section="section4">
 					<p>Tackling Domestic Violence with Technology</p><i class="fas fa-chevron-down crc-chevron" data-section="section4"></i>
 			</div>
 			<div id="section4" data-section="section4" class="acc-body">
@@ -46,7 +46,7 @@
 				<button style="float:right;" class="crc-close4 close" data-section="section4"><!--<i class="fas fa-times"></i>-->Close</i></button></p>
 			</div>
 
-			<div class="acc-head" data-section="section5">
+			<div id="section5Head" class="acc-head" data-section="section5">
 					<p>Uncovering Cannabis Product Risks</p><i class="fas fa-chevron-down crc-chevron" data-section="section5"></i>
 			</div>
 			<div id="section5" data-section="section5" class="acc-body">
@@ -55,7 +55,7 @@
 				<button style="float:right;" class="crc-close5 close" data-section="section5"><!--<i class="fas fa-times"></i>-->Close</i></button></p>
 			</div>
 
-			<div class="acc-head" data-section="section6">
+			<div id="section6Head" class="acc-head" data-section="section6">
 					<p>Reducing Police Stress</p><i class="fas fa-chevron-down crc-chevron" data-section="section6"></i>
 			</div>
 			<div id="section6" data-section="section6" class="acc-body">
@@ -63,7 +63,7 @@
 				<p class="readmore"><a href="https://www.rti.org/insights/stress-reduction-programs-police-officers-what-needs-change" target="_blank">READ MORE </a>
 				<button style="float:right;" class="crc-close6 close" data-section="section6"><!--<i class="fas fa-times"></i>-->Close</i></button></p>
 			</div>
-			<div class="acc-head" data-section="section7">
+			<div id="section7Head" class="acc-head" data-section="section7">
 					<p>Exploring a New Weapon in Opioid Crisis: Communication</p><i class="fas fa-chevron-down crc-chevron" data-section="section7"></i>
 			</div>
 			<div id="section7" data-section="section7" class="acc-body">

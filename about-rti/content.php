@@ -11,7 +11,7 @@
 	<div class="innerContainerMob aboutMob">
 		<p class="headerText">At RTI International, our work is driven by scientific rigor, objective research, and technical expertise. But the underlying force that propels us forward is an unwavering commitment to our mission: improving the human condition by turning knowledge into practice. Together, we explore new ideas and seek solutions to critical issues facing people everywhere. In our 2018 annual report, we invite you to learn how we are living our mission as we strive to deliver the promise of science for global good.</p><!--<p class="readmore"><a href="">READ MORE</a></p>-->
 		<section>
-			<div class="acc-head" data-section="section1">
+			<div id="section1Head" class="acc-head" data-section="section1">
 				<p>A Message from our President</p><i class="fas fa-chevron-down crc-chevron" data-section="section1"></i>
 			</div>
 			<div id="section1" data-section="section1" class="acc-body">
@@ -29,7 +29,7 @@
 				<button style="float:right;" class="crc-close1 close" data-section="section1"><!--<i class="fas fa-times"></i>-->Close</button></p>
 			</div>
 
-			<div class="acc-head" data-section="section2">
+			<div id="section2Head" class="acc-head" data-section="section2">
 				<p>RTI at a Glance</p><i class="fas fa-chevron-down crc-chevron" data-section="section2"></i>
 			</div>
 			<div id="section2" data-section="section2" class="acc-body">
@@ -38,7 +38,7 @@
 				<button style="float:right;" class="crc-close2 close" data-section="section2"><!--<i class="fas fa-times"></i>-->Close</button></p>
 			</div>
 
-			<div class="acc-head" data-section="section3">
+			<div id="section3Head" class="acc-head" data-section="section3">
 				<p>Meet RTI's Executive Leadership</p><i class="fas fa-chevron-down crc-chevron" data-section="section3"></i>
 			</div>
 			<div id="section3" data-section="section3" class="acc-body">
@@ -47,7 +47,7 @@
 				<button style="float:right;" class="crc-close3 close" data-section="section3"><!--<i class="fas fa-times"></i>-->Close</i></button></p>
 			</div>
 
-			<div class="acc-head" data-section="section4">
+			<div id="section4Head" class="acc-head" data-section="section4">
 					<p>Meet RTI's Board of Governors</p><i class="fas fa-chevron-down crc-chevron" data-section="section4"></i>
 			</div>
 			<div id="section4" data-section="section4" class="acc-body">

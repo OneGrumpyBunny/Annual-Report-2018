@@ -10,7 +10,7 @@
 	<div class="innerContainerMob thriveMob">
 		<p class="headerText">Children will not thrive if they cannot read. Youth will not flourish without education or skills training. Countries will not prosper without electricity or infrastructure. From improving literacy rates for 7 million Kenyan children, to providing electricity access to 600 million people in sub-Saharan Africa, to offer training for the 20% of unemployed youth in Rwanda, we are living our mission every day to help communities around the world achieve a brighter future.</p><!--<p><span class="readmore expand">READ MORE</span><br><span class="readmore collapse hide">READ LESS</span></p>-->
 		<section>
-			<div class="acc-head" data-section="section1">
+			<div id="section1Head" class="acc-head" data-section="section1">
 				<p>Understanding Consequences of Student Debt</p><i class="fas fa-chevron-down crc-chevron" data-section="section1"></i>
 			</div>
 			<div id="section1" data-section="section1" class="acc-body">
@@ -19,7 +19,7 @@
 				<button style="float:right;" class="crc-close1 close" data-section="section1"><!--<i class="fas fa-times"></i>-->Close</button></p>
 			</div>
 
-			<div class="acc-head" data-section="section2">
+			<div id="section2Head" class="acc-head" data-section="section2">
 				<p>Training Rwanda's NexGen Entrepreneurs</p><i class="fas fa-chevron-down crc-chevron" data-section="section2"></i>
 			</div>
 			<div id="section2" data-section="section2" class="acc-body">
@@ -28,7 +28,7 @@
 				<button style="float:right;" class="crc-close2 close" data-section="section2"><!--<i class="fas fa-times"></i>-->Close</button></p>
 			</div>
 
-			<div class="acc-head" data-section="section3">
+			<div id="section3Head" class="acc-head" data-section="section3">
 				<p>Improving Vocational Training in Indonesia</p><i class="fas fa-chevron-down crc-chevron" data-section="section3"></i>
 			</div>
 			<div id="section3" data-section="section3" class="acc-body">
@@ -37,7 +37,7 @@
 				<button style="float:right;" class="crc-close3 close" data-section="section3"><!--<i class="fas fa-times"></i>-->Close</i></button></p>
 			</div>
 
-			<div class="acc-head" data-section="section4">
+			<div id="section4Head" class="acc-head" data-section="section4">
 					<p>Powering Africa's Journey to Self-Reliance</p><i class="fas fa-chevron-down crc-chevron" data-section="section4"></i>
 			</div>
 			<div id="section4" data-section="section4" class="acc-body">
@@ -46,7 +46,7 @@
 				<button style="float:right;" class="crc-close4 close" data-section="section4"><!--<i class="fas fa-times"></i>-->Close</i></button></p>
 			</div>
 
-			<div class="acc-head" data-section="section5">
+			<div id="section5Head" class="acc-head" data-section="section5">
 					<p>Promoting Childhood Development Worldwide</p><i class="fas fa-chevron-down crc-chevron" data-section="section5"></i>
 			</div>
 			<div id="section5" data-section="section5" class="acc-body">
@@ -55,7 +55,7 @@
 				<button style="float:right;" class="crc-close5 close" data-section="section5"><!--<i class="fas fa-times"></i>-->Close</i></button></p>
 			</div>
 
-			<div class="acc-head" data-section="section6">
+			<div id="section6Head" class="acc-head" data-section="section6">
 					<p>Teaching Kenya to Read</p><i class="fas fa-chevron-down crc-chevron" data-section="section6"></i>
 			</div>
 			<div id="section6" data-section="section6" class="acc-body">
@@ -63,7 +63,7 @@
 				<p class="readmore"><a href="https://www.rti.org/insights/achieving-educational-improvements-national-level-lessons-kenya" target="_blank">READ MORE </a>
 				<button style="float:right;" class="crc-close6 close" data-section="section6"><!--<i class="fas fa-times"></i>-->Close</i></button></p>
 			</div>
-			<div class="acc-head" data-section="section7">
+			<div id="section7Head" class="acc-head" data-section="section7">
 					<p>Spurring Somalian Growth with Electric Sector Work</p><i class="fas fa-chevron-down crc-chevron" data-section="section7"></i>
 			</div>
 			<div id="section7" data-section="section7" class="acc-body">
@@ -71,7 +71,7 @@
 				<p class="readmore"><a href="https://www.rti.org/impact/electricity-assistance-growth-enterprise-employment-and-livelihoods-geel-program" target="_blank">READ MORE </a>
 				<button style="float:right;" class="crc-close6 close" data-section="section7"><!--<i class="fas fa-times"></i>-->Close</i></button></p>
 			</div>
-			<div class="acc-head" data-section="section8">
+			<div id="section8Head" class="acc-head" data-section="section8">
 					<p>Building a Stronger Haiti</p><i class="fas fa-chevron-down crc-chevron" data-section="section8"></i>
 			</div>
 			<div id="section8" data-section="section8" class="acc-body">
@@ -79,7 +79,7 @@
 				<p class="readmore"><a href="https://www.rti.org/impact/haiti-local-enterprise-and-value-chain-enhancement-leve" target="_blank">READ MORE </a>
 				<button style="float:right;" class="crc-close6 close" data-section="section8"><!--<i class="fas fa-times"></i>-->Close</i></button></p>
 			</div>
-			<div class="acc-head" data-section="section9">
+			<div id="section9Head" class="acc-head" data-section="section9">
 					<p>Training USAID Staff Worldwide</p><i class="fas fa-chevron-down crc-chevron" data-section="section9"></i>
 			</div>
 			<div id="section9" data-section="section9" class="acc-body">
