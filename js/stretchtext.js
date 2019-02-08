@@ -49,6 +49,12 @@ window.addEventListener("unload", function(event) {
         jQuery(this).strech_text();
     });
 });
+window.onhashchange(function(){
+    console.log('hash change');
+    jQuery('.stretch').each(function(){
+        jQuery(this).strech_text();
+    });
+})
 
 jQuery(window).onbeforeload(function(){
     console.log('on before');
