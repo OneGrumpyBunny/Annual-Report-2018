@@ -239,7 +239,7 @@
 		flex: 0 0 80%;
 		display: flex;
 		flex-flow: column;
-		justify-content: space-between;
+		justify-content: center;
 	}
 	.footer-text .text p{
 		line-height: 15px;
