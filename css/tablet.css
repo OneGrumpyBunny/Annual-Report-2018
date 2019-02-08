@@ -274,7 +274,7 @@
 		font-size: calc(24px + (200 - 24) * ((100vw - 100px) / (1600 - 375)));
 		font-weight: 300;
 		margin:0;
-		margin-top: -5rem;
+		margin-top: -4rem;
 		white-space: nowrap;
 	}
 	.landingPage h2 {
@@ -282,7 +282,7 @@
 		font-size: calc(24px + (100 - 24) * ((100vw - 100px) / (1600 - 375)));
 		font-weight: 300;
 		margin:0;
-		margin-top: -5rem;
+		margin-top: -4rem;
 		white-space: nowrap;
 	}
 	.landingPage h3 { 
