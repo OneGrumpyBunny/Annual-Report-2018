@@ -9,7 +9,7 @@
 		<p class="mobileHead mobileHeadAbout">About RTI</p>
 	</div>
 	<div class="innerContainerMob aboutMob">
-		<p class="headerText">At RTI International, our work is driven by scientific rigor, objective research, and technical expertise. But the underlying force that propels us forward is an unwavering commitment to our mission: improving the human condition by turning knowledge into practice. Together, we explore new ideas and seek solutions to critical issues facing people everywhere. In our 2018 annual report, we invite you to learn how we are living our mission as we strive to deliver the promise of science for global good.</p><p class="readmore"><a href="">READ MORE</a></p>
+		<p class="headerText">At RTI International, our work is driven by scientific rigor, objective research, and technical expertise. But the underlying force that propels us forward is an unwavering commitment to our mission: improving the human condition by turning knowledge into practice. Together, we explore new ideas and seek solutions to critical issues facing people everywhere. In our 2018 annual report, we invite you to learn how we are living our mission as we strive to deliver the promise of science for global good.</p><!--<p class="readmore"><a href="">READ MORE</a></p>-->
 		<section>
 			<div class="acc-head" data-section="section1">
 				<p>A Message from our President</p><i class="fas fa-chevron-down crc-chevron" data-section="section1"></i>
@@ -25,7 +25,7 @@
 
 				<p>Wayne E. Holden, President and CEO</p>
 				<p>RTI International</p></p>
-				<p class="readmore"><a href="">READ MORE </a>
+				<p class="readmore"><!--<a href="">READ MORE </a>-->
 				<button style="float:right;" class="crc-close1 close" data-section="section1"><!--<i class="fas fa-times"></i>-->Close</button></p>
 			</div>
 

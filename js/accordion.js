@@ -18,6 +18,9 @@ $(document).ready(function() {
     
     var expandThisID = $(this).data("section");
        
+    var divPosition = $("#"+expandThisID).offset().top + 235;
+    $('html, body').delay(800).animate({scrollTop: divPosition}, "slow");
+
     var thisHead = $('.acc-head[data-section=' + expandThisID +']');
     var chevron = $('i[data-section=' + expandThisID +']');
     // close open chevrons
@@ -39,8 +42,6 @@ $(document).ready(function() {
     $("#"+expandThisID+" button").removeClass("crc-close-anim");
     
     toggleCRC(chevron,expandThisID,thisHead);   
-    var divPosition = $("#"+expandThisID).offset().top - 235;
-    $('html body').delay(800).animate({scrollTop: divPosition}, "slow");
     
 	});
 
