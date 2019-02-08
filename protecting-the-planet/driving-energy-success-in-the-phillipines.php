@@ -16,9 +16,9 @@ include $REL_DIR.$INCL_DIR."meta-planet.php";
 
         <div>
         <a href="http://www.rti.org"><img src="../img/RTI_w_1in.png" class="logo"></a>
-            <h1>B-LEADERS (Building Low Emission Alternatives to Develop Economic Resilience and Sustainability)</h1>
-            <h2>Developing renewable energy resources and increasing the resiliency of the electrical grid in the Philippines</h2>
-            <p class="light">In the Philippines, various policy, technical, and financial barriers to clean energy usage, as well as a sustained increase of petroleum consumption in the transport sector, have made this island nation a good example of the coordinated strategies that must be implemented in the face of increased energy usage and fossil fuel consumption.</p>
+            <h1>B-LEADERS&nbsp;(Building Low Emission Alternatives to Develop Economic Resilience and&nbsp;Sustainability)</h1>
+            <h2>Developing renewable energy resources and increasing the resiliency of the electrical grid in the&nbsp;Philippines</h2>
+            <p class="light">In the Philippines, various policy, technical, and financial barriers to clean energy usage, as well as a sustained increase of petroleum consumption in the transport sector, have made this island nation a good example of the coordinated strategies that must be implemented in the face of increased energy usage and fossil fuel&nbsp;consumption.</p>
             <p class="readmore"><a href="https://www.rti.org/impact/b-leaders-building-low-emission-alternatives-develop-economic-resilience-and-sustainability" target="_blank">READ MORE</a></p>
         </div>
         <div>

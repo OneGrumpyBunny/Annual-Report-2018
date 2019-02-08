@@ -16,9 +16,9 @@ include $REL_DIR.$INCL_DIR."meta-safe.php";
 
         <div>
 		<a href="http://www.rti.org"><img src="../img/RTI_w_1in.png" class="logo"></a>
-            <h1>Sexual Assault Kit Initiative (SAKI) Training and Technical Assistance (TTA)</h1>
-            <h2>Preventing delays in the handling and investigation of sexual assault cases</h2>
-            <p class="light">In a nationally representative survey of state and local law enforcement agencies conducted by RTI for the National Institute of Justice, 18% of unsolved sexual assault cases from 2003 through 2007 had forensic evidence that was not submitted to a crime laboratory for analysis. Unsubmitted sexual assault kits create delays in the justice system and, in some instances, deny justice to sexual assault survivors. </p>
+            <h1>Sexual Assault Kit Initiative (SAKI) Training and Technical Assistance&nbsp;(TTA)</h1>
+            <h2>Preventing delays in the handling and investigation of sexual assault&nbsp;cases</h2>
+            <p class="light">In a nationally representative survey of state and local law enforcement agencies conducted by RTI for the National Institute of Justice, 18% of unsolved sexual assault cases from 2003 through 2007 had forensic evidence that was not submitted to a crime laboratory for analysis. Unsubmitted sexual assault kits create delays in the justice system and, in some instances, deny justice to sexual assault&nbsp;survivors.</p>
             <p class="readmore"><a href="https://www.rti.org/impact/sexual-assault-kit-initiative-saki-training-and-technical-assistance-tta" target="_blank">READ MORE</a></p>
         </div>
 		<div>

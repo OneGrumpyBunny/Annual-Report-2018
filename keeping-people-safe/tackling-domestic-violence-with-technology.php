@@ -16,9 +16,9 @@ include $REL_DIR.$INCL_DIR."meta-safe.php";
 
         <div>
 		<a href="http://www.rti.org"><img src="../img/RTI_w_1in.png" class="logo"></a>
-            <h1>How Blockchain Can Help Victims of Domestic Violence in California</h1>
-            <h2>Using an innovative technology to digitize the submission of mandatory reporting forms </h2>
-            <p class="light">According to California law, reports of domestic or other interpersonal violence must be forwarded by health care providers to law enforcement authorities within 72 hours. The trouble is that there is no consistency in how these reports are filed: some are handwritten, some are transmitted by fax (never mind if the machine on the other end is actually working), and some are simply lost en route.</p>
+            <h1>How Blockchain Can Help Victims of Domestic Violence in&nbsp;California</h1>
+            <h2>Using an innovative technology to digitize the submission of mandatory reporting&nbsp;forms </h2>
+            <p class="light">According to California law, reports of domestic or other interpersonal violence must be forwarded by health care providers to law enforcement authorities within 72 hours. The trouble is that there is no consistency in how these reports are filed: some are handwritten, some are transmitted by fax (never mind if the machine on the other end is actually working), and some are simply lost en&nbsp;route.</p>
             <p class="readmore"><a href="https://www.rti.org/impact/how-blockchain-can-help-victims-domestic-violence-california" target="_blank">READ MORE</a></p>
         </div>
 		<div>
