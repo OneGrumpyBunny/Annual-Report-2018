@@ -273,6 +273,17 @@
 		font-size: 40px;
 		margin: 0;
 	}
+	.elt-flex{
+		flex-flow: row wrap;
+		justify-content: space-evenly;
+	}
+	.elt-single{
+		align-self: stretch;
+		display: flex;
+		flex-flow: column;
+		justify-content: center;
+		align-content: center;
+	}
 	.landingPage {
 		margin: 0 auto;
 	}
