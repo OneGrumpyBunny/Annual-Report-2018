@@ -5,7 +5,7 @@ include $REL_DIR."config.php";
 include $REL_DIR.$INCL_DIR."header.php";
 include $REL_DIR.$INCL_DIR."meta-president.php";
 ?>
-<img src="img/living-our-mission-back.png" class="sectionBack">
+<img src="img/president-back.png" class="sectionBack">
 	<div class="innerContainer">
 <div class="column left flex">
     <div class="living-our-mission-page">
