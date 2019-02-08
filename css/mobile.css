@@ -225,23 +225,23 @@
 	100% {transform: scale(1); opacity: 1;}
   }
   
-  #about, .about {
+  #about, .aboutNav {
 	background-color: #0f39a0;
 	border: 6px solid #0f39a0;
   }
-  #health, .health {
+  #health, .healthNav {
 	background-color: #316094;
 	border: 6px solid #316094;
   }
-  #safe, .safe {
+  #safe, .safeNav {
 	background-color: #787C3C;
 	border: 6px solid #787C3C;
   }
-  #thrive, .thrive {
+  #thrive, .thriveNav {
 	background-color: #638C1C;
 	border: 6px solid #638C1C;
   }
-  #protect, .protect {
+  #protect, .protectNav {
 	background-color: #FFC629;
 	border: 6px solid #FFC629;
   }
