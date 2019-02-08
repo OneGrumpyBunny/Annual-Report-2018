@@ -1,6 +1,5 @@
 
-<!-- 
-<img src="img/background.png" class="sectionBack" id="mainBack"> -->
+<!-- <img src="img/background.png" class="sectionBack" id="mainBack"> -->
 
 
 <?php include "incl/mobile-nav.php"; ?>
