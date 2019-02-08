@@ -5,8 +5,3 @@
 </head>
 <body>
 <div class="container about-back">
-<div id="animBack" style="position: fixed;    opacity: 0.2;"></div>
-	
-	
-	<script type='text/javascript' src='js/lottie.js'></script>
-	<script type='text/javascript' src='js/index.js'></script>
