@@ -3,7 +3,7 @@ $.fn.strech_text = function(){
         cont_width    = elmt.width();
         
     if(jQuery(this).find('.stretch_it').length > 0){
-        console.log($(this).prop('tagName'));
+        //console.log($(this).prop('tagName'));
         var txt           = jQuery(this).find('.stretch_it').html();
         jQuery(this).html(txt);
     }else{
@@ -30,28 +30,28 @@ $.fn.strech_text = function(){
 
 
 $(document).ready(function () {
-    console.log('ready');
+    //console.log('ready');
     $('.stretch').each(function(){
         $(this).strech_text();
     });
 });
 
 jQuery(window).on("load", function(){
-    console.log('load');
+    //console.log('load');
     jQuery('.stretch').each(function(){
         jQuery(this).strech_text();
     });
 });
 
 jQuery(window).resize(function(){
-    console.log('resize');
+    //console.log('resize');
     jQuery('.stretch').each(function(){
         jQuery(this).strech_text();
     });
 });
 
 jQuery(window).on("unload", function(){
-    console.log('unload');
+    //console.log('unload');
     jQuery('.stretch').each(function(){
         jQuery(this).strech_text();
     });
