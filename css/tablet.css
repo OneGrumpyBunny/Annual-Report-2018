@@ -204,6 +204,11 @@
 	padding-left: 3rem;
 	}
 	 */
+	.message-from-president-page .light {
+		/*font-size:1.3rem;*/
+		font-size:calc(12px + (20 - 14) * ((100vw - 350px) / (1600 - 375)));
+		color: #ffffff;
+	}
 	.enhancing-health h1  {
 		margin: 0 0 0.5rem 0;
 		line-height: 41px;
@@ -225,7 +230,6 @@
 		margin: 0 0 0.5rem 0;
 		line-height: 41px;
 	}
-
 	.footer-text{
 		display: flex;
 		flex-flow: row;
