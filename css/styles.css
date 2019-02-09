@@ -1,0 +1,341 @@
+/* CUSTOM CSS FOR annualreport.rti.org */
+
+/* default is mobile view - 375px */
+
+/* colors:
+    About: #99B1C5 - rgba(15, 57, 160, 1)
+    Health: #316094 - rgba(49, 96, 148, 1)
+    Safe: #787C3C - rgba(120, 124, 60, 1)
+    Thrive: #638C1C - rgba(99, 140, 28, 1)
+    Planet: #FFC629 - rgba(255, 198, 41, 1)
+*/
+
+/*  font is Myriad Pro
+    light = font-style: normal;
+            font-weight: 300;
+
+    regular = font-style: normal;
+              font-weight: 400;
+
+    semibold = font-style: normal;
+               font-weight: 600;
+    
+    bold = font-style: normal;
+           font-weight: 700;
+*/
+
+/* variable font size calculation */
+/* calc([minimum size] + ([maximum size] - [minimum size]) * ((100vw - [minimum viewport width]) / ([maximum viewport width] - [minimum viewport width]))); */
+/* font sizes:
+    base font = 24px
+    XS Conversions:
+        24pt = 1.3rem;
+        30pt = 1.6rem;
+        40pt = 4.2rem;
+        300pt = 16.6rem;
+        165pt = 9.1rem;
+        100pt = 5.5rem;
+
+/* XD letter spacing: 
+    100 = letter-spacing: 10.0;
+*/
+
+/* XD font size pt to px conversion tool:
+    https://websemantics.uk/tools/convert-pixel-point-em-rem-percent/
+*/
+
+body {
+    margin: 0;
+    background-color:#0c111c;
+    font-size: 24px;
+    background-size:cover;
+    /* background: url(../img/background.png); */
+    background: #1B2D35;
+  }
+
+a { 
+    text-decoration:none;
+    opacity:.8;
+}
+.readmore a, .readmore button, .readmore {
+    color: #FFC629;
+    opacity:0.9;
+}
+.expand, .collapse {
+    opacity:0.9;
+    transition: opacity .5s ease-in;
+}
+#animBack {
+    position: fixed; 
+    opacity: 0.3; 
+    max-width: 1600px;
+}
+
+.hide {
+    opacity:0;
+    transition: opacity .5s ease-in; 
+}
+.hideMore  {
+    opacity:0.9;
+    display:none;
+}
+a.active {
+	opacity:1;
+}
+
+a:hover{
+    opacity:1;
+}
+
+*,
+*:before,
+*:after {
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+.clearfix:before,
+.clearfix:after {
+    content: " ";
+    display: table;
+}
+
+.clearfix:after {
+    clear: both;
+}
+
+.clearfix {
+    *zoom: 1;
+}
+
+.column {
+    padding: 0;
+}
+
+section {
+    position:absolute;
+    height:100vh;
+    /*width:100vw;*/
+    width:80vw;
+}
+
+h1, h2, h3, h4, p, a {
+    font-style:normal;
+    
+}
+.container {
+    max-width:1600px;
+    margin: 0 auto;
+    /*background: url('../img/background.png') no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;*/
+}
+
+.sectionBack {
+    margin: 0 auto; 
+    max-width: 1600px;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+}
+
+.flex {
+}
+.stretch_it{
+    white-space: nowrap;
+    /* width: 100%; */
+}
+.justify{
+    text-align:justify;
+}
+
+.light {
+    font-style: normal;
+    font-weight: 300;
+    widows: 2;
+    orphans: 2;
+}
+.regular {
+    font-style: normal;
+    font-weight: 400;
+}
+.semibold {
+    font-style: normal;
+    font-weight: 600;
+}
+
+/* page backgrounds */
+
+.home-back {
+   /* background:url('../img/background.png');
+    background-position: right;*/
+}
+
+
+.living-back {
+    /*background: url('../img/living-our-mission-back.png');
+    background-position: bottom right;
+    background-repeat: no-repeat;*/
+}
+.enhancing-back {
+   /* background: url('../img/enhancing-health-back.png');
+    background-position: bottom right;
+    background-repeat: no-repeat;*/
+}
+.safe-back {
+    /*background:url('../img/keeping-people-safe-back.png');
+    background-position: bottom right;
+    background-repeat: no-repeat;*/
+}
+.thrive-back {
+    /*background: url('../img/thrive-and-prosper-back.png');
+    background-position: bottom right;
+    background-repeat: no-repeat;*/
+}
+.planet-back {
+    /*background:url('../img/protecting-the-planet-back.png');
+    background-position: bottom right;
+    background-repeat: no-repeat;*/
+}
+
+.logo {
+    position: relative;
+    max-width: 200px;
+    top: 30px;
+    width: 25%;
+    margin-bottom: 6rem;
+}
+
+
+/* nav */
+
+.living-our-mission a {
+    color: #ffffff;
+    opacity:.9;
+}
+
+/* landing pages and interior pages*/
+.landingPageMobile, .landingPage  {
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    
+}
+.landingPageMobile {
+    /*margin: 0 1rem;*/
+    justify-content: space-evenly;
+}
+
+.landingPage {
+    /* margin-left: 1rem; */
+}
+
+.landingPageMobile h1 {
+    color: #3A73B0;
+    font-size: calc(24px + (200 - 24) * ((100vw - 200px) / (1600 - 375)));
+    font-weight: 300;
+    white-space: nowrap;
+    margin: 0;
+}
+.living-our-mission ul {
+    color: #ffffff;
+    bottom: 0;
+    position: absolute;
+    border-left: 11px solid #99B1C5;
+    /*font-size: calc(24px + (200 - 24) * ((100vw - 200px) / (1600 - 375)));*/
+    font-weight: 300;
+}
+.living-our-mission h1{
+    color: #99B1C5;
+    font-size: calc(26px + (40 - 26) * ((100vw - 350px) / (1600 - 375)));
+    margin: 0;
+    font-weight: 400;
+}
+.enhancing-health h1  {
+    color: #316094;
+    font-size: calc(26px + (40 - 26) * ((100vw - 350px) / (1600 - 375)));
+    margin: 0;
+    font-weight: 400;
+}
+
+.keeping-people-safe h1 {
+    color: #787C3C;
+    font-size: calc(26px + (40 - 26) * ((100vw - 350px) / (1600 - 375)));
+    margin: 0;
+    font-weight: 400;
+    margin: 0 0 0.5rem 0;
+    line-height: 41px;
+    /*white-space:nowrap;*/
+}
+.thrive-and-prosper h1 {
+    color: #638C1C;
+    font-size: calc(26px + (40 - 26) * ((100vw - 350px) / (1600 - 375)));
+    margin: 0;
+    font-weight: 400;
+}
+
+.protecting-the-planet h1 {
+    color: #FFC629;
+    font-size: calc(26px + (40 - 26) * ((100vw - 350px) / (1600 - 375)));
+    margin: 0;
+    font-weight: 400;
+}
+
+.landingPageMobile h2 {
+    color: #FFFFFF;
+    font-size: calc(24px + (100 - 24) * ((100vw - 100px) / (1600 - 375)));
+    font-weight: 300;
+    white-space: nowrap;
+    margin: 0;
+}
+
+.landingPageMobile h2, .landingPageMobile h1 {
+    margin:0;
+}
+.landingPageMobile h3 {
+    margin: 0.5rem 0;
+}
+.landingPageMobile h3, .landingPage h3 {  
+    color: #FFFFFF;
+    font-size: calc(24px + (45 - 24) * ((100vw - 45px) / (1600 - 375)));
+    font-weight: 300;
+}
+
+.living-our-mission h2, .enhancing-health h2, .keeping-people-safe h2, .thrive-and-prosper h2, .protecting-the-planet h2 {
+    color: #EFDCB0;
+    font-size: calc(18px + (20 - 18) * ((100vw - 350px) / (1600 - 375)));
+    margin: 0;
+    font-weight: 400;
+    widows: 2;
+}
+
+.light {
+    /*font-size:1.3rem;*/
+    font-size:calc(10px + (20 - 14) * ((100vw - 350px) / (1600 - 375)));
+    color: #ffffff;
+
+}
+.regular {
+    font-size:calc(14px + (20 - 14) * ((100vw - 350px) / (1600 - 375)));
+    color: #ffffff;
+}
+.enhancing-health-page .active {
+    color:#3A73B0;
+}
+.keeping-people-safe-page .active {
+    color:#787C3C;
+}
+.thrive-and-prosper-page .active{
+    color:#638C1C;
+
+} 
+.protecting-the-planet-page .active {
+    color:#FFC629;
+}
+.living-our-mission-page .active, .message-from-president-page .active{
+    color:#99B1C5
+}

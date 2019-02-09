@@ -1,0 +1,419 @@
+@media all and (min-width:415px) {
+	header {
+		display:none;
+	}
+	.landingPage, .navContainer {
+		display:flex
+	}
+	.landingPageMobile {
+		display:none;
+	}
+	.fixed-header {
+		display:none;
+	}
+
+	/*.column.ten {
+		flex: 0 0 50%;
+	}*/
+	.column.left, .column.right, .column.three { /* revisit this */
+		flex: 0 1 50%;
+	}
+	.column.seven {
+		flex: 0 1 70%;
+	}
+	
+	.container {
+			max-width:1600px;
+			
+	}
+	
+	.sectionBack {
+			max-width: 1600px;
+	}
+	.section {
+		width:100vw;
+	}
+	
+	.readmore a {
+		font-size:inherit;
+	}
+	.innerContainer {
+		display: flex;
+		position: relative;
+		max-width: 1600px;
+		padding: 0 2rem;
+		overflow: hidden;
+	}
+	.innerContainerMob {
+		display:none;
+	}
+	
+
+	.navContainer {
+			height: 100vh;
+			display: flex;
+			flex-direction: column;
+			align-items: flex-end;
+	}
+	
+	.insideBox3 p {
+		width:90%;
+		opacity:1;
+		text-align: center;
+	}
+	.navBox {
+		flex: 1 0 18%;
+		border: 1px solid #707070;
+		color: #ffffff;
+		font-weight: 400;
+		display: flex;
+		justify-content: center;
+		align-items: center;
+		text-align: center;
+		background-size: cover;
+		width: calc(100px + (292 - 100) * ((100vw - 292px) / (1600 - 415)));
+		background-color:#111D2B;
+		white-space:nowrap;
+		font-size: calc(15px + (20 - 15) * ((100vw - 200px) / (1600 - 375)));
+		display:flex;
+		margin: 5px 0;
+	}
+	.navBox:nth-child(1) {
+			background-image:url('../img/nav_about.png');
+			opacity:0.9;
+	}
+	.navBox:nth-child(2) {
+			background-image:url('../img/nav_health.png');
+			opacity:0.9;
+	}
+	.navBox:nth-child(3) {
+			background-image:url('../img/nav_safe.png');
+			opacity:0.9;
+	}
+	.navBox:nth-child(4) {
+			background-image:url('../img/nav_thrive.png');
+			opacity:0.9;
+	}
+	.navBox:nth-child(5) {
+			background-image:url('../img/nav_planet.png');
+			opacity:0.9;
+	}
+	
+	/* nav boxes */
+	
+	.insideBox1, .insideBox2 {
+		display:flex;
+		height: 99%;
+		flex-direction: column;
+	}
+
+	.insideBox1 {
+		flex: 0 0 15px;
+		width: 15px;
+		max-width: 15px;
+	}
+	.insideBox2 {
+		border-left: 2px solid #111D2B;
+		flex: 0 0 5px;
+		border-right: 4px solid #111D2B;
+	}
+	.insideBox3 {
+		flex:1;
+		color:#fff;
+		height:100%;
+		display: flex;
+		justify-content: center;
+		align-items: center;
+	}
+
+	.about:hover, .health:hover, .safe:hover, .thrive:hover, .planet:hover {
+		cursor:pointer;
+	}
+
+	/* borders inside the "about" nav box - tablet and up */
+	.about .insideBox1{ 
+		border-left: 13px solid rgb(15, 57, 160, .3);
+			
+	}
+	.about .insideBox2{
+		background: rgb(15, 57, 160, .9);
+	}
+	.about .insideBox3 {
+		background:rgb(15, 57, 160, .3);
+	}
+	
+	/* borders inside the "health" nav box - tablet and up */
+	.health .insideBox1{ 
+		border-left:13px solid rgba(49, 96, 148, .3);
+	}
+	.health .insideBox2{
+		background: rgba(49, 96, 148, .9);
+	}
+	.health .insideBox3 {
+		background:rgba(49, 96, 148, .3);
+	}
+	
+	/* borders inside the "safe" nav box - tablet and up */
+	.safe .insideBox1{ 
+				border-left:13px solid rgba(120, 124, 60, .3);
+	}
+	.safe .insideBox2{
+				background: rgba(120, 124, 60, .9);
+	}
+	.safe .insideBox3 {
+				background:rgba(120, 124, 60, .3);
+	}
+	
+	
+	/* borders inside the "thrive" nav box - tablet and up */
+	.thrive .insideBox1{ 
+		border-left:13px solid rgba(99, 140, 28, .3);
+	}
+	.thrive  .insideBox2{
+		background: rgba(99, 140, 28, .9);
+	}
+	.thrive .insideBox3 {
+		background:rgba(99, 140, 28, .3);
+	}
+	
+	/* borders inside the "planet" nav box - tablet and up */
+	.planet .insideBox1{ 
+		border-left:13px solid rgba(255, 198, 41, .3);
+	}
+	.planet .insideBox2{
+		background: rgba(255, 198, 41, .9);
+	}
+	.planet .insideBox3 {
+		background:rgba(255, 198, 41, .3);
+	}
+	.living-our-mission a:hover {
+		opacity: 1;
+	}
+
+	
+	.landingPage-page, .living-our-mission, .living-our-mission-page,.message-from-president-page, .enhancing-health, .enhancing-health-page, .keeping-people-safe, .keeping-people-safe-page, .thrive-and-prosper, .thrive-and-prosper-page, .protecting-the-planet, .protecting-the-planet-page {
+		display: flex;
+		flex-direction: column;
+		justify-content: space-between;
+		width: 71%;
+		margin-left: 3rem;
+		height: 100%;
+		/*padding-top: 9rem;*/
+	}
+	/* .living-our-mission h1 {
+	padding-left: 3rem;
+	}
+	 */
+	.message-from-president-page h1{
+		margin: 0 0 0.5rem 0;
+		line-height: 41px;
+	}
+	.enhancing-health h1  {
+		margin: 0 0 0.5rem 0;
+		line-height: 41px;
+	}
+	
+	.keeping-people-safe h1 {
+		margin: 0 0 0.5rem 0;
+		line-height: 41px;
+	}
+	
+	.protecting-the-planet h1 {
+		margin: 0 0 0.5rem 0;
+		line-height: 41px;
+	}
+	.thrive-and-prosper h1{
+		line-height: 41px;
+	}
+	.living-our-mission h1  {
+		margin: 0 0 0.5rem 0;
+		line-height: 41px;
+	}
+	.footer-text{
+		display: flex;
+		flex-flow: row;
+		justify-content: space-between;
+		position: fixed;
+		bottom: 0;
+		max-width: 1600px;
+		width: calc(60%);
+		margin-bottom: .5rem;
+	}
+	.footer-text .text{
+		flex: 0 0 80%;
+		display: flex;
+		flex-flow: column;
+		justify-content: space-evenly;
+	}
+	.footer-text .text p{
+		line-height: 15px;
+		font-size: 14px;
+		color:#898989;
+		text-align: justify;
+		align-self: center;
+		margin: 0 0 .5rem 0;
+	}
+	.footer-text .icons{
+		flex: 0 0 15%;
+		align-self: baseline;
+		display: flex;
+		flex-flow: row;
+		justify-content: space-evenly;
+	}
+	.footer-text .icons a{
+		color: white;
+		font-size: 40px;
+		margin: 0;
+	}
+	.elt-flex{
+		flex-flow: row wrap;
+		justify-content: space-evenly;
+	}
+	.elt-single{
+		align-self: stretch;
+		display: flex;
+		flex-flow: column;
+		justify-content: center;
+		align-content: center;
+	}
+	.landingPage {
+		margin: 0 auto;
+	}
+	.landingPage .logo{
+		position: relative;
+		max-width: 200px;
+		top: 30px;
+		width: 25%;
+		margin-bottom: 6rem;
+	}
+	.landingPage h1{
+		color: #3A73B0;;
+		font-size: calc(24px + (200 - 24) * ((100vw - 100px) / (1600 - 375)));
+		font-weight: 300;
+		margin:0;
+		margin-top: -4rem;
+		white-space: nowrap;
+	}
+	.landingPage h2 {
+		color: #FFFFFF;
+		font-size: calc(24px + (100 - 24) * ((100vw - 100px) / (1600 - 375)));
+		font-weight: 300;
+		margin:0;
+		margin-top: -4rem;
+		white-space: nowrap;
+	}
+	.landingPage h3 { 
+		margin: 0;
+		margin-top: 1.5rem;
+		white-space: nowrap;
+	}
+	.landingPage .stretch{
+		text-align: center;
+	}
+	.message-from-president-page ul{
+		list-style-type: none;
+		border-left: 11px solid #99B1C5;
+	}
+	.living-our-mission ul, .living-our-mission-page ul {
+		list-style-type: none;
+		border-left: 11px solid #99B1C5;
+	}
+	.enhancing-health ul, .enhancing-health-page ul {
+		list-style-type: none;
+		border-left: 11px solid #316094;
+	}
+
+	.keeping-people-safe ul, .keeping-people-safe-page ul {
+		list-style-type: none;
+		border-left: 11px solid #787C3C;
+	}
+	.thrive-and-prosper ul, .thrive-and-prosper-page ul{
+		list-style-type: none;
+		border-left: 11px solid #638C1C;
+	}
+	.protecting-the-planet ul, .protecting-the-planet-page ul {
+		list-style-type: none;
+		border-left: 11px solid #FFC629;
+	}
+	ul li a {
+		opacity:.9;
+		color: #ffffff;
+	}
+	ul li a:hover {
+		opacity:1;
+	}
+	.living-our-mission ul li, .enhancing-health ul li, .keeping-people-safe ul li, .thrive-and-prosper ul li, .protecting-the-planet ul li {
+		/*font-size:1.4rem;*/
+		font-size: calc(10px + (20 - 14) * ((100vw - 350px) / (1600 - 375)));
+		font-weight:300;
+		white-space:nowrap;
+	}
+	.living-our-mission-page ul li, .enhancing-health-page ul li, .keeping-people-safe-page ul li, .thrive-and-prosper-page ul li, .protecting-the-planet-page ul li, .message-from-president-page ul li {
+		/*font-size:1.4rem;*/
+		font-size: calc(10px + (20 - 14) * ((100vw - 350px) / (1600 - 375)));
+		font-weight:300;
+		white-space:nowrap;
+	}
+
+	/* interior pages */
+	.enhancing-health-page h1, .keeping-people-safe-page h1, .thrive-and-prosper-page h1, .protecting-the-planet-page h1, .living-our-mission-page h1, .message-from-president-page h1 {
+		color:#3A73B0;
+		margin: 0 0 1rem 0;
+		font-weight: 400;
+		/*white-space:nowrap;*/
+		font-size: calc(26px + (35 - 26) * ((100vw - 350px) / (1600 - 375)));
+		line-height: 37px;
+	}
+	.enhancing-health-page h2, .keeping-people-safe-page h2, .thrive-and-prosper-page h2, .protecting-the-planet-page h2, .message-from-presider-page h2 {
+		color:#EFDCB0;
+		margin:0;
+		font-weight: 400;
+		font-size: calc(22px + (25 - 24) * ((100vw - 350px) / (1600 - 375)));
+		line-height: 25px;
+	}
+
+	.enhancing-health-page p, .keeping-people-safe-page p, .thrive-and-prosper-page p, .protecting-the-planet-page p{
+		color: #ffffff;
+		font-size:calc(12px + (20 - 14) * ((100vw - 350px) / (1600 - 375)));
+	}
+	.thrive-and-prosper .regular, .living-our-mission .regular, .enhancing-health .regular,.keeping-people-safe .regular, .protecting-the-planet .regular{
+		white-space: nowrap;
+		/* overflow: auto; */
+	}
+	.thrive-and-prosper-page .regular, .living-our-mission-page .regular, .enhancing-health-page .regular,.keeping-people-safe-page .regular, .protecting-the-planet-page .regular{
+		white-space: nowrap;
+		/* overflow: auto; */
+	}
+	/* .living-our-mission .regular{
+		white-space: nowrap;
+	}
+
+	.enhancing-health .regular{
+		white-space: nowrap;
+	}
+
+	.keeping-people-safe .regular{
+		white-space: nowrap;
+	}
+
+	.protecting-the-planet .regular{
+		white-space: nowrap;
+	} */
+}
+
+/* landing page 
+.landingPage > h1 {
+    font-size: calc(24px + (200 - 24) * ((100vw - 200px) / (1600 - 200)));
+    
+}
+
+.landingPage > h2 {
+    font-size: calc(24px + (120 - 24) * ((100vw - 120px) / (1600 - 120)));
+    margin: -3rem 0 0 0;
+}
+
+
+.landingPage > h3 {  
+    margin: 0 0 0 0.6rem;
+    font-size: calc(24px + (50 - 24) * ((100vw - 50px) / (1600 - 50)));
+}*/

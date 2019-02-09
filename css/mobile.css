@@ -1,0 +1,352 @@
+@media all and (max-width:414px) {
+	body {
+		max-width:414px;
+		margin: 0;
+		width: 100%;
+		
+		background-size: contain;
+	}
+	.navContainer {
+			display:none;
+	}
+	.sectionBack {
+		display:none;
+	}
+	.yellowlink {
+		color:#FFC629;
+	}
+	.a {
+		color:#fff;
+	}
+	.landingPage {
+		display:none;
+	}
+	.landingPageMobile{
+		display:flex
+	}
+	.light {
+		font-size: calc(22px + (20 - 22) * ((100vw - 350px) / (1600 - 375)));
+	}
+	.innerContainer {
+		display:none;
+	}
+
+	/**/
+	.mobileHeadHealth {
+    border-left: 10px solid #316094;
+	}
+
+	.mobileHeadThrive {
+    border-left: 10px solid #638C1C;
+	}
+	.mobileHeadSafe {
+    border-left: 10px solid #787C3C;
+	}
+	.mobileHeadAbout {
+    border-left: 10px solid #0f39a0;
+	}
+	.mobileHeadPlanet {
+    border-left: 10px solid #FFC629;
+	}
+	
+	.mobileHead {
+		font-size: 1.5rem;
+    color: #fff;
+    font-weight: 300;
+    padding: 0px 9px;
+    /*background: rgba(0, 0, 0, .5);*/
+		margin-left: 1rem;
+		max-width: 85vw;
+	}
+	.innerContainerMob {
+		margin-left: 1rem;
+		z-index: 100;
+	}
+	.readmore a, .readmore {
+		font-size:1rem;
+	}
+	.thriveMob {
+		margin-top: 12rem;
+	}
+	.aboutMob, .healthMob, .safeMob,  .planetMob {
+		
+    margin-top: 11rem;
+	}
+	.headerText {
+		font-size: 1rem;
+    color: #fff;
+    width: 77vw;
+	}
+	.innerContainerMob p {
+		font-weight:300;
+
+	}
+	.landingMob {
+		margin-top: 3rem;
+	}
+	.section {
+		position: absolute;
+    height: 100vh;
+    /* width: 100vw; */
+    z-index: 1;
+
+	}
+	.logo {
+		margin-left: 1rem;
+    margin-bottom: 3rem;
+	}
+	.fixed-header {
+		position: fixed;
+    top: 0;
+    z-index: 100;
+    /*background: rgba(0, 0, 0, .3);*/
+		width: 100vw;
+		/* width: 85vw */
+		transition: background 0.5s ease-in 0s;
+		
+	}
+	header {
+		display:block;
+	}
+	/*************** TRANSITIONS ***************/
+
+	header, #container, a {
+		-webkit-transition: all 0.4s ease-in-out;
+		transition: all 0.4s ease-in-out;
+	}
+  
+  /*************** GENERAL ***************/
+  
+  
+  .content {
+		width: 50%;
+		margin: calc(100% - 90%) auto 1rem auto;
+		font-family: 'myriad pro';
+		color: #666;
+  }
+  
+  /*************** HEADER ***************/
+  
+  header {
+	  position: fixed;
+	  top: 0;
+	  width: calc(17%);
+	  height: calc(100vh);
+	  right: calc(-10%);
+	  z-index: 100;
+	  -webkit-transform: translate3d(0,0,0);
+	  transform: translate3d(0,0,0);
+		display:block;
+		z-index: 101;
+  }
+  
+  body.active header {
+    right: 0%;
+    /* opacity: .7; */
+    opacity: 1;
+    width: calc(60%);
+  }
+  
+  /*************** NAV ***************/
+  .nav-total {
+	  padding: 0;
+	  margin: 0rem auto;
+	  display: flex;
+	  flex-flow: column;
+	  justify-content: center;
+	  align-items: stretch;
+		height: 95vh;
+	}
+	
+  .nav-link {
+		font:300 22px/24px 'Myriad Pro', arial;
+		text-decoration: none;
+		display: inline-flex;
+		opacity: 1;
+		flex-flow: row;
+		align-self: stretch;
+		height: 100%;
+		margin: 0.8rem 0;
+		/*max-height: 16%;*/
+	}
+	
+  .nav-item { 
+		color:#fff;
+		margin: calc(5%) auto;
+		align-self: center;
+		opacity: 1;
+  }
+  .nav-link p {
+		padding: 10px;
+		white-space:nowrap;
+		font-size:1.2rem;
+		text-align:center;
+  }
+  body.active .nav-link {
+		display: flex;
+		flex-flow: column;
+		padding-top: 10px;
+		/*background: #cccccccc;*/
+  }
+  body.active .nav-item {
+	opacity: 1;
+  }
+  .side-border {
+	width: calc(5%);
+	height: calc(1/5);
+	border: 1px solid transparent;
+	border-radius: 11px;
+  }
+  .side-border.off {
+	animation: sliderOut 1s 0s 1;
+	display: none;
+	transition: display 3s ease-out;
+  }
+  .side-line {
+	transform: scale(0);
+  }
+  .side-line.on {
+	width: calc(60%);
+	align-self: center;
+	border: 1px solid transparent;
+	border-radius: 5px;
+	animation: scaler 1s 0s 1 forwards;
+  }
+  
+  @keyframes sliderOut {
+	0% {transform: scale(1);}
+	100% {transform: scale(0);}
+  }
+  @keyframes sliderIn {
+	0% {transform: scale(0);}
+	100% {transform: scale(1);}
+  }
+  
+  @keyframes scaler {
+	0% {transform: scale(0); opacity: 0;}
+	100% {transform: scale(1); opacity: 1;}
+  }
+  
+  #about, .aboutNav {
+	background-color: #0f39a0;
+	border: 6px solid #0f39a0;
+  }
+  #health, .healthNav {
+	background-color: #316094;
+	border: 6px solid #316094;
+  }
+  #safe, .safeNav {
+	background-color: #787C3C;
+	border: 6px solid #787C3C;
+  }
+  #thrive, .thriveNav {
+	background-color: #638C1C;
+	border: 6px solid #638C1C;
+  }
+  #protect, .protectNav {
+	background-color: #FFC629;
+	border: 6px solid #FFC629;
+  }
+  
+  #pull {
+		position: absolute;
+		top: 16px;
+		z-index: 999;
+		cursor: pointer;
+		border-right: 3px solid #fff;
+    height: 27px;
+    margin: 0 -27px;
+    font-size: 1.2rem;
+  }
+  #pull i {
+		color:#fff;
+		position:absolute;
+		top:calc(25%);
+		right: calc(100%);
+		width: 20px;
+	
+  }
+	
+  body.active #pull {
+	 animation: flipit .5s ease-in forwards;
+  }
+	
+	
+  @keyframes flipit {
+		0% {  transform: scaleX(1);}
+		100% {  transform: scaleX(-1);}
+		}  
+
+		body.active .nav-link:nth-child(1) {
+			background-image:url('../img/nav_about_mob.png');
+			opacity:1;
+			background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+	}
+	body.active .nav-link:nth-child(2) {
+			background-image:url('../img/nav_health_mob.png');
+			opacity:1;
+			background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+	}
+	body.active .nav-link:nth-child(3) {
+			background-image:url('../img/nav_safe_mob.png');
+			opacity:1;
+			background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+	}
+	body.active .nav-link:nth-child(4) {
+			background-image:url('../img/nav_thrive_mob.png');
+			opacity:1;background-size: cover;
+			background-repeat: no-repeat;
+			background-position: center;
+
+	}
+	body.active .nav-link:nth-child(5) {
+			background-image:url('../img/nav_planet_mob.png');
+			opacity:1;background-size: cover;
+    background-repeat: no-repeat;
+		background-position: center;
+		
+	}
+	.enhancing-back {
+		background: url(../enhancing-health-through-science-and-practice/img/enhancing-health-back.png);
+    height: 100vh;
+    background-size: cover;
+    background-position: bottom center;
+	}
+	.landing-back {
+		background: url(../img/background.png);
+    height: 100vh;
+    background-size: cover;
+    background-position: bottom center;
+	}
+	
+	.safe-back {
+		background: url(../keeping-people-safe/img/keeping-people-safe-back.png);
+    height: 100vh;
+    background-size: cover;
+    background-position: bottom center;
+	}
+	.thrive-back {
+		background: url(../helping-regions-thrive-and-prosper/img/thrive-and-prosper-back.png);
+    height: 100vh;
+    background-size: cover;
+    background-position: bottom center;
+	}
+	.planet-back {
+		background: url(../protecting-the-planet/img/protecting-the-planet-back.png);
+    height: 100vh;
+    background-size: cover;
+    background-position: bottom center;
+	}
+	.about-back {
+		background: url(../about-rti/img/living-our-mission-back.png);
+    height: 100vh;
+    background-size: cover;
+    background-position: bottom center;
+	}
+}
