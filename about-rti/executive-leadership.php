@@ -23,8 +23,8 @@ include $REL_DIR.$INCL_DIR."meta-living.php";
 					Lorem
 				</p>
             <!-- <p class="readmore"><a href="" target="_blank">READ MORE</a></p> -->
-            <div style="width: 140%;">
-                <img src="img/elt-photo.jpg" id="elt-img">
+            <div style="width: 110%;">
+                    <img src="img/elt-photo.jpg" id="elt-img">
                 <p class="light">
                     Pictured from Left to Right: Lisa May, Paul Weisenfeld, Michael Kaelin, Tim Gabel, Allen Mangel, Wayne Holden, James Gibson, Teena Piccione, and Edward&nbsp;Story.
                 </p>

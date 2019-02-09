@@ -399,6 +399,9 @@
 	.elt-list a{
 		color: #99B1C5;
 	}
+	#elt-img{
+		max-width: 100%;
+	}
 	/* .living-our-mission .regular{
 		white-space: nowrap;
 	}
