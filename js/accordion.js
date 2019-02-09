@@ -81,8 +81,10 @@ $(document).ready(function() {
   
 });
 
-/*$(window).scroll(function () {
-  if ($(".acc-body").is(":visible")) {
-      $(this).prev("div").addClass("makeSticky");
+$(window).scroll(function () {
+  if ($(window).scrollTop() > 0) {
+    $(".fixed-header").css("background","rgba(0,0,0,0.3)");
+  } else {
+    $(".fixed-header").css("background","transparent");
   }
-});*/
+});
