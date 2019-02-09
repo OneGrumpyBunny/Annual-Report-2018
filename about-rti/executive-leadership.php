@@ -20,7 +20,7 @@ include $REL_DIR.$INCL_DIR."meta-living.php";
             <h1>Executive Leadership</h1>
             <!-- <h2>Decisions delayed; employment choices made based on the cost of education</h2> -->
             <!-- <p class="readmore"><a href="" target="_blank">READ MORE</a></p> -->
-            <div style="width:calc(125%);">
+            <div style="width:calc(165%);">
                     <img src="img/elt-photo.jpg" id="elt-img">
                 <p class="light">
                     Pictured from Left to Right: Lisa May, Paul Weisenfeld, Michael Kaelin, Tim Gabel, Allen Mangel, Wayne Holden, James Gibson, Teena Piccione, and Edward&nbsp;Story.
