@@ -24,7 +24,7 @@ include $REL_DIR.$INCL_DIR."meta-living.php";
 				</p>
             <!-- <p class="readmore"><a href="" target="_blank">READ MORE</a></p> -->
             <div style="width: 100%;">
-                <img src="img/bog-photo.jpg" id="elt-img">
+                <img src="img/bog-photo.jpg" id="bog-img">
             </div>
         </div>
         <div>
