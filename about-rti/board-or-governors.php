@@ -9,7 +9,7 @@ include $REL_DIR.$INCL_DIR."meta-living.php";
 <img src="img/filter-back.png" class="sectionBack">
 	<div class="innerContainer">
 <div class="column left flex">
-    <div class="living-our-mission-page">
+    <div class="elt-page">
 
     
         <!--- update content below this line --->
@@ -24,7 +24,7 @@ include $REL_DIR.$INCL_DIR."meta-living.php";
             <!-- <p class="readmore"><a href="" target="_blank">READ MORE</a></p> -->
             <div class="elt-flex">
                 <div class="elt-single">
-                    <div style="background-color:black;">
+                    <div>
                         <img src="">    
                     </div>
                     <div>
@@ -48,7 +48,7 @@ include $REL_DIR.$INCL_DIR."meta-living.php";
         </div>
         <div>
             <!-- <p class="regular">Learn more about how we are helping regions thrive and prosper:</p> -->
-            <ul>
+            <ul class="links">
                 <li><a href="message-from-president.php">A Message from our President</a></li>
                 <li><a href="at-a-glance.php">RTI at a Glance</a></li>
                 <li class="active"><!--<a href="executive-leadership.php">-->Meet RTI's Executive Leadership<!--</a>--></li>
