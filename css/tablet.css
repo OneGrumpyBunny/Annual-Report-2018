@@ -347,6 +347,16 @@
 		list-style-type: none;
 		/* border-left: 11px solid #99B1C5; */
 	}
+	.elt-list a{
+		color: #99B1C5;
+	}
+	.elt-list li{
+		font-size:calc(10px + (20 - 14) * ((100vw - 350px) / (1600 - 375)));
+		color: #ffffff;
+	}
+	#elt-img{
+		max-width: 100%;
+	}
 	ul li a {
 		opacity:.9;
 		color: #ffffff;
@@ -396,12 +406,7 @@
 		white-space: nowrap;
 		/* overflow: auto; */
 	}
-	.elt-list a{
-		color: #99B1C5;
-	}
-	#elt-img{
-		max-width: 100%;
-	}
+
 	/* .living-our-mission .regular{
 		white-space: nowrap;
 	}
