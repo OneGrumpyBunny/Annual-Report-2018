@@ -6,7 +6,7 @@ $(window).on("load", function() {
         renderer: 'svg',
         loop: true,
         autoplay: true,
-        path: 'data.json'
+        path: '/data.json'
         });
     }
 });
