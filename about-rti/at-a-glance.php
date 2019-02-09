@@ -17,7 +17,7 @@ include $REL_DIR.$INCL_DIR."meta-living.php";
         <div>
         <a href="http://www.rti.org"><img src="../img/RTI_w_1in.png" class="logo"></a>
         <!-- <img src="../img/RTI_w_1in.png" class="logo"> -->
-            <h1>At a Glance</h1>
+            <!---<h1>At a Glance</h1>--->
             <!-- <h2>Decisions delayed; employment choices made based on the cost of education</h2> -->
             <!---<p class="light">
 					Lorem
