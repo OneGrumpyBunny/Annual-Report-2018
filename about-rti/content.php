@@ -1,5 +1,5 @@
 
-<img src="../img/test-1_HalfImages.gif" class="sectionBack">
+<img src="img/living-our-mission-back.png" class="sectionBack">
 
 <?php include "../incl/mobile-nav.php"; ?>
 

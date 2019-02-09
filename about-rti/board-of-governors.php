@@ -23,7 +23,9 @@ include $REL_DIR.$INCL_DIR."meta-living.php";
 					Lorem
 				</p>
             <!-- <p class="readmore"><a href="" target="_blank">READ MORE</a></p> -->
-            <div style="background-color: black; width: 100%; min-height: 100px;"></div>
+            <div style="width: 100%;">
+                <img src="img/bog-photo.jpg" id="elt-img">
+            </div>
         </div>
         <div>
             <!-- <p class="regular">Learn more about how we are helping regions thrive and prosper:</p> -->
