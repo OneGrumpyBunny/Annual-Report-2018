@@ -2,10 +2,10 @@
 session_start();
 
 /*  PROD  */
-/*$globals["BASE_URL"] = "http://18.207.215.79/";*/
+/*$globals["BASE_URL"] = "https://annualreport.rti.org/";*/
 
 /*  DEV  */
-/*$globals["BASE_URL"] = "http://18.207.215.79/dev/";*/
+/*$globals["BASE_URL"] = "https://annualreport.rti.org/dev/";*/
 $BASE_URL = "";
 
 /* turn on error reporting */
