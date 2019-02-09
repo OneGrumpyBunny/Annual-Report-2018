@@ -5,6 +5,7 @@ include $REL_DIR."config.php";
 include $REL_DIR.$INCL_DIR."header.php";
 include $REL_DIR.$INCL_DIR."meta-living.php";
 ?>
+
 <img src="img/filter-back.png" class="sectionBack">
 	<div class="innerContainer">
 <div class="column left flex">
@@ -17,26 +18,41 @@ include $REL_DIR.$INCL_DIR."meta-living.php";
         <div>
         <a href="http://www.rti.org"><img src="../img/RTI_w_1in.png" class="logo"></a>
         <!-- <img src="../img/RTI_w_1in.png" class="logo"> -->
-            <h1>Board of Governors</h1>
+            <h1>Executive Leadership</h1>
             <!-- <h2>Decisions delayed; employment choices made based on the cost of education</h2> -->
-            <p class="light">
-					Lorem
-				</p>
+            
             <!-- <p class="readmore"><a href="" target="_blank">READ MORE</a></p> -->
-            <div style="width: 100%;">
-                <img src="img/bog-photo.jpg" id="bog-img">
-                <p class="light">
-                    Pictured from Left to Right: Lisa May, Paul Weisenfeld, Michael Kaelin, Tim Gabel, Allen Mangel, Wayne Holden, James Gibson, Teena Piccione, and Edward&nbsp;Story.
-                </p>
-            </div>
+            <div class="elt-flex">
+                <div class="elt-single">
+                    <div style="background-color:black;">
+                        <img src="">    
+                    </div>
+                    <div>
+                    <p class="light">
+                        E. Wayne Holden, PhD<br>
+                        President and CEO, RTI&nbsp;International
+				    </p>
+                    </div>
+                </div> <!-- end single -->
+                <div class="elt-single">
+                    <div style="background-color:black;">
+                        <img src="">    
+                    </div>
+                    <div>
+                    <p class="light">
+					    Lorem
+				    </p>
+                    </div>
+                </div> <!-- end single -->
+            </div><!-- end flex -->
         </div>
         <div>
             <!-- <p class="regular">Learn more about how we are helping regions thrive and prosper:</p> -->
             <ul>
                 <li><a href="message-from-president.php">A Message from our President</a></li>
                 <li><a href="at-a-glance.php">RTI at a Glance</a></li>
-                <li><a href="executive-leadership.php">Meet RTI's Executive Leadership</a></li>
-                <li class="active"><!--<a href="board-of-governors.php">-->Meet RTI's Board of Governors<!--</a>--></li>
+                <li class="active"><!--<a href="executive-leadership.php">-->Meet RTI's Executive Leadership<!--</a>--></li>
+                <li><a href="board-of-governors.php">Meet RTI's Board of Governors</a></li>
             </ul>
         </div>
 
