@@ -30,7 +30,7 @@ $(window).on("load",function() {
     /*$(".navBox").addClass("navBoxAnim");*/
 });
 
-var relPath = "/dev"
+var relPath = ""
 $(document).ready(function() {
 		$(".about").click(function() {
 			window.location.href=relPath + "/about-rti/";
