@@ -25,6 +25,9 @@ include $REL_DIR.$INCL_DIR."meta-living.php";
             <!-- <p class="readmore"><a href="" target="_blank">READ MORE</a></p> -->
             <div style="width: 100%;">
                 <img src="img/bog-photo.jpg" id="bog-img">
+                <p class="light">
+                    Pictured from Left to Right: Lisa May, Paul Weisenfeld, Michael Kaelin, Tim Gabel, Allen Mangel, Wayne Holden, James Gibson, Teena Piccione, and Edward&nbsp;Story.
+                </p>
             </div>
         </div>
         <div>
