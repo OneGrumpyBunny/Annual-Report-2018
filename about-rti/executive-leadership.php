@@ -5,7 +5,8 @@ include $REL_DIR."config.php";
 include $REL_DIR.$INCL_DIR."header.php";
 include $REL_DIR.$INCL_DIR."meta-living.php";
 ?>
-<!--<img src="img/living-our-mission-back.png" class="sectionBack">-->
+
+<img src="img/filter-back.png" class="sectionBack">
 	<div class="innerContainer">
 <div class="column left flex">
     <div class="living-our-mission-page">
@@ -19,9 +20,7 @@ include $REL_DIR.$INCL_DIR."meta-living.php";
         <!-- <img src="../img/RTI_w_1in.png" class="logo"> -->
             <h1>Executive Leadership</h1>
             <!-- <h2>Decisions delayed; employment choices made based on the cost of education</h2> -->
-            <p class="light">
-					Lorem
-				</p>
+            
             <!-- <p class="readmore"><a href="" target="_blank">READ MORE</a></p> -->
             <div class="elt-flex">
                 <div class="elt-single">
@@ -29,9 +28,9 @@ include $REL_DIR.$INCL_DIR."meta-living.php";
                         <img src="">    
                     </div>
                     <div>
-                        <p>
-                            name goes here
-                        </p>
+                    <p class="light">
+					    Lorem
+				    </p>
                     </div>
                 </div> <!-- end single -->
                 <div class="elt-single">
@@ -39,152 +38,12 @@ include $REL_DIR.$INCL_DIR."meta-living.php";
                         <img src="">    
                     </div>
                     <div>
-                        <p>
-                            name goes here
-                        </p>
+                    <p class="light">
+					    Lorem
+				    </p>
                     </div>
                 </div> <!-- end single -->
-                <div class="elt-single">
-                    <div style="background-color:black;">
-                        <img src="">    
-                    </div>
-                    <div>
-                        <p>
-                            name goes here
-                        </p>
-                    </div>
-                </div> <!-- end single -->
-                <div class="elt-single">
-                    <div style="background-color:black;">
-                        <img src="">    
-                    </div>
-                    <div>
-                        <p>
-                            name goes here
-                        </p>
-                    </div>
-                </div> <!-- end single -->
-                <div class="elt-single">
-                    <div style="background-color:black;">
-                        <img src="">    
-                    </div>
-                    <div>
-                        <p>
-                            name goes here
-                        </p>
-                    </div>
-                </div> <!-- end single -->
-                <div class="elt-single">
-                    <div style="background-color:black;">
-                        <img src="">    
-                    </div>
-                    <div>
-                        <p>
-                            name goes here
-                        </p>
-                    </div>
-                </div> <!-- end single -->
-                <div class="elt-single">
-                    <div style="background-color:black;">
-                        <img src="">    
-                    </div>
-                    <div>
-                        <p>
-                            name goes here
-                        </p>
-                    </div>
-                </div> <!-- end single -->
-                <div class="elt-single">
-                    <div style="background-color:black;">
-                        <img src="">    
-                    </div>
-                    <div>
-                        <p>
-                            name goes here
-                        </p>
-                    </div>
-                </div> <!-- end single -->
-                <div class="elt-single">
-                    <div style="background-color:black;">
-                        <img src="">    
-                    </div>
-                    <div>
-                        <p>
-                            name goes here
-                        </p>
-                    </div>
-                </div> <!-- end single -->
-                <div class="elt-single">
-                    <div style="background-color:black;">
-                        <img src="">    
-                    </div>
-                    <div>
-                        <p>
-                            name goes here
-                        </p>
-                    </div>
-                </div> <!-- end single -->
-                <div class="elt-single">
-                    <div style="background-color:black;">
-                        <img src="">    
-                    </div>
-                    <div>
-                        <p>
-                            name goes here
-                        </p>
-                    </div>
-                </div> <!-- end single -->
-                <div class="elt-single">
-                    <div style="background-color:black;">
-                        <img src="">    
-                    </div>
-                    <div>
-                        <p>
-                            name goes here
-                        </p>
-                    </div>
-                </div> <!-- end single -->
-                <div class="elt-single">
-                    <div style="background-color:black;">
-                        <img src="">    
-                    </div>
-                    <div>
-                        <p>
-                            name goes here
-                        </p>
-                    </div>
-                </div> <!-- end single -->
-                <div class="elt-single">
-                    <div style="background-color:black;">
-                        <img src="">    
-                    </div>
-                    <div>
-                        <p>
-                            name goes here
-                        </p>
-                    </div>
-                </div> <!-- end single -->
-                <div class="elt-single">
-                    <div style="background-color:black;">
-                        <img src="">    
-                    </div>
-                    <div>
-                        <p>
-                            name goes here
-                        </p>
-                    </div>
-                </div> <!-- end single -->
-                <div class="elt-single">
-                    <div style="background-color:black;">
-                        <img src="">    
-                    </div>
-                    <div>
-                        <p>
-                            name goes here
-                        </p>
-                    </div>
-                </div> <!-- end single -->
-            </div>
+            </div><!-- end flex -->
         </div>
         <div>
             <!-- <p class="regular">Learn more about how we are helping regions thrive and prosper:</p> -->
