@@ -360,7 +360,7 @@
 	}
 	.elt-list{
 		list-style-type: none;
-		border-left: 0px solid none;
+		border-left: 0px solid transparent;
 	}
 	.elt-list a{
 		color: #99B1C5;
