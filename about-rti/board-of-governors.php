@@ -180,7 +180,7 @@ include $REL_DIR.$INCL_DIR."meta-living.php";
                     </div>
                     <div>
                         <p class="light">
-                        <strong><a href="https://www.rti.org/expert/e-wayne-holden">E. Wayne Holden, PhD</a></strong><br>
+                        <strong><a href="https://www.rti.org/expert/e-wayne-holden" targer="_blank" style="color:#99B1C5">E. Wayne Holden, PhD</a></strong><br>
                             President and CEO, RTI International
                         </p>
                     </div>
