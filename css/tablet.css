@@ -230,9 +230,7 @@
 		margin: 0 0 0.5rem 0;
 		line-height: 41px;
 	}
-	#bog-img{
-		max-width: 100%;
-	}
+
 	.footer-text{
 		display: flex;
 		flex-flow: row;
@@ -269,12 +267,14 @@
 		font-size: 40px;
 		margin: 0;
 	}
-	.elt-flex{
+	.bog-flex{
 		flex-flow: row wrap;
 		justify-content: space-evenly;
 	}
-	.elt-single{
+	.bog-single{
 		align-self: stretch;
+		justify-self: center;
+		flex: 0 0 33%;
 		display: flex;
 		flex-flow: column;
 		justify-content: center;
@@ -368,6 +368,8 @@
 	ul li a:hover {
 		opacity:1;
 	}
+
+
 	.living-our-mission ul li, .enhancing-health ul li, .keeping-people-safe ul li, .thrive-and-prosper ul li, .protecting-the-planet ul li {
 		/*font-size:1.4rem;*/
 		font-size: calc(10px + (20 - 14) * ((100vw - 350px) / (1600 - 375)));

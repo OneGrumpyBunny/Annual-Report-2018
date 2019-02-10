@@ -10,40 +10,226 @@ include $REL_DIR.$INCL_DIR."meta-living.php";
 	<div class="innerContainer">
 <div class="column left flex">
     <div class="elt-page">
-
-    
         <!--- update content below this line --->
-
-
         <div>
-        <a href="http://www.rti.org"><img src="../img/RTI_w_1in.png" class="logo"></a>
-        <!-- <img src="../img/RTI_w_1in.png" class="logo"> -->
-            <h1>Executive Leadership</h1>
-            <!-- <h2>Decisions delayed; employment choices made based on the cost of education</h2> -->
-            
-            <!-- <p class="readmore"><a href="" target="_blank">READ MORE</a></p> -->
-            <div class="elt-flex">
-                <div class="elt-single">
+            <a href="http://www.rti.org"><img src="../img/RTI_w_1in.png" class="logo"></a>
+            <!-- <img src="../img/RTI_w_1in.png" class="logo"> -->
+            <h1>Board of Governers</h1>
+            <h2> Members of the Corporation</h2>
+            <div class="bog-flex">
+                <div class="bog-single">
                     <div>
-                        <img src="">    
+                        <img src="img/vincent_price.jpg">    
                     </div>
                     <div>
                     <p class="light">
-                        E. Wayne Holden, PhD<br>
-                        President and CEO, RTI&nbsp;International
+                        Vincent E. Price<br>
+                        President, Duke University
 				    </p>
                     </div>
                 </div> <!-- end single -->
-                <div class="elt-single">
-                    <div style="background-color:black;">
-                        <img src="">    
+                <div class="bog-single">
+                    <div>
+                    <img src="img/william_roper.jpg"> 
                     </div>
                     <div>
-                    <p class="light">
-					    Lorem
-				    </p>
+                        <p class="light">
+                            William L. Roper<br>
+                            Interim President, The University of North Carolina System
+                        </p>
                     </div>
                 </div> <!-- end single -->
+                <div class="bog-single">
+                    <div>
+                    <img src="img/william_hawkins.jpg">  
+                    </div>
+                    <div>
+                        <p class="light">
+                            William A. Hawkins III<br>
+                            Lead Director of the Board, Immucor, Inc.; Representative of the Board, Duke University
+                        </p>
+                    </div>
+                </div> <!-- end single -->
+                <div class="bog-single">
+                    <div>
+                        <img src="img/harry_smith.jpg">      
+                    </div>
+                    <div>
+                        <p class="light">
+                            Harry L. Smith Jr.<br>
+                            Businessman, Representative of the Board, The University of North Carolina System
+                        </p>
+                    </div>
+                </div> <!-- end single -->
+            </div><!-- end flex -->
+            <h2>Board of Governors</h2>
+            <div class="bog-flex">
+                <div class="bog-single">
+                    <div>
+                        <img src="img/peter_scott.jpg">    
+                    </div>
+                    <div>
+                        <p class="light">
+                            Peter M. Scott III (Chair)<br>
+                            Former CFO, Progress Energy; Former President and CEO, Progress Energy Services Company
+                        </p>
+                    </div>
+                </div> <!-- end single -->
+                <div class="bog-single">
+                    <div>
+                    <img src="img/thomas_darden.jpg"> 
+                    </div>
+                    <div>
+                        <p class="light">
+                            Thomas F. Darden<br>
+                            President and Chief Executive Officer, Cherokee Investment Partners
+                        </p>
+                    </div>
+                </div> <!-- end single -->
+                <div class="bog-single">
+                    <div>
+                        <img src="img/robert_ingram.jpg">  
+                    </div>
+                    <div>
+                        <p class="light">
+                            Robert A. Ingram<br>
+                            General Partner, Hatteras Venture Partners; Former CEO, GlaxoWellcome
+                        </p>
+                    </div>
+                </div> <!-- end single -->
+                <div class="bog-single">
+                    <div>
+                        <img src="img/terry_magnuson.jpg">      
+                    </div>
+                    <div>
+                        <p class="light">
+                            Terry Magnuson<br>
+                            Vice Chancellor for Research, University of North Carolina at Chapel Hill
+                        </p>
+                    </div>
+                </div> <!-- end single -->
+                <div class="bog-single">
+                    <div>
+                        <img src="img/champion_mitchell.jpg">      
+                    </div>
+                    <div>
+                        <p class="light">
+                            W.G. Champion Mitchell<br>
+                            Former CEO, Network Solutions
+                        </p>
+                    </div>
+                </div> <!-- end single -->
+                <div class="bog-single">
+                    <div>
+                        <img src="img/william_moore.jpg">      
+                    </div>
+                    <div>
+                        <p class="light">
+                            William M. Moore Jr.<br>
+                            Retired CEO, Trident Financial Corporation
+                        </p>
+                    </div>
+                </div> <!-- end single -->
+                <div class="bog-single">
+                    <div>
+                        <img src="img/alan_rebar.jpg">      
+                    </div>
+                    <div>
+                        <p class="light">
+                            Alan H. Rebar<br>
+                            Vice Chancellor for Research, Innovation and Economic Development, North Carolina State University
+                        </p>
+                    </div>
+                </div> <!-- end single -->
+                <div class="bog-single">
+                    <div>
+                        <img src="img/clinton_carter.jpg">      
+                    </div>
+                    <div>
+                        <p class="light">
+                            Clinton P. Carter<br>
+                            Senior Vice President for Finance & Administration and Chief Financial Officer, The University of North Carolina System
+                        </p>
+                    </div>
+                </div> <!-- end single -->
+                <div class="bog-single">
+                    <div>
+                        <img src="img/larry_carin.jpg">      
+                    </div>
+                    <div>
+                        <p class="light">
+                            Larry Carin
+                            Vice Provost of Research, Duke University
+                        </p>
+                    </div>
+                </div> <!-- end single -->
+                <div class="bog-single">
+                    <div>
+                        <img src="img/wayne_holden.jpg">      
+                    </div>
+                    <div>
+                        <p class="light">
+                            E. Wayne Holden, PhD
+                            President and CEO, RTI International
+                        </p>
+                    </div>
+                </div> <!-- end single -->
+                <div class="bog-single">
+                    <div>
+                        <img src="img/peter_lange.jpg">      
+                    </div>
+                    <div>
+                        <p class="light">
+                            Peter Lange
+                            Thomas A. Langford University Professor of Political Science and Public Policy, Provost Emeritus, Duke University
+                        </p>
+                    </div>
+                </div> <!-- end single -->
+                <div class="bog-single">
+                    <div>
+                        <img src="img/harold_martin.jpg">      
+                    </div>
+                    <div>
+                        <p class="light">
+                            Harold L. Martin Sr.
+                            Chancellor, North Carolina A&T State University
+                        </p>
+                    </div>
+                </div> <!-- end single -->
+                <div class="bog-single">
+                    <div>
+                        <img src="img/john_moellering.jpg">      
+                    </div>
+                    <div>
+                        <p class="light">
+                            John H. Moellering
+                            Chairman Emeritus, USAA
+                        </p>
+                    </div>
+                </div> <!-- end single -->
+                <div class="bog-single">
+                    <div>
+                        <img src="img/hilda_pinnix_ragland.jpg">      
+                    </div>
+                    <div>
+                        <p class="light">
+                            Hilda Pinnix-Ragland
+                            Former Energy Executive, Duke Energy; Managing Director, AHK Global Resources, LLC
+                        </p>
+                    </div>
+                </div> <!-- end single -->
+                <div class="bog-single">
+                    <div>
+                        <img src="img/christy_shaffer.jpg">      
+                    </div>
+                    <div>
+                        <p class="light">
+                            Christy Shaffer
+                            General Partner, Hatteras Venture Partners
+                        </p>
+                    </div>
+                </div> <!-- end single -->
+
             </div><!-- end flex -->
         </div>
         <div>
