@@ -285,12 +285,14 @@
 		align-content: center;
 	}
 	.bog-single div:first{
-		width: 10%;
 		padding: 0rem 1rem;
-		align-self: baseline;
+		align-self: flex-start;
+	}
+	.bog-single div:last-of-type{
+		width: 100%;
+		
 	}
 	.bog-single div .light{
-		width: 100%;
 		text-align: center;
 	}
 	.bog-img{
