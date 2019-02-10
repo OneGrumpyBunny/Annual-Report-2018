@@ -286,7 +286,7 @@
 	}
 	.bog-single div:first-of-type{
 		padding: 0rem 1rem;
-		align-self: flex-start;
+		align-self: stretch;
 	}
 	.bog-single div:last-of-type{
 		width: 100%;
