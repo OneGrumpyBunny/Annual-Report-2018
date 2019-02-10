@@ -3,6 +3,8 @@
 		display:none;
 	}
 	.landingPage, .navContainer {
+		display:-webkit-box;
+		display:-ms-flexbox;
 		display:flex
 	}
 	.landingPageMobile {
@@ -16,10 +18,14 @@
 		flex: 0 0 50%;
 	}*/
 	.column.left, .column.right, .column.three { /* revisit this */
-		flex: 0 1 50%;
+		-webkit-box-flex: 0;
+		    -ms-flex: 0 1 50%;
+		        flex: 0 1 50%;
 	}
 	.column.seven {
-		flex: 0 1 70%;
+		-webkit-box-flex: 0;
+		    -ms-flex: 0 1 70%;
+		        flex: 0 1 70%;
 	}
 	
 	.container {
@@ -45,6 +51,8 @@
 		font-size:inherit;
 	}
 	.innerContainer {
+		display: -webkit-box;
+		display: -ms-flexbox;
 		display: flex;
 		position: relative;
 		max-width: 1600px;
@@ -58,9 +66,16 @@
 
 	.navContainer {
 			height: 100vh;
+			display: -webkit-box;
+			display: -ms-flexbox;
 			display: flex;
-			flex-direction: column;
-			align-items: flex-end;
+			-webkit-box-orient: vertical;
+			-webkit-box-direction: normal;
+			    -ms-flex-direction: column;
+			        flex-direction: column;
+			-webkit-box-align: end;
+			    -ms-flex-align: end;
+			        align-items: flex-end;
 	}
 	
 	.insideBox3 p {
@@ -69,13 +84,21 @@
 		text-align: center;
 	}
 	.navBox {
-		flex: 1 0 18%;
+		-webkit-box-flex: 1;
+		    -ms-flex: 1 0 18%;
+		        flex: 1 0 18%;
 		border: 1px solid #707070;
 		color: #ffffff;
 		font-weight: 400;
+		display: -webkit-box;
+		display: -ms-flexbox;
 		display: flex;
-		justify-content: center;
-		align-items: center;
+		-webkit-box-pack: center;
+		    -ms-flex-pack: center;
+		        justify-content: center;
+		-webkit-box-align: center;
+		    -ms-flex-align: center;
+		        align-items: center;
 		text-align: center;
 		background-size: cover;
 		width: calc(100px + (292 - 100) * ((100vw - 292px) / (1600 - 415)));
@@ -84,6 +107,7 @@
 		font-size: calc(15px + (20 - 15) * ((100vw - 200px) / (1600 - 375)));
 		display:flex;
 		margin: 5px 0;
+		max-width:292px;
 	}
 	.navBox:nth-child(1) {
 			background-image:url('../img/nav_about.png');
@@ -109,28 +133,45 @@
 	/* nav boxes */
 	
 	.insideBox1, .insideBox2 {
+		display:-webkit-box;
+		display:-ms-flexbox;
 		display:flex;
 		height: 99%;
-		flex-direction: column;
+		-webkit-box-orient: vertical;
+		-webkit-box-direction: normal;
+		    -ms-flex-direction: column;
+		        flex-direction: column;
 	}
 
 	.insideBox1 {
-		flex: 0 0 15px;
+		-webkit-box-flex: 0;
+		    -ms-flex: 0 0 15px;
+		        flex: 0 0 15px;
 		width: 15px;
 		max-width: 15px;
 	}
 	.insideBox2 {
 		border-left: 2px solid #111D2B;
-		flex: 0 0 5px;
+		-webkit-box-flex: 0;
+		    -ms-flex: 0 0 5px;
+		        flex: 0 0 5px;
 		border-right: 4px solid #111D2B;
 	}
 	.insideBox3 {
-		flex:1;
+		-webkit-box-flex:1;
+		    -ms-flex:1;
+		        flex:1;
 		color:#fff;
 		height:100%;
+		display: -webkit-box;
+		display: -ms-flexbox;
 		display: flex;
-		justify-content: center;
-		align-items: center;
+		-webkit-box-pack: center;
+		    -ms-flex-pack: center;
+		        justify-content: center;
+		-webkit-box-align: center;
+		    -ms-flex-align: center;
+		        align-items: center;
 	}
 
 	.about:hover, .health:hover, .safe:hover, .thrive:hover, .planet:hover {
@@ -199,9 +240,16 @@
 
 	
 	.landingPage-page, .living-our-mission, .living-our-mission-page,.message-from-president-page, .enhancing-health, .enhancing-health-page, .keeping-people-safe, .keeping-people-safe-page, .thrive-and-prosper, .thrive-and-prosper-page, .protecting-the-planet, .protecting-the-planet-page {
+		display: -webkit-box;
+		display: -ms-flexbox;
 		display: flex;
-		flex-direction: column;
-		justify-content: space-between;
+		-webkit-box-orient: vertical;
+		-webkit-box-direction: normal;
+		    -ms-flex-direction: column;
+		        flex-direction: column;
+		-webkit-box-pack: justify;
+		    -ms-flex-pack: justify;
+		        justify-content: space-between;
 		width: 71%;
 		margin-left: 3rem;
 		height: 100%;
@@ -239,9 +287,16 @@
 	}
 
 	.footer-text{
+		display: -webkit-box;
+		display: -ms-flexbox;
 		display: flex;
-		flex-flow: row;
-		justify-content: space-between;
+		-webkit-box-orient: horizontal;
+		-webkit-box-direction: normal;
+		    -ms-flex-flow: row;
+		        flex-flow: row;
+		-webkit-box-pack: justify;
+		    -ms-flex-pack: justify;
+		        justify-content: space-between;
 		position: fixed;
 		bottom: 0;
 		max-width: 1600px;
@@ -249,25 +304,46 @@
 		margin-bottom: .5rem;
 	}
 	.footer-text .text{
-		flex: 0 0 80%;
+		-webkit-box-flex: 0;
+		    -ms-flex: 0 0 80%;
+		        flex: 0 0 80%;
+		display: -webkit-box;
+		display: -ms-flexbox;
 		display: flex;
-		flex-flow: column;
-		justify-content: space-evenly;
+		-webkit-box-orient: vertical;
+		-webkit-box-direction: normal;
+		    -ms-flex-flow: column;
+		        flex-flow: column;
+		-webkit-box-pack: space-evenly;
+		    -ms-flex-pack: space-evenly;
+		        justify-content: space-evenly;
 	}
 	.footer-text .text p{
 		line-height: 15px;
 		font-size: 14px;
 		color:#898989;
 		text-align: justify;
-		align-self: center;
+		-ms-flex-item-align: center;
+		    -ms-grid-row-align: center;
+		    align-self: center;
 		margin: 0 0 .5rem 0;
 	}
 	.footer-text .icons{
-		flex: 0 0 15%;
-		align-self: baseline;
+		-webkit-box-flex: 0;
+		    -ms-flex: 0 0 15%;
+		        flex: 0 0 15%;
+		-ms-flex-item-align: baseline;
+		    align-self: baseline;
+		display: -webkit-box;
+		display: -ms-flexbox;
 		display: flex;
-		flex-flow: row;
-		justify-content: space-evenly;
+		-webkit-box-orient: horizontal;
+		-webkit-box-direction: normal;
+		    -ms-flex-flow: row;
+		        flex-flow: row;
+		-webkit-box-pack: space-evenly;
+		    -ms-flex-pack: space-evenly;
+		        justify-content: space-evenly;
 	}
 	.footer-text .icons a{
 		color: white;
@@ -275,20 +351,35 @@
 		margin: 0;
 	}
 	.bog-flex{
+		display:-webkit-box;
+		display:-ms-flexbox;
 		display:flex;
-		flex-flow: row wrap;
-		justify-content: space-evenly;
+		-webkit-box-orient: horizontal;
+		-webkit-box-direction: normal;
+		    -ms-flex-flow: row wrap;
+		        flex-flow: row wrap;
+		-webkit-box-pack: space-evenly;
+		    -ms-flex-pack: space-evenly;
+		        justify-content: space-evenly;
 		width: 180%;
 	}
 	.bog-single{
 		padding: 0rem 1rem;
-		align-self: stretch;
-		flex: 0 1 33%;
+		-ms-flex-item-align: stretch;
+		    -ms-grid-row-align: stretch;
+		    align-self: stretch;
+		-webkit-box-flex: 0;
+		    -ms-flex: 0 1 33%;
+		        flex: 0 1 33%;
 	}
 	.bog-single-corp{
 		padding: 0rem 1rem;
-		align-self: stretch;
-		flex: 0 1 25%;
+		-ms-flex-item-align: stretch;
+		    -ms-grid-row-align: stretch;
+		    align-self: stretch;
+		-webkit-box-flex: 0;
+		    -ms-flex: 0 1 25%;
+		        flex: 0 1 25%;
 	}
 	.bog-single div:first-of-type, .bog-single-corp div:first-of-type{
 		padding: 0rem 1rem;
@@ -368,9 +459,12 @@
 	.living-our-mission-page #elt-list{
 		list-style-type: none;
 		border-left: 0px solid transparent;
-		margin-block-start: 0rem;
-		margin-block-end: 0rem;
-		padding-inline-start: 0;
+		-webkit-margin-before: 0rem;
+		        margin-block-start: 0rem;
+		-webkit-margin-after: 0rem;
+		        margin-block-end: 0rem;
+		-webkit-padding-start: 0;
+		        padding-inline-start: 0;
 	}
 	#elt-img-box{
 		width:calc(185%);
