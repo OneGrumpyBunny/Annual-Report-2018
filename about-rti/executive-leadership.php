@@ -26,7 +26,7 @@ include $REL_DIR.$INCL_DIR."meta-living.php";
                     Pictured from Left to Right: Lisa May, Paul Weisenfeld, Michael Kaelin, Tim Gabel, Allen Mangel, Wayne Holden, James Gibson, Teena Piccione, and Edward&nbsp;Story.
                 </p>
             </div>
-            <ul class="elt-list">
+            <ul id="elt-list">
                 <li> <a href="https://www.rti.org/expert/e-wayne-holden" target="_blank">
                     E. Wayne Holden, PhD</a> President and CEO, RTI International
                 </li>

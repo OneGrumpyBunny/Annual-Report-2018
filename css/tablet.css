@@ -358,18 +358,19 @@
 		list-style-type: none;
 		border-left: 11px solid #FFC629;
 	}
-	.living-our-mission-page .elt-list{
+	.living-our-mission-page #elt-list{
 		list-style-type: none;
 		border-left: 0px solid transparent;
 		margin-block-start: 0rem;
 		margin-block-end: 0rem;
 		padding-inline-start: 0;
 	}
-	.elt-list a{
+	#elt-list a{
 		color: #99B1C5;
 	}
-	.elt-list li{
-		font-size:calc(8px + (20 - 14) * ((100vw - 350px) / (1600 - 375)));
+	#elt-list li{
+		font-size:calc(9px + (20 - 14) * ((100vw - 350px) / (1600 - 375)));
+		line-height: 11px;
 		color: #ffffff;
 	}
 	#elt-img{
