@@ -19,7 +19,7 @@ include $REL_DIR.$INCL_DIR."meta-living.php";
             <div class="bog-flex">
                 <div class="bog-single">
                     <div>
-                        <img src="img/vincent_price.jpg">    
+                        <img src="img/vincent_price.jpg" class="bog-img">    
                     </div>
                     <div>
                     <p class="light">
@@ -30,7 +30,7 @@ include $REL_DIR.$INCL_DIR."meta-living.php";
                 </div> <!-- end single -->
                 <div class="bog-single">
                     <div>
-                    <img src="img/william_roper.jpg"> 
+                    <img src="img/william_roper.jpg" class="bog-img"> 
                     </div>
                     <div>
                         <p class="light">
@@ -41,7 +41,7 @@ include $REL_DIR.$INCL_DIR."meta-living.php";
                 </div> <!-- end single -->
                 <div class="bog-single">
                     <div>
-                    <img src="img/william_hawkins.jpg">  
+                    <img src="img/william_hawkins.jpg" class="bog-img">  
                     </div>
                     <div>
                         <p class="light">
@@ -52,7 +52,7 @@ include $REL_DIR.$INCL_DIR."meta-living.php";
                 </div> <!-- end single -->
                 <div class="bog-single">
                     <div>
-                        <img src="img/harry_smith.jpg">      
+                        <img src="img/harry_smith.jpg" class="bog-img">      
                     </div>
                     <div>
                         <p class="light">
@@ -66,7 +66,7 @@ include $REL_DIR.$INCL_DIR."meta-living.php";
             <div class="bog-flex">
                 <div class="bog-single">
                     <div>
-                        <img src="img/peter_scott.jpg">    
+                        <img src="img/peter_scott.jpg" class="bog-img">    
                     </div>
                     <div>
                         <p class="light">
@@ -77,7 +77,7 @@ include $REL_DIR.$INCL_DIR."meta-living.php";
                 </div> <!-- end single -->
                 <div class="bog-single">
                     <div>
-                    <img src="img/thomas_darden.jpg"> 
+                    <img src="img/thomas_darden.jpg" class="bog-img"> 
                     </div>
                     <div>
                         <p class="light">
@@ -88,7 +88,7 @@ include $REL_DIR.$INCL_DIR."meta-living.php";
                 </div> <!-- end single -->
                 <div class="bog-single">
                     <div>
-                        <img src="img/robert_ingram.jpg">  
+                        <img src="img/robert_ingram.jpg" class="bog-img">  
                     </div>
                     <div>
                         <p class="light">
@@ -99,7 +99,7 @@ include $REL_DIR.$INCL_DIR."meta-living.php";
                 </div> <!-- end single -->
                 <div class="bog-single">
                     <div>
-                        <img src="img/terry_magnuson.jpg">      
+                        <img src="img/terry_magnuson.jpg" class="bog-img">      
                     </div>
                     <div>
                         <p class="light">
@@ -110,7 +110,7 @@ include $REL_DIR.$INCL_DIR."meta-living.php";
                 </div> <!-- end single -->
                 <div class="bog-single">
                     <div>
-                        <img src="img/champion_mitchell.jpg">      
+                        <img src="img/champion_mitchell.jpg" class="bog-img">      
                     </div>
                     <div>
                         <p class="light">
@@ -121,7 +121,7 @@ include $REL_DIR.$INCL_DIR."meta-living.php";
                 </div> <!-- end single -->
                 <div class="bog-single">
                     <div>
-                        <img src="img/william_moore.jpg">      
+                        <img src="img/william_moore.jpg" class="bog-img">      
                     </div>
                     <div>
                         <p class="light">
@@ -132,7 +132,7 @@ include $REL_DIR.$INCL_DIR."meta-living.php";
                 </div> <!-- end single -->
                 <div class="bog-single">
                     <div>
-                        <img src="img/alan_rebar.jpg">      
+                        <img src="img/alan_rebar.jpg" class="bog-img">      
                     </div>
                     <div>
                         <p class="light">
@@ -143,7 +143,7 @@ include $REL_DIR.$INCL_DIR."meta-living.php";
                 </div> <!-- end single -->
                 <div class="bog-single">
                     <div>
-                        <img src="img/clinton_carter.jpg">      
+                        <img src="img/clinton_carter.jpg" class="bog-img">      
                     </div>
                     <div>
                         <p class="light">
@@ -154,7 +154,7 @@ include $REL_DIR.$INCL_DIR."meta-living.php";
                 </div> <!-- end single -->
                 <div class="bog-single">
                     <div>
-                        <img src="img/larry_carin.jpg">      
+                        <img src="img/larry_carin.jpg" class="bog-img">      
                     </div>
                     <div>
                         <p class="light">
@@ -165,7 +165,7 @@ include $REL_DIR.$INCL_DIR."meta-living.php";
                 </div> <!-- end single -->
                 <div class="bog-single">
                     <div>
-                        <img src="img/wayne_holden.jpg">      
+                        <img src="img/wayne_holden.jpg" class="bog-img">      
                     </div>
                     <div>
                         <p class="light">
@@ -176,7 +176,7 @@ include $REL_DIR.$INCL_DIR."meta-living.php";
                 </div> <!-- end single -->
                 <div class="bog-single">
                     <div>
-                        <img src="img/peter_lange.jpg">      
+                        <img src="img/peter_lange.jpg" class="bog-img">      
                     </div>
                     <div>
                         <p class="light">
@@ -187,7 +187,7 @@ include $REL_DIR.$INCL_DIR."meta-living.php";
                 </div> <!-- end single -->
                 <div class="bog-single">
                     <div>
-                        <img src="img/harold_martin.jpg">      
+                        <img src="img/harold_martin.jpg" class="bog-img">      
                     </div>
                     <div>
                         <p class="light">
@@ -198,7 +198,7 @@ include $REL_DIR.$INCL_DIR."meta-living.php";
                 </div> <!-- end single -->
                 <div class="bog-single">
                     <div>
-                        <img src="img/john_moellering.jpg">      
+                        <img src="img/john_moellering.jpg" class="bog-img">      
                     </div>
                     <div>
                         <p class="light">
@@ -209,7 +209,7 @@ include $REL_DIR.$INCL_DIR."meta-living.php";
                 </div> <!-- end single -->
                 <div class="bog-single">
                     <div>
-                        <img src="img/hilda_pinnix_ragland.jpg">      
+                        <img src="img/hilda_pinnix_ragland.jpg" class="bog-img">      
                     </div>
                     <div>
                         <p class="light">
@@ -220,7 +220,7 @@ include $REL_DIR.$INCL_DIR."meta-living.php";
                 </div> <!-- end single -->
                 <div class="bog-single">
                     <div>
-                        <img src="img/christy_shaffer.jpg">      
+                        <img src="img/christy_shaffer.jpg" class="bog-img">      
                     </div>
                     <div>
                         <p class="light">
