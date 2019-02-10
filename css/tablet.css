@@ -276,6 +276,7 @@
 		width: 175%;
 	}
 	.bog-single{
+		padding: 0rem 1rem;
 		align-self: stretch;
 		flex: 0 1 25%;
 		display: flex;
@@ -284,7 +285,7 @@
 		align-content: center;
 	}
 	.bog-single div:first{
-		width: 100%;
+		width: 10%;
 		padding: 0rem 1rem;
 		align-self: baseline;
 	}
