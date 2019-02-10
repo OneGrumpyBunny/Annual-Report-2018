@@ -370,6 +370,7 @@
 		margin: 0 auto;
 	}
 	#elt-img-box .light{
+		width: 100%;
 		font-size:calc(8px + (20 - 14) * ((100vw - 350px) / (1600 - 375)));
 		line-height:calc(10px + (20 - 14) * ((100vw - 350px) / (1600 - 375)));
 		margin: 0;
