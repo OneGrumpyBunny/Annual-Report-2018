@@ -6,7 +6,7 @@ include $REL_DIR.$INCL_DIR."header.php";
 include $REL_DIR.$INCL_DIR."meta-living.php";
 ?>
 
-<!--<img src="img/filter-back.png" id="bogBack">-->
+<!--<img src="img/filter-back.png" class="sectionBack">-->
 
 <div class="innerContainer" id="bogInner">
 <div class="column left flex">
