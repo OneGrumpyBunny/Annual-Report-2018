@@ -30,6 +30,20 @@
 	.sectionBack {
 			max-width: 1600px;
 	}
+	/* #bogBack {
+		margin: 0 auto; 
+		max-width: 1600px;
+		/* position: absolute;
+		bottom: 0; */
+		/*width: 100%;
+	} */
+	#bogInner{
+		background-image: url('../about-rti/img/filter-back.png');
+		background-repeat: repeat-y;
+		margin: 0 auto; 
+		max-width: 1600px;
+		width: 100%;
+	}
 	.section {
 		width:100vw;
 	}
