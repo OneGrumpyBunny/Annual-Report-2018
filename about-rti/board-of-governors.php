@@ -225,7 +225,7 @@ include $REL_DIR.$INCL_DIR."meta-living.php";
                     <div>
                         <p class="light">
                         <strong>Hilda&nbsp;Pinnix-Ragland</strong><br>
-                            Former Energy Executive, Duke Energy; Managing Director, AHK Global&nbsp;Resources,&nbsp;LLC
+                            Former Energy Executive, Duke Energy; Managing Director, AHK Global Resources,&nbsp;LLC
                         </p>
                     </div>
                 </div> <!-- end single -->
