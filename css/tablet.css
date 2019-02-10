@@ -276,9 +276,7 @@
 		width: 175%;
 	}
 	.bog-single{
-		align-self: center;
-		justify-content: center;
-		align-content: center;
+		align-self: stretch;
 		flex: 0 1 25%;
 		display: flex;
 		flex-flow: column;
