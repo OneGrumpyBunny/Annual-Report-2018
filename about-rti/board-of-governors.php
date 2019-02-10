@@ -9,7 +9,7 @@ include $REL_DIR.$INCL_DIR."meta-living.php";
 <img src="img/filter-back.png" class="sectionBack">
 	<div class="innerContainer">
 <div class="column left flex">
-    <div class="elt-page">
+    <div class="living-our-mission-page">
         <!--- update content below this line --->
         <div>
             <a href="http://www.rti.org"><img src="../img/RTI_w_1in.png" class="logo"></a>
