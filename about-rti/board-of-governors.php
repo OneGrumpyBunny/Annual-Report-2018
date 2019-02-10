@@ -23,9 +23,9 @@ include $REL_DIR.$INCL_DIR."meta-living.php";
                     </div>
                     <div>
                     <p class="light">
-                        <strong>Vincent E. Price</strong>
+                        <strong>Vincent E.&nbsp;Price</strong>
                         <br>
-                        President, Duke University
+                        President, Duke&nbsp;University
 				    </p>
                     </div>
                 </div> <!-- end single -->
@@ -35,8 +35,8 @@ include $REL_DIR.$INCL_DIR."meta-living.php";
                     </div>
                     <div>
                         <p class="light">
-                            <strong> William L. Roper</strong><br>
-                            Interim President, The University of North Carolina System
+                            <strong> William L.&nbsp;Roper</strong><br>
+                            Interim President, The University of North Carolina&nbsp;System
                         </p>
                     </div>
                 </div> <!-- end single -->
@@ -46,9 +46,9 @@ include $REL_DIR.$INCL_DIR."meta-living.php";
                     </div>
                     <div>
                         <p class="light">
-                        <strong>William A. Hawkins III</strong>
+                        <strong>William A. Hawkins&nbsp;III</strong>
                             <br>
-                            Lead Director of the Board, Immucor, Inc.; Representative of the Board, Duke University
+                            Lead Director of the Board, Immucor, Inc.; Representative of the Board, Duke&nbsp;University
                         </p>
                     </div>
                 </div> <!-- end single -->
@@ -58,9 +58,9 @@ include $REL_DIR.$INCL_DIR."meta-living.php";
                     </div>
                     <div>
                         <p class="light">
-                        <strong>Harry L. Smith Jr.</strong>
+                        <strong>Harry L. Smith&nbsp;Jr.</strong>
                             <br>
-                            Businessman, Representative of the Board, The University of North Carolina System
+                            Businessman, Representative of the Board, The University of North Carolina&nbsp;System
                         </p>
                     </div>
                 </div> <!-- end single -->
@@ -73,9 +73,9 @@ include $REL_DIR.$INCL_DIR."meta-living.php";
                     </div>
                     <div>
                         <p class="light">
-                        <strong>Peter M. Scott III (Chair)</strong>
+                        <strong>Peter M. Scott&nbsp;III&nbsp;(Chair)</strong>
                             <br>
-                            Former CFO, Progress Energy; Former President and CEO, Progress Energy Services Company
+                            Former CFO, Progress Energy; Former President and CEO, Progress Energy Services&nbsp;Company
                         </p>
                     </div>
                 </div> <!-- end single -->
@@ -85,9 +85,9 @@ include $REL_DIR.$INCL_DIR."meta-living.php";
                     </div>
                     <div>
                         <p class="light">
-                        <strong>Thomas F. Darden</strong>
+                        <strong>Thomas F.&nbsp;Darden</strong>
                             <br>
-                            President and Chief Executive Officer, Cherokee Investment Partners
+                            President and Chief Executive Officer, Cherokee Investment&nbsp;Partners
                         </p>
                     </div>
                 </div> <!-- end single -->
@@ -97,9 +97,9 @@ include $REL_DIR.$INCL_DIR."meta-living.php";
                     </div>
                     <div>
                         <p class="light">
-                        <strong>Robert A. Ingram</strong>
+                        <strong>Robert A.&nbsp;Ingram</strong>
                             <br>
-                            General Partner, Hatteras Venture Partners; Former CEO, GlaxoWellcome
+                            General Partner, Hatteras Venture Partners; Former CEO,&nbsp;GlaxoWellcome
                         </p>
                     </div>
                 </div> <!-- end single -->
@@ -109,9 +109,9 @@ include $REL_DIR.$INCL_DIR."meta-living.php";
                     </div>
                     <div>
                         <p class="light">
-                        <strong>Terry Magnuson</strong>
+                        <strong>Terry&nbsp;Magnuson</strong>
                             <br>
-                            Vice Chancellor for Research, University of North Carolina at Chapel Hill
+                            Vice Chancellor for Research, University of North Carolina at Chapel&nbsp;Hill
                         </p>
                     </div>
                 </div> <!-- end single -->
@@ -121,8 +121,8 @@ include $REL_DIR.$INCL_DIR."meta-living.php";
                     </div>
                     <div>
                         <p class="light">
-                        <strong> W.G. Champion Mitchell</strong><br>
-                            Former CEO, Network Solutions
+                        <strong> W.G. Champion&nbsp;Mitchell</strong><br>
+                            Former CEO, Network&nbsp;Solutions
                         </p>
                     </div>
                 </div> <!-- end single -->
@@ -132,9 +132,9 @@ include $REL_DIR.$INCL_DIR."meta-living.php";
                     </div>
                     <div>
                         <p class="light">
-                        <strong>William M. Moore Jr.</strong>
+                        <strong>William M. Moore&nbsp;Jr.</strong>
                             <br>
-                            Retired CEO, Trident Financial Corporation
+                            Retired CEO, Trident Financial&nbsp;Corporation
                         </p>
                     </div>
                 </div> <!-- end single -->
@@ -144,9 +144,9 @@ include $REL_DIR.$INCL_DIR."meta-living.php";
                     </div>
                     <div>
                         <p class="light">
-                        <strong>Alan H. Rebar</strong>
+                        <strong>Alan H.&nbsp;Rebar</strong>
                             <br>
-                            Vice Chancellor for Research, Innovation and Economic Development, North Carolina State University
+                            Vice Chancellor for Research, Innovation and Economic Development, North Carolina State&nbsp;University
                         </p>
                     </div>
                 </div> <!-- end single -->
@@ -156,9 +156,9 @@ include $REL_DIR.$INCL_DIR."meta-living.php";
                     </div>
                     <div>
                         <p class="light">
-                        <strong>Clinton P. Carter</strong>
+                        <strong>Clinton P.&nbsp;Carter</strong>
                             <br>
-                            Senior Vice President for Finance & Administration and Chief Financial Officer, The University of North Carolina System
+                            Senior Vice President for Finance & Administration and Chief Financial Officer, The University of North Carolina&nbsp;System
                         </p>
                     </div>
                 </div> <!-- end single -->
@@ -168,9 +168,9 @@ include $REL_DIR.$INCL_DIR."meta-living.php";
                     </div>
                     <div>
                         <p class="light">
-                        <strong>Larry Carin</strong>
+                        <strong>Larry&nbsp;Carin</strong>
                             <br>
-                            Vice Provost of Research, Duke University
+                            Vice Provost of Research, Duke&nbsp;University
                         </p>
                     </div>
                 </div> <!-- end single -->
@@ -180,8 +180,8 @@ include $REL_DIR.$INCL_DIR."meta-living.php";
                     </div>
                     <div>
                         <p class="light">
-                        <strong><a href="https://www.rti.org/expert/e-wayne-holden" targer="_blank" style="color:#99B1C5">E. Wayne Holden, PhD</a></strong><br>
-                            President and CEO, RTI International
+                        <strong><a href="https://www.rti.org/expert/e-wayne-holden" targer="_blank" style="color:#99B1C5">E. Wayne Holden,&nbsp;PhD</a></strong><br>
+                            President and CEO, RTI&nbsp;International
                         </p>
                     </div>
                 </div> <!-- end single -->
@@ -191,8 +191,8 @@ include $REL_DIR.$INCL_DIR."meta-living.php";
                     </div>
                     <div>
                         <p class="light">
-                        <strong> Peter Lange</strong><br>
-                            Thomas A. Langford University Professor of Political Science and Public Policy, Provost Emeritus, Duke University
+                        <strong> Peter&nbsp;Lange</strong><br>
+                            Thomas&nbsp;A.&nbsp;Langford&nbsp;University Professor of Political Science and Public Policy, Provost Emeritus, Duke&nbsp;University
                         </p>
                     </div>
                 </div> <!-- end single -->
@@ -202,8 +202,8 @@ include $REL_DIR.$INCL_DIR."meta-living.php";
                     </div>
                     <div>
                         <p class="light">
-                        <strong>Harold L. Martin Sr.</strong><br>
-                            Chancellor, North Carolina A&T State University
+                        <strong>Harold L. Martin&nbsp;Sr.</strong><br>
+                            Chancellor, North Carolina A&T State&nbsp;University
                         </p>
                     </div>
                 </div> <!-- end single -->
@@ -213,8 +213,8 @@ include $REL_DIR.$INCL_DIR."meta-living.php";
                     </div>
                     <div>
                         <p class="light">
-                        <strong>John H. Moellering</strong><br>
-                            Chairman Emeritus, USAA
+                        <strong>John H.&nbsp;Moellering</strong><br>
+                            Chairman Emeritus,&nbsp;USAA
                         </p>
                     </div>
                 </div> <!-- end single -->
@@ -224,8 +224,8 @@ include $REL_DIR.$INCL_DIR."meta-living.php";
                     </div>
                     <div>
                         <p class="light">
-                        <strong>Hilda Pinnix-Ragland</strong><br>
-                            Former Energy Executive, Duke Energy; Managing Director, AHK Global Resources, LLC
+                        <strong>Hilda&nbsp;Pinnix-Ragland</strong><br>
+                            Former Energy Executive, Duke Energy; Managing Director, AHK Global&nbsp;Resources,&nbsp;LLC
                         </p>
                     </div>
                 </div> <!-- end single -->
@@ -235,8 +235,8 @@ include $REL_DIR.$INCL_DIR."meta-living.php";
                     </div>
                     <div>
                         <p class="light">
-                            <strong>Christy Shaffer</strong><br>
-                            General Partner, Hatteras Venture Partners
+                            <strong>Christy&nbsp;Shaffer</strong><br>
+                            General Partner, Hatteras Venture&nbsp;Partners
                         </p>
                     </div>
                 </div> <!-- end single -->
