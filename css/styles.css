@@ -49,7 +49,6 @@ body {
     background-color:#0c111c;
     font-size: 24px;
     background-size:cover;
-    /* background: url(../img/background.png); */
     background: #1B2D35;
   }
 
@@ -63,16 +62,22 @@ a {
 }
 .expand, .collapse {
     opacity:0.9;
+    -webkit-transition: opacity .5s ease-in;
+    -o-transition: opacity .5s ease-in;
     transition: opacity .5s ease-in;
 }
 #animBack {
     position: fixed; 
     opacity: 0.3; 
     max-width: 1600px;
+    width:100%;
+    
 }
 
 .hide {
     opacity:0;
+    -webkit-transition: opacity .5s ease-in;
+    -o-transition: opacity .5s ease-in;
     transition: opacity .5s ease-in; 
 }
 .hideMore  {
@@ -90,7 +95,6 @@ a:hover{
 *,
 *:before,
 *:after {
-    -moz-box-sizing: border-box;
     -webkit-box-sizing: border-box;
     box-sizing: border-box;
 }
@@ -127,11 +131,6 @@ h1, h2, h3, h4, p, a {
 .container {
     max-width:1600px;
     margin: 0 auto;
-    /*background: url('../img/background.png') no-repeat center center fixed; 
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
-    background-size: cover;*/
 }
 
 .sectionBack {
@@ -167,40 +166,6 @@ h1, h2, h3, h4, p, a {
     font-weight: 600;
 }
 
-/* page backgrounds */
-
-.home-back {
-   /* background:url('../img/background.png');
-    background-position: right;*/
-}
-
-
-.living-back {
-    /*background: url('../img/living-our-mission-back.png');
-    background-position: bottom right;
-    background-repeat: no-repeat;*/
-}
-.enhancing-back {
-   /* background: url('../img/enhancing-health-back.png');
-    background-position: bottom right;
-    background-repeat: no-repeat;*/
-}
-.safe-back {
-    /*background:url('../img/keeping-people-safe-back.png');
-    background-position: bottom right;
-    background-repeat: no-repeat;*/
-}
-.thrive-back {
-    /*background: url('../img/thrive-and-prosper-back.png');
-    background-position: bottom right;
-    background-repeat: no-repeat;*/
-}
-.planet-back {
-    /*background:url('../img/protecting-the-planet-back.png');
-    background-position: bottom right;
-    background-repeat: no-repeat;*/
-}
-
 .logo {
     position: relative;
     max-width: 200px;
@@ -221,13 +186,20 @@ h1, h2, h3, h4, p, a {
 .landingPageMobile, .landingPage  {
     width: 100%;
     height: 100vh;
+    display: -webkit-box;
+    display: -ms-flexbox;
     display: flex;
-    flex-direction: column;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+        -ms-flex-direction: column;
+            flex-direction: column;
     
 }
 .landingPageMobile {
     /*margin: 0 1rem;*/
-    justify-content: space-evenly;
+    -webkit-box-pack: space-evenly;
+        -ms-flex-pack: space-evenly;
+            justify-content: space-evenly;
 }
 
 .landingPage {

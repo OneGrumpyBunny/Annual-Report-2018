@@ -22,6 +22,8 @@
 		display:none;
 	}
 	.landingPageMobile{
+		display:-webkit-box;
+		display:-ms-flexbox;
 		display:flex
 	}
 	.light {
@@ -102,6 +104,8 @@
     /*background: rgba(0, 0, 0, .3);*/
 		width: 100vw;
 		/* width: 85vw */
+		-webkit-transition: background 0.5s ease-in 0s;
+		-o-transition: background 0.5s ease-in 0s;
 		transition: background 0.5s ease-in 0s;
 		
 	}
@@ -112,6 +116,7 @@
 
 	header, #container, a {
 		-webkit-transition: all 0.4s ease-in-out;
+		-o-transition: all 0.4s ease-in-out;
 		transition: all 0.4s ease-in-out;
 	}
   
@@ -151,20 +156,35 @@
   .nav-total {
 	  padding: 0;
 	  margin: 0rem auto;
+	  display: -webkit-box;
+	  display: -ms-flexbox;
 	  display: flex;
-	  flex-flow: column;
-	  justify-content: center;
-	  align-items: stretch;
+	  -webkit-box-orient: vertical;
+	  -webkit-box-direction: normal;
+	      -ms-flex-flow: column;
+	          flex-flow: column;
+	  -webkit-box-pack: center;
+	      -ms-flex-pack: center;
+	          justify-content: center;
+	  -webkit-box-align: stretch;
+	      -ms-flex-align: stretch;
+	          align-items: stretch;
 		height: 95vh;
 	}
 	
   .nav-link {
 		font:300 22px/24px 'Myriad Pro', arial;
 		text-decoration: none;
+		display: -webkit-inline-box;
+		display: -ms-inline-flexbox;
 		display: inline-flex;
 		opacity: 1;
-		flex-flow: row;
-		align-self: stretch;
+		-webkit-box-orient: horizontal;
+		-webkit-box-direction: normal;
+		    -ms-flex-flow: row;
+		        flex-flow: row;
+		-ms-flex-item-align: stretch;
+		    align-self: stretch;
 		height: 100%;
 		margin: 0.8rem 0;
 		/*max-height: 16%;*/
@@ -173,7 +193,9 @@
   .nav-item { 
 		color:#fff;
 		margin: calc(5%) auto;
-		align-self: center;
+		-ms-flex-item-align: center;
+		    -ms-grid-row-align: center;
+		    align-self: center;
 		opacity: 1;
   }
   .nav-link p {
@@ -183,8 +205,13 @@
 		text-align:center;
   }
   body.active .nav-link {
+		display: -webkit-box;
+		display: -ms-flexbox;
 		display: flex;
-		flex-flow: column;
+		-webkit-box-orient: vertical;
+		-webkit-box-direction: normal;
+		    -ms-flex-flow: column;
+		        flex-flow: column;
 		padding-top: 10px;
 		/*background: #cccccccc;*/
   }
@@ -198,33 +225,55 @@
 	border-radius: 11px;
   }
   .side-border.off {
-	animation: sliderOut 1s 0s 1;
+	-webkit-animation: sliderOut 1s 0s 1;
+	        animation: sliderOut 1s 0s 1;
 	display: none;
+	-webkit-transition: display 3s ease-out;
+	-o-transition: display 3s ease-out;
 	transition: display 3s ease-out;
   }
   .side-line {
-	transform: scale(0);
+	-webkit-transform: scale(0);
+	    -ms-transform: scale(0);
+	        transform: scale(0);
   }
   .side-line.on {
 	width: calc(60%);
-	align-self: center;
+	-ms-flex-item-align: center;
+	    -ms-grid-row-align: center;
+	    align-self: center;
 	border: 1px solid transparent;
 	border-radius: 5px;
-	animation: scaler 1s 0s 1 forwards;
+	-webkit-animation: scaler 1s 0s 1 forwards;
+	        animation: scaler 1s 0s 1 forwards;
+  }
+  
+  @-webkit-keyframes sliderOut {
+	0% {-webkit-transform: scale(1);transform: scale(1);}
+	100% {-webkit-transform: scale(0);transform: scale(0);}
   }
   
   @keyframes sliderOut {
-	0% {transform: scale(1);}
-	100% {transform: scale(0);}
+	0% {-webkit-transform: scale(1);transform: scale(1);}
+	100% {-webkit-transform: scale(0);transform: scale(0);}
+  }
+  @-webkit-keyframes sliderIn {
+	0% {-webkit-transform: scale(0);transform: scale(0);}
+	100% {-webkit-transform: scale(1);transform: scale(1);}
   }
   @keyframes sliderIn {
-	0% {transform: scale(0);}
-	100% {transform: scale(1);}
+	0% {-webkit-transform: scale(0);transform: scale(0);}
+	100% {-webkit-transform: scale(1);transform: scale(1);}
+  }
+  
+  @-webkit-keyframes scaler {
+	0% {-webkit-transform: scale(0);transform: scale(0); opacity: 0;}
+	100% {-webkit-transform: scale(1);transform: scale(1); opacity: 1;}
   }
   
   @keyframes scaler {
-	0% {transform: scale(0); opacity: 0;}
-	100% {transform: scale(1); opacity: 1;}
+	0% {-webkit-transform: scale(0);transform: scale(0); opacity: 0;}
+	100% {-webkit-transform: scale(1);transform: scale(1); opacity: 1;}
   }
   
   #about, .aboutNav {
@@ -268,13 +317,20 @@
   }
 	
   body.active #pull {
-	 animation: flipit .5s ease-in forwards;
+	 -webkit-animation: flipit .5s ease-in forwards;
+	         animation: flipit .5s ease-in forwards;
   }
 	
 	
+  @-webkit-keyframes flipit {
+		0% {  -webkit-transform: scaleX(1);  transform: scaleX(1);}
+		100% {  -webkit-transform: scaleX(-1);  transform: scaleX(-1);}
+		}
+	
+	
   @keyframes flipit {
-		0% {  transform: scaleX(1);}
-		100% {  transform: scaleX(-1);}
+		0% {  -webkit-transform: scaleX(1);  transform: scaleX(1);}
+		100% {  -webkit-transform: scaleX(-1);  transform: scaleX(-1);}
 		}  
 
 		body.active .nav-link:nth-child(1) {
@@ -313,38 +369,38 @@
 		
 	}
 	.enhancing-back {
-		background: url(../enhancing-health-through-science-and-practice/img/enhancing-health-back.png);
+		background: url('../enhancing-health-through-science-and-practice/img/enhancing-health-back.png');
     height: 100vh;
     background-size: cover;
     background-position: bottom center;
 	}
 	.landing-back {
-		background: url(../img/background.png);
+		background: url('../img/background.png');
     height: 100vh;
     background-size: cover;
     background-position: bottom center;
 	}
 	
 	.safe-back {
-		background: url(../keeping-people-safe/img/keeping-people-safe-back.png);
+		background: url('../keeping-people-safe/img/keeping-people-safe-back.png');
     height: 100vh;
     background-size: cover;
     background-position: bottom center;
 	}
 	.thrive-back {
-		background: url(../helping-regions-thrive-and-prosper/img/thrive-and-prosper-back.png);
+		background: url('../helping-regions-thrive-and-prosper/img/thrive-and-prosper-back.png');
     height: 100vh;
     background-size: cover;
     background-position: bottom center;
 	}
 	.planet-back {
-		background: url(../protecting-the-planet/img/protecting-the-planet-back.png);
+		background: url('../protecting-the-planet/img/protecting-the-planet-back.png');
     height: 100vh;
     background-size: cover;
     background-position: bottom center;
 	}
 	.about-back {
-		background: url(../about-rti/img/living-our-mission-back.png);
+		background: url('../about-rti/img/living-our-mission-back.png');
     height: 100vh;
     background-size: cover;
     background-position: bottom center;
