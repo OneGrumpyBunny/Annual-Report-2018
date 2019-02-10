@@ -38,7 +38,8 @@
 	}
 	#bogInner{
 		background-image: url('../about-rti/img/filter-back.png');
-		background-repeat: repeat-y;
+		/* background-repeat: repeat-y; */
+		background-position: cover;
 		margin: 0 auto; 
 		max-width: 1600px;
 		width: 100%;
