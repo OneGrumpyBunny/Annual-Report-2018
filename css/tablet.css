@@ -276,7 +276,6 @@
 	.bog-single{
 		padding: 0rem 1rem;
 		align-self: stretch;
-		height: 100%;
 		flex: 0 1 25%;
 	}
 	.bog-single div:first-of-type{
