@@ -278,13 +278,18 @@
 		align-self: stretch;
 		flex: 0 1 33%;
 	}
-	.bog-single div:first-of-type{
+	.bog-single-corp{
+		padding: 0rem 1rem;
+		align-self: stretch;
+		flex: 0 1 25%;
+	}
+	.bog-single div:first-of-type, .bog-single-corp div:first-of-type{
 		padding: 0rem 1rem;
 	}
-	.bog-single div:last-of-type{
+	.bog-single div:last-of-type, .bog-single-corp div:last-of-type{
 		width: 100%;
 	}
-	.bog-single div .light{
+	.bog-single div .light, .bog-single-corp div .light{
 		text-align: center;
 	}
 	.bog-img{

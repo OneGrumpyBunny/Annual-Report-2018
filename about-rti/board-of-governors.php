@@ -17,7 +17,7 @@ include $REL_DIR.$INCL_DIR."meta-living.php";
             <h1>Board of Governers</h1>
             <h2> Members of the Corporation</h2>
             <div class="bog-flex">
-                <div class="bog-single">
+                <div class="bog-single-corp">
                     <div>
                         <img src="img/vincent_price.jpg" class="bog-img">    
                     </div>
@@ -29,7 +29,7 @@ include $REL_DIR.$INCL_DIR."meta-living.php";
 				    </p>
                     </div>
                 </div> <!-- end single -->
-                <div class="bog-single">
+                <div class="bog-single-corp">
                     <div>
                     <img src="img/william_roper.jpg" class="bog-img"> 
                     </div>
@@ -40,7 +40,7 @@ include $REL_DIR.$INCL_DIR."meta-living.php";
                         </p>
                     </div>
                 </div> <!-- end single -->
-                <div class="bog-single">
+                <div class="bog-single-corp">
                     <div>
                     <img src="img/william_hawkins.jpg" class="bog-img">  
                     </div>
@@ -52,7 +52,7 @@ include $REL_DIR.$INCL_DIR."meta-living.php";
                         </p>
                     </div>
                 </div> <!-- end single -->
-                <div class="bog-single">
+                <div class="bog-single-corp">
                     <div>
                         <img src="img/harry_smith.jpg" class="bog-img">      
                     </div>
