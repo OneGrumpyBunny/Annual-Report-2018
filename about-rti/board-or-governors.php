@@ -158,7 +158,7 @@ include $REL_DIR.$INCL_DIR."meta-living.php";
                     </div>
                     <div>
                         <p class="light">
-                            Larry Carin
+                            Larry Carin<br>
                             Vice Provost of Research, Duke University
                         </p>
                     </div>
@@ -169,7 +169,7 @@ include $REL_DIR.$INCL_DIR."meta-living.php";
                     </div>
                     <div>
                         <p class="light">
-                            E. Wayne Holden, PhD
+                            <a href="https://www.rti.org/expert/e-wayne-holden">E. Wayne Holden, PhD</a><br>
                             President and CEO, RTI International
                         </p>
                     </div>
@@ -180,7 +180,7 @@ include $REL_DIR.$INCL_DIR."meta-living.php";
                     </div>
                     <div>
                         <p class="light">
-                            Peter Lange
+                            Peter Lange<br>
                             Thomas A. Langford University Professor of Political Science and Public Policy, Provost Emeritus, Duke University
                         </p>
                     </div>
@@ -191,7 +191,7 @@ include $REL_DIR.$INCL_DIR."meta-living.php";
                     </div>
                     <div>
                         <p class="light">
-                            Harold L. Martin Sr.
+                            Harold L. Martin Sr.<br>
                             Chancellor, North Carolina A&T State University
                         </p>
                     </div>
@@ -202,7 +202,7 @@ include $REL_DIR.$INCL_DIR."meta-living.php";
                     </div>
                     <div>
                         <p class="light">
-                            John H. Moellering
+                            John H. Moellering<br>
                             Chairman Emeritus, USAA
                         </p>
                     </div>
@@ -213,7 +213,7 @@ include $REL_DIR.$INCL_DIR."meta-living.php";
                     </div>
                     <div>
                         <p class="light">
-                            Hilda Pinnix-Ragland
+                            Hilda Pinnix-Ragland<br>
                             Former Energy Executive, Duke Energy; Managing Director, AHK Global Resources, LLC
                         </p>
                     </div>
@@ -224,7 +224,7 @@ include $REL_DIR.$INCL_DIR."meta-living.php";
                     </div>
                     <div>
                         <p class="light">
-                            Christy Shaffer
+                            Christy Shaffer<br>
                             General Partner, Hatteras Venture Partners
                         </p>
                     </div>
