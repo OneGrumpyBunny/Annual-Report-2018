@@ -361,6 +361,8 @@
 	.living-our-mission-page .elt-list{
 		list-style-type: none;
 		border-left: 0px solid transparent;
+		margin-block-start: 0em;
+    	margin-block-end: 0em;
 	}
 	.elt-list a{
 		color: #99B1C5;
