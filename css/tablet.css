@@ -410,7 +410,7 @@
 		font-size: calc(26px + (35 - 26) * ((100vw - 350px) / (1600 - 375)));
 		line-height: 37px;
 	}
-	.enhancing-health-page h2, .keeping-people-safe-page h2, .thrive-and-prosper-page h2, .protecting-the-planet-page h2, .message-from-presider-page h2 {
+	.enhancing-health-page h2, .keeping-people-safe-page h2, .thrive-and-prosper-page h2, .protecting-the-planet-page h2, .living-our-mission-page h2 {
 		color:#EFDCB0;
 		margin:0;
 		font-weight: 400;
