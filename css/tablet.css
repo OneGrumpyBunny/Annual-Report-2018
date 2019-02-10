@@ -282,7 +282,7 @@
 		display: flex;
 		flex-flow: column;
 		justify-content: space-evenly;
-		align-content: center;
+		align-items: stretch;
 	}
 	.bog-single div:first-of-type{
 		padding: 0rem 1rem;
@@ -290,6 +290,7 @@
 	}
 	.bog-single div:last-of-type{
 		width: 100%;
+		align-self: stretch
 	}
 	.bog-single div .light{
 		text-align: center;
