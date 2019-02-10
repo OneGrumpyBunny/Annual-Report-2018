@@ -6,10 +6,9 @@ include $REL_DIR.$INCL_DIR."header.php";
 include $REL_DIR.$INCL_DIR."meta-living.php";
 ?>
 
-<!---<img src="img/filter-back.png" class="sectionBack">--->
+<img src="img/filter-back.png" class="sectionBack">
 
 	<div class="innerContainer">
-    <img src="img/filter-back.png" class="sectionBack">
 <div class="column left flex">
     <div class="living-our-mission-page">
         <!--- update content below this line --->
