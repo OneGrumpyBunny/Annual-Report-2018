@@ -283,9 +283,10 @@
 		justify-content: center;
 		align-content: center;
 	}
-	.bog-single div{
+	.bog-single div:first{
 		width: 100%;
 		padding: 0rem 1rem;
+		align-self: baseline;
 	}
 	.bog-single div .light{
 		width: 100%;
