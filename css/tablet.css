@@ -278,7 +278,6 @@
 		align-self: stretch;
 		justify-self: center;
 		flex: 0 1 33%;
-		max-width: 33%;
 		display: flex;
 		flex-flow: column;
 		justify-content: center;
