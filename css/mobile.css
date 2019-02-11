@@ -483,4 +483,12 @@
     width: 72%;
     margin: 0 15%;
 	}
+	.president-mob {
+		float: right;
+    width: 45%;
+    margin: 0px 0 10px 10px;
+    border-radius: 18px;
+    border: 1px solid transparent;
+    box-shadow: 4px 4px 8px rgba(0,0,0,.2);
+	}
 }
