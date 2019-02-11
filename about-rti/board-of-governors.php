@@ -15,7 +15,7 @@ include $REL_DIR.$INCL_DIR."meta-living.php";
         <div>
             <a href="http://www.rti.org"><img src="../img/RTI_w_1in.png" class="logo"></a>
             <!-- <img src="../img/RTI_w_1in.png" class="logo"> -->
-            <h1>Board of Governors</h1>
+            <h1>Meet RTI's Board of Governors</h1>
             <h2> Members of the Corporation</h2>
             <div class="bog-flex">
                 <div class="bog-single-corp">
