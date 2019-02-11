@@ -17,13 +17,13 @@ $(window).on("load",function() {
 
         toggleACC(chevron,expandThisID);   
     }
-    if ($("landing-back").is(":visible")) {
+    if ($(".landing-back").is(":visible")) {
         $("#animBack2").css("top",$("#animBack").height());
     }
 });
 
 $(window).on("resize",function() {
-    if ($("landing-back").is(":visible")) {
+    if ($(".landing-back").is(":visible")) {
         $("#animBack2").css("top",$("#animBack").height());
     }
 });
