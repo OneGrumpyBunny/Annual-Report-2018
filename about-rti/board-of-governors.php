@@ -68,86 +68,15 @@ include $REL_DIR.$INCL_DIR."meta-living.php";
             </div><!-- end flex -->
             <h2>Board of Governors</h2>
             <div class="bog-flex">
-                <div class="bog-single">
+            <div class="bog-single">
                     <div>
-                        <img src="img/peter_scott.jpg" class="bog-img">    
+                        <img src="img/larry_carin.jpg" class="bog-img">      
                     </div>
                     <div>
                         <p class="light">
-                        <strong>Peter M. Scott&nbsp;III&nbsp;(Chair)</strong>
+                        <strong>Lawrence&nbsp;Carin</strong>
                             <br>
-                            Former CFO, Progress Energy; Former President and CEO, Progress Energy Services&nbsp;Company
-                        </p>
-                    </div>
-                </div> <!-- end single -->
-                <div class="bog-single">
-                    <div>
-                    <img src="img/thomas_darden.jpg" class="bog-img"> 
-                    </div>
-                    <div>
-                        <p class="light">
-                        <strong>Thomas F.&nbsp;Darden</strong>
-                            <br>
-                            President and Chief Executive Officer, Cherokee Investment&nbsp;Partners
-                        </p>
-                    </div>
-                </div> <!-- end single -->
-                <div class="bog-single">
-                    <div>
-                        <img src="img/robert_ingram.jpg" class="bog-img">  
-                    </div>
-                    <div>
-                        <p class="light">
-                        <strong>Robert A.&nbsp;Ingram</strong>
-                            <br>
-                            General Partner, Hatteras Venture Partners; Former CEO,&nbsp;GlaxoWellcome
-                        </p>
-                    </div>
-                </div> <!-- end single -->
-                <div class="bog-single">
-                    <div>
-                        <img src="img/terry_magnuson.jpg" class="bog-img">      
-                    </div>
-                    <div>
-                        <p class="light">
-                        <strong>Terry&nbsp;Magnuson</strong>
-                            <br>
-                            Vice Chancellor for Research, University of North Carolina at Chapel&nbsp;Hill
-                        </p>
-                    </div>
-                </div> <!-- end single -->
-                <div class="bog-single">
-                    <div>
-                        <img src="img/champion_mitchell.jpg" class="bog-img">      
-                    </div>
-                    <div>
-                        <p class="light">
-                        <strong> W.G. Champion&nbsp;Mitchell</strong><br>
-                            Former CEO, Network&nbsp;Solutions
-                        </p>
-                    </div>
-                </div> <!-- end single -->
-                <div class="bog-single">
-                    <div>
-                        <img src="img/william_moore.jpg" class="bog-img">      
-                    </div>
-                    <div>
-                        <p class="light">
-                        <strong>William M. Moore&nbsp;Jr.</strong>
-                            <br>
-                            Retired CEO, Trident Financial&nbsp;Corporation
-                        </p>
-                    </div>
-                </div> <!-- end single -->
-                <div class="bog-single">
-                    <div>
-                        <img src="img/alan_rebar.jpg" class="bog-img">      
-                    </div>
-                    <div>
-                        <p class="light">
-                        <strong>Alan H.&nbsp;Rebar</strong>
-                            <br>
-                            Vice Chancellor for Research, Innovation and Economic Development, North Carolina State&nbsp;University
+                            Vice Provost of Research, Duke&nbsp;University
                         </p>
                     </div>
                 </div> <!-- end single -->
@@ -165,13 +94,13 @@ include $REL_DIR.$INCL_DIR."meta-living.php";
                 </div> <!-- end single -->
                 <div class="bog-single">
                     <div>
-                        <img src="img/larry_carin.jpg" class="bog-img">      
+                    <img src="img/thomas_darden.jpg" class="bog-img"> 
                     </div>
                     <div>
                         <p class="light">
-                        <strong>Larry&nbsp;Carin</strong>
+                        <strong>Thomas F.&nbsp;Darden</strong>
                             <br>
-                            Vice Provost of Research, Duke&nbsp;University
+                            President and Chief Executive Officer, Cherokee Investment&nbsp;Partners
                         </p>
                     </div>
                 </div> <!-- end single -->
@@ -188,12 +117,36 @@ include $REL_DIR.$INCL_DIR."meta-living.php";
                 </div> <!-- end single -->
                 <div class="bog-single">
                     <div>
+                        <img src="img/robert_ingram.jpg" class="bog-img">  
+                    </div>
+                    <div>
+                        <p class="light">
+                        <strong>Robert A.&nbsp;Ingram</strong>
+                            <br>
+                            General Partner, Hatteras Venture Partners; Former CEO,&nbsp;GlaxoWellcome
+                        </p>
+                    </div>
+                </div> <!-- end single -->
+                <div class="bog-single">
+                    <div>
                         <img src="img/peter_lange.jpg" class="bog-img">      
                     </div>
                     <div>
                         <p class="light">
                         <strong> Peter&nbsp;Lange</strong><br>
                             Thomas&nbsp;A.&nbsp;Langford&nbsp;University Professor of Political Science and Public Policy, Provost Emeritus, Duke&nbsp;University
+                        </p>
+                    </div>
+                </div> <!-- end single -->
+                <div class="bog-single">
+                    <div>
+                        <img src="img/terry_magnuson.jpg" class="bog-img">      
+                    </div>
+                    <div>
+                        <p class="light">
+                        <strong>Terry&nbsp;Magnuson</strong>
+                            <br>
+                            Vice Chancellor for Research, University of North Carolina at Chapel&nbsp;Hill
                         </p>
                     </div>
                 </div> <!-- end single -->
@@ -210,6 +163,17 @@ include $REL_DIR.$INCL_DIR."meta-living.php";
                 </div> <!-- end single -->
                 <div class="bog-single">
                     <div>
+                        <img src="img/champion_mitchell.jpg" class="bog-img">      
+                    </div>
+                    <div>
+                        <p class="light">
+                        <strong> W.G. Champion&nbsp;Mitchell</strong><br>
+                            Former CEO, Network&nbsp;Solutions
+                        </p>
+                    </div>
+                </div> <!-- end single -->
+                <div class="bog-single">
+                    <div>
                         <img src="img/john_moellering.jpg" class="bog-img">      
                     </div>
                     <div>
@@ -221,12 +185,36 @@ include $REL_DIR.$INCL_DIR."meta-living.php";
                 </div> <!-- end single -->
                 <div class="bog-single">
                     <div>
+                        <img src="img/william_moore.jpg" class="bog-img">      
+                    </div>
+                    <div>
+                        <p class="light">
+                        <strong>William M. Moore&nbsp;Jr.</strong>
+                            <br>
+                            Retired CEO, Trident Financial&nbsp;Corporation
+                        </p>
+                    </div>
+                </div> <!-- end single -->
+                <div class="bog-single">
+                    <div>
                         <img src="img/hilda_pinnix_ragland.jpg" class="bog-img">      
                     </div>
                     <div>
                         <p class="light">
                         <strong>Hilda&nbsp;Pinnix-Ragland</strong><br>
                             Former Energy Executive, Duke Energy; Managing Director, AHK Global Resources,&nbsp;LLC
+                        </p>
+                    </div>
+                </div> <!-- end single -->
+                <div class="bog-single">
+                    <div>
+                        <img src="img/peter_scott.jpg" class="bog-img">    
+                    </div>
+                    <div>
+                        <p class="light">
+                        <strong>Peter M. Scott&nbsp;III&nbsp;(Chair)</strong>
+                            <br>
+                            Former CFO, Progress Energy; Former President and CEO, Progress Energy Services&nbsp;Company
                         </p>
                     </div>
                 </div> <!-- end single -->
