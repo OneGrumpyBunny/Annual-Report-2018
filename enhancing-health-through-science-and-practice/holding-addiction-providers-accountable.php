@@ -25,7 +25,7 @@ include $REL_DIR.$INCL_DIR."meta-health.php";
             <ul>
                 <li><a href="protecting-against-hiv-and-pregnancy-with-one-device.php">Protecting Against HIV and Pregnancy with One Device</a></li>
                 <li><a href="envisioning-a-world-without-tropical-diseases.php">Envisioning a World Without Tropical Diseases</a></li>
-                <li><a href="stemming-chronic-diseases-with-product-taxes.php">Stemming Chronic Diseases with Product Taxes?</a></li>
+                <li><a href="stemming-chronic-diseases-with-product-taxes.php">Stemming Chronic Diseases with Product Taxes</a></li>
                 <li><a href="speeding-treatment-times-for-heart-attacks.php">Speeding Treatment Times for Heart Attacks</a></li>
                 <li><a href="leveling-the-hiv-treatment-field.php">Leveling the HIV Treatment Field</a></li>
                 <li><a href="treating-hiv-and-opiod-abuse-together-in-tanzania.php">Treating HIV and Opioid Abuse Together in Tanzania</a></li>
