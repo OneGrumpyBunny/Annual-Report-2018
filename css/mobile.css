@@ -109,6 +109,9 @@
 		transition: background 0.5s ease-in 0s;
 		
 	}
+	.fixed-header a {
+		opacity:1;
+	}
 	header {
 		display:block;
 	}
