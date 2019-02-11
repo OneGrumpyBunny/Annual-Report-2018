@@ -10,9 +10,15 @@ $(window).on("load",function() {
     
     console.log($.urlParam('ex')); 
 
-    /*if($(".about-back").is(":visible")) {
+    if($(".about-back").is(":visible") && $.urlParam('ex') == "y") {
+        expandThisID = "section1";
+        slideThis = "#section1Head";
+        chevron = $('i[data-section=section1');
+    
+        /* toggle clicked accordian and slide it into position*/
 
-    }*/
+        toggleACC(chevron,expandThisID);   
+    }
 });
 
 var relPath = "/dev/"
