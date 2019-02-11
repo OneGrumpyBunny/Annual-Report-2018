@@ -33,19 +33,19 @@ $(window).on("load",function() {
 var relPath = ""
 $(document).ready(function() {
 		$(".about").click(function() {
-			window.location.href=relPath + "/about-rti/";
+			window.location.href=relPath + "about-rti/";
 		});
 		$(".health").click(function() {
-			window.location.href=relPath + "/enhancing-health-through-science-and-practice/";
+			window.location.href=relPath + "enhancing-health-through-science-and-practice/";
 		});
 		$(".safe").click(function() {
-			window.location.href=relPath + "/keeping-people-safe/";
+			window.location.href=relPath + "keeping-people-safe/";
 		});
 		$(".thrive").click(function() {
-			window.location.href=relPath + "/helping-regions-thrive-and-prosper/";
+			window.location.href=relPath + "helping-regions-thrive-and-prosper/";
 		});
 		$(".planet").click(function() {
-			window.location.href=relPath + "/protecting-the-planet/";
+			window.location.href=relPath + "protecting-the-planet/";
 		});
 
     /* mouseenter actions - these will be consolidated into one function */
