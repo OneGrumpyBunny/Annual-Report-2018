@@ -502,7 +502,7 @@
 		color: #ffffff;
 	}
 	#elt-img{
-	width: 100%;
+		max-width: 100%;
 	}
 	ul li a {
 		opacity:.9;
