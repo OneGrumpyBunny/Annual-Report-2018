@@ -26,6 +26,11 @@
 		display:-ms-flexbox;
 		display:flex
 	}
+	.landingPageMobile p {
+		font-size: calc(10px + (18 - 10) * ((100vw - 350px) / (1600 - 350)));
+    color: #fff;
+	}
+
 	.light {
 		font-size: calc(22px + (20 - 22) * ((100vw - 350px) / (1600 - 375)));
 	}
@@ -85,6 +90,10 @@
 	}
 	.landingMob {
 		margin-top: 3rem;
+		max-width: 85vw;
+	}
+	.icons a {
+		color: #ffffff;
 	}
 	section {
 		z-index: 1;
