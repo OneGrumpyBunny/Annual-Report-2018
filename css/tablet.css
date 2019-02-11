@@ -384,6 +384,9 @@
 		    -ms-flex: 0 1 25%;
 		        flex: 0 1 25%;
 	}
+	.bog-single-title{
+		font-size:calc(8px + (20 - 14) * ((100vw - 350px) / (1600 - 375)));
+	}
 	.bog-single div:first-of-type, .bog-single-corp div:first-of-type{
 		padding: 0rem 1rem;
 	}

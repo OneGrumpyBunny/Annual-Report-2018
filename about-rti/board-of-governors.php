@@ -26,7 +26,9 @@ include $REL_DIR.$INCL_DIR."meta-living.php";
                     <p class="light">
                         <strong>Vincent E.&nbsp;Price</strong>
                         <br>
-                        President, Duke&nbsp;University
+                        <span class="bog-single-title">
+                            President, Duke&nbsp;University
+                        </span>
 				    </p>
                     </div>
                 </div> <!-- end single -->
@@ -37,7 +39,9 @@ include $REL_DIR.$INCL_DIR."meta-living.php";
                     <div>
                         <p class="light">
                             <strong> William L.&nbsp;Roper</strong><br>
-                            Interim President, The University of North Carolina&nbsp;System
+                            <span class="bog-single-title">
+                                Interim President, The University of North Carolina&nbsp;System
+                            </span>
                         </p>
                     </div>
                 </div> <!-- end single -->
@@ -49,7 +53,9 @@ include $REL_DIR.$INCL_DIR."meta-living.php";
                         <p class="light">
                         <strong>William A. Hawkins&nbsp;III</strong>
                             <br>
-                            Lead Director of the Board, Immucor, Inc.; Representative of the Board, Duke&nbsp;University
+                            <span class="bog-single-title">
+                                Lead Director of the Board, Immucor, Inc.; Representative of the Board, Duke&nbsp;University
+                            </span>
                         </p>
                     </div>
                 </div> <!-- end single -->
@@ -61,7 +67,9 @@ include $REL_DIR.$INCL_DIR."meta-living.php";
                         <p class="light">
                         <strong>Harry L. Smith&nbsp;Jr.</strong>
                             <br>
-                            Businessman, Representative of the Board, The University of North Carolina&nbsp;System
+                            <span class="bog-single-title">
+                                Businessman, Representative of the Board, The University of North Carolina&nbsp;System
+                            </span>
                         </p>
                     </div>
                 </div> <!-- end single -->
@@ -76,7 +84,9 @@ include $REL_DIR.$INCL_DIR."meta-living.php";
                         <p class="light">
                         <strong>Lawrence&nbsp;Carin</strong>
                             <br>
-                            Vice Provost of Research, Duke&nbsp;University
+                            <span class="bog-single-title">
+                                Vice Provost of Research, Duke&nbsp;University
+                            </span>
                         </p>
                     </div>
                 </div> <!-- end single -->
@@ -88,7 +98,9 @@ include $REL_DIR.$INCL_DIR."meta-living.php";
                         <p class="light">
                         <strong>Clinton P.&nbsp;Carter</strong>
                             <br>
-                            Senior Vice President for Finance & Administration and Chief Financial Officer, The University of North Carolina&nbsp;System
+                            <span class="bog-single-title">
+                                Senior Vice President for Finance & Administration and Chief Financial Officer, The University of North Carolina&nbsp;System
+                            </span>
                         </p>
                     </div>
                 </div> <!-- end single -->
@@ -100,7 +112,9 @@ include $REL_DIR.$INCL_DIR."meta-living.php";
                         <p class="light">
                         <strong>Thomas F.&nbsp;Darden</strong>
                             <br>
-                            President and Chief Executive Officer, Cherokee Investment&nbsp;Partners
+                            <span class="bog-single-title">
+                                President and Chief Executive Officer, Cherokee Investment&nbsp;Partners
+                            </span>
                         </p>
                     </div>
                 </div> <!-- end single -->
@@ -111,7 +125,9 @@ include $REL_DIR.$INCL_DIR."meta-living.php";
                     <div>
                         <p class="light">
                         <strong><a href="https://www.rti.org/expert/e-wayne-holden" targer="_blank" style="color:#99B1C5">E. Wayne Holden,&nbsp;PhD</a></strong><br>
+                        <span class="bog-single-title">
                             President and CEO, RTI&nbsp;International
+                        </span>
                         </p>
                     </div>
                 </div> <!-- end single -->
@@ -123,7 +139,9 @@ include $REL_DIR.$INCL_DIR."meta-living.php";
                         <p class="light">
                         <strong>Robert A.&nbsp;Ingram</strong>
                             <br>
-                            General Partner, Hatteras Venture Partners; Former CEO,&nbsp;GlaxoWellcome
+                            <span class="bog-single-title">
+                                General Partner, Hatteras Venture Partners; Former CEO,&nbsp;GlaxoWellcome
+                            </span>
                         </p>
                     </div>
                 </div> <!-- end single -->
@@ -134,7 +152,9 @@ include $REL_DIR.$INCL_DIR."meta-living.php";
                     <div>
                         <p class="light">
                         <strong> Peter&nbsp;Lange</strong><br>
+                        <span class="bog-single-title">
                             Thomas&nbsp;A.&nbsp;Langford&nbsp;University Professor of Political Science and Public Policy, Provost Emeritus, Duke&nbsp;University
+                        </span>
                         </p>
                     </div>
                 </div> <!-- end single -->
@@ -146,7 +166,9 @@ include $REL_DIR.$INCL_DIR."meta-living.php";
                         <p class="light">
                         <strong>Terry&nbsp;Magnuson</strong>
                             <br>
-                            Vice Chancellor for Research, University of North Carolina at Chapel&nbsp;Hill
+                            <span class="bog-single-title">
+                                Vice Chancellor for Research, University of North Carolina at Chapel&nbsp;Hill
+                            </span>
                         </p>
                     </div>
                 </div> <!-- end single -->
@@ -157,8 +179,10 @@ include $REL_DIR.$INCL_DIR."meta-living.php";
                     <div>
                         <p class="light">
                         <strong>Harold L. Martin&nbsp;Sr.</strong><br>
+                        <span class="bog-single-title">
                             Chancellor, North Carolina A&T State&nbsp;University
-                        </p>
+                        </span>
+                    </p>
                     </div>
                 </div> <!-- end single -->
                 <div class="bog-single">
@@ -168,7 +192,9 @@ include $REL_DIR.$INCL_DIR."meta-living.php";
                     <div>
                         <p class="light">
                         <strong> W.G. Champion&nbsp;Mitchell</strong><br>
+                        <span class="bog-single-title">
                             Former CEO, Network&nbsp;Solutions
+                        </span>
                         </p>
                     </div>
                 </div> <!-- end single -->
@@ -179,7 +205,9 @@ include $REL_DIR.$INCL_DIR."meta-living.php";
                     <div>
                         <p class="light">
                         <strong>John H.&nbsp;Moellering</strong><br>
+                        <span class="bog-single-title">
                             Chairman Emeritus,&nbsp;USAA
+                        </span>
                         </p>
                     </div>
                 </div> <!-- end single -->
@@ -191,7 +219,9 @@ include $REL_DIR.$INCL_DIR."meta-living.php";
                         <p class="light">
                         <strong>William M. Moore&nbsp;Jr.</strong>
                             <br>
-                            Retired CEO, Trident Financial&nbsp;Corporation
+                            <span class="bog-single-title">
+                                Retired CEO, Trident Financial&nbsp;Corporation
+                            </span>
                         </p>
                     </div>
                 </div> <!-- end single -->
@@ -202,7 +232,9 @@ include $REL_DIR.$INCL_DIR."meta-living.php";
                     <div>
                         <p class="light">
                         <strong>Hilda&nbsp;Pinnix-Ragland</strong><br>
+                        <span class="bog-single-title">
                             Former Energy Executive, Duke Energy; Managing Director, AHK Global Resources,&nbsp;LLC
+                        </span>
                         </p>
                     </div>
                 </div> <!-- end single -->
@@ -214,7 +246,9 @@ include $REL_DIR.$INCL_DIR."meta-living.php";
                         <p class="light">
                         <strong>Peter M. Scott&nbsp;III&nbsp;(Chair)</strong>
                             <br>
-                            Former CFO, Progress Energy; Former President and CEO, Progress Energy Services&nbsp;Company
+                            <span class="bog-single-title">
+                                Former CFO, Progress Energy; Former President and CEO, Progress Energy Services&nbsp;Company
+                            </span>
                         </p>
                     </div>
                 </div> <!-- end single -->
@@ -225,7 +259,9 @@ include $REL_DIR.$INCL_DIR."meta-living.php";
                     <div>
                         <p class="light">
                             <strong>Christy&nbsp;Shaffer</strong><br>
-                            General Partner, Hatteras Venture&nbsp;Partners
+                            <span class="bog-single-title">
+                                General Partner, Hatteras Venture&nbsp;Partners
+                            </span>
                         </p>
                     </div>
                 </div> <!-- end single -->
