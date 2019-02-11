@@ -571,14 +571,12 @@
 }
 
 @media all and (max-height:1024px) { /* ipad and medium sized tables in portrait orientation */
-	body {
-		max-height:800px;
-	}
+	
 	.sectionBack {
-		top: 0px;
+		top: 227px;
 	}
 	.navContainer {
-		height: 617px;
+		height: 827px;
 	}
 }
 
