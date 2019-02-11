@@ -61,7 +61,7 @@
                     Allen W. Mangel</a><br>Executive Vice President, RTI Health Solutions and Discovery Sciences
                 </li>
                 <li> <a href="https://www.rti.org/expert/e-wayne-holden" target="_blank">
-                    E. Wayne Holden, PhD</a><br>President and CEO, RTI International
+                    E. Wayne Holden</a><br>President and CEO, RTI International
                 </li>
                 <li> <a href="https://www.rti.org/expert/james-j-gibson" target="_blank">
                     James J. Gibson</a><br>Executive Vice President and Chief Operating Officer
@@ -121,7 +121,7 @@
                 <li><strong>Larry&nbsp;Carin</strong>
                             <br>
                             Vice Provost of Research, Duke&nbsp;University</li>
-                <li><strong><a href="https://www.rti.org/expert/e-wayne-holden" targer="_blank" style="color:#99B1C5">E. Wayne Holden,&nbsp;PhD</a></strong><br>
+                <li><strong><a href="https://www.rti.org/expert/e-wayne-holden" targer="_blank" style="color:#99B1C5">E. Wayne Holden</a></strong><br>
                             President and CEO, RTI&nbsp;International</li>
                 <li><strong> Peter&nbsp;Lange</strong><br>
                             Thomas&nbsp;A.&nbsp;Langford&nbsp;University Professor of Political Science and Public Policy, Provost Emeritus, Duke&nbsp;University</li>
