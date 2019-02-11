@@ -273,7 +273,7 @@ h1, h2, h3, h4, p, a {
 }
 .landingPageMobile h3, .landingPage h3 {  
     color: #FFFFFF;
-    font-size: calc(24px + (45 - 24) * ((100vw - 45px) / (1600 - 375)));
+    font-size: calc(18px + (45 - 24) * ((100vw - 45px) / (1600 - 375)));
     font-weight: 300;
 }
 
