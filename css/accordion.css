@@ -23,7 +23,7 @@
     transition: transform .5s ease-in, -webkit-transform .5s ease-in;
     /* float: right; */
     cursor: pointer;
-    padding: 5px;
+    padding: 5px 0 5px 5px;
 }
 .acc-head {
     display: -webkit-box;
