@@ -3,8 +3,8 @@
 <title>Protecting the Planet | RTI 2018 Annual Report</title>
 
 </head>
-<body>
-<div class="container planet-back">
+<body class="planet-back">
+<div class="container">
 <div id="animBack"></div>
 	
 	
