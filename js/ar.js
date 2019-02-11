@@ -8,8 +8,6 @@ $(window).on("load",function() {
         return (results !== null) ? results[1] || 0 : false;
     }
     
-    console.log($.urlParam('ex')); 
-
     if($(".about-back").is(":visible") && $.urlParam('ex') == "y") {
         expandThisID = "section1";
         slideThis = "#section1Head";
