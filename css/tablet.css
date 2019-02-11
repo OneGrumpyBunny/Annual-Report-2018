@@ -546,7 +546,7 @@
 
 	.enhancing-health-page p, .keeping-people-safe-page p, .thrive-and-prosper-page p, .protecting-the-planet-page p{
 		color: #ffffff;
-		font-size:calc(12px + (20 - 14) * ((100vw - 350px) / (1600 - 375)));
+		font-size:calc(10px + (20 - 14) * ((100vw - 350px) / (1600 - 375)));
 	}
 	.thrive-and-prosper .regular, .living-our-mission .regular, .enhancing-health .regular,.keeping-people-safe .regular, .protecting-the-planet .regular{
 		white-space: nowrap;
