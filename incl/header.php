@@ -18,6 +18,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <!-- <meta description="Annual Report 2018"> -->
     
+    <link rel="shortcut icon" href="/2018/img/favicon.png" type="image/png" />
+
     <link rel="stylesheet" href="https://use.typekit.net/vxh7raq.css">
     <link rel='stylesheet' href='<?php echo $REL_DIR.$CSS_DIR ?>normalize.css' />
     <link rel='stylesheet' href='<?php echo $REL_DIR.$CSS_DIR ?>styles.css' />
