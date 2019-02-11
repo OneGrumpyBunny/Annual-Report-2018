@@ -135,9 +135,9 @@
             <h2>Board of Governors</h2>
             <div class="bog-flex">
                 <div class="bog-single">
-                    <div>
+                    
                         <img src="img/peter_scott.jpg" class="bog-img">    
-                    </div>
+                    
                     <div>
                         <p class="light">
                         <strong>Peter M. Scott&nbsp;III&nbsp;(Chair)</strong>
@@ -147,9 +147,9 @@
                     </div>
                 </div> <!-- end single -->
                 <div class="bog-single">
-                    <div>
+                    
                     <img src="img/thomas_darden.jpg" class="bog-img"> 
-                    </div>
+                    
                     <div>
                         <p class="light">
                         <strong>Thomas F.&nbsp;Darden</strong>
@@ -159,9 +159,9 @@
                     </div>
                 </div> <!-- end single -->
                 <div class="bog-single">
-                    <div>
+                    
                         <img src="img/robert_ingram.jpg" class="bog-img">  
-                    </div>
+                    
                     <div>
                         <p class="light">
                         <strong>Robert A.&nbsp;Ingram</strong>
@@ -171,9 +171,9 @@
                     </div>
                 </div> <!-- end single -->
                 <div class="bog-single">
-                    <div>
+                    
                         <img src="img/terry_magnuson.jpg" class="bog-img">      
-                    </div>
+                    
                     <div>
                         <p class="light">
                         <strong>Terry&nbsp;Magnuson</strong>
@@ -183,9 +183,9 @@
                     </div>
                 </div> <!-- end single -->
                 <div class="bog-single">
-                    <div>
+                    
                         <img src="img/champion_mitchell.jpg" class="bog-img">      
-                    </div>
+                    
                     <div>
                         <p class="light">
                         <strong> W.G. Champion&nbsp;Mitchell</strong><br>
@@ -194,9 +194,9 @@
                     </div>
                 </div> <!-- end single -->
                 <div class="bog-single">
-                    <div>
+                    
                         <img src="img/william_moore.jpg" class="bog-img">      
-                    </div>
+                    
                     <div>
                         <p class="light">
                         <strong>William M. Moore&nbsp;Jr.</strong>
@@ -206,9 +206,9 @@
                     </div>
                 </div> <!-- end single -->
                 <div class="bog-single">
-                    <div>
+                    
                         <img src="img/alan_rebar.jpg" class="bog-img">      
-                    </div>
+                    
                     <div>
                         <p class="light">
                         <strong>Alan H.&nbsp;Rebar</strong>
@@ -218,9 +218,9 @@
                     </div>
                 </div> <!-- end single -->
                 <div class="bog-single">
-                    <div>
+                    
                         <img src="img/clinton_carter.jpg" class="bog-img">      
-                    </div>
+                    
                     <div>
                         <p class="light">
                         <strong>Clinton P.&nbsp;Carter</strong>
@@ -230,9 +230,9 @@
                     </div>
                 </div> <!-- end single -->
                 <div class="bog-single">
-                    <div>
+                    
                         <img src="img/larry_carin.jpg" class="bog-img">      
-                    </div>
+                   
                     <div>
                         <p class="light">
                         <strong>Larry&nbsp;Carin</strong>
@@ -242,9 +242,9 @@
                     </div>
                 </div> <!-- end single -->
                 <div class="bog-single">
-                    <div>
+                    
                         <img src="img/wayne_holden.jpg" class="bog-img">      
-                    </div>
+                    
                     <div>
                         <p class="light">
                         <strong><a href="https://www.rti.org/expert/e-wayne-holden" targer="_blank" style="color:#99B1C5">E. Wayne Holden,&nbsp;PhD</a></strong><br>
@@ -253,9 +253,9 @@
                     </div>
                 </div> <!-- end single -->
                 <div class="bog-single">
-                    <div>
+                    
                         <img src="img/peter_lange.jpg" class="bog-img">      
-                    </div>
+                    
                     <div>
                         <p class="light">
                         <strong> Peter&nbsp;Lange</strong><br>
@@ -264,9 +264,9 @@
                     </div>
                 </div> <!-- end single -->
                 <div class="bog-single">
-                    <div>
+                   
                         <img src="img/harold_martin.jpg" class="bog-img">      
-                    </div>
+                    
                     <div>
                         <p class="light">
                         <strong>Harold L. Martin&nbsp;Sr.</strong><br>
@@ -275,9 +275,9 @@
                     </div>
                 </div> <!-- end single -->
                 <div class="bog-single">
-                    <div>
+                    
                         <img src="img/john_moellering.jpg" class="bog-img">      
-                    </div>
+                    
                     <div>
                         <p class="light">
                         <strong>John H.&nbsp;Moellering</strong><br>
@@ -286,9 +286,9 @@
                     </div>
                 </div> <!-- end single -->
                 <div class="bog-single">
-                    <div>
+                    
                         <img src="img/hilda_pinnix_ragland.jpg" class="bog-img">      
-                    </div>
+                    
                     <div>
                         <p class="light">
                         <strong>Hilda&nbsp;Pinnix-Ragland</strong><br>
@@ -297,9 +297,9 @@
                     </div>
                 </div> <!-- end single -->
                 <div class="bog-single">
-                    <div>
+                    
                         <img src="img/christy_shaffer.jpg" class="bog-img">      
-                    </div>
+                    
                     <div>
                         <p class="light">
                             <strong>Christy&nbsp;Shaffer</strong><br>

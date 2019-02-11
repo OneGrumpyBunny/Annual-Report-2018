@@ -464,7 +464,10 @@
     -webkit-box-pack: space-evenly;
     -ms-flex-pack: space-evenly;
     justify-content: space-evenly;
-		width: 180%;
+		width: 110%;
+	}
+	.bog-flex h2 {
+		font-size: 1.3rem;
 	}
 	.bog-single-corp {
     padding: 0rem 1rem;
@@ -477,5 +480,7 @@
 	}
 	.bog-img {
     max-width: 100%;
+    width: 72%;
+    margin: 0 15%;
 	}
 }
