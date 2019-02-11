@@ -3,8 +3,8 @@
 <title>2018 Annual Report | RTI</title>
 
 </head>
-<body>
-<div class="container about-back">
+<body class="about-back">
+<div class="container">
 <div id="animBack"></div>
 	
 	

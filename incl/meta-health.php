@@ -3,8 +3,8 @@
 <title>Enhancing Health | RTI 2018 Annual Report</title>
 
 </head>
-<body>
-<div class="container enhancing-back">
+<body class="enhancing-back">
+<div class="container">
 <div id="animBack"></div>
 	
 	

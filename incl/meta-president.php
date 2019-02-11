@@ -3,8 +3,8 @@
 <title>Message From the President | RTI 2018 Annual Report</title>
 
 </head>
-<body>
-<div class="container about-back">
+<body class="about-back">
+<div class="container">
 <div id="animBack"></div>
 	
 	

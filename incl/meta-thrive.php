@@ -3,8 +3,8 @@
 <title>Helping Regions Thrive and Prosper | RTI 2018 Annual Report</title>
 
 </head>
-<body>
-<div class="container thrive-back">
+<body class="thrive-back">
+<div class="container">
 <div id="animBack"></div>
 	
 	
