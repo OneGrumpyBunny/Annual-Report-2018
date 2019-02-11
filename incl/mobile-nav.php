@@ -8,7 +8,7 @@
 			<span class="side-border aboutNav"></span>
 			<span class="side-line" id="about"></span>
 			<p id="section-1" class="nav-item">
-				2018<br>Annual Report
+				About RTI<br>in 2018
 				</p>
 		</div>
 		<div class="nav-link healthLink">

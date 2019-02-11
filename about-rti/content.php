@@ -15,11 +15,11 @@
 				<p>A Message from our President</p><i class="fas fa-chevron-down crc-chevron" data-section="section1"></i>
 			</div>
 			<div id="section1" data-section="section1" class="acc-body">
-				<p>This year, RTI International marked a significant milestone as we began celebrating 60 years of living our mission. As I look back over the institute’s trajectory since 1958, I can see clearly how our commitment to improving the human condition has formed a bedrock for immense positive impact around the world. </p>
+				<p>This year, RTI International marked a significant milestone as we began celebrating 60 years of living our mission. As I look back over the institute’s trajectory since 1958, I can see clearly how our commitment to improving the human condition has formed a bedrock for immense positive impact around the world.  </p>
 
 				<p>In 2018, we made great strides in research that improves people’s health and safeguards schools and communities. We supported efforts to advance education and bolster economic stability in developing nations. We explored science-based solutions to enable responsible stewardship of our planet. And because the commitment to living our mission runs deep, we donated significant time and resources in partnership with charitable and community organizations around the world. </p>
 
-				<p>Moreover, this was one of the most successful years in our history. We pursued strategic business collaborations, spun out a new venture company, and set a record for staff contributions to scientific stature. We also opened the doors to Horizon, our new headquarters building in Research Triangle Park, NC, where creative ideas and cross-institute partnerships unfold every day. </p>
+				<p>Moreover, this was one of the most successful years in our history. We pursued strategic business collaborations, spun out a new venture company, and set a record for staff contributions to scientific stature. We also opened the doors to Horizon, our new headquarters building in Research Triangle Park, NC, where creative ideas and cross-institute partnerships unfold every day.</p>
 
 				<p>With a stellar year behind us, it is exciting to look ahead and imagine where our work will take us. I am proud of our 2018 accomplishments and, more important, our people, who live RTI’s mission every day to make the world a better place. </p>
 
@@ -42,8 +42,38 @@
 				<p>Meet RTI's Executive Leadership</p><i class="fas fa-chevron-down crc-chevron" data-section="section3"></i>
 			</div>
 			<div id="section3" data-section="section3" class="acc-body">
-				<p></p>
-				<p class="readmore"><a href="">READ MORE </a>
+				<p>Pictured from Left to Right: Lisa May, Paul Weisenfeld, Michael Kaelin, Tim Gabel, Allen Mangel, Wayne Holden, James Gibson, Teena Piccione, and Edward Story.</p>
+
+			<ul id="elt-list">
+                <li> <a href="https://www.rti.org/expert/e-wayne-holden" target="_blank">
+                    E. Wayne Holden, PhD</a> President and CEO, RTI International
+                </li>
+                <li> <a href="https://www.rti.org/expert/james-j-gibson" target="_blank">
+                    James J. Gibson</a> Executive Vice President and Chief Operating Officer
+                </li>
+                <li> <a href="https://www.rti.org/expert/tim-gabel" target="_blank">
+                    Tim J. Gabel</a> Executive Vice President, Social, Statistical, and Environmental Sciences 
+                </li>
+                <li> <a href="https://www.rti.org/expert/paul-weisenfeld" target="_blank">
+                    Paul Weisenfeld</a> Executive Vice President, International Development
+                </li>
+                <li> <a href="https://www.rti.org/expert/allen-w-mangel" target="_blank">
+                    Allen W. Mangel</a> Executive Vice President, RTI Health Solutions and Discovery Sciences
+                </li>
+                <li> <a href="https://www.rti.org/expert/michael-h-kaelin-jr" target="_blank">
+                    Michael H. Kaelin, Jr.</a> Executive Vice President and Chief Financial Officer
+                </li>
+                <li> <a href="https://www.rti.org/expert/teena-piccione" target="_blank">
+                    Teena W. Piccione</a> Executive Vice President and Chief Information Officer
+                </li>
+                <li> <a href="https://www.rti.org/expert/lisa-may" target="_blank">
+                    Lisa May</a> Executive Vice President, Human Resources and Corporate Communications
+                </li>
+                <li> <a href="https://www.rti.org/expert/g-edward-story" target="_blank">
+                    G. Edward Story</a> Executive Vice President, General Counsel & Corporate Secretary
+                </li>
+            </ul>
+				<p class="readmore"><!--<a href="">READ MORE </a>-->
 				<button style="float:right;" class="crc-close3 close" data-section="section3"><!--<i class="fas fa-times"></i>-->Close</i></button></p>
 			</div>
 
