@@ -322,8 +322,8 @@
 		        justify-content: space-evenly;
 	}
 	.footer-text .text p{
-		line-height:calc(12px + (20 - 15) * ((100vw - 200px) / (1600 - 375)));
-		font-size: calc(11px + (20 - 15) * ((100vw - 200px) / (1600 - 375)));
+		line-height:calc(9px + (20 - 15) * ((100vw - 200px) / (1600 - 375)));
+		font-size: calc(8px + (20 - 15) * ((100vw - 200px) / (1600 - 375)));
 		color:#898989;
 		text-align: justify;
 		-ms-flex-item-align: center;
@@ -531,7 +531,7 @@
 	.enhancing-health-page h2, .keeping-people-safe-page h2, .thrive-and-prosper-page h2, .protecting-the-planet-page h2{
 		color:#EFDCB0;
 		margin:0;
-		font-weight: 400;
+		font-weight: 350;
 		font-size: calc(22px + (25 - 24) * ((100vw - 350px) / (1600 - 375)));
 		line-height: 25px;
 	}
