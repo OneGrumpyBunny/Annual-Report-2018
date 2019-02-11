@@ -606,9 +606,9 @@
 }
 
 @media all and (min-width:768px) { /* landscape orientation for tablets */
-	#animBack2 {
+	/*#animBack2 {
 		display:none;
-	}
+	}*/
 }
 
 /* landing page 
