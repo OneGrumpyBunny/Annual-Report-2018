@@ -308,7 +308,8 @@
 		border-right: 3px solid #fff;
     height: 27px;
     margin: 0 -27px;
-    font-size: 1.2rem;
+		font-size: 1.2rem;
+		opacity:1;
   }
   #pull i {
 		color:#fff;
@@ -417,7 +418,7 @@
 	#elt-list{
     list-style-type: none;
     border-left: 0px solid transparent;
-    margin-left: -2rem;
+    margin-left: .5rem;
 		-webkit-margin-before: 0rem;
 		        margin-block-start: 0rem;
 		-webkit-margin-after: 0rem;
@@ -450,5 +451,31 @@
 	}
 	#elt-img{
 		max-width: 100%;
+	}
+
+	.bog-flex {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-orient: horizontal;
+    -webkit-box-direction: normal;
+    -ms-flex-flow: row wrap;
+    flex-flow: row wrap;
+    -webkit-box-pack: space-evenly;
+    -ms-flex-pack: space-evenly;
+    justify-content: space-evenly;
+		width: 180%;
+	}
+	.bog-single-corp {
+    padding: 0rem 1rem;
+    -ms-flex-item-align: stretch;
+    -ms-grid-row-align: stretch;
+    align-self: stretch;
+    -webkit-box-flex: 0;
+    -ms-flex: 0 1 25%;
+    flex: 0 1 25%;
+	}
+	.bog-img {
+    max-width: 100%;
 	}
 }
