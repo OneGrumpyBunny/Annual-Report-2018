@@ -1,14 +1,4 @@
-@media all and (max-height:1024px) { /* ipad and medium sized tables in portrait orientation */
-	body {
-		max-height:800px;
-	}
-	.sectionBack {
-		top: 0px;
-	}
-	.navContainer {
-		height: 617px;
-	}
-}
+
 
 @media all and (min-width:415px) {
 	header {
@@ -578,6 +568,18 @@
 	.protecting-the-planet .regular{
 		white-space: nowrap;
 	} */
+}
+
+@media all and (max-height:1024px) { /* ipad and medium sized tables in portrait orientation */
+	body {
+		max-height:800px;
+	}
+	.sectionBack {
+		top: 0px;
+	}
+	.navContainer {
+		height: 617px;
+	}
 }
 
 /* landing page 
