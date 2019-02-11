@@ -23,12 +23,12 @@ include $REL_DIR.$INCL_DIR."meta-living.php";
             <div id="elt-img-box">
                     <img src="img/elt-photo.jpg" id="elt-img">
                 <p class="light">
-                    Pictured from Left to Right: Lisa May, Paul Weisenfeld, Michael Kaelin, Tim Gabel, Allen Mangel, Wayne Holden, James Gibson, Teena Piccione, and Edward&nbsp;Story.
+                    Pictured from left to right: Lisa May, Paul Weisenfeld, Michael Kaelin, Tim Gabel, Allen Mangel, Wayne Holden, James Gibson, Teena Piccione, and Edward&nbsp;Story.
                 </p>
             </div>
             <ul id="elt-list">
                 <li> <a href="https://www.rti.org/expert/e-wayne-holden" target="_blank">
-                    E. Wayne Holden, PhD</a> President and CEO, RTI International
+                    E. Wayne Holden</a> President and CEO, RTI International
                 </li>
                 <li> <a href="https://www.rti.org/expert/james-j-gibson" target="_blank">
                     James J. Gibson</a> Executive Vice President and Chief Operating Officer
@@ -58,7 +58,7 @@ include $REL_DIR.$INCL_DIR."meta-living.php";
         </div>
         <div>
             <ul>
-                <li><a href="message-from-president.php">A Message from our President</a></li>
+                <li><a href="message-from-president.php">A Message from Our President</a></li>
                 <li><a href="at-a-glance.php">RTI at a Glance</a></li>
                 <li class="active"><!--<a href="executive-leadership.php">-->Meet RTI's Executive Leadership<!--</a>--></li>
                 <li><a href="board-of-governors.php">Meet RTI's Board of Governors</a></li>
