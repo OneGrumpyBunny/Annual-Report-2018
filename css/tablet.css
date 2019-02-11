@@ -332,8 +332,8 @@
 		        justify-content: space-evenly;
 	}
 	.footer-text .text p{
-		line-height: 15px;
-		font-size: 14px;
+		line-height:calc(12px + (20 - 15) * ((100vw - 200px) / (1600 - 375)));
+		font-size: calc(11px + (20 - 15) * ((100vw - 200px) / (1600 - 375)));
 		color:#898989;
 		text-align: justify;
 		-ms-flex-item-align: center;
