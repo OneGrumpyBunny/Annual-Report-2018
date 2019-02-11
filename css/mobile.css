@@ -443,6 +443,7 @@
 		color: #99B1C5;
 		display: block;
 		opacity:1;
+		margin-bottom: -.5rem;
 	}
 	#elt-list li{
     font-size: calc(12px + (18 - 12) * ((100vw - 350px) / (1600 - 450)));
