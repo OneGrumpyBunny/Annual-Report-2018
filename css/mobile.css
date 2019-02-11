@@ -442,6 +442,7 @@
 	#elt-list a{
 		color: #99B1C5;
 		display: block;
+		opacity:1;
 	}
 	#elt-list li{
     font-size: calc(12px + (18 - 12) * ((100vw - 350px) / (1600 - 450)));
@@ -466,7 +467,7 @@
     justify-content: space-evenly;
 		width: 110%;
 	}
-	.bog-flex h2 {
+	.acc-body h2 {
 		font-size: 1.3rem;
 	}
 	.bog-single-corp {
