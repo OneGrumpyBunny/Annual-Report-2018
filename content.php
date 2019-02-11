@@ -17,7 +17,7 @@
 					<h2 style="letter-spacing: 5px;">our mission</h2>
 					<h3 style="letter-spacing: 1px;">2018 annual report</h3>
 				</div>
-				<div><a href="about-rti/message-from-president.php" class="yellowlink light">A Message from the<br>President of RTI</a><br><br><a href="about-rti/" class="light">Read More</a></div>
+				<div><a href="/2018/about-rti/message-from-president.php" class="yellowlink light">A Message from the<br>President of RTI</a><br><br><a href="/2018/about-rti/" class="light">Read More</a></div>
 			</div>
 		</div>
 		<!-- hidden on mobile -->

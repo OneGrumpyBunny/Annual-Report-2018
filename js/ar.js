@@ -30,7 +30,7 @@ $(window).on("load",function() {
     /*$(".navBox").addClass("navBoxAnim");*/
 });
 
-var relPath = ""
+var relPath = "/2018/"
 $(document).ready(function() {
 		$(".about").click(function() {
 			window.location.href=relPath + "about-rti/";
