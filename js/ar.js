@@ -1,51 +1,42 @@
 
 
 $(window).on("load",function() {
-/*var backOn = 0;
-	if ($(".living-our-mission").is(":visible")) {
-		$(".container").addClass("living-back");
-		backOn = 1;
-	}
-	if ($(".enhancing-health").is(":visible")) {
-        $(".container").addClass("enhancing-back");
-		backOn = 1;
-	}
-	if ($(".keeping-people-safe").is(":visible")) {
-		$(".container").addClass("safe-back");
-		backOn = 1;
-	}
-	if ($(".thrive-and-prosper").is(":visible")) {
-		$(".container").addClass("thrive-back");
-		backOn = 1;
-	}
-	if ($(".protecting-the-planet").is(":visible")) {
-		$(".container").addClass("planet-back");
-		backOn = 1;
-	}
-	if (backOn == 0) {
-		$(".container").addClass("home-back");
-    }*/
-    /*$(".landingPage").addClass('landingPageAnim');*/
+    $.urlParam = function (name) {
+        var results = new RegExp('[\?&]' + name + '=([^&#]*)')
+            .exec(window.location.search);
     
-    /*$(".navBox").addClass("navBoxAnim");*/
+        return (results !== null) ? results[1] || 0 : false;
+    }
+    
+    console.log($.urlParam('ex')); 
+
+    if($(".about-back").is(":visible") && $.urlParam('ex') == "y") {
+        expandThisID = "section1";
+        slideThis = "#section1Head";
+        chevron = $('i[data-section=section1');
+    
+        /* toggle clicked accordian and slide it into position*/
+
+        toggleACC(chevron,expandThisID);   
+    }
 });
 
-var relPath = "/dev"
+var relPath = "/dev/"
 $(document).ready(function() {
 		$(".about").click(function() {
-			window.location.href=relPath + "/about-rti/";
+			window.location.href=relPath + "about-rti/";
 		});
 		$(".health").click(function() {
-			window.location.href=relPath + "/enhancing-health-through-science-and-practice/";
+			window.location.href=relPath + "enhancing-health-through-science-and-practice/";
 		});
 		$(".safe").click(function() {
-			window.location.href=relPath + "/keeping-people-safe/";
+			window.location.href=relPath + "keeping-people-safe/";
 		});
 		$(".thrive").click(function() {
-			window.location.href=relPath + "/helping-regions-thrive-and-prosper/";
+			window.location.href=relPath + "helping-regions-thrive-and-prosper/";
 		});
 		$(".planet").click(function() {
-			window.location.href=relPath + "/protecting-the-planet/";
+			window.location.href=relPath + "protecting-the-planet/";
 		});
 
     /* mouseenter actions - these will be consolidated into one function */

@@ -4,19 +4,19 @@ function pageJump (thisLink) {
     // activate link
     
     if (thisLink.hasClass("aboutLink")) {
-			window.location.href=relPath + "/about-rti/";
+			window.location.href=relPath + "about-rti/";
     }
     if (thisLink.hasClass("healthLink")) {
-			window.location.href=relPath + "/enhancing-health-through-science-and-practice/";
+			window.location.href=relPath + "enhancing-health-through-science-and-practice/";
 		}
 		if (thisLink.hasClass("safeLink")) {
-			window.location.href=relPath + "/keeping-people-safe/";
+			window.location.href=relPath + "keeping-people-safe/";
 		}
 		if (thisLink.hasClass("thriveLink")) {
-			window.location.href=relPath + "/helping-regions-thrive-and-prosper/";
+			window.location.href=relPath + "helping-regions-thrive-and-prosper/";
 		}
 		if (thisLink.hasClass("planetLink")) {
-			window.location.href=relPath + "/protecting-the-planet/";
+			window.location.href=relPath + "protecting-the-planet/";
 		}
   } else {
     // do nothing
