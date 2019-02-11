@@ -15,7 +15,7 @@
 				<p>A Message from Our President</p><i class="fas fa-chevron-down crc-chevron" data-section="section1"></i>
 			</div>
 			<div id="section1" data-section="section1" class="acc-body">
-				<p>This year, RTI International marked a significant milestone as we began celebrating 60 years of living our mission. As I look back over the institute’s trajectory since 1958, I can see clearly how our commitment to improving the human condition has formed a bedrock for immense positive impact around the world.  </p>
+				<p><img src="img/president-photo-mob.png" class="president-mob">This year, RTI International marked a significant milestone as we began celebrating 60 years of living our mission. As I look back over the institute’s trajectory since 1958, I can see clearly how our commitment to improving the human condition has formed a bedrock for immense positive impact around the world.  </p>
 
 				<p>In 2018, we made great strides in research that improves people’s health and safeguards schools and communities. We supported efforts to advance education and bolster economic stability in developing nations. We explored science-based solutions to enable responsible stewardship of our planet. And because the commitment to living our mission runs deep, we donated significant time and resources in partnership with charitable and community organizations around the world. </p>
 
