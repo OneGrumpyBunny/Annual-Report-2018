@@ -33,7 +33,7 @@
 				<p>RTI at a Glance</p><i class="fas fa-chevron-down crc-chevron" data-section="section2"></i>
 			</div>
 			<div id="section2" data-section="section2" class="acc-body">
-				<p><img src="img/at-a-glance-back.png" style="width:100%;"></p>
+				<p><img src="img/AtaGlanceMobile-01.png" style="width:100%;"></p>
 				<p class="readmore"><a href="">READ MORE </a>
 				<button style="float:right;" class="crc-close2 close" data-section="section2"><!--<i class="fas fa-times"></i>-->Close</button></p>
 			</div>
