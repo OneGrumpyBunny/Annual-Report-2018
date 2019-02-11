@@ -5,6 +5,7 @@
 </head>
 <body class="about-back">
 <div class="container">
+<img src="img/living-our-mission-back.png" class="sectionBack">
 <div id="animBack"></div>
 	
 	
