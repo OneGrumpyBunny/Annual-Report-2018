@@ -32,6 +32,7 @@ include $REL_DIR.$INCL_DIR."meta-living.php";
                 <li class="active"><!--<a href="at-a-glance.php">-->RTI at a Glance<!--</a>--></li>
                 <li><a href="executive-leadership.php">Meet RTI's Executive Leadership</a></li>
                 <li class="active"><a href="board-of-governors.php">Meet RTI's Board of Governors</a></li>
+                <li><a href="/">Home</a></li>
             </ul>
         </div>
 
