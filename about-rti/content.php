@@ -309,7 +309,7 @@
                 </div> <!-- end single -->
 
             </div><!-- end flex -->
-				<p class="readmore"><a href="">READ MORE </a>
+				<p class="readmore"><!--<a href="">READ MORE </a>-->
 				<button style="float:right;" class="crc-close4 close" data-section="section4"><!--<i class="fas fa-times"></i>-->Close</i></button></p>
 			</div>
 
