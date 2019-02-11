@@ -372,8 +372,8 @@
 		    -ms-grid-row-align: stretch;
 		    align-self: stretch;
 		-webkit-box-flex: 0;
-		    -ms-flex: 0 1 33%;
-		        flex: 0 1 33%;
+		    -ms-flex: 0 1 25%;
+		        flex: 0 1 25%;
 	}
 	.bog-single-corp{
 		padding: 0rem 1rem;
@@ -383,6 +383,10 @@
 		-webkit-box-flex: 0;
 		    -ms-flex: 0 1 25%;
 		        flex: 0 1 25%;
+	}
+	.light .bog-single-title{
+		font-size:calc(6px + (20 - 14) * ((100vw - 350px) / (1600 - 375)));
+		line-height:calc(3px + (20 - 14) * ((100vw - 350px) / (1600 - 375)));
 	}
 	.bog-single div:first-of-type, .bog-single-corp div:first-of-type{
 		padding: 0rem 1rem;
