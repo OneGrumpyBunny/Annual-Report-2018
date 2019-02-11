@@ -1,9 +1,9 @@
 
   function slideACC () {
     if ($("section").parent().attr("class") == "innerContainerMob thriveMob") {
-       divPosition = 200;  // thriveMob header is longer
+       divPosition = 180;  // thriveMob header is longer
     } else {
-        divPosition = 175;
+        divPosition = 150;
     }
     console.log("sliding to " + divPosition)
     $('html, body').animate({
@@ -83,7 +83,7 @@ $(document).ready(function() {
 
 $(window).scroll(function () {
   if ($(window).scrollTop() > 0) {
-    $(".fixed-header").css("background","rgba(0,0,0,0.5)");
+    $(".fixed-header").css("background","rgb(14, 24, 36)");
   } else {
     $(".fixed-header").css("background","transparent");
   }

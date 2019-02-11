@@ -9,4 +9,13 @@ $(window).on("load", function() {
         path: '/dev/data.json'
         });
     }
+    if ($(".landing-back").is(":visible")) { 
+        var animation2 = lottie.loadAnimation({
+        container: document.getElementById('animBack2'),
+        renderer: 'svg',
+        loop: true,
+        autoplay: true,
+        path: '/dev/data.json'
+        });
+    }
 });

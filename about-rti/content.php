@@ -34,7 +34,7 @@
 			</div>
 			<div id="section2" data-section="section2" class="acc-body">
 				<p><img src="img/AtaGlanceMobile-01.png" style="width:100%;"></p>
-				<p class="readmore"><a href="">READ MORE </a>
+				<p class="readmore"><!--<a href="">READ MORE </a>-->
 				<button style="float:right;" class="crc-close2 close" data-section="section2"><!--<i class="fas fa-times"></i>-->Close</button></p>
 			</div>
 

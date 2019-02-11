@@ -196,7 +196,7 @@
 		-ms-flex-item-align: stretch;
 		    align-self: stretch;
 		height: 100%;
-		margin: 0.8rem 0;
+		margin: .4rem 0;
 		/*max-height: 16%;*/
 	}
 	
@@ -314,7 +314,7 @@
 		cursor: pointer;
 		border-right: 3px solid #fff;
     height: 27px;
-    margin: 0 -27px;
+		margin: 0 -12px;
 		font-size: 1.2rem;
 		opacity:1;
   }
