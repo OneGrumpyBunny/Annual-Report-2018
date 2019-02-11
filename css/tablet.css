@@ -1,3 +1,5 @@
+
+
 @media all and (min-width:415px) {
 	header {
 		display:none;
@@ -566,6 +568,16 @@
 	.protecting-the-planet .regular{
 		white-space: nowrap;
 	} */
+}
+
+@media all and (max-height:1024px) { /* ipad and medium sized tables in portrait orientation */
+	/*
+	.sectionBack {
+		top: 227px;
+	}
+	.navContainer {
+		height: 827px;
+	}*/
 }
 
 /* landing page 

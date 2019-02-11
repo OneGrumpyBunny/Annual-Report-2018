@@ -86,11 +86,9 @@
 	.landingMob {
 		margin-top: 3rem;
 	}
-	.section {
-		position: absolute;
-    height: 100vh;
-    /* width: 100vw; */
-    z-index: 1;
+	section {
+		z-index: 1;
+		/*width: 82vw;*/
 
 	}
 	.logo {
@@ -388,14 +386,14 @@
 	}
 	
 	.safe-back {
-		background: url('../keeping-people-safe/img/keeping-people-safe-back.png');
+		background: url('../keeping-people-safe/img/keeping-people-safe-back-mob.png');
     height: 100vh;
     background-size: cover;
     background-position: bottom center;
     background-attachment: fixed;
 	}
 	.thrive-back {
-		background: url('../helping-regions-thrive-and-prosper/img/thrive-and-prosper-back.png');
+		background: url('../helping-regions-thrive-and-prosper/img/thrive-and-prosper-back-mob.png');
     height: 100vh;
     background-size: cover;
     background-position: bottom center;
