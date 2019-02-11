@@ -571,13 +571,13 @@
 }
 
 @media all and (max-height:1024px) { /* ipad and medium sized tables in portrait orientation */
-	
+	/*
 	.sectionBack {
 		top: 227px;
 	}
 	.navContainer {
 		height: 827px;
-	}
+	}*/
 }
 
 /* landing page 
