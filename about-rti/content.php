@@ -12,7 +12,7 @@
 		<p class="headerText">At RTI International, our work is driven by scientific rigor, objective research, and technical expertise. </p><p class="headerText hideMore">But the underlying force that propels us forward is an unwavering commitment to our mission: improving the human condition by turning knowledge into practice. Together, we explore new ideas and seek solutions to critical issues facing people everywhere. In our 2018 annual report, we invite you to learn how we are living our mission as we strive to deliver the promise of science for global good.</p><p><span class="readmore expand">READ MORE</span><br><span class="readmore collapse hide">READ LESS</span></p>
 		<section>
 			<div id="section1Head" class="acc-head" data-section="section1">
-				<p>A Message from our President</p><i class="fas fa-chevron-down crc-chevron" data-section="section1"></i>
+				<p>A Message from Our President</p><i class="fas fa-chevron-down crc-chevron" data-section="section1"></i>
 			</div>
 			<div id="section1" data-section="section1" class="acc-body">
 				<p><img src="img/president-photo-mob.png" class="president-mob">This year, RTI International marked a significant milestone as we began celebrating 60 years of living our mission. As I look back over the institute’s trajectory since 1958, I can see clearly how our commitment to improving the human condition has formed a bedrock for immense positive impact around the world.  </p>
@@ -325,10 +325,11 @@
 				<h1>About RTI</h1>
 				<p class="light">At RTI International, our work is driven by scientific rigor, objective research, and technical expertise. But the underlying force that propels us forward is an unwavering commitment to our mission: improving the human condition by turning knowledge into practice. Together, we explore new ideas and seek solutions to critical issues facing people everywhere. In our 2018 annual report, we invite you to learn how we are living our mission as we strive to deliver the promise of science for global good.</p>
 				<ul>
-					<li><a href="message-from-president.php">A Message from our President</a></li>
+					<li><a href="message-from-president.php">A Message from Our President</a></li>
 					<li><a href="at-a-glance.php">RTI at a Glance</a></li>
 					<li><a href="executive-leadership.php">Meet RTI's Executive Leadership</a></li>
 					<li><a href="board-of-governors.php">Meet RTI's Board of Governors</a></li>
+                    <li><a href="/">2018 Annual Report Home</a></li>
             	</ul>
 			</div>
 			<div>

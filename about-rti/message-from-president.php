@@ -16,7 +16,7 @@ include $REL_DIR.$INCL_DIR."meta-president.php";
 
         <div>
             <a href="http://www.rti.org"><img src="../img/RTI_w_1in.png" class="logo"></a>
-            <h1>A Message from our President</h1>
+            <h1>A Message from Our President</h1>
             <!-- <h2>Decisions delayed; employment choices made based on the cost of education</h2> -->
             <p class="light" style="width: 130%">This year, RTI International marked a significant milestone as we began celebrating 60 years of living our mission. As I look back over the institute’s trajectory since 1958, I can see clearly how our commitment to improving the human condition has formed a bedrock for immense positive impact around the&nbsp;world. <br><br>
             In 2018, we made great strides in research that improves people’s health and safeguards schools and communities. We supported efforts to advance education and bolster economic stability in developing nations. We explored science-based solutions to enable responsible stewardship of our planet. And because the commitment to living our mission runs deep, we donated significant time and resources in partnership with charitable and community organizations around the&nbsp;world. <br><br>
@@ -29,10 +29,11 @@ include $REL_DIR.$INCL_DIR."meta-president.php";
         <div>
             <!-- <p class="regular">Learn more about how we are helping regions thrive and prosper:</p> -->
             <ul>
-                <li class="active"><!--<a href="message-from-president.php">-->A Message from our President<!--</a>---></li>
+                <li class="active"><!--<a href="message-from-president.php">-->A Message from Our President<!--</a>---></li>
                 <li><a href="at-a-glance.php">RTI at a Glance</a></li>
                 <li><a href="executive-leadership.php">Meet RTI's Executive Leadership</a></li>
                 <li><a href="board-of-governors.php">Meet RTI's Board of Governors</a></li>
+                <li><a href="/">2018 Annual Report Home</a></li>
             </ul>
         </div>
 
