@@ -124,10 +124,10 @@ include $REL_DIR.$INCL_DIR."meta-living.php";
                     </div>
                     <div>
                         <p class="light">
-                        <strong>E. Wayne Holden</strong><br>
-                        <span class="bog-single-title">
-                            President and CEO, RTI&nbsp;International
-                        </span>
+                            <strong>E. Wayne Holden</strong><br>
+                            <span class="bog-single-title">
+                                President and CEO, RTI&nbsp;International
+                            </span>
                         </p>
                     </div>
                 </div> <!-- end single -->
