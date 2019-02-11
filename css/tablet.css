@@ -418,6 +418,7 @@
 		margin-top: -4rem;
 		white-space: nowrap;
 		letter-spacing: calc(4px + (4 - 4) * ((100vw - 100px) / (1600 - 450)));
+		text-align:center;
 	}
 	.landingPage h2 {
 		color: #FFFFFF;
@@ -426,14 +427,14 @@
 		margin:0;
 		margin-top: -4rem;
 		white-space: nowrap;
-		letter-spacing: calc(2px + (2 - 2) * ((100vw - 100px) / (1600 - 450)));
+		letter-spacing: calc(7px + (7 - 7) * ((100vw - 100px) / (1600 - 450)));
     	text-align: center;
 	}
 	.landingPage h3 { 
 		margin: 0;
 		margin-top: 1.5rem;
 		white-space: nowrap;
-		letter-spacing:letter-spacing:calc(10px + (10 - 10) * ((100vw - 100px) / (1600 - 450)));
+		letter-spacing:calc(13px + (13 - 13) * ((100vw - 100px) / (1600 - 450)));
 		text-align:center;
 	}
 	.landingPage .stretch{
@@ -592,7 +593,7 @@
 	} */
 }
 
-@media all and (min-width:415px) and (max-width:768px) { /* ipad and medium sized tables in portrait orientation */
+@media all and (min-width:768px) { /* ipad and medium sized tables in portrait orientation */
 	#animBack2 {
 		display:none;
 	}
