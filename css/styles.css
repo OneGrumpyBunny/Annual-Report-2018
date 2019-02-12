@@ -79,6 +79,7 @@ a {
     max-width: 1600px;
     width: 100%;
     top: 614px;
+    margin-top:-6px;
 }
 #mainBack {
     height:100%;
