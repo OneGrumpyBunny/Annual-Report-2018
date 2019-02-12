@@ -8,7 +8,6 @@ $(window).on("load", function() {
         autoplay: true,
         path: '/dev/data.json'
         });
-    }
     
         var animation2 = lottie.loadAnimation({
         container: document.getElementById('animBack2'),
@@ -17,6 +16,7 @@ $(window).on("load", function() {
         autoplay: true,
         path: '/dev/data.json'
         
+    });
     }
     setTimeout(function() {$("#animBack2").css("top",$("#animBack").height());},800);
 });
