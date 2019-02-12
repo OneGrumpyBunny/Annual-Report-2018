@@ -12,9 +12,10 @@
 		<div class="landingPageMobile">
 			<!--<img src="img/RTI_w_1in.png" class="logo">-->
 			<div>
-				<h1>LIVING</h1>
-				<h2>our mission</h2>
-				<h3>2018 annual report</h3>
+				<h1 style="letter-spacing: calc(21px + (21 - 21) * ((100vw - 100px) / (1600 - 450)));
+				font-weight: 400;">LIVING</h1>
+				<h2 style="letter-spacing: calc(5px + (5 - 5) * ((100vw - 100px) / (1600 - 450)))">our mission</h2>
+				<h3 style="letter-spacing: calc(3px + (3 - 3) * ((100vw - 100px) / (1600 - 450)));">2018 annual report</h3>
 			</div>
 			<div><a href="about-rti/index.php?ex=y" class="yellowlink light">A Message from the<br>President of RTI</a><br><br><a href="about-rti/" class="light">Read More</a></div>
 			<div class="copyright">
@@ -26,16 +27,16 @@
 					<a href="https://www.facebook.com/sharer/sharer.php?u=http%3A//annualreport.rti.org/2018" target="_blank"><i class="fab fa-facebook-square"></i></a>
 				</div>
 			</div>
-	<!--</div>-->
+	</div>
 		
-		</div> 
-	</div> 
+	</div>
+	</div>
 	<!-- hidden on mobile -->
 	<div class="innerContainer">
 		<div class="column left">
 			<div class="landingPage">
 				<a href="http://www.rti.org"><img src="./img/RTI_w_1in.png" class="logo"></a>
-				<div style="padding-left:5%;">
+				<div style="padding-left:10%;">
 					<h1>LIVING</h1>
 					<h2>our mission</h2>
 					<h3>2018 annual report</h3>
