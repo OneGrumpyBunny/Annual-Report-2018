@@ -11,7 +11,7 @@
 	<div class="innerContainerMob landingMob">
 		<div class="landingPageMobile">
 			<!--<img src="img/RTI_w_1in.png" class="logo">-->
-			<div style="width: calc(120%)">
+			<div>
 				<h1 style="letter-spacing: calc(21px + (21 - 21) * ((100vw - 100px) / (1600 - 450)));
 				font-weight: 400;">LIVING</h1>
 				<h2 style="letter-spacing: calc(5px + (5 - 5) * ((100vw - 100px) / (1600 - 450)))">our mission</h2>
