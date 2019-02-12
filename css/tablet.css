@@ -1,5 +1,3 @@
-
-
 @media all and (min-width:415px) {
 	header {
 		display:none;
@@ -299,7 +297,8 @@
 		display: flex;
 		-webkit-box-orient: horizontal;
 		-webkit-box-direction: normal;
-		flex-flow:row;
+		-ms-flex-flow:row;
+		    flex-flow:row;
 		-webkit-box-pack: justify;
 		    -ms-flex-pack: justify;
 		        justify-content: space-between;
@@ -310,7 +309,9 @@
 		margin-bottom: 1.5rem;
 	}
 	.footer-text .text{
-		flex: 0 0 80%;
+		-webkit-box-flex: 0;
+		    -ms-flex: 0 0 80%;
+		        flex: 0 0 80%;
 		display: -webkit-box;
 		display: -ms-flexbox;
 		display: flex;
@@ -333,11 +334,21 @@
 		margin: 0 0 .5rem 0;
 	}
 	.footer-text .icons{
-		    align-self: baseline;
+		    -ms-flex-item-align: baseline;
+		        align-self: baseline;
+		display: -webkit-box;
+		display: -ms-flexbox;
 		display: flex;
-		flex-flow: row;
-		justify-content: space-between;
-		flex: 0 0 15%;
+		-webkit-box-orient: horizontal;
+		-webkit-box-direction: normal;
+		    -ms-flex-flow: row;
+		        flex-flow: row;
+		-webkit-box-pack: justify;
+		    -ms-flex-pack: justify;
+		        justify-content: space-between;
+		-webkit-box-flex: 0;
+		    -ms-flex: 0 0 15%;
+		        flex: 0 0 15%;
 	}
 	#share{
 		font-size: calc(8px + (20 - 15) * ((100vw - 200px) / (1600 - 375)));
@@ -502,8 +513,10 @@
 		font-size:calc(9px + (20 - 14) * ((100vw - 350px) / (1600 - 375)));
 		line-height:calc(10px + (20 - 14) * ((100vw - 350px) / (1600 - 375)));
 		margin:0;
-		margin-block-start: 0rem;
-		margin-block-end: 0rem;
+		-webkit-margin-before: 0rem;
+		        margin-block-start: 0rem;
+		-webkit-margin-after: 0rem;
+		        margin-block-end: 0rem;
 		margin-top: .5rem;
 		margin-bottom: .5rem;
 		color: #ffffff;
@@ -513,13 +526,17 @@
 	}
 	#elt ul {
 		margin: 0;
-		margin-block-start: 0;
-		margin-block-end: 0;
+		-webkit-margin-before: 0;
+		        margin-block-start: 0;
+		-webkit-margin-after: 0;
+		        margin-block-end: 0;
 		margin-bottom: 2rem;
 	}
 	#elt-list{
-		margin-block-start: 0;
-		margin-block-end: 0;
+		-webkit-margin-before: 0;
+		        margin-block-start: 0;
+		-webkit-margin-after: 0;
+		        margin-block-end: 0;
 	}
 	#elt-list a{
 		color: #99B1C5;
@@ -620,7 +637,10 @@
 		letter-spacing:calc(9px + (9 - 9) * ((100vw - 100px) / (1600 - 450)));
 	}
 	.footer-text {
-		flex-direction: column;
+		-webkit-box-orient: vertical;
+		-webkit-box-direction: normal;
+		    -ms-flex-direction: column;
+		        flex-direction: column;
 	}
 	.sectionBack {
 		bottom:auto;
