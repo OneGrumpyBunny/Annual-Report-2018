@@ -23,7 +23,7 @@
 
 				<p>With a stellar year behind us, it is exciting to look ahead and imagine where our work will take us. I am proud of our 2018 accomplishments and, more important, our people, who live RTI’s mission every day to make the world a better place. </p>
 
-				<p>Wayne E. Holden, President and CEO</p>
+				<p>E. Wayne Holden, President and CEO</p>
 				<p>RTI International</p></p>
 				<p class="readmore"><!--<a href="">READ MORE </a>-->
 				<button style="float:right;" class="crc-close1 close" data-section="section1"><!--<i class="fas fa-times"></i>-->Close</button></p>
