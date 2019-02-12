@@ -18,7 +18,7 @@ include $REL_DIR.$INCL_DIR."meta-planet.php";
         <a href="http://www.rti.org"><img src="../img/RTI_w_1in.png" class="logo"></a>
             <h1>Improving NASA Satellite Data with Low-Cost&nbsp;Sensors</h1>
             <h2>How citizen scientists are helping RTI measure particulate matter in the&nbsp;atmosphere</h2>
-            <p class="light">RTI is working with NASA (as well as the Universities Space Research Association, the South Coast Air Quality Management District, the Environmental Protection Agency, and various other institutions) to deploy low-cost air-quality monitors at ground level, the data from which can be used to provide additional information to help improve satellite&nbsp;readings.</p>
+            <p class="light">At any given moment, the National Aeronautics and Space Administration (NASA) has about two dozen Earth Observation Satellites in orbit. RTI is working with NASA—as well as the Universities Space Research Association, the South Coast Air Quality Management District, the Environmental Protection Agency, and various other institutions—to deploy low-cost air-quality monitors at ground level, the data from which can be used to provide additional information to help improve satellite&nbsp;readings.</p>
             <p class="readmore"><a href="https://www.rti.org/impact/improving-nasa-satellite-data-low-cost-sensors" target="_blank">READ MORE</a></p>
         </div>
         <div>
