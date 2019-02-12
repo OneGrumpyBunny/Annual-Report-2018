@@ -514,6 +514,7 @@
 		margin: 0;
 		margin-block-start: 0;
 		margin-block-end: 0;
+		margin-bottom: 3.5rem;
 	}
 	#elt-list a{
 		color: #99B1C5;
