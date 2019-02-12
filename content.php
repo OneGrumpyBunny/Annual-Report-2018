@@ -37,9 +37,9 @@
 			<div class="landingPage">
 				<a href="http://www.rti.org"><img src="./img/RTI_w_1in.png" class="logo"></a>
 				<div style="padding-left:5%;">
-					<h1>LIVING</h1>
+					<!--<h1>LIVING</h1>
 					<h2>our mission</h2>
-					<h3>2018 annual report</h3>
+					<h3>2018 annual report</h3>-->
 				</div>
 			</div>
 		</div>
