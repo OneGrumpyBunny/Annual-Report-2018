@@ -345,8 +345,8 @@
 	}
 	.footer-text .icons a{
 		color: white;
-		font-size: 40px;
-		margin: 0;
+		font-size: calc(20px + (20 - 15) * ((100vw - 200px) / (1600 - 375)));
+		margin: 0 auto;
 	}
 	.bog-flex{
 		display:-webkit-box;
