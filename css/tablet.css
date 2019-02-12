@@ -603,6 +603,9 @@
 	.landingPage h3 {
 		letter-spacing:calc(9px + (9 - 9) * ((100vw - 100px) / (1600 - 450)));
 	}
+	.footer-text {
+		flex-direction: column;
+	}
 }
 
 @media all and (min-width:768px) { /* landscape orientation for tablets */
