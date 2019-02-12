@@ -32,7 +32,7 @@
 				<p>Studying How Radicalism Develops</p><i class="fas fa-chevron-down crc-chevron" data-section="section3"></i>
 			</div>
 			<div id="section3" data-section="section3" class="acc-body">
-				<p>Since the election of President Barack Obama, white supremacy groups have been increasingly active and visible in the United States. The most notorious example of this trend may be the “Unite the Right” rally in Charlottesville in August 2017, in which neo-Nazis, neo-Confederates, and members of various militia groups marched with provocative signs and banners and chanted racist and anti-Semitic slogans. The Charlottesville rally (and the concurrent reaction by anti-fascist activists, or “Antifa”) brought white supremacy back into the national conversation and served as an unfortunate advertisement for a vile cause.</p>
+				<p>What provokes people to join racist, violent, far-right hate groups? In 2015, we were contracted by the Department of Justice to perform research on this subject. In collaboration with our partners, Dr. Kathleen Blee of the University of Pittsburgh and Dr. Peter Simi of Chapman University, we contacted dozens of former white supremacists nationwide. We sat down with these people and conducted in-depth life-history interviews, asking them questions about their families, their childhoods, their education and employment, and how they were recruited into, and mustered the courage to leave, various violent, far-right extremist groups.</p>
 				<p class="readmore"><a href="https://www.rti.org/impact/addicted-hate-understanding-motives-former-white-supremacists" target="_blank">READ MORE </a>
 				<button style="float:right;" class="crc-close3 close" data-section="section3"><!--<i class="fas fa-times"></i>-->Close</i></button></p>
 			</div>
@@ -67,7 +67,7 @@
 					<p>Exploring a New Weapon in Opioid Crisis: Communication</p><i class="fas fa-chevron-down crc-chevron" data-section="section7"></i>
 			</div>
 			<div id="section7" data-section="section7" class="acc-body">
-				<p>The Centers for Disease Control and Prevention recently released guidelines for prescribing opioids for chronic pain that provide recommendations for opioid prescribing. These guidelines provide strategies for prescribers and pharmacists to help assist in the reduction of opioid misuse and diversion, yet the guidelines do not specifically describe recommendations for how prescribers and pharmacists better communicate.</p>
+				<p>Improving communication between prescribers and pharmacists could be an important step in reducing opioid misuse and diversion and improving public health. While much of the education and training available on reducing opioid misuse and diversion stresses the importance of interprofessional communication between prescribers and pharmacists, few studies have explored those communication patterns directly. To better understand this issue, a team of researchers conducted in-depth individual interviews with 48 primary care providers (PCPs) and 60 community pharmacists about the nature, frequency, and content of communication between PCPs and pharmacists focusing on opioids.</p>
 				<p class="readmore"><a href="https://www.rti.org/insights/new-weapon-fight-opioid-crisis-talking" target="_blank">READ MORE </a>
 				<button style="float:right;" class="crc-close6 close" data-section="section7"><!--<i class="fas fa-times"></i>-->Close</i></button></p>
 			</div>

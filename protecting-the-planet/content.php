@@ -14,7 +14,7 @@
 				<p>Enlisting Citizen Scientists to Help Improve Air Quality</p><i class="fas fa-chevron-down crc-chevron" data-section="section1"></i>
 			</div>
 			<div id="section1" data-section="section1" class="acc-body">
-				<p>RTI is working with NASA (as well as the Universities Space Research Association, the South Coast Air Quality Management District, the Environmental Protection Agency, and various other institutions) to deploy low-cost air-quality monitors at ground level, the data from which can be used to provide additional information to help improve satellite readings.</p>
+				<p>At any given moment, the National Aeronautics and Space Administration (NASA) has about two dozen Earth Observation Satellites in orbit. RTI is working with NASA&mdash;as well as the Universities Space Research Association, the South Coast Air Quality Management District, the Environmental Protection Agency, and various other institutions&mdash;to deploy low-cost air-quality monitors at ground level, the data from which can be used to provide additional information to help improve satellite readings.</p>
 				<p class="readmore"><a href="https://www.rti.org/impact/improving-nasa-satellite-data-low-cost-sensors" target="_blank">READ MORE </a>
 				<button style="float:right;" class="crc-close1 close" data-section="section1"><!--<i class="fas fa-times"></i>-->Close</button></p>
 			</div>
@@ -41,7 +41,7 @@
 					<p>Harnessing Hydropower: A New Wave of Renewable Energy</p><i class="fas fa-chevron-down crc-chevron" data-section="section4"></i>
 			</div>
 			<div id="section4" data-section="section4" class="acc-body">
-				<p>As climate change continues to pose a threat, curbing the use of fossil fuels has been more important than ever. The world is experiencing the largest energy transformation since the Industrial Revolution, and hydropower has been a forefront in this revolution.</p>
+				<p>As climate change continues to pose a threat, curbing the use of fossil fuels is more important than ever. The world is experiencing the largest energy transformation since the Industrial Revolution, and hydropower has been a forefront in this revolution.</p>
 				<p class="readmore"><a href="https://www.rti.org/insights/hydropower-wave-renewable-energy" target="_blank">READ MORE </a>
 				<button style="float:right;" class="crc-close4 close" data-section="section4"><!--<i class="fas fa-times"></i>-->Close</i></button></p>
 			</div>
