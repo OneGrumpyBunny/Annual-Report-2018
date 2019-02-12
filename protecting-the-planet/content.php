@@ -59,7 +59,7 @@
 					<p>Preventing Exposure to Harmful Contaminants</p><i class="fas fa-chevron-down crc-chevron" data-section="section6"></i>
 			</div>
 			<div id="section6" data-section="section6" class="acc-body">
-				<p>The class of chemicals known as PFAS—per- and polyfluoroalkyl substances—poses a unique threat to public health that our chemical and environmental engineers are working to solve. These include PFOA, PFOS, and more than 3,000 related chemicals, including the GenX variant known for polluting the Cape Fear River in southeastern North Carolina. The Department of Defense’s Strategic Environmental Research and Development Program is looking for a solution and began working with RTI in mid-2018 to investigate a method of breaking down PFAS.</p>
+				<p>The class of chemicals known as PFAS—per- and polyfluoroalkyl substances—poses a unique threat to public health that our chemical and environmental engineers are working to solve. These include PFOA; PFOS; and more than 3,000 related chemicals, including the GenX variant known for polluting the Cape Fear River in southeastern North Carolina. The Department of Defense’s Strategic Environmental Research and Development Program is looking for a solution and began working with RTI in mid-2018 to investigate a method of breaking down PFAS.</p>
 				<p class="readmore"><a href="https://www.rti.org/impact/new-method-destruction-perfluorinated-contaminants-found-water-supplies" target="_blank">READ MORE </a>
 				<button style="float:right;" class="crc-close6 close" data-section="section6"><!--<i class="fas fa-times"></i>-->Close</i></button></p>
 			</div>
