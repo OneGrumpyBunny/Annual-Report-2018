@@ -306,7 +306,7 @@
 		margin-bottom: 1.5git rem;
 	}
 	.footer-text .text{
-		flex: 1 0 100%;
+		flex: 0 0 80%;
 		display: -webkit-box;
 		display: -ms-flexbox;
 		display: flex;
@@ -340,7 +340,7 @@
 		    -ms-flex-flow: row;
 				flex-flow: row;
 				justify-content: space-evenly;
-				flex: 1 0 100%;
+				flex: 0 0 15%;
 	}
 	.footer-text .icons p{
 		font-size: calc(8px + (20 - 15) * ((100vw - 200px) / (1600 - 375)));
