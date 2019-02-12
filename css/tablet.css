@@ -501,9 +501,11 @@
 		width: 100%;
 		font-size:calc(9px + (20 - 14) * ((100vw - 350px) / (1600 - 375)));
 		line-height:calc(10px + (20 - 14) * ((100vw - 350px) / (1600 - 375)));
-		margin: .5rem 0;
+		margin:0;
 		margin-block-start: 0rem;
 		margin-block-end: 0rem;
+		margin-top: .5rem;
+		margin-bottom: .5rem;
 		color: #ffffff;
 	}
 	#elt .logo{
