@@ -148,7 +148,7 @@ h1, h2, h3, h4, p, a {
     margin: 0 auto; 
     max-width: 1600px;
     position: absolute;
-    bottom: 0;
+    /*bottom: 0;*/
     width: 100%;
 }
 
