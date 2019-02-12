@@ -8,7 +8,7 @@
 		<p class="mobileHead mobileHeadThrive">Helping Regions Thrive and Prosper</p>
 	</div>
 	<div class="innerContainerMob thriveMob">
-		<p class="headerText">Children will not thrive if they cannot read. Youth will not flourish without education or skills training. Countries will not prosper without electricity or infrastructure. </p><p class="headerText hideMore">From improving literacy rates for 7 million Kenyan children, to providing electricity access to 600 million people in sub-Saharan Africa, to offer training for the 20% of unemployed youth in Rwanda, we are living our mission every day to help communities around the world achieve a brighter future.</p><p><span class="readmore expand">READ MORE</span><br><span class="readmore collapse hide">READ LESS</span></p>
+		<p class="headerText">Children will not thrive if they cannot read. Youth will not flourish without education or skills training. Countries will not prosper without electricity or infrastructure. </p><p class="headerText hideMore">From improving literacy rates for 7 million Kenyan children, to providing electricity access to 600 million people in sub-Saharan Africa, to offering training for the 20% of unemployed youth in Rwanda, we are living our mission every day to help communities around the world achieve a brighter future.</p><p><span class="readmore expand">READ MORE</span><br><span class="readmore collapse hide">READ LESS</span></p>
 		<section>
 			<div id="section1Head" class="acc-head" data-section="section1"> 
 				<p>Understanding Consequences of Student Debt</p><i class="fas fa-chevron-down crc-chevron" data-section="section1"></i>

@@ -364,7 +364,13 @@
 		-webkit-box-pack: space-evenly;
 		    -ms-flex-pack: space-evenly;
 		        justify-content: space-evenly;
-		width: 180%;
+		width: 200%;
+		/* overflow-x: scroll;
+		overflow: -moz-scrollbars-none;
+		-ms-overflow-style: none */
+	}
+	.bog-flex::-webkit-scrollbar {
+		width: 0 !important
 	}
 	.bog-single{
 		padding: 0rem 1rem;
@@ -412,24 +418,30 @@
 	}
 	.landingPage h1{
 		color: #3A73B0;;
-		font-size: calc(24px + (200 - 24) * ((100vw - 100px) / (1600 - 375)));
+		font-size: calc(24px + (200 - 24) * ((100vw - 100px) / (1600 - 450)));
 		font-weight: 300;
 		margin:0;
 		margin-top: -4rem;
 		white-space: nowrap;
+		letter-spacing: calc(14px + (14 - 14) * ((10vw - 100px) / (1600 - 450)));
+		text-align:center;
 	}
 	.landingPage h2 {
 		color: #FFFFFF;
-		font-size: calc(24px + (100 - 24) * ((100vw - 100px) / (1600 - 375)));
+		font-size: calc(24px + (100 - 24) * ((100vw - 100px) / (1600 - 450)));
 		font-weight: 300;
 		margin:0;
 		margin-top: -4rem;
 		white-space: nowrap;
+		letter-spacing: calc(12px + (12 - 12) * ((100vw - 100px) / (1600 - 450)));
+    	text-align: center;
 	}
 	.landingPage h3 { 
 		margin: 0;
 		margin-top: 1.5rem;
 		white-space: nowrap;
+		letter-spacing:calc(17px + (18 - 18) * ((100vw - 100px) / (1600 - 450)));
+		text-align:center;
 	}
 	.landingPage .stretch{
 		text-align: center;
@@ -437,31 +449,37 @@
 	.message-from-president-page ul{
 		list-style-type: none;
 		border-left: 11px solid #99B1C5;
+		margin-bottom: 3.5rem;
 	}
 	.message-from-president-page ul{
 		list-style-type: none;
 		border-left: 11px solid #99B1C5;
+		margin-bottom: 3.5rem;
 	}
 	.living-our-mission ul, .living-our-mission-page ul {
 		list-style-type: none;
 		border-left: 11px solid #99B1C5;
+		margin-bottom: 3.5rem;
 	}
 	.enhancing-health ul, .enhancing-health-page ul {
 		list-style-type: none;
 		border-left: 11px solid #316094;
+		margin-bottom: 3.5rem;
 	}
-
 	.keeping-people-safe ul, .keeping-people-safe-page ul {
 		list-style-type: none;
 		border-left: 11px solid #787C3C;
+		margin-bottom: 3.5rem;
 	}
 	.thrive-and-prosper ul, .thrive-and-prosper-page ul{
 		list-style-type: none;
 		border-left: 11px solid #638C1C;
+		margin-bottom: 3.5rem;
 	}
 	.protecting-the-planet ul, .protecting-the-planet-page ul {
 		list-style-type: none;
 		border-left: 11px solid #FFC629;
+		margin-bottom: 3.5rem;
 	}
 	.living-our-mission-page #elt-list{
 		list-style-type: none;
@@ -472,6 +490,13 @@
 		        margin-block-end: 0rem;
 		-webkit-padding-start: 0;
 		        padding-inline-start: 0;
+	}
+	#at-a-glance-box{
+		width:calc(185%);
+		margin: 0 auto;
+	}
+	#at-a-glance-img{
+		max-width: 100%;
 	}
 	#elt-img-box{
 		width:calc(185%);
@@ -574,13 +599,27 @@
 	} */
 }
 
-@media all and (max-height:1024px) { /* ipad and medium sized tables in portrait orientation */
-	/*
-	.sectionBack {
-		top: 227px;
+@media all and (min-width:415px) and (max-width:768px) { /* ipad and medium sized tables in portrait orientation */
+	.landingPage h1 {
+		margin: 0 0 2rem 0;
 	}
-	.navContainer {
-		height: 827px;
+	.landingPage h2 {
+		letter-spacing: calc(8px + (8 - 8) * ((100vw - 100px) / (1600 - 450)));
+	}
+	.landingPage h3 {
+		letter-spacing:calc(9px + (9 - 9) * ((100vw - 100px) / (1600 - 450)));
+	}
+	.footer-text {
+		flex-direction: column;
+	}
+	.sectionBack {
+		bottom:auto;
+	}
+}
+
+@media all and (min-width:768px) { /* landscape orientation for tablets */
+	/*#animBack2 {
+		display:none;
 	}*/
 }
 

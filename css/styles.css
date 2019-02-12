@@ -73,6 +73,17 @@ a {
     width:100%;
     
 }
+#animBack2 {
+    position: fixed;
+    opacity: 0.5;
+    max-width: 1600px;
+    width: 100%;
+    top: 614px;
+    margin-top:-7px;
+}
+#mainBack {
+    height:100%;
+}
 
 .hide {
     opacity:0;

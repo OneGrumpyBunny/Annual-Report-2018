@@ -1,4 +1,9 @@
 @media all and (max-width:414px) {
+	
+	#animBack2 {
+		display:none;
+	}
+	
 	body {
 		max-width:414px;
 		margin: 0;
@@ -26,6 +31,22 @@
 		display:-ms-flexbox;
 		display:flex
 	}
+	.landingPageMobile h1 {
+		letter-spacing: calc(21px + (21 - 21) * ((100vw - 100px) / (1600 - 450)));
+		font-weight: 400;
+	}
+
+	.landingPageMobile h2 {
+		letter-spacing: calc(5px + (5 - 5) * ((100vw - 100px) / (1600 - 450)));
+	}
+	.landingPageMobile h3 {
+		letter-spacing: calc(3px + (3 - 3) * ((100vw - 100px) / (1600 - 450)));
+	}
+	.copyright p {
+		font-size: calc(10px + (18 - 10) * ((100vw - 350px) / (1600 - 350)));
+    color: #fff;
+	}
+
 	.light {
 		font-size: calc(22px + (20 - 22) * ((100vw - 350px) / (1600 - 375)));
 	}
@@ -85,6 +106,10 @@
 	}
 	.landingMob {
 		margin-top: 3rem;
+		max-width: 85vw;
+	}
+	.icons a {
+		color: #ffffff;
 	}
 	section {
 		z-index: 1;
@@ -93,7 +118,7 @@
 	}
 	.logo {
 		margin-left: 1rem;
-    margin-bottom: 3rem;
+    margin-bottom: 1.3rem;
 	}
 	.fixed-header {
 		position: fixed;
@@ -187,7 +212,7 @@
 		-ms-flex-item-align: stretch;
 		    align-self: stretch;
 		height: 100%;
-		margin: 0.8rem 0;
+		margin: .4rem 0;
 		/*max-height: 16%;*/
 	}
 	
@@ -305,7 +330,7 @@
 		cursor: pointer;
 		border-right: 3px solid #fff;
     height: 27px;
-    margin: 0 -27px;
+		margin: 0 -12px;
 		font-size: 1.2rem;
 		opacity:1;
   }

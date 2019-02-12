@@ -1,33 +1,31 @@
 
 
 $(window).on("load",function() {
-/*var backOn = 0;
-	if ($(".living-our-mission").is(":visible")) {
-		$(".container").addClass("living-back");
-		backOn = 1;
-	}
-	if ($(".enhancing-health").is(":visible")) {
-        $(".container").addClass("enhancing-back");
-		backOn = 1;
-	}
-	if ($(".keeping-people-safe").is(":visible")) {
-		$(".container").addClass("safe-back");
-		backOn = 1;
-	}
-	if ($(".thrive-and-prosper").is(":visible")) {
-		$(".container").addClass("thrive-back");
-		backOn = 1;
-	}
-	if ($(".protecting-the-planet").is(":visible")) {
-		$(".container").addClass("planet-back");
-		backOn = 1;
-	}
-	if (backOn == 0) {
-		$(".container").addClass("home-back");
-    }*/
-    /*$(".landingPage").addClass('landingPageAnim');*/
+    menu();
+    $('.side-border').css('animation','sliderIn 1s 0s 1');
+
+    $.urlParam = function (name) {
+        var results = new RegExp('[\?&]' + name + '=([^&#]*)')
+            .exec(window.location.search);
     
-    /*$(".navBox").addClass("navBoxAnim");*/
+        return (results !== null) ? results[1] || 0 : false;
+    }
+    
+    if($(".about-back").is(":visible") && $.urlParam('ex') == "y") {
+        expandThisID = "section1";
+        slideThis = "#section1Head";
+        chevron = $('i[data-section=section1');
+    
+        /* toggle clicked accordian and slide it into position*/
+
+        toggleACC(chevron,expandThisID);   
+    }
+});
+
+$(window).on("resize",function() {
+    
+        $("#animBack2").css("top",$("#animBack").height());
+    
 });
 
 var relPath = "/2018/"

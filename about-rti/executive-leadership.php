@@ -17,39 +17,39 @@ include $REL_DIR.$INCL_DIR."meta-living.php";
         <div>
         <a href="http://www.rti.org"><img src="../img/RTI_w_1in.png" class="logo"></a>
         <!-- <img src="../img/RTI_w_1in.png" class="logo"> -->
-            <h1>Executive Leadership</h1>
+            <h1>Meet RTI's Executive Leadership</h1>
             <!-- <h2>Decisions delayed; employment choices made based on the cost of education</h2> -->
             <!-- <p class="readmore"><a href="" target="_blank">READ MORE</a></p> -->
             <div id="elt-img-box">
                     <img src="img/elt-photo.jpg" id="elt-img">
-                <p class="light">
-                    Pictured from left to right: Lisa May, Paul Weisenfeld, Michael Kaelin, Tim Gabel, Allen Mangel, Wayne Holden, James Gibson, Teena Piccione, and Edward&nbsp;Story.
-                </p>
             </div>
+            <p class="light">
+                Pictured from left to right:
+            </p>
             <ul id="elt-list">
+                <li> <a href="https://www.rti.org/expert/lisa-may" target="_blank">
+                    Lisa May</a> Executive Vice President, Human Resources and Corporate Communications
+                </li>
+                <li> <a href="https://www.rti.org/expert/paul-weisenfeld" target="_blank">
+                    Paul Weisenfeld</a> Executive Vice President, International Development
+                </li>
+                <li> <a href="https://www.rti.org/expert/michael-h-kaelin-jr" target="_blank">
+                    Michael H. Kaelin, Jr.</a> Executive Vice President and Chief Financial Officer
+                </li>
+                <li> <a href="https://www.rti.org/expert/tim-gabel" target="_blank">
+                    Tim J. Gabel</a> Executive Vice President, Social, Statistical, and Environmental Sciences 
+                </li>
+                <li> <a href="https://www.rti.org/expert/allen-w-mangel" target="_blank">
+                    Allen W. Mangel</a> Executive Vice President, RTI Health Solutions and Discovery Sciences
+                </li>
                 <li> <a href="https://www.rti.org/expert/e-wayne-holden" target="_blank">
                     E. Wayne Holden</a> President and CEO, RTI International
                 </li>
                 <li> <a href="https://www.rti.org/expert/james-j-gibson" target="_blank">
                     James J. Gibson</a> Executive Vice President and Chief Operating Officer
                 </li>
-                <li> <a href="https://www.rti.org/expert/tim-gabel" target="_blank">
-                    Tim J. Gabel</a> Executive Vice President, Social, Statistical, and Environmental Sciences 
-                </li>
-                <li> <a href="https://www.rti.org/expert/paul-weisenfeld" target="_blank">
-                    Paul Weisenfeld</a> Executive Vice President, International Development
-                </li>
-                <li> <a href="https://www.rti.org/expert/allen-w-mangel" target="_blank">
-                    Allen W. Mangel</a> Executive Vice President, RTI Health Solutions and Discovery Sciences
-                </li>
-                <li> <a href="https://www.rti.org/expert/michael-h-kaelin-jr" target="_blank">
-                    Michael H. Kaelin, Jr.</a> Executive Vice President and Chief Financial Officer
-                </li>
                 <li> <a href="https://www.rti.org/expert/teena-piccione" target="_blank">
                     Teena W. Piccione</a> Executive Vice President and Chief Information Officer
-                </li>
-                <li> <a href="https://www.rti.org/expert/lisa-may" target="_blank">
-                    Lisa May</a> Executive Vice President, Human Resources and Corporate Communications
                 </li>
                 <li> <a href="https://www.rti.org/expert/g-edward-story" target="_blank">
                     G. Edward Story</a> Executive Vice President, General Counsel & Corporate Secretary
