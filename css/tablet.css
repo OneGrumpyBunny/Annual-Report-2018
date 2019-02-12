@@ -332,7 +332,7 @@
 		    align-self: baseline;
 		display: flex;
 		flex-flow: row;
-		justify-content: space-evenly;
+		justify-content: space-between;
 		flex: 0 0 15%;
 	}
 	.footer-text .icons p{
