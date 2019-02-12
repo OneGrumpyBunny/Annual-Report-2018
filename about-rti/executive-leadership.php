@@ -8,7 +8,7 @@ include $REL_DIR.$INCL_DIR."meta-living.php";
 <img src="img/filter-back.png" class="sectionBack">
 	<div class="innerContainer">
 <div class="column left flex">
-    <div class="living-our-mission-page">
+    <div class="living-our-mission-page" id="elt">
 
     
         <!--- update content below this line --->
