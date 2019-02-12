@@ -365,9 +365,9 @@
 		    -ms-flex-pack: space-evenly;
 		        justify-content: space-evenly;
 		width: 200%;
-		overflow-x: scroll;
+		/* overflow-x: scroll;
 		overflow: -moz-scrollbars-none;
-		-ms-overflow-style: none
+		-ms-overflow-style: none */
 	}
 	.bog-flex::-webkit-scrollbar {
 		width: 0 !important
