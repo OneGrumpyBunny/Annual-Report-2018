@@ -289,6 +289,10 @@
 		line-height: 41px;
 	}
 
+	#living-div{
+		width: 150%;
+	}
+
 	.footer-text{
 		display: -webkit-box;
 		display: -ms-flexbox;
@@ -424,14 +428,14 @@
 		margin:0;
 		margin-top: -4rem;
 		white-space: nowrap;
-		letter-spacing: calc(12px + (12 - 12) * ((100vw - 100px) / (1600 - 450)));
+		letter-spacing: calc(14px + (12 - 12) * ((100vw - 100px) / (1600 - 450)));
     	text-align: center;
 	}
 	.landingPage h3 { 
 		margin: 0;
 		margin-top: 1.5rem;
 		white-space: nowrap;
-		letter-spacing:calc(17px + (18 - 18) * ((100vw - 100px) / (1600 - 450)));
+		letter-spacing:calc(23px + (18 - 18) * ((100vw - 100px) / (1600 - 450)));
 		text-align:center;
 	}
 	.landingPage .stretch{
