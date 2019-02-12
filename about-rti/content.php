@@ -30,7 +30,7 @@
 			</div>
 
 			<div id="section2Head" class="acc-head" data-section="section2">
-				<p>RTI at a Glance</p><i class="fas fa-chevron-down crc-chevron" data-section="section2"></i>
+				<p>RTI at a Glance 2018</p><i class="fas fa-chevron-down crc-chevron" data-section="section2"></i>
 			</div>
 			<div id="section2" data-section="section2" class="acc-body">
 				<p><img src="img/AtaGlanceMobile-01.png" style="width:100%;"></p>
