@@ -612,6 +612,9 @@
 	.footer-text {
 		flex-direction: column;
 	}
+	.sectionBack {
+		bottom:auto;
+	}
 }
 
 @media all and (min-width:768px) { /* landscape orientation for tablets */
