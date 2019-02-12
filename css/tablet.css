@@ -507,6 +507,9 @@
 		margin-bottom: .5rem;
 		color: #ffffff;
 	}
+	#elt .logo{
+		margin-bottom: 4rem;
+	}
 	#elt ul {
 		margin: 0;
 		margin-block-start: 0;
