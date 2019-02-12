@@ -295,8 +295,7 @@
 		display: flex;
 		-webkit-box-orient: horizontal;
 		-webkit-box-direction: normal;
-		    -ms-flex-flow: row;
-		        flex-flow: row;
+		flex-flow: column;
 		-webkit-box-pack: justify;
 		    -ms-flex-pack: justify;
 		        justify-content: space-between;
@@ -307,9 +306,6 @@
 		margin-bottom: 1.5git rem;
 	}
 	.footer-text .text{
-		-webkit-box-flex: 0;
-		    -ms-flex: 0 0 80%;
-		        flex: 0 0 80%;
 		display: -webkit-box;
 		display: -ms-flexbox;
 		display: flex;
@@ -333,8 +329,6 @@
 	}
 	.footer-text .icons{
 		-webkit-box-flex: 0;
-		    -ms-flex: 0 0 15%;
-		        flex: 0 0 15%;
 		-ms-flex-item-align: baseline;
 		    align-self: baseline;
 		display: -webkit-box;
@@ -347,6 +341,9 @@
 		-webkit-box-pack: space-evenly;
 		    -ms-flex-pack: space-evenly;
 		        justify-content: space-evenly;
+	}
+	.footer-text .icons p{
+		font-size: calc(8px + (20 - 15) * ((100vw - 200px) / (1600 - 375)));
 	}
 	.footer-text .icons a{
 		color: white;
