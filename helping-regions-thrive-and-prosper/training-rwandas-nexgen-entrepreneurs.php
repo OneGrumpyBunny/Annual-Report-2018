@@ -18,7 +18,7 @@ include $REL_DIR.$INCL_DIR."meta-thrive.php";
         <a href="http://www.rti.org"><img src="../img/RTI_w_1in.png" class="logo"></a>
             <h1>Cultivating Youth Entrepreneurs in Rwanda’s Agriculture&nbsp;Sector</h1>
             <h2>Piloting a paid internship&nbsp;program</h2>
-            <p class="light">Twenty-six-year-old Egidie Twizeyeyezu graduated from the University of Rwanda in 2015 with a degree in economics and entrepreneurship. Since then, she has been unable to find a job. Instead, she’s resorted to selling second-hand clothes in the streets of Kigali, working all day to earn approximately 2,000 Rwandan francs&nbsp;(US$2.30).</p>
+            <p class="light">As of 2012, over 50 percent of Rwanda’s population was under the age of 20 and preparing to enter the workforce, which, in Rwanda, is still largely agriculture-driven. To help address this looming challenge, the Feed the Future-funded USAID/Rwanda Private Sector Driven Agricultural Growth program partnered with the Rwandan Ministry of Agriculture and Animal Resources and the Rwanda Youth in Agribusiness Forum to launch a one-year paid internship program for youth in the agriculture&nbsp;sector.</p>
             <p class="readmore"><a href="https://www.rti.org/insights/cultivating-youth-entrepreneurs-rwanda%E2%80%99s-agriculture-sector" target="_blank">READ MORE</a></p>
         </div>
         <div>
