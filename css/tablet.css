@@ -306,6 +306,7 @@
 		margin-bottom: 1.5git rem;
 	}
 	.footer-text .text{
+		flex: 1 0 100%;
 		display: -webkit-box;
 		display: -ms-flexbox;
 		display: flex;
@@ -337,13 +338,13 @@
 		-webkit-box-orient: horizontal;
 		-webkit-box-direction: normal;
 		    -ms-flex-flow: row;
-		        flex-flow: row;
-		-webkit-box-pack: space-evenly;
-		    -ms-flex-pack: space-evenly;
-		        justify-content: space-evenly;
+				flex-flow: row;
+				justify-content: space-evenly;
+				flex: 1 0 100%;
 	}
 	.footer-text .icons p{
 		font-size: calc(8px + (20 - 15) * ((100vw - 200px) / (1600 - 375)));
+		color: white;
 	}
 	.footer-text .icons a{
 		color: white;
