@@ -17,8 +17,6 @@ $(window).on("load", function() {
         autoplay: true,
         path: '/dev/data.json'
         });
-    }
-    if ($(".landing-back").is(":visible")) {
         $("#animBack2").css("top",$("#animBack").height());
     }
 });
