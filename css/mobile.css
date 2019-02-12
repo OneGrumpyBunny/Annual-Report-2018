@@ -1,4 +1,9 @@
 @media all and (max-width:414px) {
+	
+	#animBack2 {
+		display:none;
+	}
+	
 	body {
 		max-width:414px;
 		margin: 0;

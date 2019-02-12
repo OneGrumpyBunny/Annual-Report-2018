@@ -68,13 +68,8 @@ function menu() {
 /*************** ONLOAD ***************/
 
 $(window).on('load', function () {
-  if ($(".landing-back").is(":visible")) {
-    $("#animBack2").css("top",$("#animBack").height());
-  }
   menu();
-  $('.side-border').css('animation','sliderIn 1s 0s 1');
- 
-  
+  $('.side-border').css('animation','sliderIn 1s 0s 1');  
 });
 
 
