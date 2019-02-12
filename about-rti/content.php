@@ -70,7 +70,7 @@
                         Teena W. Piccione</a><br>Executive Vice President and Chief Information Officer
                     </li>
                     <li> <a href="https://www.rti.org/expert/g-edward-story" target="_blank">
-                        G. Edward Story</a><br>Executive Vice President, General Counsel & Corporate Secretary
+                        G. Edward Story</a><br>Executive Vice President, General Counsel and Corporate Secretary
                     </li>
                 </ul>
 				<p class="readmore"><!--<a href="">READ MORE </a>-->
