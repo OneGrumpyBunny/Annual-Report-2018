@@ -630,8 +630,8 @@
 	}
 }
 @media all and (min-width:1000px) {
-	#landing-div {
-		width:150%;
+	#living-div{
+		width: 150%;
 	}
 }
 @media all and (min-width:768px) { /* landscape orientation for tablets */
