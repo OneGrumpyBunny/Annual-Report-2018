@@ -52,7 +52,7 @@ include $REL_DIR.$INCL_DIR."meta-living.php";
                     Teena W. Piccione</a> Executive Vice President and Chief Information Officer
                 </li>
                 <li> <a href="https://www.rti.org/expert/g-edward-story" target="_blank">
-                    G. Edward Story</a> Executive Vice President, General Counsel & Corporate Secretary
+                    G. Edward Story</a> Executive Vice President, General Counsel and Corporate Secretary
                 </li>
             </ul>
         </div>
