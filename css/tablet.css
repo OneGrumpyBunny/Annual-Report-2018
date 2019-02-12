@@ -507,7 +507,11 @@
 		margin-bottom: .5rem;
 		color: #ffffff;
 	}
-
+	#elt ul {
+		margin: 0;
+		margin-block-start: 0;
+		margin-block-end: 0;
+	}
 	#elt-list a{
 		color: #99B1C5;
 	}
