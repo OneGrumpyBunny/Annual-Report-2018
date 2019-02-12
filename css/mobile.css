@@ -31,6 +31,17 @@
 		display:-ms-flexbox;
 		display:flex
 	}
+	.landingPageMobile h1 {
+		letter-spacing: calc(21px + (21 - 21) * ((100vw - 100px) / (1600 - 450)));
+		font-weight: 400;
+	}
+
+	.landingPageMobile h2 {
+		letter-spacing: calc(5px + (5 - 5) * ((100vw - 100px) / (1600 - 450)));
+	}
+	.landingPageMobile h3 {
+		letter-spacing: calc(3px + (3 - 3) * ((100vw - 100px) / (1600 - 450)));
+	}
 	.copyright p {
 		font-size: calc(10px + (18 - 10) * ((100vw - 350px) / (1600 - 350)));
     color: #fff;
