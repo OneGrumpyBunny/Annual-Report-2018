@@ -341,7 +341,7 @@
 	}
 	.footer-text .icons p{
 		font-size: calc(8px + (20 - 15) * ((100vw - 200px) / (1600 - 375)));
-		color: white;
+		color:#898989;
 	}
 	.footer-text .icons a{
 		color: white;
