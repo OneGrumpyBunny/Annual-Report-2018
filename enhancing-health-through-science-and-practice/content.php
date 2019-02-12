@@ -14,7 +14,7 @@
 				<p>Protecting Against HIV and Pregnancy with One Device</p><i class="fas fa-chevron-down crc-chevron" data-section="section1"></i>
 			</div>
 			<div id="section1" data-section="section1" class="acc-body">
-				<p>To help empower women in low- and middle-income countries and improve their health, the U.S. Agency for International Development, through the U.S. President’s Emergency Plan for AIDS Relief (PEPFAR), awarded RTI a $4.8-million cooperative agreement to develop a dual-purpose drug delivery device for both HIV and pregnancy prevention that can be successfully used in these settings.</p>
+				<p>In sub-Saharan Africa, women have among the highest fertility rates in the world. Unfortunately, they are also disproportionately at risk for HIV, a leading cause of illness and death among women of reproductive age.  To help empower women in low- and middle-income countries and improve their health, the U.S. Agency for International Development, through the U.S. President’s Emergency Plan for AIDS Relief (PEPFAR), awarded RTI a $4.8-million cooperative agreement to develop a dual-purpose drug delivery device for both HIV and pregnancy prevention that can be successfully used in these settings.</p>
 				<p class="readmore"><a href="https://www.rti.org/news/new-multipurpose-device-help-prevent-hiv-and-pregnancy" target="_blank">READ MORE </a>
 				<button style="float:right;" class="crc-close1 close" data-section="section1"><!--<i class="fas fa-times"></i>-->Close</button></p>
 			</div>
@@ -23,16 +23,16 @@
 				<p>Envisioning a World Without Tropical Diseases</p><i class="fas fa-chevron-down crc-chevron" data-section="section2"></i>
 			</div>
 			<div id="section2" data-section="section2" class="acc-body">
-				<p>One-sixth of the worldwide population—more than 1 billion people—suffers from one or more neglected tropical diseases. These diseases devastate the world’s most vulnerable populations, striking the almost exclusively poor and powerless people in rural areas and urban slums in low-income countries.</p>
+				<p>One-sixth of the worldwide population—more than 1 billion people—suffers from one or more neglected tropical diseases. These diseases devastate the world’s most vulnerable populations, striking almost exclusively the poor and powerless people in rural areas and urban slums in low-income countries.</p>
 				<p class="readmore"><a href="https://www.rti.org/impact/envision-world-free-neglected-tropical-diseases" target="_blank">READ MORE </a>
 				<button style="float:right;" class="crc-close2 close" data-section="section2"><!--<i class="fas fa-times"></i>-->Close</button></p>
 			</div>
 
 			<div id="section3Head" class="acc-head" data-section="section3">
-				<p>Stemming Chronic Diseases with Product Taxes</p><i class="fas fa-chevron-down crc-chevron" data-section="section3"></i>
+				<p>Stemming Chronic Diseases with Product Taxes?</p><i class="fas fa-chevron-down crc-chevron" data-section="section3"></i>
 			</div>
 			<div id="section3" data-section="section3" class="acc-body">
-				<p>Taxes on soft drinks, alcohol, and tobacco are a powerful response to rising rates of non-communicable diseases worldwide, according to the most comprehensive analysis to date of evidence on expenditure, behavior, and socioeconomic status, published in The Lancet.</p>
+				<p>Taxes on soft drinks, alcohol, and tobacco are a powerful response to rising rates of non-communicable diseases worldwide, according to the most comprehensive analysis to date of evidence on expenditure, behavior, and socioeconomic status, published in <em>The Lancet</em>.</p>
 				<p class="readmore"><a href="https://www.rti.org/news/taxes-soft-drinks-alcohol-and-tobacco-are-powerful-response-rising-rates-chronic-diseases"  target="_blank">READ MORE </a>
 				<button style="float:right;" class="crc-close3 close" data-section="section3"><!--<i class="fas fa-times"></i>-->Close</i></button></p>
 			</div>
@@ -41,7 +41,7 @@
 					<p>Speeding Treatment Times for Heart Attacks</p><i class="fas fa-chevron-down crc-chevron" data-section="section4"></i>
 			</div>
 			<div id="section4" data-section="section4" class="acc-body">
-				<p>In the wake of a severe heart attack, also known as an ST-elevation myocardial infarction, receiving effective treatment within several hours is crucial to reduce muscular damage and the risk of death. Effective treatment requires reperfusion (opening the blocked artery) using either thrombolytic medications or a more expensive (and more effective) percutaneous coronary intervention performed in a cardiac catheterization laboratory.</p>
+				<p>In the wake of a severe heart attack, also known as an ST-elevation myocardial infarction, receiving effective treatment within several hours is crucial to reduce muscular damage and the risk of death. Effective treatment requires reperfusion (opening the blocked artery) using either thrombolytic medications or a more expensive&mdash;and more effective&mdash;percutaneous coronary intervention performed in a cardiac catheterization laboratory. Given the need for rapid treatment, a few factors can mean the difference between life, death, and long-term disability. </p>
 				<p class="readmore"><a href="https://www.rti.org/impact/heartrescue-global-project"  target="_blank">READ MORE </a>
 				<button style="float:right;" class="crc-close4 close" data-section="section4"><!--<i class="fas fa-times"></i>-->Close</i></button></p>
 			</div>
