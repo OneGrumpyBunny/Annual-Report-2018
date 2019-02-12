@@ -23,9 +23,9 @@ $(window).on("load",function() {
 });
 
 $(window).on("resize",function() {
-    if ($(".landing-back").is(":visible")) {
+    
         $("#animBack2").css("top",$("#animBack").height());
-    }
+    
 });
 
 var relPath = "/dev/"
