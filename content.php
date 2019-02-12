@@ -11,7 +11,7 @@
 	<div class="innerContainerMob landingMob">
 		<div class="landingPageMobile">
 			<!--<img src="img/RTI_w_1in.png" class="logo">-->
-			<div style="width: calc(120%)">
+			<div>
 				<h1 style="letter-spacing: calc(21px + (21 - 21) * ((100vw - 100px) / (1600 - 450)));
 				font-weight: 400;">LIVING</h1>
 				<h2 style="letter-spacing: calc(5px + (5 - 5) * ((100vw - 100px) / (1600 - 450)))">our mission</h2>
@@ -37,9 +37,9 @@
 			<div class="landingPage">
 				<a href="http://www.rti.org"><img src="./img/RTI_w_1in.png" class="logo"></a>
 				<div style="padding-left:5%;">
-					<!--<h1>LIVING</h1>
+					<h1>LIVING</h1>
 					<h2>our mission</h2>
-					<h3>2018 annual report</h3>-->
+					<h3>2018 annual report</h3>
 				</div>
 			</div>
 		</div>
