@@ -366,6 +366,11 @@
 		        justify-content: space-evenly;
 		width: 200%;
 		overflow-x: scroll;
+		overflow: -moz-scrollbars-none;
+		-ms-overflow-style: none
+	}
+	.bog-flex::-webkit-scrollbar {
+		width: 0 !important
 	}
 	.bog-single{
 		padding: 0rem 1rem;
