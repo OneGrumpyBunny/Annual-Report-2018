@@ -17,6 +17,7 @@ $(window).on("load", function() {
         path: '/dev/data.json'
         
     });
-    }
     setTimeout(function() {$("#animBack2").css("top",$("#animBack").height());},800);
+    }
+    
 });
