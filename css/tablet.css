@@ -339,7 +339,7 @@
 		justify-content: space-between;
 		flex: 0 0 15%;
 	}
-	.footer-text .icons p{
+	#share{
 		font-size: calc(8px + (20 - 15) * ((100vw - 200px) / (1600 - 375)));
 		color:#898989;
 	}
