@@ -5,7 +5,6 @@
     } else {
         divPosition = 150;
     }
-    console.log("sliding to " + divPosition)
     $('html, body').animate({
       scrollTop: $(slideThis).offset().top - divPosition
     }, 1000);

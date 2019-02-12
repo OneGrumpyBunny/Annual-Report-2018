@@ -65,11 +65,3 @@ function menu() {
 
 }
 
-/*************** ONLOAD ***************/
-
-$(window).on('load', function () {
-  menu();
-  $('.side-border').css('animation','sliderIn 1s 0s 1');  
-});
-
-

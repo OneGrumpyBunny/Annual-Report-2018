@@ -13,13 +13,6 @@
 </div> <!-- end inner container -->
 
 </div> <!-- end container -->
-<script>
-$(window).on('load', function () {
-  if ($(".landing-back").is(":visible")) {
-    $("#animBack2").css("top",$("#animBack").height());
-  }
-});
-</script>
 
 <?php session_destroy();?>
 </body>

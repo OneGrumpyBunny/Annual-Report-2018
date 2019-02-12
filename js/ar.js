@@ -1,6 +1,9 @@
 
 
 $(window).on("load",function() {
+    menu();
+    $('.side-border').css('animation','sliderIn 1s 0s 1');
+
     $.urlParam = function (name) {
         var results = new RegExp('[\?&]' + name + '=([^&#]*)')
             .exec(window.location.search);
