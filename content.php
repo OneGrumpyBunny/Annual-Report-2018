@@ -36,7 +36,7 @@
 		<div class="column left">
 			<div class="landingPage">
 				<a href="http://www.rti.org"><img src="./img/RTI_w_1in.png" class="logo"></a>
-				<div style="padding-left:10%;">
+				<div>
 					<h1>LIVING</h1>
 					<h2>our mission</h2>
 					<h3>2018 annual report</h3>
