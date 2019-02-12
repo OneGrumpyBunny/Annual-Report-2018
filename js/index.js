@@ -17,6 +17,6 @@ $(window).on("load", function() {
         autoplay: true,
         path: '/dev/data.json'
         });
-        $("#animBack2").css("top",$("#animBack").height());
+        setTimeout(function() {$("#animBack2").css("top",$("#animBack").height());},800);
     }
 });
