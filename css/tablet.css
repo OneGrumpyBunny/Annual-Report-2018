@@ -295,7 +295,7 @@
 		display: flex;
 		-webkit-box-orient: horizontal;
 		-webkit-box-direction: normal;
-		flex-flow: column;
+		flex-flow:row;
 		-webkit-box-pack: justify;
 		    -ms-flex-pack: justify;
 		        justify-content: space-between;
@@ -331,7 +331,7 @@
 	.footer-text .icons{
 		    align-self: baseline;
 		display: flex;
-		flex-flow: column;
+		flex-flow: row;
 		justify-content: space-evenly;
 		flex: 0 0 15%;
 	}
