@@ -6,6 +6,7 @@
 <body class="thrive-back">
 <div class="container">
 <div id="animBack"></div>
+<div id="animBack2"></div>
 	
 	
 	<script type='text/javascript' src='../js/lottie.js'></script>
