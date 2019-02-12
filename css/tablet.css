@@ -499,7 +499,7 @@
 	}
 	#elt .light{
 		width: 100%;
-		font-size:calc(8px + (20 - 14) * ((100vw - 350px) / (1600 - 375)));
+		font-size:calc(9px + (20 - 14) * ((100vw - 350px) / (1600 - 375)));
 		line-height:calc(10px + (20 - 14) * ((100vw - 350px) / (1600 - 375)));
 		margin: 0;
 		margin-block-start: 0rem;
