@@ -43,12 +43,12 @@
 		letter-spacing: calc(3px + (3 - 3) * ((100vw - 100px) / (1600 - 450)));
 	}
 	.copyright p {
-		font-size: calc(10px + (18 - 10) * ((100vw - 350px) / (1600 - 350)));
+		font-size: calc(10px + (18 - 10) * ((100vw - 350px) / (1600 - 450)));
     color: #fff;
 	}
 
 	.light {
-		font-size: calc(22px + (20 - 22) * ((100vw - 350px) / (1600 - 375)));
+		font-size: calc(22px + (20 - 22) * ((100vw - 350px) / (1600 - 450)));
 	}
 	.innerContainer {
 		display:none;
@@ -110,6 +110,10 @@
 	}
 	.icons a {
 		color: #ffffff;
+	}
+	.share {
+		color: #fff;
+    font-size: calc(10px + (18 - 10) * ((100vw - 350px) / (1600 - 450)));
 	}
 	section {
 		z-index: 1;
