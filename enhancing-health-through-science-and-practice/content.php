@@ -29,7 +29,7 @@
 			</div>
 
 			<div id="section3Head" class="acc-head" data-section="section3">
-				<p>Stemming Chronic Diseases with Product Taxes?</p><i class="fas fa-chevron-down crc-chevron" data-section="section3"></i>
+				<p>Stemming Chronic Diseases with Product Taxes</p><i class="fas fa-chevron-down crc-chevron" data-section="section3"></i>
 			</div>
 			<div id="section3" data-section="section3" class="acc-body">
 				<p>Taxes on soft drinks, alcohol, and tobacco are a powerful response to rising rates of non-communicable diseases worldwide, according to the most comprehensive analysis to date of evidence on expenditure, behavior, and socioeconomic status, published in The Lancet.</p>
