@@ -1,13 +1,18 @@
-
+/*  **************************************************** */
+/*                WRITTEN BY CHERYL VELEZ                */
+/*                   RTI International                   */
+/*                  Released on 2/14/2019                */    
+/*        Produced for the RTI 2018 Annual Report        */
+/*             https://annualreport.rti.org/             */
+/*  **************************************************** */
 
 $(window).on("load",function() {
     menu();
     $('.side-border').css('animation','sliderIn 1s 0s 1');
 
-    $.urlParam = function (name) {
+    /*$.urlParam = function (name) {
         var results = new RegExp('[\?&]' + name + '=([^&#]*)')
             .exec(window.location.search);
-    
         return (results !== null) ? results[1] || 0 : false;
     }
     
@@ -15,20 +20,15 @@ $(window).on("load",function() {
         expandThisID = "section1";
         slideThis = "#section1Head";
         chevron = $('i[data-section=section1');
-    
-        /* toggle clicked accordian and slide it into position*/
-
         toggleACC(chevron,expandThisID);   
-    }
+    }*/
 });
 
 $(window).on("resize",function() {
-    
-        $("#animBack2").css("top",$("#animBack").height());
-    
+    $("#animBack2").css("top",$("#animBack").height());
 });
 
-var relPath = "/dev/"
+var relPath = "/2018/"
 $(document).ready(function() {
 		$(".about").click(function() {
 			window.location.href=relPath + "about-rti/";
@@ -105,10 +105,4 @@ $(document).ready(function() {
 		});
     });
 
-    // sticky active headers on mobile view 
-    /*$(window).scroll(function(){
-        if ($(".makeSticky").scrollTop() = 170) {
-            $('.makeSticky').css("position","fixed");
-        }
-    });*/
 });

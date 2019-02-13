@@ -15,7 +15,7 @@ include $REL_DIR.$INCL_DIR."meta-safe.php";
 
 
         <div>
-		<a href="http://www.rti.org"><img src="../img/RTI_w_1in.png" class="logo"></a>
+		<a href="http://www.rti.org" target="_blank"><img src="../img/RTI_w_1in.png" class="logo"></a>
             <h1>School Safety&nbsp;Studies</h1>
             <h2>Helping schools prevent and respond to incidents of&nbsp;violence</h2>
             <p class="light">Building on our history of work that improves the effectiveness of schools and the justice system, RTI is engaged in several efforts to improve safety through a better understanding of violence and mental health and the best methods of preparedness, prevention, and response to violent&nbsp;incidents.</p>

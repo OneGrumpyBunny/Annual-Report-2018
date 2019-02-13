@@ -13,7 +13,7 @@ include $REL_DIR.$INCL_DIR."meta-living.php";
     <div class="living-our-mission-page">
         <!--- update content below this line --->
         <div>
-            <a href="http://www.rti.org"><img src="../img/RTI_w_1in.png" class="logo"></a>
+            <a href="http://www.rti.org" target="_blank"><img src="../img/RTI_w_1in.png" class="logo"></a>
             <!-- <img src="../img/RTI_w_1in.png" class="logo"> -->
             <h1>Meet RTI's Board of Governors</h1>
             <h2> Members of the Corporation</h2>

@@ -15,7 +15,7 @@ include $REL_DIR.$INCL_DIR."meta-planet.php";
 
 
         <div>
-        <a href="http://www.rti.org"><img src="../img/RTI_w_1in.png" class="logo"></a>
+        <a href="http://www.rti.org" target="_blank"><img src="../img/RTI_w_1in.png" class="logo"></a>
             <h1>Effective Water, Sanitation,<br>and Hygiene Services<br>in Nigeria&nbsp;(E-WASH)</h1>
             <h2>Working with state water boards to deliver better urban services to the Nigerian&nbsp;people</h2>
             <p class="light">Of Nigeria’s population of nearly 300 million people, 71 million do not have access to clean water and 130 million do not have access to basic sanitation. This lack of water, sanitation, and hygiene services—exacerbated by accelerated urbanization, poor cost recovery, and weak governance and institutional frameworks—adversely affects Nigerian citizens’ health, as well as their access to educational and economic opportunities and their work efficiency and labor&nbsp;productivity.</p>

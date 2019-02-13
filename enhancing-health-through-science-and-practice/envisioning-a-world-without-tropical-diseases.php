@@ -14,7 +14,7 @@ include $REL_DIR.$INCL_DIR."meta-health.php";
         <!--- update content below this line --->
         
         <div>
-        <a href="http://www.rti.org"><img src="../img/RTI_w_1in.png" class="logo"></a>
+        <a href="http://www.rti.org" target="_blank"><img src="../img/RTI_w_1in.png" class="logo"></a>
             <h1>ENVISION: A World Free of Neglected Tropical&nbsp;Diseases</h1>
             <h2>Controlling and eliminating seven neglected tropical diseases in low-income countries around the&nbsp;world</h2>
             <p class="light">One-sixth of the worldwide population—more than 1 billion people—suffers from one or more neglected tropical diseases. These diseases devastate the world’s most vulnerable populations, striking almost exclusively the poor and powerless people in rural areas and urban slums in low-income&nbsp;countries.</p>

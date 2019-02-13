@@ -15,7 +15,7 @@ include $REL_DIR.$INCL_DIR."meta-safe.php";
 
 
         <div>
-		<a href="http://www.rti.org"><img src="../img/RTI_w_1in.png" class="logo"></a>
+		<a href="http://www.rti.org" target="_blank"><img src="../img/RTI_w_1in.png" class="logo"></a>
             <h1>Stress Reduction Programs for Police&nbsp;Officers</h1>
             <h2>What needs to&nbsp;change</h2>
             <p class="light">Police work can have negative effects on officers’ physical health, mental health, and work/life issues—such as work/family conflict and problems in relationships. For law enforcement agencies, officer stress manifests as increased absenteeism; turnover; and declines in performance—including slower reaction time; poorer decision-making ability; and an increased number of complaints, policy violations, and misconduct&nbsp;allegations.</p>

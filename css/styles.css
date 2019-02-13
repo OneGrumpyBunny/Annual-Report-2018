@@ -66,16 +66,31 @@ a {
     -o-transition: opacity .5s ease-in;
     transition: opacity .5s ease-in;
 }
+#landing #animBack{
+    position: fixed; 
+    opacity: 0.7; 
+    max-width: 1600px;
+    width:100%;
+}
+#landing #animBack2 {
+    position: fixed;
+    opacity: 0.6;
+    max-width: 1600px;
+    width: 100%;
+    top: 614px;
+    margin-top:-7px;
+}
+
 #animBack {
     position: fixed; 
-    opacity: 0.5; 
+    opacity: 0.6; 
     max-width: 1600px;
     width:100%;
     
 }
 #animBack2 {
     position: fixed;
-    opacity: 0.5;
+    opacity: 0.6;
     max-width: 1600px;
     width: 100%;
     top: 614px;

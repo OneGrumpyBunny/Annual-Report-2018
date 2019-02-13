@@ -4,7 +4,7 @@
 
 <!-- visible on mobile -->
 	<div class="fixed-header">
-	<a href="http://www.rti.org"><img src="../img/RTI_w_1in.png" class="logo"></a>
+	<a href="http://www.rti.org" target="_blank"><img src="../img/RTI_w_1in.png" class="logo"></a>
 		<p class="mobileHead mobileHeadPlanet">Protecting the Planet</p>
 	</div>
 	<div class="innerContainerMob planetMob">
@@ -70,7 +70,7 @@
 	<div class="column left flex">
 	<div class="protecting-the-planet">
 		<div>
-		<a href="http://www.rti.org"><img src="../img/RTI_w_1in.png" class="logo"></a>
+		<a href="http://www.rti.org" target="_blank"><img src="../img/RTI_w_1in.png" class="logo"></a>
 			<h1>Protecting the Planet</h1>
 			<p class="light">From reducing carbon emissions to developing renewable energy sources to ensuring clean drinking water, the challenges facing the environment affect us all as citizens of the planet and require science-based solutions that span social science, laboratory research, engineering, and program delivery. Our multidisciplinary approach ensures that the answers we need for all our tomorrows can be uncovered&nbsp;today.</p>
 		</div>

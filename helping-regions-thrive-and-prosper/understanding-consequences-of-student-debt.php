@@ -15,7 +15,7 @@ include $REL_DIR.$INCL_DIR."meta-thrive.php";
 
 
         <div>
-        <a href="http://www.rti.org"><img src="../img/RTI_w_1in.png" class="logo"></a>
+        <a href="http://www.rti.org" target="_blank"><img src="../img/RTI_w_1in.png" class="logo"></a>
             <h1>New Report Details Experiences of Graduates with Student Loan Debt During the Great&nbsp;Recession</h1>
             <h2>Decisions delayed; employment choices made based on the cost of&nbsp;education</h2>
             <p class="light">A new report prepared by RTI for the National Center for Education Statistics provides important insights about rising student debt and its consequences for students who graduated from college during the Great&nbsp;Recession.</p>
