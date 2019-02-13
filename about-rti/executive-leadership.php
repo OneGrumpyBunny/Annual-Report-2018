@@ -8,7 +8,7 @@ include $REL_DIR.$INCL_DIR."meta-living.php";
 <img src="img/filter-back.png" class="sectionBack">
 	<div class="innerContainer">
 <div class="column left flex">
-    <div class="living-our-mission-page">
+    <div class="living-our-mission-page" id="elt">
 
     
         <!--- update content below this line --->
@@ -52,7 +52,7 @@ include $REL_DIR.$INCL_DIR."meta-living.php";
                     Teena W. Piccione</a> Executive Vice President and Chief Information Officer
                 </li>
                 <li> <a href="https://www.rti.org/expert/g-edward-story" target="_blank">
-                    G. Edward Story</a> Executive Vice President, General Counsel & Corporate Secretary
+                    G. Edward Story</a> Executive Vice President, General Counsel and Corporate Secretary
                 </li>
             </ul>
         </div>

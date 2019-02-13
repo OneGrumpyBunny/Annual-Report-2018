@@ -23,7 +23,7 @@
 
 				<p>With a stellar year behind us, it is exciting to look ahead and imagine where our work will take us. I am proud of our 2018 accomplishments and, more important, our people, who live RTI’s mission every day to make the world a better place. </p>
 
-				<p>Wayne E. Holden, President and CEO</p>
+				<p>E. Wayne Holden, President and CEO</p>
 				<p>RTI International</p></p>
 				<p class="readmore"><!--<a href="">READ MORE </a>-->
 				<button style="float:right;" class="crc-close1 close" data-section="section1"><!--<i class="fas fa-times"></i>-->Close</button></p>
@@ -45,32 +45,32 @@
 				
                 <ul id="elt-list">
                     
-                    <li> <a href="https://www.rti.org/expert/lisa-may" target="_blank">
-                        Lisa May</a><br>Executive Vice President, Human Resources and Corporate Communications
-                    </li>
-                    <li> <a href="https://www.rti.org/expert/paul-weisenfeld" target="_blank">
-                        Paul Weisenfeld</a><br>Executive Vice President, International Development
-                    </li>
-                    <li> <a href="https://www.rti.org/expert/michael-h-kaelin-jr" target="_blank">
-                        Michael H. Kaelin, Jr.</a><br>Executive Vice President and Chief Financial Officer
-                    </li>
-                    <li> <a href="https://www.rti.org/expert/tim-gabel" target="_blank">
-                        Tim J. Gabel</a><br>Executive Vice President, Social, Statistical, and Environmental Sciences 
-                    </li>
-                    <li> <a href="https://www.rti.org/expert/allen-w-mangel" target="_blank">
-                        Allen W. Mangel</a><br>Executive Vice President, RTI Health Solutions and Discovery Sciences
-                    </li>
                     <li> <a href="https://www.rti.org/expert/e-wayne-holden" target="_blank">
                         E. Wayne Holden</a><br>President and CEO, RTI International
                     </li>
                     <li> <a href="https://www.rti.org/expert/james-j-gibson" target="_blank">
                         James J. Gibson</a><br>Executive Vice President and Chief Operating Officer
                     </li>
-                    <li> <a href="https://www.rti.org/expert/teena-piccione" target="_blank">
-                        Teena W. Piccione</a><br>Executive Vice President and Chief Information Officer
+                    <li> <a href="https://www.rti.org/expert/tim-gabel" target="_blank">
+                        Tim J. Gabel</a><br>Executive Vice President, Social, Statistical, and Environmental Sciences 
+                    </li>
+                    <li> <a href="https://www.rti.org/expert/paul-weisenfeld" target="_blank">
+                        Paul Weisenfeld</a><br>Executive Vice President, International Development
+                    </li>
+                    <li> <a href="https://www.rti.org/expert/allen-w-mangel" target="_blank">
+                        Allen W. Mangel</a><br>Executive Vice President, RTI Health Solutions and Discovery Sciences
+                    </li>
+                    <li> <a href="https://www.rti.org/expert/lisa-may" target="_blank">
+                        Lisa May</a><br>Executive Vice President, Human Resources and Corporate Communications
+                    </li>
+                    <li> <a href="https://www.rti.org/expert/michael-h-kaelin-jr" target="_blank">
+                        Michael H. Kaelin, Jr.</a><br>Executive Vice President and Chief Financial Officer
                     </li>
                     <li> <a href="https://www.rti.org/expert/g-edward-story" target="_blank">
-                        G. Edward Story</a><br>Executive Vice President, General Counsel & Corporate Secretary
+                        G. Edward Story</a><br>Executive Vice President, General Counsel and Corporate Secretary
+                    </li>
+                    <li> <a href="https://www.rti.org/expert/teena-piccione" target="_blank">
+                        Teena W. Piccione</a><br>Executive Vice President and Chief Information Officer
                     </li>
                 </ul>
 				<p class="readmore"><!--<a href="">READ MORE </a>-->
@@ -95,48 +95,63 @@
                     <li><strong>Harry L. Smith&nbsp;Jr.</strong>
                                 <br>
                                 Businessman, Representative of the Board, The University of North Carolina&nbsp;System</li>
-                    <li><strong>Peter M. Scott&nbsp;III&nbsp;(Chair)</strong>
-                                <br>
-                                Former CFO, Progress Energy; Former President and CEO, Progress Energy Services&nbsp;Company</li>
-                    <li><strong>Thomas F.&nbsp;Darden</strong>
-                                <br>
-                                President and Chief Executive Officer, Cherokee Investment&nbsp;Partners</li>
-                    <li><strong>Robert A.&nbsp;Ingram</strong>
-                                <br>
-                                General Partner, Hatteras Venture Partners; Former CEO,&nbsp;GlaxoWellcome</li>
-                    <li><strong>Terry&nbsp;Magnuson</strong>
-                                <br>
-                                Vice Chancellor for Research, University of North Carolina at Chapel&nbsp;Hill</li>
-                    <li><strong> W.G. Champion&nbsp;Mitchell</strong><br>
-                                Former CEO, Network&nbsp;Solutions</li>
-                    <li><strong>William M. Moore&nbsp;Jr.</strong>
-                                <br>
-                                Retired CEO, Trident Financial&nbsp;Corporation</li>
-                    <li><strong>Alan H.&nbsp;Rebar</strong>
-                                <br>
-                                Vice Chancellor for Research, Innovation and Economic Development, North Carolina State&nbsp;University</li>
-                    <li><strong>Clinton P.&nbsp;Carter</strong>
-                                <br>
-                                Senior Vice President for Finance & Administration and Chief Financial Officer, The University of North Carolina&nbsp;System</li>
+                </ul>
+                <h2>Board of Governors</h2>
+
+                <ul id="bog-list">
                     <li><strong>Larry&nbsp;Carin</strong>
                                 <br>
                                 Vice Provost of Research, Duke&nbsp;University</li>
-                    <li><strong><a href="https://www.rti.org/expert/e-wayne-holden" targer="_blank" style="color:#99B1C5">E. Wayne Holden</a></strong><br>
+
+                    <li><strong>Clinton P.&nbsp;Carter</strong>
+                                <br>
+                                Senior Vice President for Finance & Administration and Chief Financial Officer, The University of North Carolina&nbsp;System</li>
+
+                    <li><strong>Thomas F.&nbsp;Darden</strong>
+                                <br>
+                                President and Chief Executive Officer, Cherokee Investment&nbsp;Partners</li>
+
+                    <li><strong>E. Wayne Holden</strong><br>
                                 President and CEO, RTI&nbsp;International</li>
+
+                    <li><strong>Robert A.&nbsp;Ingram</strong>
+                                <br>
+                                General Partner, Hatteras Venture Partners; Former CEO,&nbsp;GlaxoWellcome</li>
+
                     <li><strong> Peter&nbsp;Lange</strong><br>
                                 Thomas&nbsp;A.&nbsp;Langford&nbsp;University Professor of Political Science and Public Policy, Provost Emeritus, Duke&nbsp;University</li>
+
+                    <li><strong>Terry&nbsp;Magnuson</strong>
+                                <br>
+                                Vice Chancellor for Research, University of North Carolina at Chapel&nbsp;Hill</li>
+
                     <li><strong>Harold L. Martin&nbsp;Sr.</strong><br>
                                 Chancellor, North Carolina A&T State&nbsp;University</li>
+
+                    <li><strong> W.G. Champion&nbsp;Mitchell</strong><br>
+                                Former CEO, Network&nbsp;Solutions</li>
+
                     <li><strong>John H.&nbsp;Moellering</strong><br>
                                 Chairman Emeritus,&nbsp;USAA</li>
+                                
+                    <li><strong>William M. Moore&nbsp;Jr.</strong>
+                                <br>
+                                Retired CEO, Trident Financial&nbsp;Corporation</li>
+
+                    <li><strong>Peter M. Scott&nbsp;III&nbsp;(Chair)</strong>
+                                <br>
+                                Former CFO, Progress Energy; Former President and CEO, Progress Energy Services&nbsp;Company</li>
+
                     <li><strong>Hilda&nbsp;Pinnix-Ragland</strong><br>
                                 Former Energy Executive, Duke Energy; Managing Director, AHK Global Resources,&nbsp;LLC</li>
+
                     <li><strong>Christy&nbsp;Shaffer</strong><br>
                                 General Partner, Hatteras Venture&nbsp;Partners</li>
                 </ul> 
-            </div><!-- end flex -->
-				<p class="readmore"><!--<a href="">READ MORE </a>-->
+                <p class="readmore"><!--<a href="">READ MORE </a>-->
 				<button style="float:right;" class="crc-close4 close" data-section="section4"><!--<i class="fas fa-times"></i>-->Close</i></button></p>
+            </div><!-- end flex -->
+				
 		<!--</div>-->
 
 		</section>
