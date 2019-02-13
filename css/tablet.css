@@ -530,11 +530,9 @@
 		        margin-block-start: 0;
 		-webkit-margin-after: 0;
 		        margin-block-end: 0;
-<<<<<<< HEAD
+		/*margin-bottom: 2rem;*/
 		margin-bottom: 1.5rem;
-=======
-		margin-bottom: 2rem;
->>>>>>> parent of 9ea08af... elt
+		margin-top: 1rem;
 	}
 	#elt-list{
 		-webkit-margin-before: 0;
