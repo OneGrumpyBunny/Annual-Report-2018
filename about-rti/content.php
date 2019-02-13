@@ -26,7 +26,7 @@
 				<p>E. Wayne Holden, President and CEO</p>
 				<p>RTI International</p></p>
 				<p class="readmore"><!--<a href="">READ MORE </a>-->
-				<button style="float:right;" class="crc-close1 close" data-section="section1"><!--<i class="fas fa-times"></i>-->Close</button></p>
+				<button style="float:right;margin-bottom: .7rem;" class="crc-close1 close" data-section="section1"><!--<i class="fas fa-times"></i>-->Close</button></p>
 			</div>
 
 			<div id="section2Head" class="acc-head" data-section="section2">
