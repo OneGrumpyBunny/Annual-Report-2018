@@ -5,7 +5,7 @@
 
 	<!-- visible on mobile -->
 	<div class="fixed-header">
-	<a href="http://www.rti.org"><img src="../img/RTI_w_1in.png" class="logo"></a>
+	<a href="http://www.rti.org" target="_blank"><img src="../img/RTI_w_1in.png" class="logo"></a>
 		<p class="mobileHead mobileHeadAbout">About RTI</p>
 	</div>
 	<div class="innerContainerMob aboutMob">
@@ -162,7 +162,7 @@
 	<div class="column left flex">
 		<div class="living-our-mission">
 			<div>
-			<a href="http://www.rti.org"><img src="../img/RTI_w_1in.png" class="logo"></a>
+			<a href="http://www.rti.org" target="_blank"><img src="../img/RTI_w_1in.png" class="logo"></a>
 				<h1>About RTI</h1>
 				<p class="light">At RTI International, our work is driven by scientific rigor, objective research, and technical expertise. But the underlying force that propels us forward is an unwavering commitment to our mission: improving the human condition by turning knowledge into practice. Together, we explore new ideas and seek solutions to critical issues facing people everywhere. In our 2018 annual report, we invite you to learn how we are living our mission as we strive to deliver the promise of science for global good.</p>
 				<ul>

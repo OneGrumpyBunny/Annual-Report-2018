@@ -11,7 +11,7 @@ include $REL_DIR.$INCL_DIR."meta-thrive.php";
     <div class="thrive-and-prosper-page">  
         <!--- update content below this line --->
         <div>
-        <a href="http://www.rti.org"><img src="../img/RTI_w_1in.png" class="logo"></a>
+        <a href="http://www.rti.org" target="_blank"><img src="../img/RTI_w_1in.png" class="logo"></a>
             <h1>Building a Stronger&nbsp;Haiti</h1>
             <h2>Developing employment opportunities in<br>high-potential&nbsp;industries </h2>
             <p class="light">Achieving economic and social stability in the face of natural disasters and other longstanding difficulties is a crucial challenge for Haiti, the poorest nation in the Western Hemisphere and one in which more than two-thirds of workers do not have formal jobs. In 2013, the U.S. Agency for International Development chose RTI to lead a strategic enterprise and workforce development program for Haiti. This effort, known as Haiti Local Enterprise and Value Chain Enhancement, or Haiti LEVE, is designed to stimulate job creation by building up enterprises in agribusiness, apparel and textiles, and&nbsp;construction.</p>

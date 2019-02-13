@@ -14,7 +14,7 @@ include $REL_DIR.$INCL_DIR."meta-health.php";
         <!--- update content below this line --->
         
         <div>
-        <a href="http://www.rti.org"><img src="../img/RTI_w_1in.png" class="logo"></a>
+        <a href="http://www.rti.org" target="_blank"><img src="../img/RTI_w_1in.png" class="logo"></a>
             <h1>The HeartRescue Global&nbsp;Project</h1>
             <h2>Speeding the time to treatment for severe heart&nbsp;attacks</h2>
             <p class="light">In the wake of a severe heart attack, also known as an ST-elevation myocardial infarction, receiving effective treatment within several hours is crucial to reduce muscular damage and the risk of death. Effective treatment requires reperfusion (opening the blocked artery) using either thrombolytic medications or a more expensive—and more effective—percutaneous coronary intervention performed in a cardiac catheterization laboratory. Given the need for rapid treatment, a few factors can mean the difference between life, death, &nbsp;and long-term&nbsp;disability.</p>

@@ -15,7 +15,7 @@ include $REL_DIR.$INCL_DIR."meta-thrive.php";
 
 
         <div>
-        <a href="http://www.rti.org"><img src="../img/RTI_w_1in.png" class="logo"></a>
+        <a href="http://www.rti.org" target="_blank"><img src="../img/RTI_w_1in.png" class="logo"></a>
             <h1>Electricity Assistance in the Growth, Enterprise, Employment, and Livelihoods (GEEL)&nbsp;Program</h1>
             <h2>Modernizing the electric utility system in&nbsp;Somalia</h2>
             <p class="light">When Hargeisa, the capital of Somaliland, was destroyed by war in the late 1980s, the electricity infrastructure was reduced to rubble as well. Business owners who needed to power restaurants, cafés, and factories installed onsite diesel generators and then extended distribution lines to their neighbors. Recognizing the difficulty of achieving economic growth without reliable electricity, USAID launched an energy activity through the GEEL&nbsp;program.</p>

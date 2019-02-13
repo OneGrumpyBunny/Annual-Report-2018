@@ -14,7 +14,7 @@ include $REL_DIR.$INCL_DIR."meta-health.php";
         <!--- update content below this line --->
         
         <div>
-        <a href="http://www.rti.org"><img src="../img/RTI_w_1in.png" class="logo"></a>
+        <a href="http://www.rti.org" target="_blank"><img src="../img/RTI_w_1in.png" class="logo"></a>
             <h1>Taxes on Soft Drinks, Alcohol, and&nbsp;Tobacco?</h1>
             <h2>A powerful response to rise of chronic&nbsp;disease</h2>
             <p class="light">Taxes on soft drinks, alcohol, and tobacco are a powerful response to rising rates of non-communicable diseases worldwide, according to the most comprehensive analysis to date of evidence on expenditure, behavior, and socioeconomic status, published in <i>The&nbsp;Lancet</i>.</p>
