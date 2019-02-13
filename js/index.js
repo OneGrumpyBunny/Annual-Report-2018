@@ -14,7 +14,7 @@ $(window).on("load", function() {
         renderer: 'svg',
         loop: true,
         autoplay: true,
-        path: '/dev/data.json'
+        path: '/data.json'
         
     });
     setTimeout(function() {$("#animBack2").css("top",$("#animBack").height());},800);
