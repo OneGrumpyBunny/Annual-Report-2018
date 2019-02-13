@@ -1,3 +1,12 @@
+/*  **************************************************** */
+/*                WRITTEN BY CHELSEA GIECK               */
+/*                   RTI International                   */
+/*                  Released on 2/14/2019                */    
+/*        Produced for the RTI 2018 Annual Report        */
+/*             https://annualreport.rti.org/             */
+/*  **************************************************** */
+
+
 /*************** MENU ***************/
 function pageJump (thisLink) {
   if ($('body').hasClass("active")) {
@@ -39,12 +48,7 @@ function toggleMenu () {
 }
 
 function menu() {
-  'use strict';
-  /*$('#pull').click(function() {
-    console.log("PULL!");
-    toggleMenu();  // pull opens and closes
-  });*/
-  
+  'use strict';  
   
   $('header').click(function() {
     toggleMenu();    // header only opens menu

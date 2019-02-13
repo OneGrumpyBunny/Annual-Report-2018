@@ -1,4 +1,12 @@
+/*  **************************************************** */
+/*       WRITTEN BY CHERYL VELEZ AND CHELSEA GIECK       */
+/*                   RTI International                   */
+/*                  Released on 2/14/2019                */    
+/*        Produced for the RTI 2018 Annual Report        */
+/*             https://annualreport.rti.org/             */
+/*  **************************************************** */
 
+  // slide active accordion header up to position 
   function slideACC () {
     if ($("section").parent().attr("class") == "innerContainerMob thriveMob") {
        divPosition = 180;  // thriveMob header is longer
@@ -11,7 +19,6 @@
   }
   
   // close open accordions
-
   function closeACC() {
     $(".acc-body").each(function() {
       if ($(this).data("section") != expandThisID && $(this).is(":visible")) {
@@ -36,9 +43,7 @@
         $(thisChevron).css("transform","rotate(-180deg)");
     }
 		$("#"+thisID).slideToggle( 600, "swing", function() {
-      
-    /* slide active accordion header up to position */
-
+    
     setTimeout(slideACC(),800);
 		});
   }
@@ -54,15 +59,8 @@ $(document).ready(function() {
     
     expandThisID = $(this).data("section");
     slideThis = "#"+expandThisID+"Head";
-    //var thisHead = $('.acc-head[data-section=' + expandThisID +']');
     chevron = $('i[data-section=' + expandThisID +']');
-    
-    // close open accordions
-    
     closeACC()
-
-    /* toggle clicked accordian and slide it into position*/
-
     toggleACC(chevron,expandThisID);   
 
     
@@ -72,7 +70,6 @@ $(document).ready(function() {
 	$('.close').click(function() { // fa-times class
 		$(this).addClass("crc-close-anim");
 		var collapseThisID = $(this).data("section");
-    //console.log(collapseThisID);
 		var chevron = $('i[data-section=' + collapseThisID +']');
 		var thisHead = $('.acc-head[data-section=' + collapseThisID +']');
 		toggleACC(chevron,collapseThisID,thisHead)	
