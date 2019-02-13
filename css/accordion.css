@@ -6,7 +6,7 @@
     -ms-flex-item-align: center;
     -ms-grid-row-align: center;
     align-self: center;
-    font-size: 1rem;
+    font-size: 1.1rem;
     max-width: 10%;
 }
 
@@ -76,7 +76,7 @@
 .acc-head p {
     color: #fff;
     font-weight: 300;
-    font-size: 1rem;
+    font-size: 1.1rem;
     padding: 0;
     margin: 0;
 }
@@ -89,7 +89,7 @@
   text-align:center;*/
 }
 .acc-body p {
-    font-size: 1rem;
+    font-size: 1.1rem;
     margin-top: 0;
 }
 p {
