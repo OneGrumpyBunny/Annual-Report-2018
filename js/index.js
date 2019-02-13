@@ -6,7 +6,7 @@ $(window).on("load", function() {
         renderer: 'svg',
         loop: true,
         autoplay: true,
-        path: '/data.json'
+        path: '/2018/data.json'
         });
     
         var animation2 = lottie.loadAnimation({
@@ -14,7 +14,7 @@ $(window).on("load", function() {
         renderer: 'svg',
         loop: true,
         autoplay: true,
-        path: '/data.json'
+        path: '/2018/data.json'
         
     });
     setTimeout(function() {$("#animBack2").css("top",$("#animBack").height());},800);
