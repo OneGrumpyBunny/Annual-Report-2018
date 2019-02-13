@@ -82,7 +82,7 @@ $(document).ready(function() {
 
 $(window).scroll(function () {
   if ($(window).scrollTop() > 0) {
-    $(".fixed-header").css("background","rgb(14, 24, 36)");
+    $(".fixed-header").css("background","rbg(24, 37, 53)");
   } else {
     $(".fixed-header").css("background","transparent");
   }
