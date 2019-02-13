@@ -28,7 +28,6 @@
 					<a href="https://www.linkedin.com/shareArticle?mini=true&url=http%3A//annualreport.rti.org/2018&title=RTI%20Annual%20Report%202018&summary=&source=" target="_blank"><i class="fab fa-linkedin"></i></a>
 					<a href="https://www.facebook.com/sharer/sharer.php?u=http%3A//annualreport.rti.org/2018" target="_blank"><i class="fab fa-facebook-square"></i></a>
 				</div>
-				<div><a href="/2018/about-rti/message-from-president.php" class="yellowlink light">A Message from the<br>President of RTI</a><br><br><a href="/2018/about-rti/" class="light">Read More</a></div>
 			</div>
 		</div>
 	</div>
