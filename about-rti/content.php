@@ -35,7 +35,7 @@
 			<div id="section2" data-section="section2" class="acc-body">
 				<p><img src="img/AtaGlanceMobile-01.png" style="width:100%;"></p>
 				<p class="readmore"><!--<a href="">READ MORE </a>-->
-				<button style="float:right;" class="crc-close2 close" data-section="section2"><!--<i class="fas fa-times"></i>-->Close</button></p>
+				<button style="float:right;margin-bottom: .7rem;" class="crc-close2 close" data-section="section2"><!--<i class="fas fa-times"></i>-->Close</button></p>
 			</div>
 
 			<div id="section3Head" class="acc-head" data-section="section3">
@@ -74,7 +74,7 @@
                     </li>
                 </ul>
 				<p class="readmore"><!--<a href="">READ MORE </a>-->
-				<button style="float:right;" class="crc-close3 close" data-section="section3"><!--<i class="fas fa-times"></i>-->Close</i></button></p>
+				<button style="float:right;margin-bottom: .7rem;" class="crc-close3 close" data-section="section3"><!--<i class="fas fa-times"></i>-->Close</i></button></p>
 			</div>
 
 			<div id="section4Head" class="acc-head" data-section="section4">
@@ -149,7 +149,7 @@
                                 General Partner, Hatteras Venture&nbsp;Partners</li>
                 </ul> 
                 <p class="readmore"><!--<a href="">READ MORE </a>-->
-				<button style="float:right;" class="crc-close4 close" data-section="section4"><!--<i class="fas fa-times"></i>-->Close</i></button></p>
+				<button style="float:right;margin-bottom: .7rem;" class="crc-close4 close" data-section="section4"><!--<i class="fas fa-times"></i>-->Close</i></button></p>
             </div><!-- end flex -->
 				
 		<!--</div>-->
