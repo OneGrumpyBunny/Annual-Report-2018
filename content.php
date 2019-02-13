@@ -34,7 +34,7 @@
 	<!-- hidden on mobile -->
 	<div class="innerContainer">
 		<div class="column left">
-			<div class="landingPage">
+			<div class="landingPage" id="landing">
 				<a href="http://www.rti.org" target="_blank"><img src="./img/RTI_w_1in.png" class="logo"></a>
 				<div id="living-div">
 					<h1>LIVING</h1>
