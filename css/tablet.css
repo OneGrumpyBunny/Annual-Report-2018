@@ -446,7 +446,7 @@
 		margin: 0;
 		margin-top: 1.5rem;
 		white-space: nowrap;
-		letter-spacing:calc(18px + (18 - 18) * ((100vw - 100px) / (1600 - 450)));
+		letter-spacing:calc(24px + (20 - 24) * ((100vw - 100px) / (1600 - 450)));
 		text-align:center;
 	}
 	.landingPage .stretch{
