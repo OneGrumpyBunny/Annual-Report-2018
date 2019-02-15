@@ -19,7 +19,7 @@ include $REL_DIR.$INCL_DIR."meta-thrive.php";
             <h1>Partnering with USAID to Increase Access to Electricity<br>in Sub-Saharan&nbsp;Africa</h1>
             <h2>Providing energy and development expertise to Power Africa&nbsp;initiative</h2>
             <!--<p class="light">RTI has been named a prime contractor on the U.S. Agency for International Development Power Africa contract. Power Africa seeks to increase the number of people with access to power across&nbsp;sub-Saharan&nbsp;Africa.</p>-->
-            <p class="light">As a prime contractor on the USAID Power Africa contract, RTI is implementing two new programs to expand affordable and reliable electricity services in sub-Saharan Africa: the East Africa Energy Program and the Power Africa Off-Grid Program (formerly the “Beyond the Grid Program”). These projects will contribute to Power Africa’s goal to double electricity access in the region by 2030.</p>
+            <p class="light">As a prime contractor on the USAID Power Africa Extension contract, RTI is implementing two new programs to expand affordable and reliable electricity services in sub-Saharan Africa: the East Africa Energy Program and the Power Africa Off-Grid Program (formerly the “Beyond the Grid Program”). These projects will contribute to Power Africa’s goal to double electricity access in the region by 2030.</p>
             <p class="readmore"><a href="https://www.rti.org/announcements/usaid-power-africa-selects-rti-lead-east-africa-energy-program" target="_blank">READ MORE</a></p>
         </div>
         <div>

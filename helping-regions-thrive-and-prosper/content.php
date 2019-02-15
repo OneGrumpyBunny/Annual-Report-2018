@@ -41,7 +41,7 @@
 					<p>Powering Africa's Journey to Self-Reliance</p><i class="fas fa-chevron-down crc-chevron" data-section="section4"></i>
 			</div>
 			<div id="section4" data-section="section4" class="acc-body">
-				<p>As a prime contractor on the USAID Power Africa contract, RTI is implementing two new programs to expand affordable and reliable electricity services in sub-Saharan Africa: the East Africa Energy Program and the Power Africa Off-Grid Program (formerly the “Beyond the Grid Program”). These projects will contribute to Power Africa’s goal to double electricity access in the region by 2030.</p>
+				<p>As a prime contractor on the USAID Power Africa Extension contract, RTI is implementing two new programs to expand affordable and reliable electricity services in sub-Saharan Africa: the East Africa Energy Program and the Power Africa Off-Grid Program (formerly the “Beyond the Grid Program”). These projects will contribute to Power Africa’s goal to double electricity access in the region by 2030.</p>
 				<p class="readmore"><a href="https://www.rti.org/announcements/usaid-power-africa-selects-rti-lead-east-africa-energy-program" target="_blank">Read More on RTI.org </a>
 				<button style="float:right;" class="crc-close4 close" data-section="section4"><!--<i class="fas fa-times"></i>-->Close</i></button></p>
 			</div>
