@@ -20,7 +20,7 @@
 			</div>
 
 			<div id="section2Head" class="acc-head" data-section="section2">
-				<p>Envisioning a World Without Tropical Diseases</p><i class="fas fa-chevron-down crc-chevron" data-section="section2"></i>
+				<p>Envisioning a World Without Neglected Tropical Diseases</p><i class="fas fa-chevron-down crc-chevron" data-section="section2"></i>
 			</div>
 			<div id="section2" data-section="section2" class="acc-body">
 				<p>One-sixth of the worldwide population—more than 1 billion people—suffers from one or more neglected tropical diseases. These diseases devastate the world’s most vulnerable populations, striking almost exclusively the poor and powerless people in rural areas and urban slums in low-income countries.</p>
@@ -97,7 +97,7 @@
 				<ul>
 					
 					<li><a href="protecting-against-hiv-and-pregnancy-with-one-device.php">Protecting Against HIV and Pregnancy with One Device</a></li>
-					<li><a href="envisioning-a-world-without-tropical-diseases.php">Envisioning a World Without Tropical Diseases</a></li>
+					<li><a href="envisioning-a-world-without-tropical-diseases.php">Envisioning a World Without Neglected Tropical Diseases</a></li>
 					<li><a href="stemming-chronic-diseases-with-product-taxes.php">Stemming Chronic Diseases with Product Taxes?</a></li>
 					<li><a href="speeding-treatment-times-for-heart-attacks.php">Speeding Treatment Times for Heart Attacks</a></li>
 					<li><a href="leveling-the-hiv-treatment-field.php">Leveling the HIV Treatment Field</a></li>
