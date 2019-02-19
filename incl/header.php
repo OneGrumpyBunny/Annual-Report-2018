@@ -14,6 +14,8 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="IE=EmulateIE9" />
+    
     <!-- <meta description="Annual Report 2018"> -->
 
     <link rel="shortcut icon" href="/2018/img/favicon.png" type="image/png" />
