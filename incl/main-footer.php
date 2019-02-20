@@ -1,3 +1,7 @@
+
+</div> <!-- end inner container -->
+
+</div> <!-- end container -->
 <div class="footer-text">
     <div class="text">
     <!--[if IE]>
@@ -15,9 +19,6 @@
     </div>
 </div>
 
-</div> <!-- end inner container -->
-
-</div> <!-- end container -->
 <script type="text/javascript">
 piAId = '252812';
 piCId = '13862';

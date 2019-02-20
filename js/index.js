@@ -3,13 +3,22 @@ function getIEVersion() {
     var match = navigator.userAgent.match(/(?:MSIE |Trident\/.*; rv:)(\d+)/);
     return match ? parseInt(match[1]) : undefined;
 }
-
+function quirks() {
+        if (document.compatMode == "BackCompat") {
+            document.getElementById('quirks').style.display = 'block';
+        }
+        if (getIEVersion() < 10) {
+            document.getElementById('oldIE').style.display = 'block';
+        }
+    }
 $(window).on("load", function() {
+    quirks() // display message for IE and quirks mode
+
     if (getIEVersion()) {
-        console.log("IE");
-        //do nothing because it's IE
+        // IE do not show animated background
+        
     } else {
-        console.log("Not IE");
+        //not IE proceed with animated background
         if ($(window).width() > 450) { // only show on desktop
             var animation = lottie.loadAnimation({
             container: document.getElementById('animBack'),
