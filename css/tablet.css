@@ -307,6 +307,7 @@
 		max-width: 1600px;
 		width: calc(60%);
 		margin-bottom: 1.5rem;
+		padding: 0 2rem;
 	}
 	.footer-text .text{
 		-webkit-box-flex: 0;
