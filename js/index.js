@@ -6,17 +6,20 @@ function getIEVersion() {
 function quirks() {
         if (document.compatMode == "BackCompat") {
             document.getElementById('quirks').style.display = 'block';
+            console.log("Quirks Mode");
         }
         if (getIEVersion() < 10) {
             document.getElementById('oldIE').style.display = 'block';
+            console.log("Old version of IE: " + getIEVersion());
         }
     }
 $(window).on("load", function() {
-    quirks() // display message for IE and quirks mode
+    
 
     if (getIEVersion()) {
         // IE do not show animated background
-        
+        quirks() // display message for IE and quirks mode
+
     } else {
         //not IE proceed with animated background
         if ($(window).width() > 450) { // only show on desktop

@@ -3,7 +3,8 @@
 <title>Keeping People Safe | RTI 2018 Annual Report</title>
 
 </head>
-<body class="safe-back"><!-- this is a message asking IE users to view the site in a different browser -->
+<body class="safe-back">
+<!-- this is a message asking IE users to view the site in a different browser -->
       
       <div id="oldIE" style = "display:none;position: absolute; top: 0; left: 0; background-color: #ffffff; padding: 0 2em;z-index:1000;">
 		   <p style= "text-align: center; font-size: 1.5 rem; color: #000;">
