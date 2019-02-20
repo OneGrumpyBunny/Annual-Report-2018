@@ -7,6 +7,6 @@
 <div class="container">
 		<div id="animBack"></div>
 		<div id="animBack2"></div>
-		<script type='text/javascript' src='../js/lottie.js'></script>
-		<script type='text/javascript' src='../js/index.js'></script>
+		<script type='text/javascript' src='js/lottie.js'></script>
+		<script type='text/javascript' src='js/index.js'></script>
 <img src="img/living-our-mission-back.png" class="sectionBack">
