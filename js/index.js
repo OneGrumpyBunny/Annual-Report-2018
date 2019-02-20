@@ -6,8 +6,10 @@ function getIEVersion() {
 
 $(window).on("load", function() {
     if (getIEVersion()) {
+        console.log("IE");
         //do nothing because it's IE
     } else {
+        console.log("Not IE");
         if ($(window).width() > 450) { // only show on desktop
             var animation = lottie.loadAnimation({
             container: document.getElementById('animBack'),
