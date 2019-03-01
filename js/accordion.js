@@ -81,18 +81,17 @@ $(window).scroll(function () {
   if ($(window).scrollTop() > 0) {
     $(".fixed-header").css("background","rgb(24, 37, 53)");
     var fromtop = $(window).scrollTop();
-    isSafari = !!navigator.userAgent.match(/Version\/[\d\.]+.*Safari/);
-    if (isSafari) {    
-      console.log("Is Safari");
+    if (navigator.userAgent.toLowerCase().match(/(ipad|iphone)/)) {
       $("#health_background_wrap").css({"background-position-y": fromtop+"px"});
       $("#about_background_wrap").css({"background-position-y": fromtop+"px"});
       $("#landing_background_wrap").css({"background-position-y": fromtop+"px"});
       $("#safe_background_wrap").css({"background-position-y": fromtop+"px"});
       $("#thrive_background_wrap").css({"background-position-y": fromtop+"px"});
       $("#planet_background_wrap").css({"background-position-y": fromtop+"px"});
-    } else {
-      console.log("Is not Safari");
-    }
+  } else {
+      console.log("is not safari");
+  }  
+      
   } else {
     $(".fixed-header").css("background","transparent");
   }
