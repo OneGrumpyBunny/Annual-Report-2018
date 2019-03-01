@@ -118,6 +118,7 @@
 	}
 	section {
 		z-index: 1;
+		background: none;
 		/*width: 82vw;*/
 
 	}
