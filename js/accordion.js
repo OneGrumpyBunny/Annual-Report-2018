@@ -80,7 +80,13 @@ $(document).ready(function() {
 $(window).scroll(function () {
   if ($(window).scrollTop() > 0) {
     $(".fixed-header").css("background","rgb(24, 37, 53)");
+    var fromtop = $(window).scrollTop();
+    $("#health_background_wrap").css({"background-position-y": fromtop+"px"});
   } else {
     $(".fixed-header").css("background","transparent");
   }
 });
+
+
+var fromtop = jQuery(window).scrollTop();
+		jQuery(" your element ").css({"background-position-y": fromtop+"px"});
