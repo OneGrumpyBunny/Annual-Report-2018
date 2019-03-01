@@ -16,6 +16,7 @@
 	}
 	.sectionBack {
 		display:none;
+		opacity:0;
 	}
 	.yellowlink {
 		color:#FFC629;
