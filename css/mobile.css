@@ -408,7 +408,7 @@
     background-position: bottom center;
     background-attachment: fixed;
 	}*/
-	#background_wrap {
+	#health_background_wrap {
 		background-image: url('../enhancing-health-through-science-and-practice/img/enhancing-health-back-mob.png');
     z-index: -1;
     position: fixed;
@@ -420,40 +420,100 @@
     background-position-y: 0px;
     background-attachment: fixed;
 	}
-	.landing-back {
+	/*.landing-back {
 		background: url('../img/background.png');
     height: 100vh;
     background-size: cover;
     background-position: bottom center;
     background-attachment: fixed;
+	}*/
+	#landing_background_wrap {
+		background-image: url('../img/background.png');
+    z-index: -1;
+    position: fixed;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 100%;
+    background-size: 100%;
+    background-position-y: 0px;
+    background-attachment: fixed;
 	}
 	
-	.safe-back {
+	/*.safe-back {
 		background: url('../keeping-people-safe/img/keeping-people-safe-back-mob.png');
     height: 100vh;
     background-size: cover;
     background-position: bottom center;
     background-attachment: fixed;
+	}*/
+	#safe_background_wrap {
+		background-image: url('../keeping-people-safe/img/keeping-people-safe-back-mob.png');
+    z-index: -1;
+    position: fixed;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 100%;
+    background-size: 100%;
+    background-position-y: 0px;
+    background-attachment: fixed;
 	}
-	.thrive-back {
+	/*.thrive-back {
 		background: url('../helping-regions-thrive-and-prosper/img/thrive-and-prosper-back-mob.png');
     height: 100vh;
     background-size: cover;
     background-position: bottom center;
     background-attachment: fixed;
+	}*/
+	#thrive_background_wrap {
+		background-image: url('../helping-regions-thrive-and-prosper/img/thrive-and-prosper-back-mob.png');
+    z-index: -1;
+    position: fixed;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 100%;
+    background-size: 100%;
+    background-position-y: 0px;
+    background-attachment: fixed;
 	}
-	.planet-back {
+	/*.planet-back {
 		background: url('../protecting-the-planet/img/protecting-the-planet-back-mob.png');
     height: 100vh;
     background-size: cover;
     background-position: bottom center;
     background-attachment: fixed;
+	}*/
+	#planet_background_wrap {
+		background-image: url('../protecting-the-planet/img/protecting-the-planet-back-mob.png');
+    z-index: -1;
+    position: fixed;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 100%;
+    background-size: 100%;
+    background-position-y: 0px;
+    background-attachment: fixed;
 	}
-	.about-back {
+	/*.about-back {
 		background: url('../about-rti/img/about-RTI-back-mob.png');
     height: 100vh;
 		background-size: cover;
     background-position: bottom center;
+    background-attachment: fixed;
+	}*/
+	#about_background_wrap {
+		background-image: url('../about-rti/img/about-RTI-back-mob.png');
+    z-index: -1;
+    position: fixed;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 100%;
+    background-size: 100%;
+    background-position-y: 0px;
     background-attachment: fixed;
 	}
 	#elt-list, #bog-list{

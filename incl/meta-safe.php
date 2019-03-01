@@ -4,6 +4,7 @@
 
 </head>
 <body class="safe-back">
+<div id="safe_background_wrap"></div>
 <div class="container">
 <div id="animBack"></div>
 <div id="animBack2"></div>

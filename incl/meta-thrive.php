@@ -4,6 +4,7 @@
 
 </head>
 <body class="thrive-back">
+<div id="thrive_background_wrap"></div>
 <div class="container">
 <div id="animBack"></div>
 <div id="animBack2"></div>

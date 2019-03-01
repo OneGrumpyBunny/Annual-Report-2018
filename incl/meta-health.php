@@ -4,7 +4,7 @@
 
 </head>
 <body class="enhancing-back">
-<div id="background_wrap"></div>
+<div id="health_background_wrap"></div>
 <div class="container">
 <div id="animBack"></div>
 <div id="animBack2"></div>
