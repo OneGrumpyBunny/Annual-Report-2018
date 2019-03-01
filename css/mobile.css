@@ -401,10 +401,23 @@
 		background-position: center;
 		
 	}
-	.enhancing-back {
+	/*.enhancing-back {
 		background: url('../enhancing-health-through-science-and-practice/img/enhancing-health-back-mob.png');
     height: 100vh;
     background-size: cover;
+    background-position: bottom center;
+    background-attachment: fixed;
+	}*/
+	#background_wrap {
+		z-index:-1;
+		background: url('../enhancing-health-through-science-and-practice/img/enhancing-health-back-mob.png');
+    z-index: -1;
+    position: fixed;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 100%;
+    background-size: 100%;
     background-position: bottom center;
     background-attachment: fixed;
 	}
