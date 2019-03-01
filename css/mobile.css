@@ -14,7 +14,7 @@
 	.navContainer {
 			display:none;
 	}
-	.sectionBack {
+	.sectionBack, .footer-text {
 		display:none;
 		opacity:0;
 	}
