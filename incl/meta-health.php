@@ -17,6 +17,7 @@
                 It looks like you have enabled Internet Explorer Compabitility View. The RTI Annual Report is optimized for browsers in standard mode. Please turn off compatibility view to maximize your browsing experience.
            </p>
       </div>
+<div id="health_background_wrap"></div>
 <div class="container">
 
 		<div id="animBack"></div>
