@@ -39,11 +39,13 @@ function toggleMenu () {
       $('.side-border').addClass('off');
      $(".fixed-header").css("opacity","0.2");
      $(".innerContainerMob").css("opacity","0.2");
+     $("section").css("opacity","0.2");
     } else{
       $('.side-line').removeClass('on');
       $('.side-border').removeClass('off');
      $(".fixed-header").css("opacity","1");
      $(".innerContainerMob").css("opacity","1");
+     $("section").css("opacity","1");
     }  
 }
 
