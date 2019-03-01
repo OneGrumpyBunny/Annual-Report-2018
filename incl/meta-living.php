@@ -17,6 +17,14 @@
                 It looks like you have enabled Internet Explorer Compabitility View. The RTI Annual Report is optimized for browsers in standard mode. Please turn off compatibility view to maximize your browsing experience.
            </p>
       </div>
+<div id="about_background_wrap"></div>
+<div class="container">
+<div id="animBack"></div>
+<div id="animBack2"></div>
+	
+	
+	<script type='text/javascript' src='../js/lottie.js'></script>
+	<script type='text/javascript' src='../js/index.js'></script>
 
 <div class="container">
 		<div id="animBack"></div>

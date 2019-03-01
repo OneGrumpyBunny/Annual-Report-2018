@@ -80,6 +80,18 @@ $(document).ready(function() {
 $(window).scroll(function () {
   if ($(window).scrollTop() > 0) {
     $(".fixed-header").css("background","rgb(24, 37, 53)");
+    var fromtop = $(window).scrollTop();
+    if (navigator.userAgent.toLowerCase().match(/(ipad|iphone)/)) {
+      $("#health_background_wrap").css({"background-position-y": "0px"});
+      $("#about_background_wrap").css({"background-position-y": "0px"});
+      $("#landing_background_wrap").css({"background-position-y": "0px"});
+      $("#safe_background_wrap").css({"background-position-y": "0px"});
+      $("#thrive_background_wrap").css({"background-position-y": "0px"});
+      $("#planet_background_wrap").css({"background-position-y": "0px"});
+  } else {
+      //console.log("is not safari");
+  }  
+      
   } else {
     $(".fixed-header").css("background","transparent");
   }
