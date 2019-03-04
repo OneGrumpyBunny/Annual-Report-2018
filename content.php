@@ -27,6 +27,7 @@
 					<span class="share">Share</span> <a href="https://twitter.com/home?status=Learn%20how%20%40RTI_Intl%20is%20living%20their%20mission%20by%20improving%20the%20human%20condition%20http%3A//annualreport.rti.org/2018" target="_blank"><i class="fab fa-twitter-square"></i></a>
 					<a href="https://www.linkedin.com/shareArticle?mini=true&url=http%3A//annualreport.rti.org/2018&title=RTI%20Annual%20Report%202018&summary=&source=" target="_blank"><i class="fab fa-linkedin"></i></a>
 					<a href="https://www.facebook.com/sharer/sharer.php?u=http%3A//annualreport.rti.org/2018" target="_blank"><i class="fab fa-facebook-square"></i></a>
+					<a href="mailto:?subject=2018%20RTI%20Annual%20Report&body=https://annualreport.rti.org/" target="_blank"><i class="fa fa-envelope"></i></a>
 				</div>
 			</div>
 		</div>
