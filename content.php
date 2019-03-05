@@ -28,6 +28,7 @@
 					<a href="https://www.linkedin.com/shareArticle?mini=true&url=http%3A//annualreport.rti.org/2018&title=RTI%20Annual%20Report%202018&summary=&source=" target="_blank"><i class="fab fa-linkedin"></i></a>
 					<a href="https://www.facebook.com/sharer/sharer.php?u=http%3A//annualreport.rti.org/2018" target="_blank"><i class="fab fa-facebook-square"></i></a>
 					<a href="mailto:?subject=2018%20RTI%20Annual%20Report&body=https://annualreport.rti.org/" target="_blank"><i class="fa fa-envelope"></i></a>
+					<div style="display:inline-block;" id="SMSLink"><a href="sms:?body=https://annualreport.rti.org/" target="_blank"><i class="far fa-comments"></i></a></div>
 				</div>
 			</div>
 		</div>

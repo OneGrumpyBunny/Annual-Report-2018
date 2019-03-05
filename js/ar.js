@@ -5,23 +5,25 @@
 /*        Produced for the RTI 2018 Annual Report        */
 /*             https://annualreport.rti.org/             */
 /*  **************************************************** */
+function detectmob() { 
+    if( navigator.userAgent.match(/Android/i)
+        ) {
+            $("#SMSLink").html('<a href="sms:?body=https://annualreport.rti.org/" target="_blank"><i class="far fa-comments"></i></a>');
+        }
+
+    if( navigator.userAgent.match(/iPhone/i)
+        || navigator.userAgent.match(/iPad/i)
+        || navigator.userAgent.match(/iPod/i)
+        ){
+            $("#SMSLink").html('<a href="sms:&body=https://annualreport.rti.org/" target="_blank"><i class="far fa-comments"></i></a>');
+    }
+}
 
 $(window).on("load",function() {
     menu();
     $('.side-border').css('animation','sliderIn 1s 0s 1');
 
-    /*$.urlParam = function (name) {
-        var results = new RegExp('[\?&]' + name + '=([^&#]*)')
-            .exec(window.location.search);
-        return (results !== null) ? results[1] || 0 : false;
-    }
-    
-    if($(".about-back").is(":visible") && $.urlParam('ex') == "y") {
-        expandThisID = "section1";
-        slideThis = "#section1Head";
-        chevron = $('i[data-section=section1');
-        toggleACC(chevron,expandThisID);   
-    }*/
+    detectmob();
 });
 
 $(window).on("resize",function() {
