@@ -56,7 +56,7 @@
 			</div>
 
 			<div id="section6Head" class="acc-head" data-section="section6">
-					<p>Teaching Kenya to Read</p><i class="fas fa-chevron-down crc-chevron" data-section="section6"></i>
+					<p>Supporting Kenya's Journey to Literacy</p><i class="fas fa-chevron-down crc-chevron" data-section="section6"></i>
 			</div>
 			<div id="section6" data-section="section6" class="acc-body">
 				<p>If you can dramatically improve educational outcomes in a school, can you do it across the district? How about across an entire country? How about across more than the 22,000 schools in Kenya that serve more than 3.3 million Grade 1–3 students?</p>
@@ -106,7 +106,7 @@
 					<li><a href="improving-vocational-training-in-indonesia.php">Improving Vocational Training in Indonesia</a></li>
 					<li><a href="powering-africas-journey-to-self-reliance.php">Powering Africa's Journey to Self-Reliance</a></li>
 					<li><a href="promoting-childhood-development-worldwide.php">Promoting Childhood Development Worldwide</a></li>
-					<li><a href="teaching-kenya-to-read.php">Teaching Kenya to Read</a></li>
+                	<li><a href="supporting-kenyas-journey-to-literacy.php">Supporting Kenya's Journey to Literacy</a></li>
 					<li><a href="spurring-somalian-growth-with-electric-sector-work.php">Spurring Somalian Growth with Electric Sector Work</a></li>
 					<li><a href="building-a-stronger-haiti.php">Building a Stronger Haiti</a></li>
 					<li><a href="training-usaid-staff-worldwide.php">Training USAID Staff Worldwide</a></li>
